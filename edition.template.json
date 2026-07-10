@@ -1,0 +1,79 @@
+{
+  "dateShort": "(auto — laissé au script publish.mjs, ex. \"9 juill.\")",
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "TITRE de l'actu phare du jour (une phrase forte)",
+    "dek": "Chapô d'une à deux phrases qui résume l'essentiel.",
+    "source": "Source · date (ex. Cass. crim., 8 juill. 2026)",
+    "url": "https://…lien-vers-l-article"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Titre de l'article",
+      "summary": "Résumé en UNE phrase.",
+      "source": "Source (ex. JORF n°157, 9 juill. 2026)",
+      "url": "https://…",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Titre de l'article",
+      "summary": "Résumé en UNE phrase.",
+      "source": "Source (ex. Cass. com., 2 juill. 2026)",
+      "url": "https://…",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Titre de l'article",
+      "summary": "Résumé en UNE phrase.",
+      "source": "Source (ex. Recueil Dalloz, chronique)",
+      "url": "https://…",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "Titre de l'article",
+      "summary": "Résumé en UNE phrase.",
+      "source": "Source",
+      "url": "https://…",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Titre de l'article",
+      "summary": "Résumé en UNE phrase.",
+      "source": "Source (ex. Conseil national des barreaux)",
+      "url": "https://…",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Titre d'une actu générale (hors justice)",
+      "summary": "Résumé en UNE phrase.",
+      "source": "Source (ex. Météo-France, AFP…)",
+      "url": "https://…",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Le terme juridique du jour",
+    "subtitle": "Domaine · référence (ex. Droit pénal · Article 122-6 du Code pénal)",
+    "defShort": "Définition courte affichée par défaut (une à deux phrases).",
+    "fiche": [
+      { "h": "En bref", "body": "…" },
+      { "h": "Fondement", "body": "…" },
+      { "h": "Cas visés", "body": "…" },
+      { "h": "Portée", "body": "…" }
+    ],
+    "seeAlso": "Voir aussi — termes liés (ex. légitime défense (art. 122-5) · état de nécessité (art. 122-7))"
+  }
+}
