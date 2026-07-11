@@ -64,28 +64,28 @@
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Droit de se taire",
-    "subtitle": "Procédure pénale et sanctions administratives · Article préliminaire, III, du Code de procédure pénale",
-    "defShort": "Prérogative reconnue à toute personne poursuivie ou entendue de ne pas répondre aux questions posées et de ne pas contribuer à sa propre incrimination.",
+    "term": "Critères Engel",
+    "subtitle": "Droit européen des droits de l'homme · CEDH, plén., 8 juin 1976, Engel et autres c. Pays-Bas, req. n° 5100/71",
+    "defShort": "Grille à trois branches par laquelle la Cour européenne détermine, de façon autonome et indépendamment des qualifications internes, si une procédure relève de la « matière pénale » et ouvre donc les garanties de l'article 6 de la Convention.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Corollaire de la présomption d'innocence, le droit de se taire garantit qu'aucune personne ne peut être contrainte de témoigner contre elle-même ou de s'avouer coupable, devant un juge pénal comme devant une autorité de sanction administrative."
+        "body": "Une sanction que le droit national qualifie d'administrative ou de disciplinaire peut être « pénale » au sens de la Convention. La Cour l'apprécie à l'aune de trois critères dégagés dans l'arrêt Engel, alternatifs et non nécessairement cumulatifs : dès qu'un seul est rempli, l'article 6 s'applique."
       },
       {
         "h": "Fondement",
-        "body": "Article préliminaire, III, du Code de procédure pénale ; article 6 § 1 de la Convention européenne des droits de l'homme, dont la jurisprudence a dégagé le principe nemo tenetur se ipsum accusare ; le Conseil constitutionnel en a progressivement étendu la portée aux procédures de sanction administrative (AMF, Autorité de la concurrence)."
+        "body": "CEDH, 8 juin 1976, Engel et autres c. Pays-Bas, §§ 82-83, sous l'article 6 § 1 de la Convention. Les trois critères sont : (1) la qualification juridique de l'infraction en droit interne ; (2) la nature même de l'infraction ; (3) la nature et le degré de sévérité de la sanction encourue."
       },
       {
         "h": "Cas visés",
-        "body": "Garde à vue et audition libre, procès pénal, procédures disciplinaires et de sanction devant les autorités de régulation, et notamment la notification des griefs dans une procédure de sanction de l'AMF."
+        "body": "Sanctions des autorités de régulation (AMF, Autorité de la concurrence), majorations fiscales, retraits de points du permis, sanctions disciplinaires lourdes : leur coloration pénale, révélée par les critères Engel, y importe les garanties du procès équitable — dont le droit de se taire et la présomption d'innocence."
       },
       {
         "h": "Portée",
-        "body": "La décision du Conseil constitutionnel du 10 juillet 2026 précise que la notification des griefs n'implique pas, par elle-même, une obligation d'informer systématiquement la personne poursuivie de son droit de se taire à ce stade de la procédure."
+        "body": "C'est parce que la sanction de l'AMF relève, par ces critères, de la matière pénale que la question du droit de se taire s'y posait devant le Conseil constitutionnel le 10 juillet 2026. Les critères Engel commandent ainsi, en amont, l'étendue des droits procéduraux applicables au répressif administratif."
       }
     ],
-    "seeAlso": "Voir aussi — présomption d'innocence · notification des griefs · procès équitable · garde à vue"
+    "seeAlso": "Voir aussi — matière pénale (sens autonome) · répressif administratif · procès équitable (art. 6 CEDH) · nemo tenetur se ipsum accusare"
   },
   "date": "2026-07-11",
   "dateShort": "11 juill."
