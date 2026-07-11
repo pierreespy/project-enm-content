@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-10",
-  "count": 2,
+  "updated": "2026-07-11",
+  "count": 3,
   "editions": [
+    {
+      "date": "2026-07-11",
+      "file": "editions/2026-07-11.json",
+      "essentiel": "Sanctions de l'AMF : le Conseil constitutionnel valide l'absence de notification systématique du droit de se taire",
+      "term": "Droit de se taire",
+      "rubriques": [
+        "La loi « fast fashion » entre en vigueur : jusqu'à 12 € de pénalité par vêtement ultra-express",
+        "Copropriété : un syndicat secondaire ne peut recouvrer les charges du syndicat principal sans mandat exprès",
+        "L'usage de l'IA a triplé chez les avocats français en deux ans, selon un premier baromètre 2026",
+        "Pourquoi le 14 juillet reste, dans l'imaginaire juridique, le symbole de la fin de l'arbitraire royal",
+        "Avocats : dernière ligne droite avant le 15 juillet pour déclarer vos émoluments 2025",
+        "L'inflation recule à 1,8 % sur un an en juin, portée par la chute des prix de l'énergie"
+      ]
+    },
     {
       "date": "2026-07-10",
       "file": "editions/2026-07-10.json",
