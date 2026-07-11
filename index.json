@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-10",
-  "count": 2,
+  "updated": "2026-07-11",
+  "count": 3,
   "editions": [
+    {
+      "date": "2026-07-11",
+      "file": "editions/2026-07-11.json",
+      "essentiel": "Un décret impose enfin des règles communes aux magistrats et à la fonction publique pour les absences familiales",
+      "term": "Administrateur provisoire (de copropriété)",
+      "rubriques": [
+        "La loi anti fast-fashion entre en vigueur",
+        "Un syndicat secondaire ne peut agir seul pour recouvrer les charges impayées du syndicat principal",
+        "Transport groupé : la Cour de cassation encadre le calcul de la responsabilité du commissionnaire",
+        "La grâce collective du 14 juillet, une tradition éteinte depuis 2008",
+        "Le CNB ouvre la voie à l'intégration des avocats dans ProConnect",
+        "Un quart des magasins Uniqlo en France fermés par la grève ce samedi"
+      ]
+    },
     {
       "date": "2026-07-10",
       "file": "editions/2026-07-10.json",
