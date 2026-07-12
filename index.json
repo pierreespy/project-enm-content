@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-11",
-  "count": 3,
+  "updated": "2026-07-12",
+  "count": 4,
   "editions": [
+    {
+      "date": "2026-07-12",
+      "file": "editions/2026-07-12.json",
+      "essentiel": "Accords de performance collective : la Cour de cassation borne les excès sans remettre en cause le dispositif",
+      "term": "Promesse de porte-fort",
+      "rubriques": [
+        "Un décret fixe les nouvelles règles de rémunération des collaborateurs de cabinet des collectivités territoriales",
+        "Travail dissimulé : la Cour de cassation censure le rejet trop hâtif de l'indemnisation par les juges du fond",
+        "Purge des nullités en procédure pénale : le Sénat tente de sauver un mécanisme suspendu",
+        "Balance, glaive et bandeau : ce que disent vraiment les symboles de la Justice",
+        "Les avocats bientôt intégrés à ProConnect : le CNB acte les modalités de déploiement",
+        "Wimbledon : Sinner et Zverev s'affrontent ce dimanche pour le titre"
+      ]
+    },
     {
       "date": "2026-07-11",
       "file": "editions/2026-07-11.json",
