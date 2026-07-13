@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-12",
-  "count": 4,
+  "updated": "2026-07-13",
+  "count": 5,
   "editions": [
+    {
+      "date": "2026-07-13",
+      "file": "editions/2026-07-13.json",
+      "essentiel": "Vivendi-Bolloré : sur renvoi après cassation, la cour d'appel de Paris exclut tout contrôle de fait de Vivendi",
+      "term": "Stellionat",
+      "rubriques": [
+        "Le Sénat adopte en première lecture le projet de loi « Relance du logement », avec un droit de veto motivé des maires",
+        "Harcèlement sexuel « d'ambiance » : la Cour de cassation retient la qualification même sans destinataire individualisé",
+        "Une thèse dissèque l'autonomie de la « raison impérative d'intérêt public majeur », clé des dérogations « espèces protégées »",
+        "Le dernier duel judiciaire officiel de l'histoire de France s'est tenu un 10 juillet, en 1547",
+        "Formation continue des avocats : le CNB soumet à concertation un projet de réforme du dispositif",
+        "14-Juillet 2026 : le défilé militaire placé sous le signe du « réveil stratégique de l'Europe »"
+      ]
+    },
     {
       "date": "2026-07-12",
       "file": "editions/2026-07-12.json",
