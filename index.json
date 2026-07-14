@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-13",
-  "count": 5,
+  "updated": "2026-07-14",
+  "count": 6,
   "editions": [
+    {
+      "date": "2026-07-14",
+      "file": "editions/2026-07-14.json",
+      "essentiel": "Marine Le Pen condamnée en appel dans l'affaire des assistants du RN, mais reste éligible en 2027",
+      "term": "Déchéance quadriennale",
+      "rubriques": [
+        "Un droit de douane européen de 3 € frappe désormais tous les petits colis extra-UE",
+        "La Cour de cassation étend le secret professionnel de l'avocat à son client partie civile",
+        "Le Contrôleur général des lieux de privation de liberté dénonce des « violences systémiques » à Condé-sur-Sarthe",
+        "« Ius est ars boni et aequi » : la définition du droit qui a traversé deux mille ans",
+        "Vacances judiciaires 2026 : le service allégé démarre le 16 juillet, les délais continuent de courir",
+        "Tour de France : Pogačar en quête de revanche au Lioran, un 14 juillet"
+      ]
+    },
     {
       "date": "2026-07-13",
       "file": "editions/2026-07-13.json",
