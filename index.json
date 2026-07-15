@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-14",
-  "count": 6,
+  "updated": "2026-07-15",
+  "count": 7,
   "editions": [
+    {
+      "date": "2026-07-15",
+      "file": "editions/2026-07-15.json",
+      "essentiel": "Fin de vie : l'Assemblée nationale scelle en dernier mot le droit à l'aide à mourir",
+      "term": "Obligation in solidum",
+      "rubriques": [
+        "Assistance éducative : la loi généralisant l'avocat de l'enfant est promulguée",
+        "Défilé du 14-Juillet : le Conseil d'État rétablit en référé le QR code obligatoire",
+        "La chronique de politique criminelle 2026 dresse le bilan d'une législation pénale toujours plus dense",
+        "Pourquoi il n'y a plus de grâces collectives du 14-Juillet depuis 2008",
+        "Aide juridictionnelle : ce que change la réforme 2026 pour les avocats",
+        "Livret A : la hausse du taux à 1,70 % officialisée pour le 1er août"
+      ]
+    },
     {
       "date": "2026-07-14",
       "file": "editions/2026-07-14.json",
