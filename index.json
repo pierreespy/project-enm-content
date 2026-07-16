@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-15",
-  "count": 7,
+  "updated": "2026-07-16",
+  "count": 8,
   "editions": [
+    {
+      "date": "2026-07-16",
+      "file": "editions/2026-07-16.json",
+      "essentiel": "Sécurité du quotidien : l'Assemblée nationale adopte largement le projet de loi « Ripost » contre rodéos, free parties et protoxyde d'azote",
+      "term": "Fongibilité asymétrique",
+      "rubriques": [
+        "Leasing social : le guichet des voitures électriques à moins de 200 €/mois rouvre le 16 juillet",
+        "Travail effectué pendant un arrêt maladie : pas d'indemnisation automatique si l'initiative vient du salarié",
+        "Écritures rédigées avec une IA générative : le juriste en reste juridiquement l'auteur, même en cas d'hallucination",
+        "Pourquoi le 12 juillet est devenu la journée nationale de commémoration de l'innocence d'Alfred Dreyfus",
+        "e-Barreau nouvelle version : le CNB invite les avocats à basculer dès cet été",
+        "Tour de France : la 12e étape relie pour la première fois le circuit de Magny-Cours à Chalon-sur-Saône"
+      ]
+    },
     {
       "date": "2026-07-15",
       "file": "editions/2026-07-15.json",
