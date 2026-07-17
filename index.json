@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-16",
-  "count": 8,
+  "updated": "2026-07-17",
+  "count": 9,
   "editions": [
+    {
+      "date": "2026-07-17",
+      "file": "editions/2026-07-17.json",
+      "essentiel": "Protection des enfants en danger : l'Assemblée nationale crée une « ordonnance de sûreté de l'enfant »",
+      "term": "Période suspecte",
+      "rubriques": [
+        "Rachat de SFR : la Commission européenne renvoie le dossier à l'Autorité de la concurrence française",
+        "Représentativité syndicale : une différence de traitement peut reposer sur ce seul critère",
+        "Le Défenseur des droits sous le regard de la Cour des comptes : activité en forte hausse, gestion critiquée",
+        "17 juillet : pourquoi cette date est devenue la Journée internationale de la justice pénale",
+        "RGPD : la CNIL a déjà prononcé 23 sanctions simplifiées depuis janvier",
+        "Défaillances d'entreprises : un niveau record au premier semestre 2026"
+      ]
+    },
     {
       "date": "2026-07-16",
       "file": "editions/2026-07-16.json",
