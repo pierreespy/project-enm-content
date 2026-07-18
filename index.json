@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-17",
-  "count": 9,
+  "updated": "2026-07-18",
+  "count": 10,
   "editions": [
+    {
+      "date": "2026-07-18",
+      "file": "editions/2026-07-18.json",
+      "essentiel": "Affaire Athanor : la cour d'assises de Paris condamne les commanditaires du système criminel adossé à une loge maçonnique à 25 et 30 ans de réclusion",
+      "term": "Forclusion",
+      "rubriques": [
+        "Aide à mourir : le Premier ministre saisit le Conseil constitutionnel sur trois points clés",
+        "Perquisition au cabinet d'avocat : la Cour de cassation verrouille l'appréciation du secret professionnel",
+        "« Qui finance l'intérêt général ? » : le Sénat formule 32 préconisations contre l'opacité des financements privés",
+        "18 juillet 1898 : pourquoi Zola a fui Paris au lendemain de sa condamnation dans l'affaire Dreyfus",
+        "Secret professionnel : le CNB s'alarme des travaux de l'Autorité européenne anti-blanchiment",
+        "Canicule : dix départements du Sud-Est et de la Corse en vigilance orange ce 17 juillet"
+      ]
+    },
     {
       "date": "2026-07-17",
       "file": "editions/2026-07-17.json",
