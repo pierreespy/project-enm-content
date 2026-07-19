@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-18",
-  "count": 10,
+  "updated": "2026-07-19",
+  "count": 11,
   "editions": [
+    {
+      "date": "2026-07-19",
+      "file": "editions/2026-07-19.json",
+      "essentiel": "L'Assemblée nationale vote l'imprescriptibilité des crimes commis sur les mineurs",
+      "term": "Cristallisation des moyens",
+      "rubriques": [
+        "Travailleurs des plateformes : un représentant syndical supplémentaire par organisation",
+        "Déclaration d'appel : le rappel des prétentions de première instance ne vaut pas désignation des chefs critiqués",
+        "L'enquête interne, outil clé — mais encadré — de traitement des risques psychosociaux",
+        "19 juillet 1791 : le décret qui a inventé la police correctionnelle française",
+        "Facturation électronique : le CNB prépare les avocats à l'échéance du 1er septembre 2026",
+        "Tour de France : Pogačar s'impose au Markstein pour sa 25e victoire d'étape"
+      ]
+    },
     {
       "date": "2026-07-18",
       "file": "editions/2026-07-18.json",
