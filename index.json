@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-19",
-  "count": 11,
+  "updated": "2026-07-20",
+  "count": 12,
   "editions": [
+    {
+      "date": "2026-07-20",
+      "file": "editions/2026-07-20.json",
+      "essentiel": "Sanctions antidopage en ligne : la CJUE encadre leur publication au nom du RGPD",
+      "term": "Astreinte comminatoire",
+      "rubriques": [
+        "Asile à la frontière : la CNDA impose la dématérialisation des recours des avocats, sous peine d'irrecevabilité",
+        "Vidéosurveillance algorithmique aux abords des écoles : le Conseil d'État confirme l'absence de base légale",
+        "Répression des abus de marché : dix ans après la loi sur l'« aiguillage », vers une intégration des moyens AMF-parquet",
+        "20 juillet 2000 : le jour où le Conseil constitutionnel a rattaché le droit de chasse au droit de propriété",
+        "RPVA : une anomalie perturbe depuis le 17 juillet les accusés de réception aux tribunaux et cours d'appel",
+        "Tour de France : Vingegaard abandonne après une chute, jour de repos avant le contre-la-montre"
+      ]
+    },
     {
       "date": "2026-07-19",
       "file": "editions/2026-07-19.json",
