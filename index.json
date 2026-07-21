@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-20",
-  "count": 12,
+  "updated": "2026-07-21",
+  "count": 13,
   "editions": [
+    {
+      "date": "2026-07-21",
+      "file": "editions/2026-07-21.json",
+      "essentiel": "Blocage anti-piratage : le Conseil d'État juge que Cloudflare doit s'exécuter comme un fournisseur d'accès",
+      "term": "Quasi-usufruit",
+      "rubriques": [
+        "L'Assemblée nationale adopte définitivement la proposition de loi « pour une montagne vivante et souveraine »",
+        "Fermeture administrative d'un établissement : le Conseil d'État trace la frontière de ce que le consentement ne peut jamais couvrir",
+        "Faute de la victime et dommage corporel : un revirement de l'assemblée plénière, mais limité",
+        "21 juillet 1881 : le jour où la Chambre des députés a scellé la liberté de la presse française",
+        "Convention nationale des avocats 2026 : la profession se donne rendez-vous à Toulouse, Albi et Montauban",
+        "Soldes d'été 2026 : la fin, initialement prévue ce 21 juillet, a été reportée d'une semaine à cause de la canicule"
+      ]
+    },
     {
       "date": "2026-07-20",
       "file": "editions/2026-07-20.json",
