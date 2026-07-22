@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-21",
-  "count": 13,
+  "updated": "2026-07-22",
+  "count": 14,
   "editions": [
+    {
+      "date": "2026-07-22",
+      "file": "editions/2026-07-22.json",
+      "essentiel": "Réseaux sociaux : le Parlement interdit leur accès aux mineurs de moins de 15 ans à partir du 1er septembre 2026",
+      "term": "Réputé non écrit",
+      "rubriques": [
+        "Un décret facilite le dépôt de plainte pour les professionnels de santé victimes de violences",
+        "Affaire des écoutes « Bismuth » : la CEDH juge recevable le recours de Nicolas Sarkozy",
+        "Réseaux sociaux : pourquoi l'interdiction aux moins de 15 ans ne pourra pas s'appliquer dès la rentrée",
+        "22 juillet 1980 : le jour où le Conseil constitutionnel a érigé l'indépendance de la justice administrative en principe à valeur constitutionnelle",
+        "Le Barreau de Paris ouvre à tous les avocats de France sa solution de gestion de cabinet Themisia",
+        "Tour de France : la 17e étape emmène le peloton de Chambéry à Voiron"
+      ]
+    },
     {
       "date": "2026-07-21",
       "file": "editions/2026-07-21.json",
