@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-22",
-  "count": 14,
+  "updated": "2026-07-23",
+  "count": 15,
   "editions": [
+    {
+      "date": "2026-07-23",
+      "file": "editions/2026-07-23.json",
+      "essentiel": "Ingérences électorales : le gouvernement présente un projet de loi pour durcir les sanctions et créer une commission de vigilance",
+      "term": "Fraude paulienne",
+      "rubriques": [
+        "Clause résolutoire obligatoire : le nouveau contrat type de location entre en vigueur le 1er octobre",
+        "Logement social : le Conseil d'État confirme l'amende de 1,8 million d'euros infligée à l'OPH Rives de Seine Habitat",
+        "La Cour des comptes dénonce l'opacité du régime disciplinaire dans la police et la gendarmerie",
+        "23 juillet 2008 : le jour où la révision constitutionnelle a fait naître la question prioritaire de constitutionnalité",
+        "Formation continue des avocats : le CNB soumet à concertation un avant-projet intégrant l'IA",
+        "Canicule : 18 départements du Sud et de la Corse en vigilance jaune"
+      ]
+    },
     {
       "date": "2026-07-22",
       "file": "editions/2026-07-22.json",
