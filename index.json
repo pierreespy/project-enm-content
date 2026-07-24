@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-23",
-  "count": 15,
+  "updated": "2026-07-24",
+  "count": 16,
   "editions": [
+    {
+      "date": "2026-07-24",
+      "file": "editions/2026-07-24.json",
+      "essentiel": "Rétention de sûreté terroriste : le Conseil constitutionnel valide le dispositif, sous réserve de non-rétroactivité",
+      "term": "Rescision pour lésion",
+      "rubriques": [
+        "Convergence sociale à Mayotte : une ordonnance enclenche l'alignement des droits sociaux jusqu'en 2036",
+        "Cour criminelle départementale : le Conseil constitutionnel valide le nouveau régime d'appel limité aux peines",
+        "Une thèse lyonnaise interroge l'équilibre entre protection et autonomie des majeurs handicapés en établissement médico-social",
+        "24 juillet 1967 : le jour où de Gaulle a ébranlé depuis un balcon montréalais le principe de non-ingérence",
+        "Conseil d'État : Christine Maugüé prend la tête de la section du contentieux à compter du 9 août",
+        "Tour de France : la 19e étape s'achève sur les 21 lacets mythiques de l'Alpe d'Huez"
+      ]
+    },
     {
       "date": "2026-07-23",
       "file": "editions/2026-07-23.json",
