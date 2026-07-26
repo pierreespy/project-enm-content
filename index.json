@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-07-26",
+      "file": "editions/2026-07-26.json",
+      "essentiel": "Défenseur des droits : la nomination contestée de François-Noël Buffet entre en fonction",
+      "term": "Action de concert",
+      "rubriques": [
+        "Fraude aux aides publiques : un décret précise les pouvoirs de contrôle des organismes payeurs",
+        "Comité social et économique : tous les élus ont un droit d'accès égal aux archives et documents comptables",
+        "Titres de séjour : le Défenseur des droits alerte sur l'explosion des délais d'instruction en préfecture",
+        "26 juillet 1956 : le jour où la nationalisation du canal de Suez a ébranlé le droit international des traités",
+        "Portalis : le CNB réclame une interconnexion urgente avec e-Barreau",
+        "Tour de France 2026 : dernier sacre ce dimanche sur les Champs-Élysées"
+      ]
+    },
     {
       "date": "2026-07-25",
       "file": "editions/2026-07-25.json",
@@ -210,20 +224,6 @@
         "Pourquoi le 14 juillet reste, dans l'imaginaire juridique, le symbole de la fin de l'arbitraire royal",
         "Avocats : dernière ligne droite avant le 15 juillet pour déclarer vos émoluments 2025",
         "L'inflation recule à 1,8 % sur un an en juin, portée par la chute des prix de l'énergie"
-      ]
-    },
-    {
-      "date": "2026-07-10",
-      "file": "editions/2026-07-10.json",
-      "essentiel": "GPA à l'étranger : l'assemblée plénière impose la reconnaissance de la filiation par exequatur",
-      "term": "Exequatur",
-      "rubriques": [
-        "Le fichier LRPPN de la police nationale voit son périmètre élargi",
-        "Licenciement de moins de dix salariés : le délai d'un mois du CSE ne se suspend pas",
-        "Le paquet « Digital Omnibus » reporte les obligations de l'AI Act pour la justice",
-        "Restitutions culturelles : le droit peut-il réparer l'histoire ?",
-        "Contribution pour l'aide juridique : les 50 € à intégrer dès l'introduction d'instance",
-        "Le Crédit Agricole lance sa propre alternative à Apple Pay sur iPhone"
       ]
     }
   ]
