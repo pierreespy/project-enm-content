@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-07-27",
+      "file": "editions/2026-07-27.json",
+      "essentiel": "Cryptoactifs : la fin du régime transitoire PSAN impose pleinement le règlement européen MiCA au marché français",
+      "term": "Ultra petita",
+      "rubriques": [
+        "Congé supplémentaire de naissance : le nouveau droit à un à deux mois indemnisés entre en vigueur",
+        "Définition pénale du viol : la Cour de cassation exclut toute application rétroactive de la loi sur le consentement",
+        "Contrôleurs aériens : la Cour des comptes va jusqu'à questionner leur statut de fonctionnaire",
+        "27 juillet 1884 : le jour où la loi Naquet a rétabli le divorce en France",
+        "Une tentative d'hameçonnage usurpant l'identité du Conseil national des barreaux cible les avocats",
+        "Canicule : une quatrième vague de chaleur pourrait porter le mercure jusqu'à 42 °C dès mercredi"
+      ]
+    },
     {
       "date": "2026-07-26",
       "file": "editions/2026-07-26.json",
@@ -210,20 +224,6 @@
         "Balance, glaive et bandeau : ce que disent vraiment les symboles de la Justice",
         "Les avocats bientôt intégrés à ProConnect : le CNB acte les modalités de déploiement",
         "Wimbledon : Sinner et Zverev s'affrontent ce dimanche pour le titre"
-      ]
-    },
-    {
-      "date": "2026-07-11",
-      "file": "editions/2026-07-11.json",
-      "essentiel": "Sanctions de l'AMF : le Conseil constitutionnel valide l'absence de notification systématique du droit de se taire",
-      "term": "Critères Engel",
-      "rubriques": [
-        "La loi « fast fashion » entre en vigueur : jusqu'à 12 € de pénalité par vêtement ultra-express",
-        "Copropriété : un syndicat secondaire ne peut recouvrer les charges du syndicat principal sans mandat exprès",
-        "L'usage de l'IA a triplé chez les avocats français en deux ans, selon un premier baromètre 2026",
-        "Pourquoi le 14 juillet reste, dans l'imaginaire juridique, le symbole de la fin de l'arbitraire royal",
-        "Avocats : dernière ligne droite avant le 15 juillet pour déclarer vos émoluments 2025",
-        "L'inflation recule à 1,8 % sur un an en juin, portée par la chute des prix de l'énergie"
       ]
     }
   ]
