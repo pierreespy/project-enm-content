@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-07-28",
+      "file": "editions/2026-07-28.json",
+      "essentiel": "Climat : le gouvernement fixe par décret les budgets carbone nationaux jusqu'en 2038 et adopte la SNBC 3",
+      "term": "Anatocisme",
+      "rubriques": [
+        "Démarchage téléphonique commercial : le consentement préalable du consommateur devient obligatoire",
+        "Négociation de la convention collective unique du secteur social : la Cour de cassation impose le principe de concordance",
+        "Inceste parental : la commission d'enquête de l'Assemblée nationale dénonce un « crime de masse » et formule 49 recommandations",
+        "28 juillet 1794 : le jour où Robespierre a été guillotiné sans procès",
+        "Secret professionnel : le CNB s'inquiète des normes de l'Autorité européenne anti-blanchiment et acte l'arrivée des avocats sur ProConnect",
+        "Pyrénées-Orientales : après l'incendie de Trévillach, les agriculteurs érigent un rempart végétal contre les flammes"
+      ]
+    },
     {
       "date": "2026-07-27",
       "file": "editions/2026-07-27.json",
@@ -210,20 +224,6 @@
         "Le dernier duel judiciaire officiel de l'histoire de France s'est tenu un 10 juillet, en 1547",
         "Formation continue des avocats : le CNB soumet à concertation un projet de réforme du dispositif",
         "14-Juillet 2026 : le défilé militaire placé sous le signe du « réveil stratégique de l'Europe »"
-      ]
-    },
-    {
-      "date": "2026-07-12",
-      "file": "editions/2026-07-12.json",
-      "essentiel": "Accords de performance collective : la Cour de cassation borne les excès sans remettre en cause le dispositif",
-      "term": "Promesse de porte-fort",
-      "rubriques": [
-        "Un décret fixe les nouvelles règles de rémunération des collaborateurs de cabinet des collectivités territoriales",
-        "Travail dissimulé : la Cour de cassation censure le rejet trop hâtif de l'indemnisation par les juges du fond",
-        "Purge des nullités en procédure pénale : le Sénat tente de sauver un mécanisme suspendu",
-        "Balance, glaive et bandeau : ce que disent vraiment les symboles de la Justice",
-        "Les avocats bientôt intégrés à ProConnect : le CNB acte les modalités de déploiement",
-        "Wimbledon : Sinner et Zverev s'affrontent ce dimanche pour le titre"
       ]
     }
   ]
