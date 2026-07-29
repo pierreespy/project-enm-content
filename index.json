@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-07-29",
+      "file": "editions/2026-07-29.json",
+      "essentiel": "Simplification territoriale : un décret allège huit codes de normes applicables aux collectivités et à leurs groupements",
+      "term": "Renvoi",
+      "rubriques": [
+        "Exploitations agricoles en difficulté : un décret assouplit les conditions d'attribution des aides au redressement",
+        "Vente entre professionnels : le vendeur n'est pas tenu d'un devoir de conseil renforcé envers un acheteur compétent",
+        "Une thèse lyonnaise redéfinit les contours de l'aliénation fiduciaire en droit civil",
+        "29 juillet 1899 : le jour où la Haye a posé les premières règles écrites du droit de la guerre",
+        "Intelligence artificielle : le Barreau de Paris met un modèle de charte à la disposition des cabinets",
+        "Canicule et pollution à l'ozone : le stationnement résidentiel redevient gratuit à Paris ce 29 juillet"
+      ]
+    },
     {
       "date": "2026-07-28",
       "file": "editions/2026-07-28.json",
@@ -210,20 +224,6 @@
         "« Ius est ars boni et aequi » : la définition du droit qui a traversé deux mille ans",
         "Vacances judiciaires 2026 : le service allégé démarre le 16 juillet, les délais continuent de courir",
         "Tour de France : Pogačar en quête de revanche au Lioran, un 14 juillet"
-      ]
-    },
-    {
-      "date": "2026-07-13",
-      "file": "editions/2026-07-13.json",
-      "essentiel": "Vivendi-Bolloré : sur renvoi après cassation, la cour d'appel de Paris exclut tout contrôle de fait de Vivendi",
-      "term": "Stellionat",
-      "rubriques": [
-        "Le Sénat adopte en première lecture le projet de loi « Relance du logement », avec un droit de veto motivé des maires",
-        "Harcèlement sexuel « d'ambiance » : la Cour de cassation retient la qualification même sans destinataire individualisé",
-        "Une thèse dissèque l'autonomie de la « raison impérative d'intérêt public majeur », clé des dérogations « espèces protégées »",
-        "Le dernier duel judiciaire officiel de l'histoire de France s'est tenu un 10 juillet, en 1547",
-        "Formation continue des avocats : le CNB soumet à concertation un projet de réforme du dispositif",
-        "14-Juillet 2026 : le défilé militaire placé sous le signe du « réveil stratégique de l'Europe »"
       ]
     }
   ]
