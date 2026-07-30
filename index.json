@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-07-30",
+      "file": "editions/2026-07-30.json",
+      "essentiel": "Procédure civile : le décret « Magicobus III » réorganise l'administration judiciaire de la preuve et relance les modes amiables",
+      "term": "Stellionat",
+      "rubriques": [
+        "Fonction publique : le livre IV réglementaire sur le télétravail et la formation entre en vigueur le 1er août",
+        "Droits syndicaux : un accord d'entreprise peut réserver certains avantages aux seuls syndicats représentatifs",
+        "Une thèse lilloise repense le régime juridique des invendus à l'aune de l'économie circulaire",
+        "30 juillet 1830 : le jour où une proclamation placardée dans Paris a fait basculer la monarchie française",
+        "Collaboration entre avocats : le RIN impose désormais l'écrit et structure l'entretien annuel",
+        "SNCF : dernier jour d'une vente flash de 150 000 billets TGV Inoui à petit prix"
+      ]
+    },
     {
       "date": "2026-07-29",
       "file": "editions/2026-07-29.json",
@@ -210,20 +224,6 @@
         "Pourquoi il n'y a plus de grâces collectives du 14-Juillet depuis 2008",
         "Aide juridictionnelle : ce que change la réforme 2026 pour les avocats",
         "Livret A : la hausse du taux à 1,70 % officialisée pour le 1er août"
-      ]
-    },
-    {
-      "date": "2026-07-14",
-      "file": "editions/2026-07-14.json",
-      "essentiel": "Marine Le Pen condamnée en appel dans l'affaire des assistants du RN, mais reste éligible en 2027",
-      "term": "Déchéance quadriennale",
-      "rubriques": [
-        "Un droit de douane européen de 3 € frappe désormais tous les petits colis extra-UE",
-        "La Cour de cassation étend le secret professionnel de l'avocat à son client partie civile",
-        "Le Contrôleur général des lieux de privation de liberté dénonce des « violences systémiques » à Condé-sur-Sarthe",
-        "« Ius est ars boni et aequi » : la définition du droit qui a traversé deux mille ans",
-        "Vacances judiciaires 2026 : le service allégé démarre le 16 juillet, les délais continuent de courir",
-        "Tour de France : Pogačar en quête de revanche au Lioran, un 14 juillet"
       ]
     }
   ]
