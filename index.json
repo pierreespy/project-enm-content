@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-01",
+      "file": "editions/2026-08-01.json",
+      "essentiel": "Rapatriement des Français de Syrie : le Conseil d'État, réuni en Assemblée, résiste en partie à la Cour de Strasbourg",
+      "term": "Obligation in solidum",
+      "rubriques": [
+        "Immatriculation des véhicules : le durcissement de l'habilitation SIV s'impose aux professionnels dès le 1er août",
+        "Compétence internationale : le seul lieu de matérialisation du dommage suffit à fonder la compétence du juge français",
+        "Une thèse nantaise interroge la réhabilitation judiciaire comme figure du pardon dans l'imaginaire pénal",
+        "1er août 1793 : le jour où la Convention a décrété la destruction de la Vendée insurgée",
+        "CRFPA : les épreuves écrites d'admissibilité 2026 fixées aux 1er, 2 et 3 septembre",
+        "Culture : la Bourse de Commerce ouvre gratuitement ses portes en nocturne ce 1er août"
+      ]
+    },
     {
       "date": "2026-07-31",
       "file": "editions/2026-07-31.json",
@@ -210,20 +224,6 @@
         "17 juillet : pourquoi cette date est devenue la Journée internationale de la justice pénale",
         "RGPD : la CNIL a déjà prononcé 23 sanctions simplifiées depuis janvier",
         "Défaillances d'entreprises : un niveau record au premier semestre 2026"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "file": "editions/2026-07-16.json",
-      "essentiel": "Sécurité du quotidien : l'Assemblée nationale adopte largement le projet de loi « Ripost » contre rodéos, free parties et protoxyde d'azote",
-      "term": "Fongibilité asymétrique",
-      "rubriques": [
-        "Leasing social : le guichet des voitures électriques à moins de 200 €/mois rouvre le 16 juillet",
-        "Travail effectué pendant un arrêt maladie : pas d'indemnisation automatique si l'initiative vient du salarié",
-        "Écritures rédigées avec une IA générative : le juriste en reste juridiquement l'auteur, même en cas d'hallucination",
-        "Pourquoi le 12 juillet est devenu la journée nationale de commémoration de l'innocence d'Alfred Dreyfus",
-        "e-Barreau nouvelle version : le CNB invite les avocats à basculer dès cet été",
-        "Tour de France : la 12e étape relie pour la première fois le circuit de Magny-Cours à Chalon-sur-Saône"
       ]
     }
   ]
