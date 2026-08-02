@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-02",
+      "file": "editions/2026-08-02.json",
+      "essentiel": "Sachets de nicotine : le Conseil d'État renvoie l'interdiction française à la Cour de justice de l'Union européenne",
+      "term": "Déchéance quadriennale",
+      "rubriques": [
+        "Bisphénol A : un décret restreint son usage dans les matériaux destinés au contact alimentaire",
+        "Permis de construire tacite : son retrait le fait disparaître rétroactivement, même postérieur au refus de délivrer un certificat",
+        "Une thèse aixoise interroge le régime de l'information échangée entre le contribuable et l'administration fiscale",
+        "2 août 1940 : le jour où un tribunal militaire de Vichy a condamné à mort le colonel de Gaulle par contumace",
+        "Concours de la magistrature : les candidats admissibles ont jusqu'au 11 août pour déposer leur dossier avant les oraux",
+        "Esport : les Champs-Élysées se transforment en plus grand terrain de jeu de France ce 2 août"
+      ]
+    },
     {
       "date": "2026-08-01",
       "file": "editions/2026-08-01.json",
@@ -210,20 +224,6 @@
         "18 juillet 1898 : pourquoi Zola a fui Paris au lendemain de sa condamnation dans l'affaire Dreyfus",
         "Secret professionnel : le CNB s'alarme des travaux de l'Autorité européenne anti-blanchiment",
         "Canicule : dix départements du Sud-Est et de la Corse en vigilance orange ce 17 juillet"
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "file": "editions/2026-07-17.json",
-      "essentiel": "Protection des enfants en danger : l'Assemblée nationale crée une « ordonnance de sûreté de l'enfant »",
-      "term": "Période suspecte",
-      "rubriques": [
-        "Rachat de SFR : la Commission européenne renvoie le dossier à l'Autorité de la concurrence française",
-        "Représentativité syndicale : une différence de traitement peut reposer sur ce seul critère",
-        "Le Défenseur des droits sous le regard de la Cour des comptes : activité en forte hausse, gestion critiquée",
-        "17 juillet : pourquoi cette date est devenue la Journée internationale de la justice pénale",
-        "RGPD : la CNIL a déjà prononcé 23 sanctions simplifiées depuis janvier",
-        "Défaillances d'entreprises : un niveau record au premier semestre 2026"
       ]
     }
   ]
