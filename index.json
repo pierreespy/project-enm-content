@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-03",
+      "file": "editions/2026-08-03.json",
+      "essentiel": "Fiscalité des avocats : le Conseil constitutionnel censure l'exonération de CFE réservée aux professionnels formés « à la française »",
+      "term": "Substitution de motifs",
+      "rubriques": [
+        "Police de l'environnement : les inspecteurs de l'Office français de la biodiversité pourront porter des caméras individuelles",
+        "Intégration directe dans la magistrature : le Conseil d'État durcit son contrôle de l'expérience professionnelle exigée des candidats",
+        "Une thèse soutenue à l'ENS interroge la justice musulmane dans le Sénégal colonial, entre autonomie savante et emprise coloniale",
+        "3 août 1914 : le jour où l'Allemagne a déclaré la guerre à la France, faisant basculer l'Europe dans le droit des conflits armés",
+        "État de droit : la conférence annuelle de l'European Law Institute réunira juristes, magistrats et avocats à Paris du 2 au 4 septembre",
+        "Chassé-croisé estival : la fin d'un des week-ends les plus chargés de l'été sur les routes de France ce 3 août"
+      ]
+    },
     {
       "date": "2026-08-02",
       "file": "editions/2026-08-02.json",
@@ -210,20 +224,6 @@
         "19 juillet 1791 : le décret qui a inventé la police correctionnelle française",
         "Facturation électronique : le CNB prépare les avocats à l'échéance du 1er septembre 2026",
         "Tour de France : Pogačar s'impose au Markstein pour sa 25e victoire d'étape"
-      ]
-    },
-    {
-      "date": "2026-07-18",
-      "file": "editions/2026-07-18.json",
-      "essentiel": "Affaire Athanor : la cour d'assises de Paris condamne les commanditaires du système criminel adossé à une loge maçonnique à 25 et 30 ans de réclusion",
-      "term": "Forclusion",
-      "rubriques": [
-        "Aide à mourir : le Premier ministre saisit le Conseil constitutionnel sur trois points clés",
-        "Perquisition au cabinet d'avocat : la Cour de cassation verrouille l'appréciation du secret professionnel",
-        "« Qui finance l'intérêt général ? » : le Sénat formule 32 préconisations contre l'opacité des financements privés",
-        "18 juillet 1898 : pourquoi Zola a fui Paris au lendemain de sa condamnation dans l'affaire Dreyfus",
-        "Secret professionnel : le CNB s'alarme des travaux de l'Autorité européenne anti-blanchiment",
-        "Canicule : dix départements du Sud-Est et de la Corse en vigilance orange ce 17 juillet"
       ]
     }
   ]
