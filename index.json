@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-04",
+      "file": "editions/2026-08-04.json",
+      "essentiel": "Expulsion de l'ex-présidente de RT France : le tribunal administratif de Paris rejette le référé-liberté de Xenia Fedorova",
+      "term": "Fongibilité asymétrique",
+      "rubriques": [
+        "Cour nationale du droit d'asile : un décret organise ses nouvelles chambres territoriales",
+        "Taxe de séjour non collectée : le Conseil constitutionnel valide l'amende plancher infligée à Airbnb pour l'Île d'Oléron",
+        "Financement de l'intérêt général : le Sénat formule 32 recommandations pour encadrer l'influence des acteurs privés",
+        "4 août 1789 : le jour où l'Assemblée constituante a aboli les privilèges et les droits féodaux",
+        "Justice pénale numérique : 70 tribunaux judiciaires certifiés en 2026, dont celui de Grasse",
+        "SNCF : une grève surprise à Saint-Lazare a fortement perturbé le trafic Paris-Normandie"
+      ]
+    },
     {
       "date": "2026-08-03",
       "file": "editions/2026-08-03.json",
@@ -210,20 +224,6 @@
         "20 juillet 2000 : le jour où le Conseil constitutionnel a rattaché le droit de chasse au droit de propriété",
         "RPVA : une anomalie perturbe depuis le 17 juillet les accusés de réception aux tribunaux et cours d'appel",
         "Tour de France : Vingegaard abandonne après une chute, jour de repos avant le contre-la-montre"
-      ]
-    },
-    {
-      "date": "2026-07-19",
-      "file": "editions/2026-07-19.json",
-      "essentiel": "L'Assemblée nationale vote l'imprescriptibilité des crimes commis sur les mineurs",
-      "term": "Cristallisation des moyens",
-      "rubriques": [
-        "Travailleurs des plateformes : un représentant syndical supplémentaire par organisation",
-        "Déclaration d'appel : le rappel des prétentions de première instance ne vaut pas désignation des chefs critiqués",
-        "L'enquête interne, outil clé — mais encadré — de traitement des risques psychosociaux",
-        "19 juillet 1791 : le décret qui a inventé la police correctionnelle française",
-        "Facturation électronique : le CNB prépare les avocats à l'échéance du 1er septembre 2026",
-        "Tour de France : Pogačar s'impose au Markstein pour sa 25e victoire d'étape"
       ]
     }
   ]
