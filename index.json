@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-05",
+      "file": "editions/2026-08-05.json",
+      "essentiel": "Locations touristiques : le Conseil d'État valide le régime parisien d'autorisation préalable pour transformer un commerce en meublé Airbnb",
+      "term": "Acquiescement à jugement",
+      "rubriques": [
+        "Crédit à la consommation : un décret impose une évaluation de solvabilité documentée aux prêteurs",
+        "Compensation légale : la Cour de cassation rappelle que son effet extinctif rétroagit même si la créance est prescrite",
+        "Régulation de l'information en ligne : le Sénat formule 56 recommandations contre les « zones grises » du numérique",
+        "5 août 1952 : le jour où le meurtre de la famille Drummond a ouvert l'affaire Dominici",
+        "Avocats : la profession se donne rendez-vous à Toulouse pour la Convention nationale 2026",
+        "Natation : les Championnats d'Europe de nage en eau libre battent leur plein dans la Seine parisienne"
+      ]
+    },
     {
       "date": "2026-08-04",
       "file": "editions/2026-08-04.json",
@@ -210,20 +224,6 @@
         "21 juillet 1881 : le jour où la Chambre des députés a scellé la liberté de la presse française",
         "Convention nationale des avocats 2026 : la profession se donne rendez-vous à Toulouse, Albi et Montauban",
         "Soldes d'été 2026 : la fin, initialement prévue ce 21 juillet, a été reportée d'une semaine à cause de la canicule"
-      ]
-    },
-    {
-      "date": "2026-07-20",
-      "file": "editions/2026-07-20.json",
-      "essentiel": "Sanctions antidopage en ligne : la CJUE encadre leur publication au nom du RGPD",
-      "term": "Astreinte comminatoire",
-      "rubriques": [
-        "Asile à la frontière : la CNDA impose la dématérialisation des recours des avocats, sous peine d'irrecevabilité",
-        "Vidéosurveillance algorithmique aux abords des écoles : le Conseil d'État confirme l'absence de base légale",
-        "Répression des abus de marché : dix ans après la loi sur l'« aiguillage », vers une intégration des moyens AMF-parquet",
-        "20 juillet 2000 : le jour où le Conseil constitutionnel a rattaché le droit de chasse au droit de propriété",
-        "RPVA : une anomalie perturbe depuis le 17 juillet les accusés de réception aux tribunaux et cours d'appel",
-        "Tour de France : Vingegaard abandonne après une chute, jour de repos avant le contre-la-montre"
       ]
     }
   ]
