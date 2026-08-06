@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-06",
+      "file": "editions/2026-08-06.json",
+      "essentiel": "Affaire des « biens mal acquis » gabonais : le parquet national financier requiert le renvoi de BNP Paribas et des enfants d'Omar Bongo",
+      "term": "Astreinte comminatoire",
+      "rubriques": [
+        "La loi pérennisant les avocats honoraires assesseurs dans les cours criminelles départementales est promulguée",
+        "Le Conseil d'État juge que les sapeurs-pompiers volontaires sont des « travailleurs » au sens du droit de l'Union",
+        "Inceste : la commission d'enquête parlementaire dénonce un « crime de masse » et une justice à refonder",
+        "6 août 2015 : le jour où la loi Macron libéralise les professions réglementées du droit",
+        "Le barreau de Paris met à la disposition des cabinets un modèle de charte d'utilisation de l'intelligence artificielle",
+        "Un répit météo attendu ce 6 août avec le retour d'un air plus frais venu de l'Atlantique"
+      ]
+    },
     {
       "date": "2026-08-05",
       "file": "editions/2026-08-05.json",
@@ -210,20 +224,6 @@
         "22 juillet 1980 : le jour où le Conseil constitutionnel a érigé l'indépendance de la justice administrative en principe à valeur constitutionnelle",
         "Le Barreau de Paris ouvre à tous les avocats de France sa solution de gestion de cabinet Themisia",
         "Tour de France : la 17e étape emmène le peloton de Chambéry à Voiron"
-      ]
-    },
-    {
-      "date": "2026-07-21",
-      "file": "editions/2026-07-21.json",
-      "essentiel": "Blocage anti-piratage : le Conseil d'État juge que Cloudflare doit s'exécuter comme un fournisseur d'accès",
-      "term": "Quasi-usufruit",
-      "rubriques": [
-        "L'Assemblée nationale adopte définitivement la proposition de loi « pour une montagne vivante et souveraine »",
-        "Fermeture administrative d'un établissement : le Conseil d'État trace la frontière de ce que le consentement ne peut jamais couvrir",
-        "Faute de la victime et dommage corporel : un revirement de l'assemblée plénière, mais limité",
-        "21 juillet 1881 : le jour où la Chambre des députés a scellé la liberté de la presse française",
-        "Convention nationale des avocats 2026 : la profession se donne rendez-vous à Toulouse, Albi et Montauban",
-        "Soldes d'été 2026 : la fin, initialement prévue ce 21 juillet, a été reportée d'une semaine à cause de la canicule"
       ]
     }
   ]
