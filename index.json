@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-08",
+      "file": "editions/2026-08-08.json",
+      "essentiel": "Sport professionnel : une loi refond la gouvernance des fédérations, encadre les agents sportifs et muscle la lutte antipiratage",
+      "term": "Cession Dailly",
+      "rubriques": [
+        "Rupture conventionnelle dans la fonction publique : le plafond de l'indemnité spécifique divisé par deux",
+        "Garantie AGS : la chambre sociale l'étend à la résiliation judiciaire pendant le maintien provisoire d'activité",
+        "Servitudes conventionnelles : la troisième chambre civile durcit l'exigence probatoire de l'extinction",
+        "La Nuit du Droit 2026 se tiendra le lundi 5 octobre partout en France",
+        "Élections professionnelles des commissaires de justice : le Conseil d'État valide le scrutin de liste majoritaire",
+        "Canicule : douze départements du sud-est en vigilance orange ce samedi (hors justice)"
+      ]
+    },
     {
       "date": "2026-08-07",
       "file": "editions/2026-08-07.json",
@@ -210,20 +224,6 @@
         "24 juillet 1967 : le jour où de Gaulle a ébranlé depuis un balcon montréalais le principe de non-ingérence",
         "Conseil d'État : Christine Maugüé prend la tête de la section du contentieux à compter du 9 août",
         "Tour de France : la 19e étape s'achève sur les 21 lacets mythiques de l'Alpe d'Huez"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "file": "editions/2026-07-23.json",
-      "essentiel": "Ingérences électorales : le gouvernement présente un projet de loi pour durcir les sanctions et créer une commission de vigilance",
-      "term": "Fraude paulienne",
-      "rubriques": [
-        "Clause résolutoire obligatoire : le nouveau contrat type de location entre en vigueur le 1er octobre",
-        "Logement social : le Conseil d'État confirme l'amende de 1,8 million d'euros infligée à l'OPH Rives de Seine Habitat",
-        "La Cour des comptes dénonce l'opacité du régime disciplinaire dans la police et la gendarmerie",
-        "23 juillet 2008 : le jour où la révision constitutionnelle a fait naître la question prioritaire de constitutionnalité",
-        "Formation continue des avocats : le CNB soumet à concertation un avant-projet intégrant l'IA",
-        "Canicule : 18 départements du Sud et de la Corse en vigilance jaune"
       ]
     }
   ]
