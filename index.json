@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-10",
+      "file": "editions/2026-08-10.json",
+      "essentiel": "Intelligence artificielle : le règlement européen AI Act durcit ses obligations de transparence depuis le 2 août 2026",
+      "term": "Théorie du bilan",
+      "rubriques": [
+        "Ports de plaisance : un décret autorise un nouveau traitement de données personnelles pour la collecte d'informations sur les usagers",
+        "Droit au logement opposable : le Conseil d'État enjoint au ministre du logement de faire exécuter une décision d'hébergement",
+        "Une thèse lilloise plaide pour un renforcement du contrôle des mouvements transfrontières de déchets dangereux",
+        "10 août 1792 : le jour où l'insurrection parisienne a fait tomber la monarchie constitutionnelle",
+        "Greffes : le service d'accueil unique du justiciable s'étend aux cours d'appel à compter du 1er septembre 2026",
+        "Championnats d'Europe de natation : la natation course débute ce 10 août au Centre aquatique olympique de Saint-Denis"
+      ]
+    },
     {
       "date": "2026-08-09",
       "file": "editions/2026-08-09.json",
@@ -210,20 +224,6 @@
         "26 juillet 1956 : le jour où la nationalisation du canal de Suez a ébranlé le droit international des traités",
         "Portalis : le CNB réclame une interconnexion urgente avec e-Barreau",
         "Tour de France 2026 : dernier sacre ce dimanche sur les Champs-Élysées"
-      ]
-    },
-    {
-      "date": "2026-07-25",
-      "file": "editions/2026-07-25.json",
-      "essentiel": "Justice criminelle : le Conseil constitutionnel censure les « profils suspects génétiques » de la loi sur le respect des victimes",
-      "term": "Confusion de peines",
-      "rubriques": [
-        "Véhicules prioritaires : procureurs de permanence et unités cynotechniques SNCF/RATP rejoignent la liste au 25 juillet",
-        "Propos discriminatoires envers des travailleurs handicapés : la Cour de cassation confirme la nullité d'un licenciement",
-        "Services d'aide à domicile : la Cour des comptes plaide pour un transfert de la régulation aux départements",
-        "25 juillet 1978 : le jour où la naissance du premier « bébé-éprouvette » a posé les fondations du droit de la bioéthique",
-        "Le CNB diffuse une version consolidée du Règlement intérieur national de la profession d'avocat",
-        "Sécheresse : un quart des petits cours d'eau français sont désormais à sec"
       ]
     }
   ]
