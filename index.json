@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-11",
+      "file": "editions/2026-08-11.json",
+      "essentiel": "Intérim médical et paramédical : le Conseil d'État censure partiellement le plafonnement des dépenses des hôpitaux",
+      "term": "Forclusion",
+      "rubriques": [
+        "Baux d'habitation : deux nouvelles clauses obligatoires protègent les locataires dès le 1er septembre 2026",
+        "Maladie professionnelle et employeurs successifs : la Cour de cassation précise la charge de la preuve de la faute inexcusable",
+        "Une thèse lyonnaise éclaire les risques juridiques des relations commerciales entre PME françaises et iraniennes",
+        "11 août 1960 : le jour où le Tchad accède à l'indépendance",
+        "Cours criminelles départementales : la loi du 9 juillet 2026 ouvre deux des cinq sièges à des juges honoraires ou anciens avocats",
+        "Culture coréenne : taekwondo et danse traditionnelle s'installent sur le parvis de la mairie du 15e arrondissement de Paris"
+      ]
+    },
     {
       "date": "2026-08-10",
       "file": "editions/2026-08-10.json",
@@ -210,20 +224,6 @@
         "27 juillet 1884 : le jour où la loi Naquet a rétabli le divorce en France",
         "Une tentative d'hameçonnage usurpant l'identité du Conseil national des barreaux cible les avocats",
         "Canicule : une quatrième vague de chaleur pourrait porter le mercure jusqu'à 42 °C dès mercredi"
-      ]
-    },
-    {
-      "date": "2026-07-26",
-      "file": "editions/2026-07-26.json",
-      "essentiel": "Défenseur des droits : la nomination contestée de François-Noël Buffet entre en fonction",
-      "term": "Action de concert",
-      "rubriques": [
-        "Fraude aux aides publiques : un décret précise les pouvoirs de contrôle des organismes payeurs",
-        "Comité social et économique : tous les élus ont un droit d'accès égal aux archives et documents comptables",
-        "Titres de séjour : le Défenseur des droits alerte sur l'explosion des délais d'instruction en préfecture",
-        "26 juillet 1956 : le jour où la nationalisation du canal de Suez a ébranlé le droit international des traités",
-        "Portalis : le CNB réclame une interconnexion urgente avec e-Barreau",
-        "Tour de France 2026 : dernier sacre ce dimanche sur les Champs-Élysées"
       ]
     }
   ]
