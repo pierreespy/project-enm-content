@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-13",
+      "file": "editions/2026-08-13.json",
+      "essentiel": "Généalogie génétique en enquête pénale : le Conseil constitutionnel censure le dispositif de la loi justice criminelle du 23 juillet 2026",
+      "term": "Purge des hypothèques",
+      "rubriques": [
+        "Emballages : le règlement européen PPWR devient directement applicable en France depuis le 12 août 2026",
+        "Définition légale du consentement : la chambre criminelle exclut toute application rétroactive de la loi du 6 novembre 2025",
+        "Une thèse toulousaine dresse le premier panorama complet de la fiscalité française des crypto-actifs",
+        "13 août 1624 : le jour où Richelieu devient chef du Conseil du roi",
+        "Concours professionnel de la magistrature : l'ENM publie la liste des candidats admis à la session 2026",
+        "Championnats d'Europe d'athlétisme : Alice Finot défend son titre du 3 000 m steeple ce jeudi à Birmingham"
+      ]
+    },
     {
       "date": "2026-08-12",
       "file": "editions/2026-08-12.json",
@@ -210,20 +224,6 @@
         "29 juillet 1899 : le jour où la Haye a posé les premières règles écrites du droit de la guerre",
         "Intelligence artificielle : le Barreau de Paris met un modèle de charte à la disposition des cabinets",
         "Canicule et pollution à l'ozone : le stationnement résidentiel redevient gratuit à Paris ce 29 juillet"
-      ]
-    },
-    {
-      "date": "2026-07-28",
-      "file": "editions/2026-07-28.json",
-      "essentiel": "Climat : le gouvernement fixe par décret les budgets carbone nationaux jusqu'en 2038 et adopte la SNBC 3",
-      "term": "Anatocisme",
-      "rubriques": [
-        "Démarchage téléphonique commercial : le consentement préalable du consommateur devient obligatoire",
-        "Négociation de la convention collective unique du secteur social : la Cour de cassation impose le principe de concordance",
-        "Inceste parental : la commission d'enquête de l'Assemblée nationale dénonce un « crime de masse » et formule 49 recommandations",
-        "28 juillet 1794 : le jour où Robespierre a été guillotiné sans procès",
-        "Secret professionnel : le CNB s'inquiète des normes de l'Autorité européenne anti-blanchiment et acte l'arrivée des avocats sur ProConnect",
-        "Pyrénées-Orientales : après l'incendie de Trévillach, les agriculteurs érigent un rempart végétal contre les flammes"
       ]
     }
   ]
