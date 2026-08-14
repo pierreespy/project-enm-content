@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-13",
+  "updated": "2026-08-14",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-14",
+      "file": "editions/2026-08-14.json",
+      "essentiel": "Investissements étrangers stratégiques : le seuil de contrôle abaissé de 25 % à 10 % pour les sociétés cotées",
+      "term": "Ultra petita",
+      "rubriques": [
+        "Crédit d'impôt investissement dans l'industrie verte : un décret du 9 août 2026 fixe rétroactivement son entrée en vigueur au 27 mai 2026",
+        "Perquisition au cabinet d'un avocat : la chambre criminelle renforce le contrôle de la saisissabilité des correspondances avocat-client",
+        "Une thèse lilloise propose un cadre juridique pour la reprise des invendus dans l'économie circulaire",
+        "14 août 1884 : le jour où la IIIe République inscrit dans le marbre constitutionnel l'irréversibilité de la forme républicaine",
+        "Injonction de payer : le délai de signification passe de six à trois mois pour les ordonnances rendues à compter du 1er septembre 2026",
+        "Basket 3x3 : le FIBA World Tour s'installe à Lausanne ce vendredi et samedi, avec l'équipe de Bordeaux en lice (hors justice)"
+      ]
+    },
     {
       "date": "2026-08-13",
       "file": "editions/2026-08-13.json",
@@ -210,20 +224,6 @@
         "30 juillet 1830 : le jour où une proclamation placardée dans Paris a fait basculer la monarchie française",
         "Collaboration entre avocats : le RIN impose désormais l'écrit et structure l'entretien annuel",
         "SNCF : dernier jour d'une vente flash de 150 000 billets TGV Inoui à petit prix"
-      ]
-    },
-    {
-      "date": "2026-07-29",
-      "file": "editions/2026-07-29.json",
-      "essentiel": "Simplification territoriale : un décret allège huit codes de normes applicables aux collectivités et à leurs groupements",
-      "term": "Renvoi",
-      "rubriques": [
-        "Exploitations agricoles en difficulté : un décret assouplit les conditions d'attribution des aides au redressement",
-        "Vente entre professionnels : le vendeur n'est pas tenu d'un devoir de conseil renforcé envers un acheteur compétent",
-        "Une thèse lyonnaise redéfinit les contours de l'aliénation fiduciaire en droit civil",
-        "29 juillet 1899 : le jour où la Haye a posé les premières règles écrites du droit de la guerre",
-        "Intelligence artificielle : le Barreau de Paris met un modèle de charte à la disposition des cabinets",
-        "Canicule et pollution à l'ozone : le stationnement résidentiel redevient gratuit à Paris ce 29 juillet"
       ]
     }
   ]
