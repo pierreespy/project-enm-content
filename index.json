@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-15",
+      "file": "editions/2026-08-15.json",
+      "essentiel": "Interdiction des réseaux sociaux aux moins de 15 ans : le Conseil constitutionnel censure la loi Miller",
+      "term": "Théorie de l'écran législatif",
+      "rubriques": [
+        "Électricité : un décret du 13 août 2026 fixe les modalités du nouveau mécanisme de capacité pour sécuriser l'approvisionnement",
+        "Harcèlement sexuel d'ambiance : la chambre sociale reconnaît un préjudice d'exposition sans ciblage individuel",
+        "Une thèse perpignanaise redéfinit les contours juridiques du transfert de la branche d'activité d'entreprise",
+        "15 août 1769 : le jour où naît à Ajaccio celui qui donnera son nom au Code civil des Français",
+        "Taxis : un décret du 13 août 2026 instaure une avance exceptionnelle sur le remboursement partiel d'accise",
+        "Météo : un week-end du 15 août sous orages après un pic de chaleur, avant une chute sensible des températures (hors justice)"
+      ]
+    },
     {
       "date": "2026-08-14",
       "file": "editions/2026-08-14.json",
@@ -210,20 +224,6 @@
         "31 juillet 1451 : le jour où l'argentier du roi Jacques Cœur a été arrêté et ses biens mis sous séquestre",
         "Procédure dématérialisée : le nouvel e-Barreau invite les avocats à basculer dès cet été",
         "Sport : les Championnats d'Europe de natation s'ouvrent ce 31 juillet à Paris et Saint-Denis"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "file": "editions/2026-07-30.json",
-      "essentiel": "Procédure civile : le décret « Magicobus III » réorganise l'administration judiciaire de la preuve et relance les modes amiables",
-      "term": "Stellionat",
-      "rubriques": [
-        "Fonction publique : le livre IV réglementaire sur le télétravail et la formation entre en vigueur le 1er août",
-        "Droits syndicaux : un accord d'entreprise peut réserver certains avantages aux seuls syndicats représentatifs",
-        "Une thèse lilloise repense le régime juridique des invendus à l'aune de l'économie circulaire",
-        "30 juillet 1830 : le jour où une proclamation placardée dans Paris a fait basculer la monarchie française",
-        "Collaboration entre avocats : le RIN impose désormais l'écrit et structure l'entretien annuel",
-        "SNCF : dernier jour d'une vente flash de 150 000 billets TGV Inoui à petit prix"
       ]
     }
   ]
