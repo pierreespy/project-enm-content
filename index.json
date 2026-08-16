@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-16",
+      "file": "editions/2026-08-16.json",
+      "essentiel": "Immobilier de l'État : le Conseil constitutionnel valide la loi créant un nouvel établissement public foncier",
+      "term": "Sûreté réelle pour autrui",
+      "rubriques": [
+        "Commande publique : un décret du 14 août 2026 crée le Conseil national de la commande publique",
+        "Concurrence : la CJUE autorise la saisie de courriels professionnels sans autorisation judiciaire préalable",
+        "Une thèse soutenue à Lomé interroge la liberté contractuelle dans le droit OHADA des sociétés coopératives",
+        "16 août 1790 : la loi qui a redessiné l'organisation judiciaire française",
+        "Procédure civile : le décret du 27 juillet 2026 de simplification procédurale change la donne dès le 1er octobre",
+        "Athlétisme : Jimmy Gressier décroche le bronze du 10 000 m aux Championnats d'Europe (hors justice)"
+      ]
+    },
     {
       "date": "2026-08-15",
       "file": "editions/2026-08-15.json",
@@ -210,20 +224,6 @@
         "1er août 1793 : le jour où la Convention a décrété la destruction de la Vendée insurgée",
         "CRFPA : les épreuves écrites d'admissibilité 2026 fixées aux 1er, 2 et 3 septembre",
         "Culture : la Bourse de Commerce ouvre gratuitement ses portes en nocturne ce 1er août"
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "file": "editions/2026-07-31.json",
-      "essentiel": "Santé publique : la France se dote d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires",
-      "term": "Excuse absolutoire",
-      "rubriques": [
-        "Déclassement législatif : le Conseil constitutionnel se prononce sur la nature d'une partie de l'article L. 136-1-1 du code de la sécurité sociale",
-        "Urbanisme patrimonial : un PLU peut imposer la conservation des toits de chaume sur des bâtiments identifiés",
-        "Une thèse nantaise revisite les sénatus-consultes napoléoniens, entre pouvoir constituant et fonction législative",
-        "31 juillet 1451 : le jour où l'argentier du roi Jacques Cœur a été arrêté et ses biens mis sous séquestre",
-        "Procédure dématérialisée : le nouvel e-Barreau invite les avocats à basculer dès cet été",
-        "Sport : les Championnats d'Europe de natation s'ouvrent ce 31 juillet à Paris et Saint-Denis"
       ]
     }
   ]
