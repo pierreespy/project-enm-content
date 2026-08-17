@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-16",
+  "updated": "2026-08-17",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-17",
+      "file": "editions/2026-08-17.json",
+      "essentiel": "Dommage corporel : l'Assemblée plénière neutralise la faute de la victime que l'organisateur professionnel n'a pas informée des consignes de sécurité",
+      "term": "Stellionat",
+      "rubriques": [
+        "Conseil supérieur de la magistrature : un décret du 13 août 2026 réécrit le processus électoral de ses membres magistrats",
+        "Arrêt maladie : proposer une rupture conventionnelle ne caractérise pas, à lui seul, une discrimination liée à l'état de santé",
+        "Droits des femmes : la délégation sénatoriale dresse le bilan de trois ans d'action et fixe ses priorités jusqu'en 2029",
+        "17 août 1945 : quand les militaires obtiennent enfin le droit de vote",
+        "Médiation : un décret du 13 août 2026 modifie la composition et le fonctionnement du Conseil national de la médiation",
+        "Météo : la canicule résiste sur la moitié sud avant un vrai changement de temps attendu fin août (hors justice)"
+      ]
+    },
     {
       "date": "2026-08-16",
       "file": "editions/2026-08-16.json",
@@ -210,20 +224,6 @@
         "2 août 1940 : le jour où un tribunal militaire de Vichy a condamné à mort le colonel de Gaulle par contumace",
         "Concours de la magistrature : les candidats admissibles ont jusqu'au 11 août pour déposer leur dossier avant les oraux",
         "Esport : les Champs-Élysées se transforment en plus grand terrain de jeu de France ce 2 août"
-      ]
-    },
-    {
-      "date": "2026-08-01",
-      "file": "editions/2026-08-01.json",
-      "essentiel": "Rapatriement des Français de Syrie : le Conseil d'État, réuni en Assemblée, résiste en partie à la Cour de Strasbourg",
-      "term": "Obligation in solidum",
-      "rubriques": [
-        "Immatriculation des véhicules : le durcissement de l'habilitation SIV s'impose aux professionnels dès le 1er août",
-        "Compétence internationale : le seul lieu de matérialisation du dommage suffit à fonder la compétence du juge français",
-        "Une thèse nantaise interroge la réhabilitation judiciaire comme figure du pardon dans l'imaginaire pénal",
-        "1er août 1793 : le jour où la Convention a décrété la destruction de la Vendée insurgée",
-        "CRFPA : les épreuves écrites d'admissibilité 2026 fixées aux 1er, 2 et 3 septembre",
-        "Culture : la Bourse de Commerce ouvre gratuitement ses portes en nocturne ce 1er août"
       ]
     }
   ]
