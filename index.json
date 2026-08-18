@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-18",
+      "file": "editions/2026-08-18.json",
+      "essentiel": "Cyberattaque à la DGFiP : plus de 678 000 contribuables victimes d'une fuite massive de données fiscales",
+      "term": "Obligation in solidum",
+      "rubriques": [
+        "Loi d'urgence pour la souveraineté agricole : le Conseil constitutionnel censure la servitude de voisinage agricole et six cavaliers législatifs",
+        "Attentat de Charlie Hebdo : la deuxième chambre civile précise les critères de la victime directe ouvrant droit à indemnisation intégrale",
+        "Une thèse nantaise interroge la réhabilitation judiciaire comme objet d'étude du pardon et du remords dans l'imaginaire pénal",
+        "18 août 1634 : le jour où le bûcher d'Urbain Grandier a scellé l'un des procès en sorcellerie les plus politiques de l'Ancien Régime",
+        "Collaboration en cabinet d'avocats : le CNB structure l'entretien annuel obligatoire entre collaborateur et cabinet",
+        "Météo : un temps plus frais et orageux succède à la chaleur sur la France (hors justice)"
+      ]
+    },
     {
       "date": "2026-08-17",
       "file": "editions/2026-08-17.json",
@@ -210,20 +224,6 @@
         "3 août 1914 : le jour où l'Allemagne a déclaré la guerre à la France, faisant basculer l'Europe dans le droit des conflits armés",
         "État de droit : la conférence annuelle de l'European Law Institute réunira juristes, magistrats et avocats à Paris du 2 au 4 septembre",
         "Chassé-croisé estival : la fin d'un des week-ends les plus chargés de l'été sur les routes de France ce 3 août"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "file": "editions/2026-08-02.json",
-      "essentiel": "Sachets de nicotine : le Conseil d'État renvoie l'interdiction française à la Cour de justice de l'Union européenne",
-      "term": "Déchéance quadriennale",
-      "rubriques": [
-        "Bisphénol A : un décret restreint son usage dans les matériaux destinés au contact alimentaire",
-        "Permis de construire tacite : son retrait le fait disparaître rétroactivement, même postérieur au refus de délivrer un certificat",
-        "Une thèse aixoise interroge le régime de l'information échangée entre le contribuable et l'administration fiscale",
-        "2 août 1940 : le jour où un tribunal militaire de Vichy a condamné à mort le colonel de Gaulle par contumace",
-        "Concours de la magistrature : les candidats admissibles ont jusqu'au 11 août pour déposer leur dossier avant les oraux",
-        "Esport : les Champs-Élysées se transforment en plus grand terrain de jeu de France ce 2 août"
       ]
     }
   ]
