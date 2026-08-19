@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-19",
+      "file": "editions/2026-08-19.json",
+      "essentiel": "Licenciement pour faute lourde en Nouvelle-Calédonie : le Conseil constitutionnel censure la privation d'indemnité de congés payés",
+      "term": "Déchéance quadriennale",
+      "rubriques": [
+        "Loi Ripost : le Conseil constitutionnel censure le délit de rassemblement festif musical illégal et la fermeture des commerces d'articles pyrotechniques",
+        "Logement de fonction et domaine public : la troisième chambre civile impose le renvoi préjudiciel au juge administratif en cas de contestation sérieuse",
+        "La Cour des comptes dresse une feuille de route critique pour le nouveau Défenseur des droits",
+        "19 août 2003 : l'attentat de l'hôtel Canal à Bagdad, à l'origine de la Journée mondiale de l'aide humanitaire",
+        "Accès à la profession d'avocat sans CAPA : le CNB rappelle la clôture des inscriptions aux examens des articles 99 et 100 le 21 août 2026",
+        "Allocation de rentrée scolaire : jusqu'à 466 euros par enfant versés par la CAF depuis le 18 août 2026 (hors justice)"
+      ]
+    },
     {
       "date": "2026-08-18",
       "file": "editions/2026-08-18.json",
@@ -210,20 +224,6 @@
         "4 août 1789 : le jour où l'Assemblée constituante a aboli les privilèges et les droits féodaux",
         "Justice pénale numérique : 70 tribunaux judiciaires certifiés en 2026, dont celui de Grasse",
         "SNCF : une grève surprise à Saint-Lazare a fortement perturbé le trafic Paris-Normandie"
-      ]
-    },
-    {
-      "date": "2026-08-03",
-      "file": "editions/2026-08-03.json",
-      "essentiel": "Fiscalité des avocats : le Conseil constitutionnel censure l'exonération de CFE réservée aux professionnels formés « à la française »",
-      "term": "Substitution de motifs",
-      "rubriques": [
-        "Police de l'environnement : les inspecteurs de l'Office français de la biodiversité pourront porter des caméras individuelles",
-        "Intégration directe dans la magistrature : le Conseil d'État durcit son contrôle de l'expérience professionnelle exigée des candidats",
-        "Une thèse soutenue à l'ENS interroge la justice musulmane dans le Sénégal colonial, entre autonomie savante et emprise coloniale",
-        "3 août 1914 : le jour où l'Allemagne a déclaré la guerre à la France, faisant basculer l'Europe dans le droit des conflits armés",
-        "État de droit : la conférence annuelle de l'European Law Institute réunira juristes, magistrats et avocats à Paris du 2 au 4 septembre",
-        "Chassé-croisé estival : la fin d'un des week-ends les plus chargés de l'été sur les routes de France ce 3 août"
       ]
     }
   ]
