@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-20",
+      "file": "editions/2026-08-20.json",
+      "essentiel": "Aide à mourir : le Conseil constitutionnel valide la loi avec trois réserves d'interprétation",
+      "term": "Excuse absolutoire",
+      "rubriques": [
+        "Montagne vivante et souveraine : la loi du 18 août 2026 sécurise le partage de l'eau et l'urbanisation en discontinuité",
+        "Autoroute A69 : le Conseil d'État confirme définitivement la légalité du chantier Toulouse-Castres",
+        "Une thèse lyonnaise réexamine le transfert fiduciaire de biens à l'épreuve de la liberté contractuelle",
+        "20 août 1789 : l'Assemblée constituante adopte le préambule et les trois premiers articles de la Déclaration des droits de l'homme et du citoyen",
+        "Formation des magistrats : une première classe préparatoire Talents de l'ENM ouvre en Guadeloupe pour la rentrée 2026-2027",
+        "Esports World Cup 2026 : la grande finale parisienne s'achève le 23 août à Porte de Versailles (hors justice)"
+      ]
+    },
     {
       "date": "2026-08-19",
       "file": "editions/2026-08-19.json",
@@ -210,20 +224,6 @@
         "5 août 1952 : le jour où le meurtre de la famille Drummond a ouvert l'affaire Dominici",
         "Avocats : la profession se donne rendez-vous à Toulouse pour la Convention nationale 2026",
         "Natation : les Championnats d'Europe de nage en eau libre battent leur plein dans la Seine parisienne"
-      ]
-    },
-    {
-      "date": "2026-08-04",
-      "file": "editions/2026-08-04.json",
-      "essentiel": "Expulsion de l'ex-présidente de RT France : le tribunal administratif de Paris rejette le référé-liberté de Xenia Fedorova",
-      "term": "Fongibilité asymétrique",
-      "rubriques": [
-        "Cour nationale du droit d'asile : un décret organise ses nouvelles chambres territoriales",
-        "Taxe de séjour non collectée : le Conseil constitutionnel valide l'amende plancher infligée à Airbnb pour l'Île d'Oléron",
-        "Financement de l'intérêt général : le Sénat formule 32 recommandations pour encadrer l'influence des acteurs privés",
-        "4 août 1789 : le jour où l'Assemblée constituante a aboli les privilèges et les droits féodaux",
-        "Justice pénale numérique : 70 tribunaux judiciaires certifiés en 2026, dont celui de Grasse",
-        "SNCF : une grève surprise à Saint-Lazare a fortement perturbé le trafic Paris-Normandie"
       ]
     }
   ]
