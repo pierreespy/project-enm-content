@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-21",
+      "file": "editions/2026-08-21.json",
+      "essentiel": "Cambriolage du musée Jacques Chirac : le parquet de Lyon se saisit de l'enquête sur le vol des souvenirs de la Coupe du monde 1998",
+      "term": "Quasi-usufruit",
+      "rubriques": [
+        "Saint-Martin : un décret du 18 août 2026 étend la compétence de la chambre de proximité aux fonctions de juge d'instruction",
+        "Détention provisoire : la chambre criminelle sanctionne la communication tardive des réquisitions du parquet général",
+        "Une thèse lyonnaise interroge l'accueil des demandeurs d'asile en France à l'aune de l'exigence de dignité",
+        "21 août 1911 : la Joconde disparaît du Louvre, un vol qui a précipité la protection pénale du patrimoine artistique",
+        "Affaires familiales : le tribunal judiciaire de Paris expérimente le « consensus parental » dès le 7 octobre 2026",
+        "Météo : après la plus longue canicule depuis 1983, orages et rafraîchissement s'installent sur la France ce vendredi"
+      ]
+    },
     {
       "date": "2026-08-20",
       "file": "editions/2026-08-20.json",
@@ -210,20 +224,6 @@
         "6 août 2015 : le jour où la loi Macron libéralise les professions réglementées du droit",
         "Le barreau de Paris met à la disposition des cabinets un modèle de charte d'utilisation de l'intelligence artificielle",
         "Un répit météo attendu ce 6 août avec le retour d'un air plus frais venu de l'Atlantique"
-      ]
-    },
-    {
-      "date": "2026-08-05",
-      "file": "editions/2026-08-05.json",
-      "essentiel": "Locations touristiques : le Conseil d'État valide le régime parisien d'autorisation préalable pour transformer un commerce en meublé Airbnb",
-      "term": "Acquiescement à jugement",
-      "rubriques": [
-        "Crédit à la consommation : un décret impose une évaluation de solvabilité documentée aux prêteurs",
-        "Compensation légale : la Cour de cassation rappelle que son effet extinctif rétroagit même si la créance est prescrite",
-        "Régulation de l'information en ligne : le Sénat formule 56 recommandations contre les « zones grises » du numérique",
-        "5 août 1952 : le jour où le meurtre de la famille Drummond a ouvert l'affaire Dominici",
-        "Avocats : la profession se donne rendez-vous à Toulouse pour la Convention nationale 2026",
-        "Natation : les Championnats d'Europe de nage en eau libre battent leur plein dans la Seine parisienne"
       ]
     }
   ]
