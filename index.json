@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-22",
+      "file": "editions/2026-08-22.json",
+      "essentiel": "Affaire Le Scouarnec : le parquet de Lorient ouvre une information judiciaire pour 10 nouveaux viols et 40 agressions sexuelles",
+      "term": "Acte anormal de gestion",
+      "rubriques": [
+        "Érosion du littoral : un décret du 20 août 2026 adopte la stratégie nationale de gestion intégrée du trait de côte",
+        "Service public numérique : le Conseil d'État impose à l'État de corriger les dysfonctionnements de la plateforme ANEF",
+        "Une thèse toulousaine interroge les transformations du droit pénal à l'ère de l'intelligence artificielle",
+        "22 août 1864 : la première convention de Genève fonde le droit international humanitaire",
+        "Formation continue des avocats : le CNB soumet à la concertation un projet de réforme de ses obligations",
+        "Cyclisme : la Vuelta a España 2026 s'élance de Monaco ce samedi avec un contre-la-montre"
+      ]
+    },
     {
       "date": "2026-08-21",
       "file": "editions/2026-08-21.json",
@@ -210,20 +224,6 @@
         "7 août 1960 : le jour où la Côte d'Ivoire proclame son indépendance",
         "Le barreau de Paris ouvre un espace d'écoute confidentiel pour la santé mentale des avocats",
         "Canicule : huit départements du Sud-Est en vigilance orange avant un bref répit orageux"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "file": "editions/2026-08-06.json",
-      "essentiel": "Affaire des « biens mal acquis » gabonais : le parquet national financier requiert le renvoi de BNP Paribas et des enfants d'Omar Bongo",
-      "term": "Astreinte comminatoire",
-      "rubriques": [
-        "La loi pérennisant les avocats honoraires assesseurs dans les cours criminelles départementales est promulguée",
-        "Le Conseil d'État juge que les sapeurs-pompiers volontaires sont des « travailleurs » au sens du droit de l'Union",
-        "Inceste : la commission d'enquête parlementaire dénonce un « crime de masse » et une justice à refonder",
-        "6 août 2015 : le jour où la loi Macron libéralise les professions réglementées du droit",
-        "Le barreau de Paris met à la disposition des cabinets un modèle de charte d'utilisation de l'intelligence artificielle",
-        "Un répit météo attendu ce 6 août avec le retour d'un air plus frais venu de l'Atlantique"
       ]
     }
   ]
