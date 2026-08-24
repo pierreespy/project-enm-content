@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-22",
-  "count": 16,
+  "updated": "2026-08-24",
+  "count": 15,
   "editions": [
+    {
+      "date": "2026-08-24",
+      "file": "editions/2026-08-24.json",
+      "essentiel": "Sucy-en-Brie : un homme soupçonné d'avoir tué sa mère placé en garde à vue pour homicide volontaire sur ascendant",
+      "term": "Rescision pour lésion",
+      "rubriques": [
+        "Sécurité sociale : quatre décrets du 21 août 2026 réorganisent la prise en charge des soins dentaires, dispositifs médicaux, médicaments innovants et transport sanitaire",
+        "Nullités de la procédure pénale : la chambre criminelle exige l'identification précise des actes subséquents annulés, y compris devant la juridiction de jugement",
+        "Une thèse lilloise pose les invendus comme point d'entrée d'une approche juridique de l'économie circulaire",
+        "24 août 1780 : Louis XVI abolit la « question préparatoire », la torture judiciaire destinée à arracher des aveux",
+        "Magistrature : les candidatures aux concours d'accès à l'ENM rouvrent après la pause estivale, jusqu'au 7 décembre 2026",
+        "Météo : de forts orages traversent les deux tiers du pays ce lundi 24 août avant un retour de la chaleur"
+      ]
+    },
     {
       "date": "2026-08-22",
       "file": "editions/2026-08-22.json",
@@ -196,34 +210,6 @@
         "9 août 1944 : le jour où une ordonnance a proclamé que la République n'avait jamais cessé d'exister",
         "Depuis le 1er juillet, huissiers de justice et commissaires-priseurs judiciaires n'existent plus",
         "Tour de France Femmes : la caravane boucle sa 5e édition ce dimanche sur la Promenade des Anglais"
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "file": "editions/2026-08-08.json",
-      "essentiel": "Sport professionnel : une loi refond la gouvernance des fédérations, encadre les agents sportifs et muscle la lutte antipiratage",
-      "term": "Cession Dailly",
-      "rubriques": [
-        "Rupture conventionnelle dans la fonction publique : le plafond de l'indemnité spécifique divisé par deux",
-        "Garantie AGS : la chambre sociale l'étend à la résiliation judiciaire pendant le maintien provisoire d'activité",
-        "Servitudes conventionnelles : la troisième chambre civile durcit l'exigence probatoire de l'extinction",
-        "La Nuit du Droit 2026 se tiendra le lundi 5 octobre partout en France",
-        "Élections professionnelles des commissaires de justice : le Conseil d'État valide le scrutin de liste majoritaire",
-        "Canicule : douze départements du sud-est en vigilance orange ce samedi (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "file": "editions/2026-08-07.json",
-      "essentiel": "Loi de programmation militaire : le Conseil constitutionnel valide l'état d'alerte de sécurité nationale et la surveillance algorithmique des adresses IP",
-      "term": "Correctionnalisation judiciaire",
-      "rubriques": [
-        "Résiliation du bail d'habitation : un décret précise le contenu du diagnostic social et financier réalisé avant l'audience",
-        "Licenciement économique de moins de dix salariés : la contestation de l'expertise votée par le CSE n'interrompt pas le délai de consultation",
-        "Une thèse nantaise interroge la transformation du droit du travail par les nouvelles techniques de gestion des ressources humaines",
-        "7 août 1960 : le jour où la Côte d'Ivoire proclame son indépendance",
-        "Le barreau de Paris ouvre un espace d'écoute confidentiel pour la santé mentale des avocats",
-        "Canicule : huit départements du Sud-Est en vigilance orange avant un bref répit orageux"
       ]
     }
   ]
