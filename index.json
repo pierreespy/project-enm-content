@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "count": 15,
   "editions": [
+    {
+      "date": "2026-08-25",
+      "file": "editions/2026-08-25.json",
+      "essentiel": "Mort de l'influenceuse Sonia Bellina dans le Gard : un homme de 32 ans mis en examen pour assassinat et placé en détention provisoire",
+      "term": "Coemploi",
+      "rubriques": [
+        "Comptes des syndicats professionnels : un décret du 21 août 2026 simplifie la procédure de dépôt pour les structures de moins de 230 000 € de ressources",
+        "Indemnité de licenciement dans les cabinets médicaux : la chambre sociale impose la prise en compte de la reprise d'ancienneté",
+        "Une thèse nantaise interroge le statut juridique des sénatus-consultes napoléoniens, entre pouvoir constituant et pouvoir législatif",
+        "25 août 1539 : l'ordonnance de Villers-Cotterêts impose le français dans tous les actes de justice",
+        "Examen du CAPA : le CNB détaille les nouvelles modalités applicables dès la session 2026",
+        "Météo : la Corse placée en vigilance orange orages dans la nuit de lundi à mardi, avant une accalmie"
+      ]
+    },
     {
       "date": "2026-08-24",
       "file": "editions/2026-08-24.json",
@@ -196,20 +210,6 @@
         "10 août 1792 : le jour où l'insurrection parisienne a fait tomber la monarchie constitutionnelle",
         "Greffes : le service d'accueil unique du justiciable s'étend aux cours d'appel à compter du 1er septembre 2026",
         "Championnats d'Europe de natation : la natation course débute ce 10 août au Centre aquatique olympique de Saint-Denis"
-      ]
-    },
-    {
-      "date": "2026-08-09",
-      "file": "editions/2026-08-09.json",
-      "essentiel": "Droits d'eau fondés en titre : un décret retire au préfet le pouvoir d'abroger les droits historiques des moulins",
-      "term": "Compétence-compétence",
-      "rubriques": [
-        "Procédure arbitrale : un décret modernise le droit français de l'arbitrage à compter de 2027",
-        "Vente entre professionnels : le vendeur ne doit un devoir de conseil renforcé qu'à un acheteur non compétent",
-        "Une thèse lyonnaise plaide pour un statut juridique propre à l'agriculture urbaine",
-        "9 août 1944 : le jour où une ordonnance a proclamé que la République n'avait jamais cessé d'exister",
-        "Depuis le 1er juillet, huissiers de justice et commissaires-priseurs judiciaires n'existent plus",
-        "Tour de France Femmes : la caravane boucle sa 5e édition ce dimanche sur la Promenade des Anglais"
       ]
     }
   ]
