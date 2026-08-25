@@ -2,19 +2,19 @@
 
 Flux de contenu de l'application **Project ENM** (veille juridique), en **boîte
 aux lettres** : une routine dépose **deux fois par jour** une nouvelle édition
-(créneaux « matin » et « soir »), l'appli la relève à une adresse fixe.
+(créneaux « matin » et « midi »), l'appli la relève à une adresse fixe.
 
 | Créneau | Cron (UTC) | Heure de Paris (été) |
 | --- | --- | --- |
 | `matin` | `50 0 * * *` | ~02h50 |
-| `soir` | `50 16 * * *` | ~18h50 |
+| `midi` | `50 11 * * *` | ~13h50 |
 
 ## Structure
 
 | Chemin | Rôle |
 | --- | --- |
 | **`latest.json`** | La boîte aux lettres. L'appli lit **toujours** ce fichier. Contient l'édition courante en entier. |
-| **`editions/AAAA-MM-JJ-<matin\|soir>.json`** | Archive : **deux éditions par jour**. Conservées **15 jours** (~30 fichiers ; les plus anciennes sont purgées automatiquement). |
+| **`editions/AAAA-MM-JJ-<matin\|midi>.json`** | Archive : **deux éditions par jour**. Conservées **15 jours** (~30 fichiers ; les plus anciennes sont purgées automatiquement). |
 | **`index.json`** | Registre des éditions récentes (date, créneau, titre d'essentiel, mot du jour, titres de rubriques). Sert à la routine pour **ne pas se répéter**. |
 | `edition.template.json` | Gabarit d'une édition (schéma + couleurs de rubriques). |
 | `scripts/publish.mjs` | Publie une édition : copie vers `latest.json`, reconstruit `index.json`, purge > 15 j, normalise `date`/`dateShort`/`slot`. |
@@ -31,7 +31,7 @@ Si ce fichier est indisponible ou invalide, l'appli affiche son contenu embarqu�
 
 ```bash
 # 1. écrire l'édition du créneau (voir edition.template.json)
-#    -> editions/2026-07-10-matin.json   (ou -soir)
+#    -> editions/2026-07-10-matin.json   (ou -midi)
 # 2. publier
 node scripts/publish.mjs 2026-07-10-matin
 # 3. pousser
@@ -56,7 +56,7 @@ Voir [`edition.template.json`](edition.template.json). En résumé :
 {
   "date": "…",               // rempli par publish.mjs
   "dateShort": "…",          // rempli par publish.mjs
-  "slot": "matin" | "soir",  // rempli par publish.mjs (absent sur les archives d'avant)
+  "slot": "matin" | "midi",  // rempli par publish.mjs (absent sur les archives d'avant)
   "essentiel": { "label", "title", "dek", "source", "url" },
   "rubriques": [             // exactement 6, dans l'ordre ci-dessous
     { "chip", "title", "summary", "source", "url", "ink", "tint" }

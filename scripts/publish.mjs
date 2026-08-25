@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 // Publish one edition into the "mailbox" the app reads.
 //
-// Usage:  node scripts/publish.mjs <YYYY-MM-DD>-<matin|soir>
+// Usage:  node scripts/publish.mjs <YYYY-MM-DD>-<matin|midi>
 //         node scripts/publish.mjs <YYYY-MM-DD>          (ancien format, toléré)
 //
-// Deux éditions par jour : « matin » et « soir ». Chacune est un fichier
-// editions/<YYYY-MM-DD>-<matin|soir>.json (les anciens fichiers sans créneau,
+// Deux éditions par jour : « matin » et « midi ». Chacune est un fichier
+// editions/<YYYY-MM-DD>-<matin|midi>.json (les anciens fichiers sans créneau,
 // editions/<YYYY-MM-DD>.json, restent lisibles jusqu'à leur purge).
 //
 // Pre-req: the edition has been written to editions/<slug>.json
@@ -30,12 +30,12 @@ const RETENTION_DAYS = 15;
 
 const FR_MONTHS = ['janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin',
   'juill.', 'août', 'sept.', 'oct.', 'nov.', 'déc.'];
-// <YYYY-MM-DD> ou <YYYY-MM-DD>-matin / -soir (le suffixe est le « créneau »).
-const SLUG_RE = /^(\d{4}-\d{2}-\d{2})(?:-(matin|soir))?$/;
-const EDITION_FILE_RE = /^\d{4}-\d{2}-\d{2}(?:-(?:matin|soir))?\.json$/;
+// <YYYY-MM-DD> ou <YYYY-MM-DD>-matin / -midi (le suffixe est le « créneau »).
+const SLUG_RE = /^(\d{4}-\d{2}-\d{2})(?:-(matin|midi))?$/;
+const EDITION_FILE_RE = /^\d{4}-\d{2}-\d{2}(?:-(?:matin|midi))?\.json$/;
 // Ordre de publication d'une même journée : ancien fichier sans créneau, puis
-// matin, puis soir — sert à trier index.json du plus récent au plus ancien.
-const SLOT_RANK = { '': 0, matin: 1, soir: 2 };
+// matin, puis midi — sert à trier index.json du plus récent au plus ancien.
+const SLOT_RANK = { '': 0, matin: 1, midi: 2 };
 
 // Fixed order + chip colours for the 6 rubriques — enforced so the visual
 // identity never drifts, whatever the routine produces.
@@ -56,7 +56,7 @@ function dateShortFr(iso) {
   return `${d} ${FR_MONTHS[m - 1]}`;
 }
 
-/** "2026-08-25-soir.json" → { date: "2026-08-25", slot: "soir" } */
+/** "2026-08-25-midi.json" → { date: "2026-08-25", slot: "midi" } */
 function parseSlug(slug) {
   const m = SLUG_RE.exec(slug);
   return m ? { date: m[1], slot: m[2] ?? '' } : null;
@@ -87,11 +87,11 @@ function validate(e) {
 // ── main ────────────────────────────────────────────────────────────────────
 const slug = process.argv[2];
 const parsed = slug && parseSlug(slug);
-if (!parsed) fail('usage: node scripts/publish.mjs <YYYY-MM-DD>-<matin|soir>');
+if (!parsed) fail('usage: node scripts/publish.mjs <YYYY-MM-DD>-<matin|midi>');
 const { date, slot } = parsed;
 if (!slot) {
   console.warn('! aucun créneau dans le nom de fichier — préfère '
-    + `${date}-matin / ${date}-soir (deux éditions par jour)`);
+    + `${date}-matin / ${date}-midi (deux éditions par jour)`);
 }
 
 const editionPath = join(EDITIONS_DIR, `${slug}.json`);

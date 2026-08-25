@@ -1,6 +1,6 @@
 {
   "dateShort": "(auto — laissé au script publish.mjs, ex. \"9 juill.\")",
-  "slot": "(auto — laissé au script publish.mjs : \"matin\" ou \"soir\")",
+  "slot": "(auto — laissé au script publish.mjs : \"matin\" ou \"midi\")",
   "essentiel": {
     "label": "L'essentiel du jour",
     "title": "TITRE de l'actu phare du jour (une phrase forte)",
