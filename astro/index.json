@@ -4,13 +4,11 @@
   "lessons": [
     {
       "n": 1,
-      "file": "astro/lessons/001-ce-que-regarde-l-astrophysique.json",
-      "title": "Regarder loin, c'est regarder dans le passé",
+      "file": "astro/lessons/001-ce-que-cherche-l-astrophysique.json",
+      "title": "Décrire, ou expliquer",
       "terms": [
         "Astrophysique",
-        "Année-lumière",
-        "Vitesse de la lumière",
-        "Temps de trajet"
+        "Universalité des lois physiques"
       ]
     }
   ]

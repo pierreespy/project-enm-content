@@ -160,16 +160,22 @@ celui qui distingue une véritable expertise d'une connaissance de surface.
 >    d'abord `astro/index.json` : la nouvelle leçon prend le numéro suivant et
 >    ne peut s'appuyer que sur les termes déjà définis. Le lecteur est juriste,
 >    sans formation scientifique : aucune équation, chaque terme défini à son
->    apparition, une seule idée par leçon.
+>    apparition, **une seule idée par leçon**. C'est un **mini-cours** : 2 à 3
+>    sections, 300 à 500 mots en tout, 2-3 minutes de lecture. Si le sujet
+>    déborde, coupe-le en deux leçons plutôt que d'allonger celle du jour.
 > 6. Lance `node scripts/publish.mjs AAAA-MM-JJ-<matin|midi>`, vérifie qu'il
 >    n'affiche aucune erreur (il joint la leçon en cours à `latest.json`), puis
 >    `git add -A && git commit -m "Édition du AAAA-MM-JJ (<matin|midi>)" && git push`.
 
 ## 🔭 Le cours d'astrophysique (une leçon par jour)
 
-L'appli a un troisième onglet, **Astrophysique** : un cours suivi, qui part de
-zéro et progresse d'une leçon par jour. Le lecteur est **juriste, sans aucune
-formation scientifique** — c'est la contrainte qui commande tout le reste.
+L'appli a un troisième onglet, **Astrophysique** : un **mini-cours** suivi, qui
+part de zéro et progresse d'une leçon par jour. Le lecteur est **juriste, sans
+aucune formation scientifique** — c'est la contrainte qui commande tout le reste.
+
+Ce cours mise sur la **régularité, pas sur le volume** : une notion par jour,
+2 à 3 minutes de lecture, tous les jours. Une leçon qu'on repousse au lendemain
+faute de temps est une leçon perdue — mieux vaut découper que condenser.
 
 ### Qui écrit, et quand
 
@@ -196,8 +202,14 @@ formation scientifique** — c'est la contrainte qui commande tout le reste.
 4. **On ne s'appuie que sur l'acquis.** Une leçon peut mobiliser librement les
    termes des leçons précédentes (voir `astro/index.json`), jamais ceux des
    suivantes.
-5. **Format** : 4 à 6 sections, 5 à 7 minutes de lecture, 3 à 5 `keyTerms`, un
-   `recap` de trois lignes maximum, un `next` qui annonce la leçon suivante.
+5. **Format court, contrôlé par le script** : 2 à 3 sections de 80 à 150 mots,
+   **300 à 500 mots en tout** (2-3 min de lecture), 1 à 3 `keyTerms`, un `recap`
+   d'une à deux phrases, un `next` qui annonce la leçon du lendemain. Le champ
+   `intro` est facultatif et le plus souvent inutile : on entre dans le sujet.
+   `publish.mjs` **avertit** au-delà de 520 mots ou 3 sections, et **refuse** la
+   publication au-delà de 700 mots ou 4 sections.
+   Si un sujet ne tient pas dans ce format, **coupe-le en deux leçons** — c'est
+   la bonne réponse, jamais la leçon longue.
 6. **Pas de fausse image.** Une métaphore qui induit en erreur (le trou noir qui
    « aspire », l'électron qui « tourne autour ») coûte plus cher qu'elle ne
    rapporte. Une analogie juridique bien vue est bienvenue, mais avec parcimonie
@@ -213,25 +225,36 @@ n'exige rien de non encore acquis) :
 
 | # | Leçon |
 | - | --- |
-| 1 | *(publiée)* Ce qu'étudie l'astrophysique · lumière · année-lumière · voir loin, c'est voir tôt |
-| 2 | Pourquoi une étoile brille : fusion et équilibre entre gravité et pression |
-| 3 | La gravité : masse, attraction, et pourquoi les astres tournent au lieu de tomber |
-| 4 | Décomposer la lumière : ce qu'un spectre révèle de la température et de la composition |
-| 5 | Le mouvement lu dans la lumière : effet Doppler et décalage vers le rouge |
-| 6 | Le système solaire : ce qu'il contient, et comment il s'est formé |
-| 7 | La naissance des étoiles : nuages de gaz et effondrement |
-| 8 | La mort des étoiles : naines blanches, supernovae, et la fabrique des éléments |
-| 9 | Objets compacts : étoiles à neutrons et trous noirs — ce qu'ils sont réellement |
-| 10 | Les galaxies, et la nôtre |
-| 11 | La matière noire : l'indice qui manque au dossier |
-| 12 | L'expansion de l'univers |
-| 13 | Le Big Bang et le rayonnement fossile |
-| 14 | Énergie noire et destin de l'univers |
-| 15 | Comment on observe aujourd'hui : télescopes, exoplanètes, ondes gravitationnelles |
+| 1 | *(publiée)* Décrire ou expliquer : astronomie, astrophysique, et le pari des lois universelles |
+| 2 | La lumière, seul témoin : ce qui nous parvient, et rien d'autre |
+| 3 | La lumière ne va pas infiniment vite |
+| 4 | L'année-lumière est une distance, pas une durée |
+| 5 | Voir loin, c'est voir tôt — et ce que cela interdit |
+| 6 | Ce qu'on voit vraiment dans le ciel : étoiles, planètes, ce qui les distingue |
+| 7 | Le système solaire en temps de trajet |
+| 8 | La gravité : qui attire quoi, et selon quelle règle |
+| 9 | Pourquoi les astres tournent au lieu de tomber |
+| 10 | Une étoile, c'est quoi : une boule de gaz qui tient debout |
+| 11 | Pourquoi une étoile brille : la fusion |
+| 12 | L'équilibre entre gravité et pression, et pourquoi il finit par céder |
+| 13 | La couleur d'une étoile dit sa température |
+| 14 | Décomposer la lumière : le spectre |
+| 15 | Les raies spectrales, signature des éléments |
+| 16 | L'effet Doppler : lire un mouvement dans la lumière |
+| 17 | Le décalage vers le rouge |
+| 18 | La naissance des étoiles : nuages de gaz et effondrement |
+| 19 | La mort des petites étoiles : naines blanches |
+| 20 | La mort des grosses : supernova |
+| 21 | D'où viennent les atomes dont nous sommes faits |
+| 22 | Étoiles à neutrons |
+| 23 | Trous noirs : ce qu'ils sont réellement, et ce qu'ils ne sont pas |
+| 24 | Les galaxies, et la nôtre |
 
-Au-delà de la 15e leçon, poursuis dans le même esprit — approfondissement des
-notions déjà posées, ou sujets nouveaux qu'elles rendent enfin accessibles — en
-gardant la même exigence de progressivité.
+Au-delà : matière noire, expansion de l'univers, Big Bang et rayonnement
+fossile, énergie noire, exoplanètes, instruments d'observation et ondes
+gravitationnelles — **à la même granularité**, une notion par jour. Puis, dans
+le même esprit : approfondissement des notions déjà posées, ou sujets nouveaux
+qu'elles rendent enfin accessibles.
 
 ## En cas d'erreur du script
 

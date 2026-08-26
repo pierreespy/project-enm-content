@@ -1,0 +1,32 @@
+{
+  "n": 1,
+  "title": "Décrire, ou expliquer",
+  "subtitle": "Ce qui sépare l'astronomie de l'astrophysique, et pourquoi cette science ne fait jamais d'expérience",
+  "duration": "3 min",
+  "sections": [
+    {
+      "h": "Deux gestes différents",
+      "body": "L'astronomie observe et décrit : où sont les astres, comment ils se déplacent, à quoi ils ressemblent. C'est la plus vieille science du monde, née du besoin de prévoir les saisons et de se repérer en mer. L'astrophysique fait autre chose. Elle applique à ces mêmes objets les lois de la physique ordinaire — celles de la chaleur, de la gravité, de la lumière — pour expliquer non plus comment ils se comportent, mais pourquoi. Pourquoi une étoile brille. Pourquoi elle finit par s'éteindre. Pourquoi une galaxie tourne à cette vitesse-là et pas à une autre."
+    },
+    {
+      "h": "Une science sans expérience",
+      "body": "Vous connaissez professionnellement cette contrainte : on ne peut pas rejouer les faits. L'astrophysicien non plus. Il n'allume pas une étoile pour voir ce qui se passe, il ne fait pas entrer deux galaxies en collision pour vérifier une hypothèse. Il ne dispose que de ce qui lui parvient, et doit remonter de la trace au fait. Toute la discipline est donc une science de l'indice : on reçoit un signal, on en infère un objet, une composition, une histoire. Sa rigueur ne tient pas à la maîtrise de l'objet — elle est nulle — mais à la qualité du raisonnement qui va de la trace à sa cause."
+    },
+    {
+      "h": "Le pari qu'elle fait",
+      "body": "Reste une hypothèse de départ, si énorme qu'on l'oublie : supposer que les lois vérifiées dans un laboratoire terrestre valent aussi à des milliards de milliards de kilomètres, et il y a des milliards d'années. Rien ne l'imposait. C'est un pari, formulé au XVIIᵉ siècle et jamais démenti depuis : chaque fois qu'on a pu le tester — la chute d'une pomme et l'orbite de la Lune obéissant à la même règle, le fer du ciel se comportant comme celui d'ici — il a tenu. C'est cette universalité supposée qui autorise tout le reste."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Astrophysique",
+      "def": "Application des lois de la physique aux objets célestes, pour expliquer leur nature et leur évolution — là où l'astronomie se borne à les observer et les décrire."
+    },
+    {
+      "term": "Universalité des lois physiques",
+      "def": "Hypothèse fondatrice selon laquelle les lois vérifiées sur Terre valent partout et à toute époque de l'univers."
+    }
+  ],
+  "recap": "L'astronomie décrit le ciel, l'astrophysique l'explique. Elle n'expérimente jamais : elle raisonne sur des indices, en pariant que la physique d'ici vaut partout.",
+  "next": "Demain — la lumière, seul témoin dont nous disposions."
+}

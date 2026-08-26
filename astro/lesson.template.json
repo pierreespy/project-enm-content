@@ -1,15 +1,15 @@
 {
-  "n": "(numéro de la leçon — entier, suite de la précédente)",
-  "title": "Titre de la leçon (une idée, pas un programme)",
-  "subtitle": "Sous-titre d'une ligne qui annonce ce qu'on va comprendre",
-  "duration": "6 min",
-  "intro": "Deux ou trois phrases : ce que la leçon suppose acquis, ce qu'elle va apporter.",
+  "n": "(numéro de la leçon — entier, suite exacte de la précédente)",
+  "title": "Titre court : l'idée du jour, pas un programme",
+  "subtitle": "Une ligne qui précise ce qu'on va comprendre",
+  "duration": "1 min",
   "sections": [
-    { "h": "Titre de section", "body": "Un paragraphe. Chaque terme technique est défini au moment où il apparaît." }
+    { "h": "Titre de section", "body": "60 à 90 mots. Chaque terme technique est défini au moment où il apparaît." },
+    { "h": "Titre de section", "body": "Deux sections suffisent presque toujours. Trois au maximum." }
   ],
   "keyTerms": [
     { "term": "Terme", "def": "Définition en une phrase, réutilisable telle quelle dans les leçons suivantes." }
   ],
-  "recap": "Trois lignes maximum : ce qu'il faut avoir retenu, et rien d'autre.",
-  "next": "Prochaine leçon — annonce en une ligne."
+  "recap": "Une phrase. Ce qu'il faut avoir retenu, rien d'autre.",
+  "next": "Demain — annonce en une ligne."
 }

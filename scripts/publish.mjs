@@ -41,6 +41,13 @@ const SLOT_RANK = { '': 0, matin: 1, midi: 2 };
 // Cours d'astrophysique : astro/lessons/<NNN>-<slug>.json, une leçon par jour.
 // Les leçons ne sont jamais purgées — le cours est cumulatif.
 const LESSON_FILE_RE = /^(\d{3})-[a-z0-9-]+\.json$/;
+// Format « mini-cours » : une notion par jour, 2 à 3 minutes de lecture. Les
+// seuils souples avertissent, les seuils durs refusent la publication — le pari
+// du cours est la régularité, pas le volume.
+const LESSON_SECTIONS_SOFT = 3;
+const LESSON_SECTIONS_HARD = 4;
+const LESSON_WORDS_SOFT = 520;
+const LESSON_WORDS_HARD = 700;
 
 // Fixed order + chip colours for the 6 rubriques — enforced so the visual
 // identity never drifts, whatever the routine produces.
@@ -67,6 +74,14 @@ function parseSlug(slug) {
   return m ? { date: m[1], slot: m[2] ?? '' } : null;
 }
 
+const wordCount = (str) => (str ? str.trim().split(/\s+/).length : 0);
+
+/** Longueur d'une leçon, telle que la lit le lecteur (hors vocabulaire). */
+function lessonWords(l) {
+  const body = (l.sections ?? []).reduce((n, s) => n + wordCount(s?.h) + wordCount(s?.body), 0);
+  return body + wordCount(l.intro) + wordCount(l.recap);
+}
+
 /** Contrôle minimal d'une leçon — même esprit que validate() pour l'édition. */
 function validateLesson(l, file) {
   const errs = [];
@@ -78,8 +93,18 @@ function validateLesson(l, file) {
     l.sections.forEach((sec, i) => {
       if (!sec?.h || !sec?.body) errs.push(`${file}: sections[${i}] incomplète`);
     });
+    if (l.sections.length > LESSON_SECTIONS_HARD) {
+      errs.push(`${file}: ${l.sections.length} sections — ${LESSON_SECTIONS_HARD} au maximum (mini-cours)`);
+    }
+  }
+  if (Array.isArray(l?.keyTerms) && l.keyTerms.length > 3) {
+    errs.push(`${file}: ${l.keyTerms.length} keyTerms — 3 au maximum`);
   }
   if (!l?.recap) errs.push(`${file}: recap manquant`);
+  const words = lessonWords(l ?? {});
+  if (words > LESSON_WORDS_HARD) {
+    errs.push(`${file}: ${words} mots — ${LESSON_WORDS_HARD} au maximum (mini-cours de 2 à 3 minutes)`);
+  }
   return errs;
 }
 
@@ -97,6 +122,11 @@ function collectLessons() {
     const numbered = Number(LESSON_FILE_RE.exec(f)[1]);
     if (numbered !== l.n) {
       fail(`astro/lessons/${f} : le numéro du fichier (${numbered}) ne correspond pas à n=${l.n}`);
+    }
+    const words = lessonWords(l);
+    if (words > LESSON_WORDS_SOFT || l.sections.length > LESSON_SECTIONS_SOFT) {
+      console.warn(`! astro/lessons/${f} : ${words} mots / ${l.sections.length} sections`
+        + ` — la cible est ~${LESSON_WORDS_SOFT} mots et ${LESSON_SECTIONS_SOFT} sections`);
     }
     return { file: `astro/lessons/${f}`, lesson: l };
   });
