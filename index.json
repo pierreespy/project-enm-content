@@ -1,9 +1,26 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
+  "updatedSlot": "matin",
   "count": 15,
   "editions": [
     {
+      "date": "2026-08-26",
+      "slot": "matin",
+      "file": "editions/2026-08-26-matin.json",
+      "essentiel": "Évasion du tribunal de Tarbes en pleine énonciation de peine : le militaire fugitif condamné à 8 mois de prison",
+      "term": "Substitution de motifs",
+      "rubriques": [
+        "Plan national loup : un décret du 24 août 2026 renforce les pouvoirs du préfet coordonnateur sur les tirs de défense",
+        "Cautionnement disproportionné : un engagement de caution arrivé à échéance reste compté dans l'endettement du garant",
+        "Une thèse nantaise interroge la manière dont les nouvelles techniques de gestion des ressources humaines rebattent le droit du travail",
+        "26 août 1920 : le dix-neuvième amendement consacre le droit de vote des femmes aux États-Unis",
+        "Facturation électronique : le CNB lance sa plateforme e-Facturation à destination des cabinets d'avocats",
+        "Météo : trente départements du nord-ouest placés en vigilance orage ce mercredi 26 août"
+      ]
+    },
+    {
       "date": "2026-08-25",
+      "slot": null,
       "file": "editions/2026-08-25.json",
       "essentiel": "Mort de l'influenceuse Sonia Bellina dans le Gard : un homme de 32 ans mis en examen pour assassinat et placé en détention provisoire",
       "term": "Coemploi",
@@ -18,6 +35,7 @@
     },
     {
       "date": "2026-08-24",
+      "slot": null,
       "file": "editions/2026-08-24.json",
       "essentiel": "Sucy-en-Brie : un homme soupçonné d'avoir tué sa mère placé en garde à vue pour homicide volontaire sur ascendant",
       "term": "Rescision pour lésion",
@@ -32,6 +50,7 @@
     },
     {
       "date": "2026-08-22",
+      "slot": null,
       "file": "editions/2026-08-22.json",
       "essentiel": "Affaire Le Scouarnec : le parquet de Lorient ouvre une information judiciaire pour 10 nouveaux viols et 40 agressions sexuelles",
       "term": "Acte anormal de gestion",
@@ -46,6 +65,7 @@
     },
     {
       "date": "2026-08-21",
+      "slot": null,
       "file": "editions/2026-08-21.json",
       "essentiel": "Cambriolage du musée Jacques Chirac : le parquet de Lyon se saisit de l'enquête sur le vol des souvenirs de la Coupe du monde 1998",
       "term": "Quasi-usufruit",
@@ -60,6 +80,7 @@
     },
     {
       "date": "2026-08-20",
+      "slot": null,
       "file": "editions/2026-08-20.json",
       "essentiel": "Aide à mourir : le Conseil constitutionnel valide la loi avec trois réserves d'interprétation",
       "term": "Excuse absolutoire",
@@ -74,6 +95,7 @@
     },
     {
       "date": "2026-08-19",
+      "slot": null,
       "file": "editions/2026-08-19.json",
       "essentiel": "Licenciement pour faute lourde en Nouvelle-Calédonie : le Conseil constitutionnel censure la privation d'indemnité de congés payés",
       "term": "Déchéance quadriennale",
@@ -88,6 +110,7 @@
     },
     {
       "date": "2026-08-18",
+      "slot": null,
       "file": "editions/2026-08-18.json",
       "essentiel": "Cyberattaque à la DGFiP : plus de 678 000 contribuables victimes d'une fuite massive de données fiscales",
       "term": "Obligation in solidum",
@@ -102,6 +125,7 @@
     },
     {
       "date": "2026-08-17",
+      "slot": null,
       "file": "editions/2026-08-17.json",
       "essentiel": "Dommage corporel : l'Assemblée plénière neutralise la faute de la victime que l'organisateur professionnel n'a pas informée des consignes de sécurité",
       "term": "Stellionat",
@@ -116,6 +140,7 @@
     },
     {
       "date": "2026-08-16",
+      "slot": null,
       "file": "editions/2026-08-16.json",
       "essentiel": "Immobilier de l'État : le Conseil constitutionnel valide la loi créant un nouvel établissement public foncier",
       "term": "Sûreté réelle pour autrui",
@@ -130,6 +155,7 @@
     },
     {
       "date": "2026-08-15",
+      "slot": null,
       "file": "editions/2026-08-15.json",
       "essentiel": "Interdiction des réseaux sociaux aux moins de 15 ans : le Conseil constitutionnel censure la loi Miller",
       "term": "Théorie de l'écran législatif",
@@ -144,6 +170,7 @@
     },
     {
       "date": "2026-08-14",
+      "slot": null,
       "file": "editions/2026-08-14.json",
       "essentiel": "Investissements étrangers stratégiques : le seuil de contrôle abaissé de 25 % à 10 % pour les sociétés cotées",
       "term": "Ultra petita",
@@ -158,6 +185,7 @@
     },
     {
       "date": "2026-08-13",
+      "slot": null,
       "file": "editions/2026-08-13.json",
       "essentiel": "Généalogie génétique en enquête pénale : le Conseil constitutionnel censure le dispositif de la loi justice criminelle du 23 juillet 2026",
       "term": "Purge des hypothèques",
@@ -172,6 +200,7 @@
     },
     {
       "date": "2026-08-12",
+      "slot": null,
       "file": "editions/2026-08-12.json",
       "essentiel": "Démarchage téléphonique : le régime du consentement préalable remplace définitivement Bloctel depuis le 11 août 2026",
       "term": "Fiducie-sûreté",
@@ -186,6 +215,7 @@
     },
     {
       "date": "2026-08-11",
+      "slot": null,
       "file": "editions/2026-08-11.json",
       "essentiel": "Intérim médical et paramédical : le Conseil d'État censure partiellement le plafonnement des dépenses des hôpitaux",
       "term": "Forclusion",
@@ -196,20 +226,6 @@
         "11 août 1960 : le jour où le Tchad accède à l'indépendance",
         "Cours criminelles départementales : la loi du 9 juillet 2026 ouvre deux des cinq sièges à des juges honoraires ou anciens avocats",
         "Culture coréenne : taekwondo et danse traditionnelle s'installent sur le parvis de la mairie du 15e arrondissement de Paris"
-      ]
-    },
-    {
-      "date": "2026-08-10",
-      "file": "editions/2026-08-10.json",
-      "essentiel": "Intelligence artificielle : le règlement européen AI Act durcit ses obligations de transparence depuis le 2 août 2026",
-      "term": "Théorie du bilan",
-      "rubriques": [
-        "Ports de plaisance : un décret autorise un nouveau traitement de données personnelles pour la collecte d'informations sur les usagers",
-        "Droit au logement opposable : le Conseil d'État enjoint au ministre du logement de faire exécuter une décision d'hébergement",
-        "Une thèse lilloise plaide pour un renforcement du contrôle des mouvements transfrontières de déchets dangereux",
-        "10 août 1792 : le jour où l'insurrection parisienne a fait tomber la monarchie constitutionnelle",
-        "Greffes : le service d'accueil unique du justiciable s'étend aux cours d'appel à compter du 1er septembre 2026",
-        "Championnats d'Europe de natation : la natation course débute ce 10 août au Centre aquatique olympique de Saint-Denis"
       ]
     }
   ]
