@@ -64,28 +64,28 @@
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Astreinte comminatoire",
-    "subtitle": "Procédure civile d'exécution · articles L. 131-1 et suivants du code des procédures civiles d'exécution",
-    "defShort": "Somme d'argent que le juge condamne un débiteur récalcitrant à payer par unité de temps de retard, à titre purement comminatoire (menaçant) et provisoire, pour le contraindre à exécuter une décision de justice — par opposition à l'astreinte définitive, fixée une fois pour toutes.",
+    "term": "Réitération d'infractions",
+    "subtitle": "Le troisième régime, entre le concours réel et la récidive légale",
+    "defShort": "Situation d'une personne déjà condamnée définitivement pour un crime ou un délit, qui commet une nouvelle infraction sans que les conditions strictes de la récidive légale soient réunies. Ni concours d'infractions, ni récidive : un régime propre, dont la conséquence tient à la peine.",
     "fiche": [
       {
-        "h": "En bref",
-        "body": "L'astreinte comminatoire est une mesure de pression pécuniaire prononcée par le juge pour vaincre la résistance d'un débiteur qui refuse d'exécuter une obligation de faire ou de ne pas faire : elle ne répare aucun préjudice, elle menace."
+        "h": "Définition légale",
+        "body": "L'article 132-16-7 du code pénal, issu de la loi du 12 décembre 2005 relative au traitement de la récidive, vise la personne « qui a déjà été condamnée définitivement pour un crime ou un délit et commet une nouvelle infraction qui ne répond pas aux conditions de la récidive légale ». La réitération est donc définie négativement : elle recueille ce que la récidive laisse de côté."
       },
       {
-        "h": "Fondement",
-        "body": "Elle trouve son fondement dans les articles L. 131-1 à L. 131-4 du code des procédures civiles d'exécution, issus de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, qui distingue l'astreinte provisoire (dite comminatoire) de l'astreinte définitive."
+        "h": "Ce qui la distingue de la récidive",
+        "body": "La récidive légale exige un lien précis entre les deux termes : identité ou assimilation des infractions, et respect du délai prévu selon les cas. Faute de l'une de ces conditions — infractions étrangères l'une à l'autre, délai expiré —, il n'y a pas récidive, mais réitération. La différence est lourde : la récidive double le maximum encouru, la réitération non. Le second terme reste puni des peines normalement prévues pour l'infraction commise."
       },
       {
-        "h": "Cas visés",
-        "body": "Sauf si le juge l'a expressément qualifiée de définitive, toute astreinte est présumée provisoire : son montant n'est jamais figé, il est liquidé — c'est-à-dire calculé en fonction du retard effectivement constaté — par le juge de l'exécution, qui peut le moduler à la hausse ou à la baisse selon le comportement du débiteur, voire le supprimer en cas de cause étrangère."
+        "h": "Ce qui la distingue du concours réel",
+        "body": "Le concours réel (art. 132-2 CP) suppose que les infractions aient été commises avant toute condamnation définitive : leurs peines ne se cumulent alors que dans la limite du maximum légal le plus élevé. En réitération, la première condamnation est déjà définitive quand la seconde infraction est commise. L'article 132-16-7, alinéa 2, en tire la conséquence : les peines prononcées pour l'infraction commise en réitération se cumulent sans limitation avec celles définitivement prononcées, et sans confusion possible."
       },
       {
-        "h": "Portée",
-        "body": "Cette modulation la distingue radicalement de l'astreinte définitive, dont le montant liquidé ne peut, sauf circonstances exceptionnelles, être modifié par le juge : la comminatoire laisse ainsi une marge d'appréciation qui en fait l'instrument normal de l'exécution forcée, l'astreinte définitive restant l'exception réservée aux hypothèses où le juge l'a expressément décidée."
+        "h": "Portée pratique",
+        "body": "La réitération n'a pas à être relevée dans la poursuite comme doit l'être l'état de récidive : elle ne modifie pas le quantum encouru. Elle joue sur le terrain de l'exécution — cumul intégral des peines — et sur celui de la personnalisation, la juridiction tenant compte du passé judiciaire au titre de l'article 132-1. D'où l'intérêt, en défense, de vérifier si le parquet a qualifié à bon droit la récidive : la faire retomber en réitération, c'est ramener le maximum encouru à son niveau ordinaire."
       }
     ],
-    "seeAlso": "Voir aussi — astreinte définitive · liquidation de l'astreinte · juge de l'exécution · exécution forcée"
+    "seeAlso": "Voir aussi — récidive légale (art. 132-8 s.) · concours réel d'infractions (art. 132-2) · confusion des peines (art. 132-4)"
   },
   "date": "2026-08-26",
   "dateShort": "26 août",

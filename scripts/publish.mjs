@@ -13,6 +13,7 @@
 //   1. validates that file against the schema,
 //   2. normalizes its `date` / `dateShort` / `slot` to match the filename,
 //   3. copies it to latest.json           ← the app's fixed mailbox address,
+//      en y joignant la leçon d'astrophysique en cours (astro/lessons/),
 //   4. prunes editions/ older than 15 days (relative to this edition's date),
 //   5. rebuilds index.json                ← the dedup ledger the routine reads.
 //
@@ -26,6 +27,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const EDITIONS_DIR = join(ROOT, 'editions');
+const LESSONS_DIR = join(ROOT, 'astro', 'lessons');
 const RETENTION_DAYS = 15;
 
 const FR_MONTHS = ['janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin',
@@ -36,6 +38,9 @@ const EDITION_FILE_RE = /^\d{4}-\d{2}-\d{2}(?:-(?:matin|midi))?\.json$/;
 // Ordre de publication d'une même journée : ancien fichier sans créneau, puis
 // matin, puis midi — sert à trier index.json du plus récent au plus ancien.
 const SLOT_RANK = { '': 0, matin: 1, midi: 2 };
+// Cours d'astrophysique : astro/lessons/<NNN>-<slug>.json, une leçon par jour.
+// Les leçons ne sont jamais purgées — le cours est cumulatif.
+const LESSON_FILE_RE = /^(\d{3})-[a-z0-9-]+\.json$/;
 
 // Fixed order + chip colours for the 6 rubriques — enforced so the visual
 // identity never drifts, whatever the routine produces.
@@ -60,6 +65,54 @@ function dateShortFr(iso) {
 function parseSlug(slug) {
   const m = SLUG_RE.exec(slug);
   return m ? { date: m[1], slot: m[2] ?? '' } : null;
+}
+
+/** Contrôle minimal d'une leçon — même esprit que validate() pour l'édition. */
+function validateLesson(l, file) {
+  const errs = [];
+  if (typeof l?.n !== 'number') errs.push(`${file}: n manquant ou non numérique`);
+  if (!l?.title) errs.push(`${file}: title manquant`);
+  if (!Array.isArray(l?.sections) || l.sections.length < 1) {
+    errs.push(`${file}: sections doit être un tableau non vide`);
+  } else {
+    l.sections.forEach((sec, i) => {
+      if (!sec?.h || !sec?.body) errs.push(`${file}: sections[${i}] incomplète`);
+    });
+  }
+  if (!l?.recap) errs.push(`${file}: recap manquant`);
+  return errs;
+}
+
+/**
+ * Lit toutes les leçons, vérifie la numérotation, renvoie la plus récente
+ * (le plus grand `n`) et le registre à écrire dans astro/index.json.
+ */
+function collectLessons() {
+  if (!existsSync(LESSONS_DIR)) return { current: null, ledger: [] };
+  const files = readdirSync(LESSONS_DIR).filter((f) => LESSON_FILE_RE.test(f)).sort();
+  const lessons = files.map((f) => {
+    const l = JSON.parse(readFileSync(join(LESSONS_DIR, f), 'utf8'));
+    const errs = validateLesson(l, `astro/lessons/${f}`);
+    if (errs.length) fail('leçon invalide :\n  - ' + errs.join('\n  - '));
+    const numbered = Number(LESSON_FILE_RE.exec(f)[1]);
+    if (numbered !== l.n) {
+      fail(`astro/lessons/${f} : le numéro du fichier (${numbered}) ne correspond pas à n=${l.n}`);
+    }
+    return { file: `astro/lessons/${f}`, lesson: l };
+  });
+  lessons.sort((a, b) => a.lesson.n - b.lesson.n);
+  lessons.forEach(({ lesson }, i) => {
+    if (lesson.n !== i + 1) fail(`numérotation des leçons discontinue : attendu ${i + 1}, trouvé ${lesson.n}`);
+  });
+  return {
+    current: lessons.length ? lessons[lessons.length - 1].lesson : null,
+    ledger: lessons.map(({ file, lesson }) => ({
+      n: lesson.n,
+      file,
+      title: lesson.title,
+      terms: Array.isArray(lesson.keyTerms) ? lesson.keyTerms.map((t) => t.term) : [],
+    })),
+  };
 }
 
 function validate(e) {
@@ -122,8 +175,18 @@ edition.rubriques.forEach((r, i) => {
 });
 write(editionPath, edition);
 
-// Publish to the mailbox.
-write(join(ROOT, 'latest.json'), edition);
+// Publish to the mailbox — l'édition du jour, plus la leçon d'astrophysique en
+// cours. La leçon vit hors des éditions (cours cumulatif, jamais purgé) : elle
+// est jointe ici pour que l'appli n'ait toujours qu'un seul fichier à relever.
+const { current: lesson, ledger } = collectLessons();
+write(join(ROOT, 'latest.json'), lesson ? { ...edition, astro: lesson } : edition);
+if (ledger.length) {
+  write(join(ROOT, 'astro', 'index.json'), {
+    updated: date,
+    count: ledger.length,
+    lessons: ledger,
+  });
+}
 
 // Prune editions older than RETENTION_DAYS, measured from this edition's date
 // (deterministic — no reliance on the wall clock).
@@ -165,5 +228,7 @@ write(join(ROOT, 'index.json'), {
 });
 
 console.log(`✓ published ${slug} → latest.json`);
+if (lesson) console.log(`✓ leçon d'astrophysique n°${lesson.n} jointe (${ledger.length} au total)`);
+else console.log("! aucune leçon d'astrophysique trouvée — latest.json est publié sans");
 console.log(`✓ index.json rebuilt (${editions.length} edition(s) in the last ${RETENTION_DAYS} days)`);
 if (pruned.length) console.log(`✓ pruned ${pruned.length} old edition(s): ${pruned.join(', ')}`);

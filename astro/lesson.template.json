@@ -1,0 +1,15 @@
+{
+  "n": "(numéro de la leçon — entier, suite de la précédente)",
+  "title": "Titre de la leçon (une idée, pas un programme)",
+  "subtitle": "Sous-titre d'une ligne qui annonce ce qu'on va comprendre",
+  "duration": "6 min",
+  "intro": "Deux ou trois phrases : ce que la leçon suppose acquis, ce qu'elle va apporter.",
+  "sections": [
+    { "h": "Titre de section", "body": "Un paragraphe. Chaque terme technique est défini au moment où il apparaît." }
+  ],
+  "keyTerms": [
+    { "term": "Terme", "def": "Définition en une phrase, réutilisable telle quelle dans les leçons suivantes." }
+  ],
+  "recap": "Trois lignes maximum : ce qu'il faut avoir retenu, et rien d'autre.",
+  "next": "Prochaine leçon — annonce en une ligne."
+}

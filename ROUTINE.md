@@ -68,10 +68,14 @@ l'ordre imposé, un mot du jour.
    - Ne pas remplir `date` / `dateShort` / `slot` : le script s'en charge.
 4. **Écrire** le résultat dans `editions/AAAA-MM-JJ-<matin|midi>.json`
    (date du jour, ISO).
-5. **Publier** : `node scripts/publish.mjs AAAA-MM-JJ-<matin|midi>`
-   (copie vers `latest.json`, reconstruit `index.json`, purge > 15 jours,
-   normalise `date`/`dateShort`/`slot` et fige les couleurs de rubriques).
-6. **Committer et pousser** :
+5. **Créneau `matin` uniquement** — écrire la leçon d'astrophysique du jour
+   (voir « Le cours d'astrophysique » ci-dessous). Le créneau `midi` saute
+   cette étape.
+6. **Publier** : `node scripts/publish.mjs AAAA-MM-JJ-<matin|midi>`
+   (copie vers `latest.json` avec la leçon en cours, reconstruit `index.json`
+   et `astro/index.json`, purge > 15 jours, normalise `date`/`dateShort`/`slot`
+   et fige les couleurs de rubriques).
+7. **Committer et pousser** :
    ```bash
    git add -A
    git commit -m "Édition du AAAA-MM-JJ (matin)"   # ou (midi)
@@ -149,9 +153,85 @@ celui qui distingue une véritable expertise d'une connaissance de surface.
 >    d'une édition à l'autre. Chaque item a une URL de source réelle. Ne renseigne
 >    pas `date` / `dateShort` / `slot`.
 > 4. Écris le tout dans `editions/AAAA-MM-JJ-<matin|midi>.json`.
-> 5. Lance `node scripts/publish.mjs AAAA-MM-JJ-<matin|midi>`, vérifie qu'il
->    n'affiche aucune erreur, puis
+> 5. **Si et seulement si tu produis l'édition du `matin`** : écris aussi la
+>    leçon d'astrophysique du jour dans `astro/lessons/<NNN>-<slug>.json`, en
+>    suivant `astro/lesson.template.json`, la progression et les règles
+>    d'écriture de la section « Le cours d'astrophysique » de ce document. Lis
+>    d'abord `astro/index.json` : la nouvelle leçon prend le numéro suivant et
+>    ne peut s'appuyer que sur les termes déjà définis. Le lecteur est juriste,
+>    sans formation scientifique : aucune équation, chaque terme défini à son
+>    apparition, une seule idée par leçon.
+> 6. Lance `node scripts/publish.mjs AAAA-MM-JJ-<matin|midi>`, vérifie qu'il
+>    n'affiche aucune erreur (il joint la leçon en cours à `latest.json`), puis
 >    `git add -A && git commit -m "Édition du AAAA-MM-JJ (<matin|midi>)" && git push`.
+
+## 🔭 Le cours d'astrophysique (une leçon par jour)
+
+L'appli a un troisième onglet, **Astrophysique** : un cours suivi, qui part de
+zéro et progresse d'une leçon par jour. Le lecteur est **juriste, sans aucune
+formation scientifique** — c'est la contrainte qui commande tout le reste.
+
+### Qui écrit, et quand
+
+- **Seul le créneau `matin` écrit une nouvelle leçon.** Le créneau `midi` n'en
+  écrit aucune : `publish.mjs` rejoint automatiquement la leçon en cours à
+  `latest.json` à chaque publication. Une journée = une leçon.
+- Fichier : `astro/lessons/<NNN>-<slug>.json` — numéro sur 3 chiffres, **suite
+  exacte** de la précédente (`002`, `003`…), slug en minuscules sans accents.
+  Le champ `n` doit valoir le même numéro : le script refuse toute discontinuité.
+- Schéma : `astro/lesson.template.json`. Les leçons ne sont **jamais purgées**,
+  le cours est cumulatif.
+- `astro/index.json` (reconstruit par le script) liste les leçons publiées et
+  **tous les termes déjà définis**. Lis-le avant d'écrire : c'est ce que le
+  lecteur est censé savoir, et ce que tu peux donc réutiliser sans redéfinir.
+
+### Règles d'écriture — non négociables
+
+1. **Aucun prérequis scientifique.** Pas d'équation, pas de notation, pas de
+   symbole. Les chiffres servent à donner des ordres de grandeur, jamais à
+   calculer. Si une idée exige un outil mathématique, elle attend son tour.
+2. **Chaque terme technique est défini au moment où il apparaît**, en une
+   phrase, dans le corps du texte — puis repris dans `keyTerms`.
+3. **Une leçon = une idée.** Mieux vaut une notion comprise que trois survolées.
+4. **On ne s'appuie que sur l'acquis.** Une leçon peut mobiliser librement les
+   termes des leçons précédentes (voir `astro/index.json`), jamais ceux des
+   suivantes.
+5. **Format** : 4 à 6 sections, 5 à 7 minutes de lecture, 3 à 5 `keyTerms`, un
+   `recap` de trois lignes maximum, un `next` qui annonce la leçon suivante.
+6. **Pas de fausse image.** Une métaphore qui induit en erreur (le trou noir qui
+   « aspire », l'électron qui « tourne autour ») coûte plus cher qu'elle ne
+   rapporte. Une analogie juridique bien vue est bienvenue, mais avec parcimonie
+   — le lecteur veut apprendre l'astrophysique, pas relire du droit.
+7. **Ton** : sobre et adulte, celui de la veille juridique. Ni familier, ni
+   émerveillé, ni professoral.
+
+### Progression prévue
+
+Le fil directeur, à suivre sauf raison de s'en écarter (une actualité
+astronomique majeure peut justifier une leçon hors série, à condition qu'elle
+n'exige rien de non encore acquis) :
+
+| # | Leçon |
+| - | --- |
+| 1 | *(publiée)* Ce qu'étudie l'astrophysique · lumière · année-lumière · voir loin, c'est voir tôt |
+| 2 | Pourquoi une étoile brille : fusion et équilibre entre gravité et pression |
+| 3 | La gravité : masse, attraction, et pourquoi les astres tournent au lieu de tomber |
+| 4 | Décomposer la lumière : ce qu'un spectre révèle de la température et de la composition |
+| 5 | Le mouvement lu dans la lumière : effet Doppler et décalage vers le rouge |
+| 6 | Le système solaire : ce qu'il contient, et comment il s'est formé |
+| 7 | La naissance des étoiles : nuages de gaz et effondrement |
+| 8 | La mort des étoiles : naines blanches, supernovae, et la fabrique des éléments |
+| 9 | Objets compacts : étoiles à neutrons et trous noirs — ce qu'ils sont réellement |
+| 10 | Les galaxies, et la nôtre |
+| 11 | La matière noire : l'indice qui manque au dossier |
+| 12 | L'expansion de l'univers |
+| 13 | Le Big Bang et le rayonnement fossile |
+| 14 | Énergie noire et destin de l'univers |
+| 15 | Comment on observe aujourd'hui : télescopes, exoplanètes, ondes gravitationnelles |
+
+Au-delà de la 15e leçon, poursuis dans le même esprit — approfondissement des
+notions déjà posées, ou sujets nouveaux qu'elles rendent enfin accessibles — en
+gardant la même exigence de progressivité.
 
 ## En cas d'erreur du script
 
