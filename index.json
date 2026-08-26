@@ -1,8 +1,23 @@
 {
   "updated": "2026-08-26",
-  "updatedSlot": "matin",
-  "count": 15,
+  "updatedSlot": "midi",
+  "count": 16,
   "editions": [
+    {
+      "date": "2026-08-26",
+      "slot": "midi",
+      "file": "editions/2026-08-26-midi.json",
+      "essentiel": "Sérophobie : deux hommes en grève de la faim devant le tribunal judiciaire de Reims réclament une réponse pénale",
+      "term": "Astreinte comminatoire",
+      "rubriques": [
+        "Conseil d'État : un décret du 25 août 2026 précise les règles de présidence des sections et de la commission permanente",
+        "Accident du travail : la chambre sociale confirme l'irrecevabilité de l'action prud'homale fondée sur un manquement à l'obligation de sécurité",
+        "La CNCDH adopte un avis pour une conception des services numériques respectueuse des droits humains",
+        "26 août 1648 : la Journée des Barricades, quand l'arrestation d'un conseiller au Parlement de Paris embrase la capitale",
+        "Justice pénale numérique : soixante-dix tribunaux judiciaires certifiés « Tribunal pénal numérique » en 2026, contre trente en 2025",
+        "Ligue des champions : Lyon reçoit Fenerbahçe ce mercredi soir pour une qualification jouée sur un fil"
+      ]
+    },
     {
       "date": "2026-08-26",
       "slot": "matin",
