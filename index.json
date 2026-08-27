@@ -1,8 +1,23 @@
 {
   "updated": "2026-08-27",
-  "updatedSlot": "matin",
-  "count": 16,
+  "updatedSlot": "midi",
+  "count": 17,
   "editions": [
+    {
+      "date": "2026-08-27",
+      "slot": "midi",
+      "file": "editions/2026-08-27-midi.json",
+      "essentiel": "Caen : une voiture fonce sur des piétons près de la gare, deux morts, la piste terroriste écartée à ce stade",
+      "term": "Fongibilité asymétrique",
+      "rubriques": [
+        "Demandeurs d'asile : un décret du 24 août 2026 modifie les règles des conditions matérielles d'accueil",
+        "Licenciements économiques : la contestation de l'expertise CSE ne suspend pas le délai d'un mois de consultation",
+        "Une thèse lyonnaise sécurise juridiquement les relations commerciales entre PME françaises et iraniennes",
+        "27 août 1928 : le pacte Briand-Kellogg met solennellement la guerre hors-la-loi",
+        "Formation continue des avocats : le CNB soumet à la concertation un avant-projet de réforme",
+        "Météo : l'Île-de-France placée en vigilance orange orages ce jeudi 27 août en fin d'après-midi"
+      ]
+    },
     {
       "date": "2026-08-27",
       "slot": "matin",

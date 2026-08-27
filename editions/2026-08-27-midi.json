@@ -89,33 +89,5 @@
   },
   "date": "2026-08-27",
   "dateShort": "27 août",
-  "slot": "midi",
-  "astro": {
-    "n": 2,
-    "title": "La lumière, seul témoin",
-    "subtitle": "Tout ce que l'astrophysique sait, elle le sait par un seul canal — ce qui l'informe autant que ce qui la limite",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Ce qu'on ne fait jamais",
-        "body": "On n'est jamais allé sur une étoile, et on n'ira jamais toucher une galaxie. Même les sondes les plus lointaines envoyées par l'homme n'ont exploré qu'un voisinage minuscule du Soleil — rien à l'échelle des distances dont parle l'astrophysique. Pour la quasi-totalité de ce qu'elle étudie, cette science ne dispose donc d'aucun échantillon, d'aucun contact, d'aucune visite. Elle reçoit seulement de la lumière : l'ensemble des rayonnements qu'un astre émet ou renvoie, visibles à l'œil ou non — la lumière du Soleil comme les ondes radio ou les rayons X captés par certains télescopes. C'est tout ce qui voyage jusqu'à nous, et c'est tout ce sur quoi elle peut travailler."
-      },
-      {
-        "h": "Un canal obligé, pas un choix",
-        "body": "Ce n'est pas une méthode qu'on aurait pu remplacer par une autre : rien d'autre ne fait le trajet. Aucune matière, aucune force ne relie un observateur sur Terre à une étoile à mille années-lumière — seule la lumière parcourt cette distance et finit, parfois, par atteindre un instrument. Étudier un astre, c'est donc toujours intercepter un signal qui existait déjà avant qu'on le reçoive, jamais provoquer ou interroger l'objet lui-même. Le travail de l'astrophysicien commence après que tout s'est joué là-bas."
-      },
-      {
-        "h": "Ce que cela impose",
-        "body": "Cette dépendance totale a une conséquence directe : on ne peut connaître d'un astre que ce que sa lumière transporte, et rien de plus. Pas de question posée à l'objet, pas de mesure prise sur place — seulement ce qu'un rayonnement déjà en route veut bien révéler, une fois décodé. Les leçons qui suivent partent de cette contrainte : d'abord parce que ce messager met du temps à nous parvenir, ensuite parce que ce délai change radicalement ce qu'on peut affirmer voir."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Lumière",
-        "def": "Dans ce cours, désigne l'ensemble des rayonnements électromagnétiques qu'un astre émet ou réfléchit — visibles à l'œil comme la lumière du Soleil, ou non comme les ondes radio et les rayons X — et qui peuvent voyager jusqu'à un observateur."
-      }
-    ],
-    "recap": "L'astrophysique n'a accès aux astres que par leur lumière, seul messager à faire le trajet jusqu'à nous — elle ne peut donc connaître que ce que ce messager transporte.",
-    "next": "Demain — pourquoi ce messager met du temps à arriver : la lumière ne va pas infiniment vite."
-  }
+  "slot": "midi"
 }
