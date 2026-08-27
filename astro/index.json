@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26",
-  "count": 1,
+  "updated": "2026-08-27",
+  "count": 2,
   "lessons": [
     {
       "n": 1,
@@ -9,6 +9,14 @@
       "terms": [
         "Astrophysique",
         "Universalité des lois physiques"
+      ]
+    },
+    {
+      "n": 2,
+      "file": "astro/lessons/002-la-lumiere-seul-temoin.json",
+      "title": "La lumière, seul témoin",
+      "terms": [
+        "Lumière"
       ]
     }
   ]

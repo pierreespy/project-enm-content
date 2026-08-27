@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-26",
-  "updatedSlot": "midi",
+  "updated": "2026-08-27",
+  "updatedSlot": "matin",
   "count": 16,
   "editions": [
+    {
+      "date": "2026-08-27",
+      "slot": "matin",
+      "file": "editions/2026-08-27-matin.json",
+      "essentiel": "Prison de Villeneuve-lès-Maguelone : un détenu blesse quatre surveillants, l'établissement bloqué ce jeudi matin",
+      "term": "Astreinte comminatoire",
+      "rubriques": [
+        "EPR2 de Gravelines : un décret du 20 août 2026 autorise les travaux préparatoires à l'implantation des deux nouveaux réacteurs",
+        "Heures supplémentaires : un compteur de récupération signé par le salarié peut suffire à saisir le juge, sans preuve complète",
+        "Traite des êtres humains : la Défenseure des droits pointe l'absence de dispositif national de repérage des mineurs victimes",
+        "27 août 1791 : la déclaration de Pillnitz, quand deux monarques étrangers prennent parti pour Louis XVI",
+        "IA générative en cabinet d'avocat : le CNB adopte un guide déontologique pour encadrer son usage",
+        "Météo : le Doubs placé en vigilance jaune orages ce jeudi 27 août en fin de journée"
+      ]
+    },
     {
       "date": "2026-08-26",
       "slot": "midi",
@@ -226,21 +241,6 @@
         "12 août 1793 : le jour où la Convention vote la loi des suspects",
         "Procédures-bâillons : les personnes visées par une poursuite abusive liée au débat public disposent d'une arme procédurale depuis mai 2026",
         "Éclipse solaire du 12 août 2026 : un phénomène rare traverse le Groenland, l'Islande et l'Espagne, partiel en France"
-      ]
-    },
-    {
-      "date": "2026-08-11",
-      "slot": null,
-      "file": "editions/2026-08-11.json",
-      "essentiel": "Intérim médical et paramédical : le Conseil d'État censure partiellement le plafonnement des dépenses des hôpitaux",
-      "term": "Forclusion",
-      "rubriques": [
-        "Baux d'habitation : deux nouvelles clauses obligatoires protègent les locataires dès le 1er septembre 2026",
-        "Maladie professionnelle et employeurs successifs : la Cour de cassation précise la charge de la preuve de la faute inexcusable",
-        "Une thèse lyonnaise éclaire les risques juridiques des relations commerciales entre PME françaises et iraniennes",
-        "11 août 1960 : le jour où le Tchad accède à l'indépendance",
-        "Cours criminelles départementales : la loi du 9 juillet 2026 ouvre deux des cinq sièges à des juges honoraires ou anciens avocats",
-        "Culture coréenne : taekwondo et danse traditionnelle s'installent sur le parvis de la mairie du 15e arrondissement de Paris"
       ]
     }
   ]
