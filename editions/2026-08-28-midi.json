@@ -89,33 +89,5 @@
   },
   "date": "2026-08-28",
   "dateShort": "28 août",
-  "slot": "midi",
-  "astro": {
-    "n": 3,
-    "title": "La lumière ne va pas infiniment vite",
-    "subtitle": "Le messager qui informe l'astrophysique de tout se déplace très vite, mais pas instantanément — et ce délai change tout",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Une vitesse, pas un instant",
-        "body": "On pourrait croire la lumière instantanée : elle traverse une pièce si vite qu'aucun délai ne se remarque. En réalité, elle se déplace à une vitesse déterminée — très grande, mais pas infinie : environ 300 000 kilomètres par seconde. Le chiffre importe moins que le principe : il existe un plafond, et aucun signal ne peut aller plus vite que lui. Dès lors qu'on accepte que la lumière met du temps à parcourir une distance, on doit accepter aussi qu'observer un objet lointain, c'est toujours recevoir un message qui est parti avant qu'on le reçoive."
-      },
-      {
-        "h": "Un délai invisible à notre échelle",
-        "body": "Sur Terre, ce délai est dérisoire : la lumière du Soleil met environ huit minutes à nous parvenir, ce qui signifie qu'on voit le Soleil tel qu'il était huit minutes plus tôt, jamais tel qu'il est à l'instant où on le regarde. Entre deux points d'une même pièce, ce même délai se compte en milliardièmes de seconde — autant dire rien. C'est seulement à l'échelle des distances astronomiques, celles des étoiles et des galaxies, que ce délai cesse d'être négligeable et devient la donnée centrale de toute observation."
-      },
-      {
-        "h": "Ce que cela change déjà",
-        "body": "Cette limite de vitesse transforme la nature du message reçu : la lumière transporte non seulement une information sur l'astre observé, mais aussi une date, celle de son émission. Deux astres regardés côte à côte dans le ciel peuvent ainsi renvoyer des instants très différents de leur histoire respective. Cette conséquence reste abstraite tant que le délai se compte en minutes ; elle prend tout son sens dès qu'il faut mesurer des distances si grandes qu'une nouvelle unité devient nécessaire pour les exprimer."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Vitesse de la lumière",
-        "def": "Vitesse à laquelle la lumière se déplace dans le vide, très grande (environ 300 000 kilomètres par seconde) mais non infinie — aucun signal ne peut aller plus vite qu'elle."
-      }
-    ],
-    "recap": "La lumière se déplace à une vitesse déterminée et non infinie : observer un astre, c'est donc toujours recevoir un message parti avant, daté d'un instant qui n'est déjà plus le présent de cet astre.",
-    "next": "Demain — pourquoi il faut une unité à part pour mesurer ces distances : l'année-lumière est une distance, pas une durée."
-  }
+  "slot": "midi"
 }

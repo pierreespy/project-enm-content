@@ -1,8 +1,23 @@
 {
   "updated": "2026-08-28",
-  "updatedSlot": "matin",
-  "count": 17,
+  "updatedSlot": "midi",
+  "count": 18,
   "editions": [
+    {
+      "date": "2026-08-28",
+      "slot": "midi",
+      "file": "editions/2026-08-28-midi.json",
+      "essentiel": "Ardennes : le suspect de l'agression du maire de Bairon-et-ses-environs jugé ce vendredi à Charleville-Mézières",
+      "term": "Péremption d'instance",
+      "rubriques": [
+        "Vente de logements sociaux : un décret du 25 août 2026 précise les conditions de cession par les organismes HLM",
+        "Vidéosurveillance algorithmique aux abords des écoles : le Conseil d'État confirme l'absence de base légale",
+        "Une thèse genevoise tente de réconcilier le droit international des investissements avec l'exigence démocratique",
+        "28 août 1963 : Martin Luther King prononce « I Have a Dream » devant le Lincoln Memorial",
+        "Magistrature : un décret du 17 août 2026 acte des nominations à la cour d'appel de Paris et aux tribunaux judiciaires de Versailles et Chartres",
+        "Astronomie : une éclipse partielle de la pleine Lune de l'Esturgeon visible ce vendredi matin depuis la France"
+      ]
+    },
     {
       "date": "2026-08-28",
       "slot": "matin",
