@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-27",
-  "updatedSlot": "midi",
+  "updated": "2026-08-28",
+  "updatedSlot": "matin",
   "count": 17,
   "editions": [
+    {
+      "date": "2026-08-28",
+      "slot": "matin",
+      "file": "editions/2026-08-28-matin.json",
+      "essentiel": "Avignon : l'Irlandais soupçonné de menaces antisémites contre un couple juif reconnaît les faits et est déféré au parquet",
+      "term": "Réputé non écrit",
+      "rubriques": [
+        "Accessibilité numérique : un décret du 24 août 2026 muscle le contrôle des sites publics et des grandes entreprises",
+        "GPA à l'étranger : l'Assemblée plénière reconnaît la filiation par la seule voie de l'exequatur, sans passer par l'adoption",
+        "Trusts : la Conférence de La Haye publie une note pour qualifier les institutions étrangères analogues au trust",
+        "28 août 1942 : la police de Vichy dresse le bilan des rafles de juifs apatrides en zone libre, 6 584 arrestations",
+        "PARDI : le décret du 27 juillet 2026 ouvre une procédure d'admission rapide des demandes incontestées",
+        "Météo : 26 départements du centre et de l'est placés en vigilance orange orages ce vendredi 28 août"
+      ]
+    },
     {
       "date": "2026-08-27",
       "slot": "midi",
@@ -241,21 +256,6 @@
         "13 août 1624 : le jour où Richelieu devient chef du Conseil du roi",
         "Concours professionnel de la magistrature : l'ENM publie la liste des candidats admis à la session 2026",
         "Championnats d'Europe d'athlétisme : Alice Finot défend son titre du 3 000 m steeple ce jeudi à Birmingham"
-      ]
-    },
-    {
-      "date": "2026-08-12",
-      "slot": null,
-      "file": "editions/2026-08-12.json",
-      "essentiel": "Démarchage téléphonique : le régime du consentement préalable remplace définitivement Bloctel depuis le 11 août 2026",
-      "term": "Fiducie-sûreté",
-      "rubriques": [
-        "Vente de chiens et de chats en animalerie : un décret assortit enfin l'interdiction de sanctions financières",
-        "Procédure de sanction de la CRE : le Conseil constitutionnel impose l'information sur le droit de se taire",
-        "Une thèse lyonnaise interroge l'équilibre entre protection et autonomie des adultes handicapés en établissement médico-social",
-        "12 août 1793 : le jour où la Convention vote la loi des suspects",
-        "Procédures-bâillons : les personnes visées par une poursuite abusive liée au débat public disposent d'une arme procédurale depuis mai 2026",
-        "Éclipse solaire du 12 août 2026 : un phénomène rare traverse le Groenland, l'Islande et l'Espagne, partiel en France"
       ]
     }
   ]

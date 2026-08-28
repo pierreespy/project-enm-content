@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27",
-  "count": 2,
+  "updated": "2026-08-28",
+  "count": 3,
   "lessons": [
     {
       "n": 1,
@@ -17,6 +17,14 @@
       "title": "La lumière, seul témoin",
       "terms": [
         "Lumière"
+      ]
+    },
+    {
+      "n": 3,
+      "file": "astro/lessons/003-la-lumiere-ne-va-pas-infiniment-vite.json",
+      "title": "La lumière ne va pas infiniment vite",
+      "terms": [
+        "Vitesse de la lumière"
       ]
     }
   ]
