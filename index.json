@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-28",
-  "updatedSlot": "midi",
+  "updated": "2026-08-29",
+  "updatedSlot": "matin",
   "count": 18,
   "editions": [
+    {
+      "date": "2026-08-29",
+      "slot": "matin",
+      "file": "editions/2026-08-29-matin.json",
+      "essentiel": "Vendée : un homme tué par balles sur une aire d'accueil des gens du voyage à Mortagne-sur-Sèvre, l'auteur des coups de feu toujours recherché",
+      "term": "Ordre public de proximité",
+      "rubriques": [
+        "Réseau France services agriculture : un décret du 25 août 2026 encadre le contrôle administratif des structures agréées",
+        "Préjudice d'anxiété : la Cour de cassation le rattache au dommage corporel et fixe sa prescription à dix ans",
+        "La Cour des comptes juge la gestion des ressources humaines du Défenseur des droits trop coûteuse et formule neuf recommandations",
+        "29 août 1842 : le traité de Nankin, premier des « traités inégaux », met fin à la première guerre de l'opium",
+        "Concours de l'ENM : les épreuves orales d'admission des quatre concours 2026 débutent le 7 septembre",
+        "Corse : la vigilance orange canicule reconduite ce samedi 29 août en Corse-du-Sud et Haute-Corse"
+      ]
+    },
     {
       "date": "2026-08-28",
       "slot": "midi",
@@ -256,21 +271,6 @@
         "14 août 1884 : le jour où la IIIe République inscrit dans le marbre constitutionnel l'irréversibilité de la forme républicaine",
         "Injonction de payer : le délai de signification passe de six à trois mois pour les ordonnances rendues à compter du 1er septembre 2026",
         "Basket 3x3 : le FIBA World Tour s'installe à Lausanne ce vendredi et samedi, avec l'équipe de Bordeaux en lice (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-08-13",
-      "slot": null,
-      "file": "editions/2026-08-13.json",
-      "essentiel": "Généalogie génétique en enquête pénale : le Conseil constitutionnel censure le dispositif de la loi justice criminelle du 23 juillet 2026",
-      "term": "Purge des hypothèques",
-      "rubriques": [
-        "Emballages : le règlement européen PPWR devient directement applicable en France depuis le 12 août 2026",
-        "Définition légale du consentement : la chambre criminelle exclut toute application rétroactive de la loi du 6 novembre 2025",
-        "Une thèse toulousaine dresse le premier panorama complet de la fiscalité française des crypto-actifs",
-        "13 août 1624 : le jour où Richelieu devient chef du Conseil du roi",
-        "Concours professionnel de la magistrature : l'ENM publie la liste des candidats admis à la session 2026",
-        "Championnats d'Europe d'athlétisme : Alice Finot défend son titre du 3 000 m steeple ce jeudi à Birmingham"
       ]
     }
   ]

@@ -89,33 +89,5 @@
   },
   "date": "2026-08-29",
   "dateShort": "29 août",
-  "slot": "matin",
-  "astro": {
-    "n": 4,
-    "title": "L'année-lumière est une distance, pas une durée",
-    "subtitle": "Un nom qui sonne comme un temps, mais qui mesure l'espace",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Un nom trompeur",
-        "body": "Puisque la lumière se déplace à une vitesse fixe et connue, elle parcourt toujours la même distance pendant une même durée. Les astronomes se sont saisis de cette régularité pour créer une unité pratique : l'année-lumière, la distance parcourue par la lumière en une année, soit environ 9 500 milliards de kilomètres. Malgré son nom, ce n'est donc pas une durée : c'est une distance, au même titre qu'un kilomètre ou une année de marche. Dire qu'une étoile est à quatre années-lumière, c'est indiquer à quel point elle est loin, pas depuis quand elle existe."
-      },
-      {
-        "h": "Pourquoi le kilomètre ne suffit plus",
-        "body": "À l'échelle du système solaire, le kilomètre reste utilisable. Mais dès qu'on quitte notre étoile, les distances explosent : l'étoile la plus proche du Soleil, Proxima du Centaure, se trouve à environ 40 000 milliards de kilomètres, un nombre trop lourd pour être manié couramment. En l'exprimant en années-lumière — un peu plus de quatre —, la distance redevient une grandeur qu'on peut comparer, retenir et utiliser. L'unité n'invente rien : elle habille autrement une même réalité physique, celle du trajet de la lumière."
-      },
-      {
-        "h": "Ce que cela annonce",
-        "body": "Cette unité fait plus que mesurer l'espace : parce qu'elle est construite sur un trajet de lumière, et que ce trajet prend du temps, elle relie directement une distance à un délai. Dire qu'un astre est à quatre années-lumière, c'est déjà dire, sans le formuler encore complètement, que sa lumière a mis quatre ans à nous parvenir. Cette conséquence, à peine esquissée ici, devient le sujet à part entière de la prochaine leçon."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Année-lumière",
-        "def": "Distance parcourue par la lumière en une année, soit environ 9 500 milliards de kilomètres — une unité de distance, malgré son nom, et non une durée."
-      }
-    ],
-    "recap": "L'année-lumière mesure une distance — celle que parcourt la lumière en une année —, pas un temps, malgré ce que son nom laisse penser.",
-    "next": "Demain — pourquoi voir loin dans l'espace revient toujours à voir tôt dans le temps, et ce que cela interdit d'observer."
-  }
+  "slot": "matin"
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-28",
-  "count": 3,
+  "updated": "2026-08-29",
+  "count": 4,
   "lessons": [
     {
       "n": 1,
@@ -25,6 +25,14 @@
       "title": "La lumière ne va pas infiniment vite",
       "terms": [
         "Vitesse de la lumière"
+      ]
+    },
+    {
+      "n": 4,
+      "file": "astro/lessons/004-l-annee-lumiere-est-une-distance.json",
+      "title": "L'année-lumière est une distance, pas une durée",
+      "terms": [
+        "Année-lumière"
       ]
     }
   ]
