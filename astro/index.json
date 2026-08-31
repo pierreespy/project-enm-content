@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29",
-  "count": 4,
+  "updated": "2026-08-31",
+  "count": 5,
   "lessons": [
     {
       "n": 1,
@@ -33,6 +33,14 @@
       "title": "L'année-lumière est une distance, pas une durée",
       "terms": [
         "Année-lumière"
+      ]
+    },
+    {
+      "n": 5,
+      "file": "astro/lessons/005-voir-loin-cest-voir-tot.json",
+      "title": "Voir loin, c'est voir tôt",
+      "terms": [
+        "Délai de la lumière"
       ]
     }
   ]

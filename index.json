@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-29",
+  "updated": "2026-08-31",
   "updatedSlot": "matin",
-  "count": 18,
+  "count": 17,
   "editions": [
+    {
+      "date": "2026-08-31",
+      "slot": "matin",
+      "file": "editions/2026-08-31-matin.json",
+      "essentiel": "Armentières : un incendie d'immeuble fait deux morts, le second homme hospitalisé en Belgique a succombé à ses brûlures",
+      "term": "Forclusion",
+      "rubriques": [
+        "Régime unique de la haie : un décret du 28 août 2026 instaure un guichet unique pour toute destruction de haie",
+        "Retrait de nationalité et OQTF : le Conseil d'État écarte le référé-liberté faute de doute sérieux",
+        "Une thèse lyonnaise interroge l'équilibre entre protection et autonomie des majeurs handicapés accueillis en établissement médico-social",
+        "31 août 1939 : l'opération Himmler, prétexte allemand à l'invasion de la Pologne qui déclenche la Seconde Guerre mondiale",
+        "Paris, capitale européenne du droit du 2 au 4 septembre 2026 : le Barreau de Paris partenaire de la conférence annuelle de l'European Law Institute",
+        "Météo : dix départements du nord-est placés en vigilance jaune orages pour la nuit et la matinée de ce lundi 31 août"
+      ]
+    },
     {
       "date": "2026-08-29",
       "slot": "matin",
@@ -241,36 +256,6 @@
         "16 août 1790 : la loi qui a redessiné l'organisation judiciaire française",
         "Procédure civile : le décret du 27 juillet 2026 de simplification procédurale change la donne dès le 1er octobre",
         "Athlétisme : Jimmy Gressier décroche le bronze du 10 000 m aux Championnats d'Europe (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-08-15",
-      "slot": null,
-      "file": "editions/2026-08-15.json",
-      "essentiel": "Interdiction des réseaux sociaux aux moins de 15 ans : le Conseil constitutionnel censure la loi Miller",
-      "term": "Théorie de l'écran législatif",
-      "rubriques": [
-        "Électricité : un décret du 13 août 2026 fixe les modalités du nouveau mécanisme de capacité pour sécuriser l'approvisionnement",
-        "Harcèlement sexuel d'ambiance : la chambre sociale reconnaît un préjudice d'exposition sans ciblage individuel",
-        "Une thèse perpignanaise redéfinit les contours juridiques du transfert de la branche d'activité d'entreprise",
-        "15 août 1769 : le jour où naît à Ajaccio celui qui donnera son nom au Code civil des Français",
-        "Taxis : un décret du 13 août 2026 instaure une avance exceptionnelle sur le remboursement partiel d'accise",
-        "Météo : un week-end du 15 août sous orages après un pic de chaleur, avant une chute sensible des températures (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-08-14",
-      "slot": null,
-      "file": "editions/2026-08-14.json",
-      "essentiel": "Investissements étrangers stratégiques : le seuil de contrôle abaissé de 25 % à 10 % pour les sociétés cotées",
-      "term": "Ultra petita",
-      "rubriques": [
-        "Crédit d'impôt investissement dans l'industrie verte : un décret du 9 août 2026 fixe rétroactivement son entrée en vigueur au 27 mai 2026",
-        "Perquisition au cabinet d'un avocat : la chambre criminelle renforce le contrôle de la saisissabilité des correspondances avocat-client",
-        "Une thèse lilloise propose un cadre juridique pour la reprise des invendus dans l'économie circulaire",
-        "14 août 1884 : le jour où la IIIe République inscrit dans le marbre constitutionnel l'irréversibilité de la forme républicaine",
-        "Injonction de payer : le délai de signification passe de six à trois mois pour les ordonnances rendues à compter du 1er septembre 2026",
-        "Basket 3x3 : le FIBA World Tour s'installe à Lausanne ce vendredi et samedi, avec l'équipe de Bordeaux en lice (hors justice)"
       ]
     }
   ]

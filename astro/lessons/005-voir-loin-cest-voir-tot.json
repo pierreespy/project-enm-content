@@ -1,0 +1,24 @@
+{
+  "n": 5,
+  "title": "Voir loin, c'est voir tôt",
+  "subtitle": "Ce que la vitesse finie de la lumière interdit de connaître : le présent d'un astre lointain",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Regarder loin, c'est regarder dans le passé",
+      "body": "La lumière met du temps à voyager, et l'année-lumière mesure la distance qu'elle parcourt en un an. Ces deux idées, mises bout à bout, ont une conséquence directe : quand on observe un astre situé à dix années-lumière, la lumière qui atteint nos yeux ce soir en est partie il y a dix ans. On ne voit donc jamais un astre lointain tel qu'il est maintenant, mais tel qu'il était au moment où cette lumière a quitté sa surface. Plus l'astre est loin, plus l'image qu'on en reçoit est ancienne."
+    },
+    {
+      "h": "Un « maintenant » hors de portée",
+      "body": "Cette conséquence n'est pas un détail technique : elle fixe une limite définitive. Personne ne peut savoir à quoi ressemble, à cet instant précis, une étoile à mille années-lumière — cette information n'existera pour nous que dans mille ans. Le délai de la lumière, c'est-à-dire le temps qu'elle met à parcourir la distance qui nous sépare d'un astre, sépare toujours l'observateur de l'état présent de ce qu'il observe. Y compris pour le Soleil : sa lumière met huit minutes à nous atteindre, donc on le voit toujours tel qu'il était huit minutes plus tôt."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Délai de la lumière",
+      "def": "Le temps que met la lumière d'un astre à nous parvenir, égal à sa distance exprimée en années-lumière — il sépare toujours l'observateur de l'état présent de ce qu'il observe."
+    }
+  ],
+  "recap": "Voir un astre lointain, c'est voir la lumière qu'il a émise il y a longtemps : on n'a jamais accès à son état présent, seulement à son passé.",
+  "next": "Demain — ce qu'on voit vraiment dans le ciel : étoiles, planètes, et ce qui les distingue."
+}
