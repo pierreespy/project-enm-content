@@ -1,8 +1,23 @@
 {
   "updated": "2026-08-31",
-  "updatedSlot": "matin",
-  "count": 17,
+  "updatedSlot": "midi",
+  "count": 18,
   "editions": [
+    {
+      "date": "2026-08-31",
+      "slot": "midi",
+      "file": "editions/2026-08-31-midi.json",
+      "essentiel": "Roeux (Pas-de-Calais) : un adolescent de 14 ans tué par un TER à un passage à niveau",
+      "term": "Théorie de l'écran législatif",
+      "rubriques": [
+        "Contrats d'apprentissage : un décret du 29 août 2026 revoit les niveaux de prise en charge financière par les opérateurs de compétences",
+        "Réseaux sociaux et mineurs de 15 ans : le Conseil constitutionnel censure l'interdiction d'accès pour atteinte disproportionnée à la liberté d'expression",
+        "Exécution des peines : le Sénat formule vingt propositions pour redonner du sens aux sanctions pénales",
+        "31 août 1846 : Urbain Le Verrier annonce, par le seul calcul, l'existence de la planète Neptune",
+        "Conseil supérieur de la magistrature : un décret du 13 août 2026 réforme le scrutin des magistrats élus et crée un droit de se taire pour les juges consulaires",
+        "Université d'été du Parti socialiste à Blois : Olivier Faure se positionne en vue de la primaire de 2027"
+      ]
+    },
     {
       "date": "2026-08-31",
       "slot": "matin",
