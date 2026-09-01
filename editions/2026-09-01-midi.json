@@ -89,37 +89,5 @@
   },
   "date": "2026-09-01",
   "dateShort": "1 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 6,
-    "title": "Ce qu'on voit vraiment dans le ciel",
-    "subtitle": "Étoiles, planètes : une différence de nature, et deux indices pour les reconnaître à l'œil nu",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Deux natures, un même point de lumière",
-        "body": "À l'œil nu, une étoile et une planète se ressemblent : un point brillant parmi d'autres, dans le ciel nocturne. Leur nature est pourtant opposée. Une étoile est un astre qui produit lui-même sa lumière, par sa propre chaleur interne. Une planète, elle, ne produit rien : elle se contente de réfléchir la lumière d'une étoile, comme un miroir terne renvoie une partie de ce qu'il reçoit. Le Soleil est une étoile ; la Terre, comme les sept autres planètes qui l'accompagnent, n'est visible depuis l'espace que parce qu'elle réfléchit sa lumière. Sans étoile à proximité, une planète resterait plongée dans le noir, invisible."
-      },
-      {
-        "h": "Les distinguer sans instrument",
-        "body": "Deux indices, accessibles à l'œil nu, permettent de deviner lequel des deux on regarde. Le premier est la scintillation : le tremblement rapide de l'éclat d'une étoile, qui semble « clignoter ». Il vient de l'atmosphère terrestre, dont les couches d'air en mouvement dévient légèrement, et de façon changeante, un rayon lumineux si fin qu'il se comporte comme un point parfait. Une planète, plus proche, occupe dans le ciel une surface minuscule mais réelle ; les perturbations de l'atmosphère s'y moyennent et son éclat reste stable. Le second indice se vérifie sur plusieurs nuits : une étoile garde une position fixe par rapport aux autres, tandis qu'une planète se déplace lentement parmi elles — ce déplacement a valu leur nom aux planètes, du grec « astre errant »."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Étoile",
-        "def": "Un astre qui produit lui-même sa lumière, par sa propre chaleur interne."
-      },
-      {
-        "term": "Planète",
-        "def": "Un astre qui ne produit pas de lumière et se rend visible uniquement en réfléchissant celle d'une étoile."
-      },
-      {
-        "term": "Scintillation",
-        "def": "Le tremblement rapide de l'éclat d'une étoile, dû aux mouvements de l'atmosphère terrestre sur son rayon lumineux ponctuel."
-      }
-    ],
-    "recap": "Une étoile produit sa propre lumière, une planète se contente de réfléchir celle d'une étoile — une différence qui se lit, à l'œil nu, dans la scintillation et le déplacement au fil des nuits.",
-    "next": "Demain — le système solaire mesuré en temps de trajet de la lumière."
-  }
+  "slot": "midi"
 }

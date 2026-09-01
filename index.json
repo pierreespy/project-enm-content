@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-01",
-  "updatedSlot": "matin",
-  "count": 18,
+  "updatedSlot": "midi",
+  "count": 19,
   "editions": [
+    {
+      "date": "2026-09-01",
+      "slot": "midi",
+      "file": "editions/2026-09-01-midi.json",
+      "essentiel": "Pollution aux PFAS : la redevance « pollueur-payeur » sur les rejets industriels dans l'eau entre en vigueur ce 1er septembre",
+      "term": "Confusion des patrimoines",
+      "rubriques": [
+        "Facturation électronique : l'obligation de réception s'impose ce 1er septembre à toutes les entreprises assujetties à la TVA",
+        "Sapeurs-pompiers volontaires : le Conseil d'État les reconnaît « travailleurs » au sens du droit de l'Union, sans bouleverser leur régime",
+        "Facturation électronique des avocats : le CNB obtient l'exclusion des données couvertes par le secret professionnel",
+        "1er septembre 1972 : Boris Spassky abandonne par téléphone, Bobby Fischer devient champion du monde d'échecs",
+        "Injonction de payer : les dispositions accélérant la procédure et modernisant les voies d'exécution s'appliquent aux ordonnances rendues depuis ce 1er septembre",
+        "Chaleur tardive : jusqu'à 39-40°C attendus dans le Sud-Ouest, trois départements pyrénéens en vigilance jaune orages"
+      ]
+    },
     {
       "date": "2026-09-01",
       "slot": "matin",
