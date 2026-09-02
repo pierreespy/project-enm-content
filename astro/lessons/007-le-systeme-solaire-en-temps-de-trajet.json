@@ -1,0 +1,28 @@
+{
+  "n": 7,
+  "title": "Le système solaire en temps de trajet",
+  "subtitle": "Mesurer les distances du système solaire non en kilomètres, mais en minutes de lumière",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Le Soleil, vu avec huit minutes de retard",
+      "body": "La leçon précédente l'a établi : voir loin, c'est voir tôt, jamais l'instant présent. Le Soleil ne fait pas exception. Sa lumière met environ huit minutes et vingt secondes à nous parvenir — le Soleil que l'on regarde est donc celui d'il y a huit minutes, pas celui de maintenant. Cette distance Terre-Soleil, environ 150 millions de kilomètres, sert d'unité de mesure aux astronomes : ils la nomment l'unité astronomique (UA), et l'expriment volontiers en minutes-lumière — la distance parcourue par la lumière en une minute — plutôt qu'en kilomètres. À cette échelle, le temps de trajet est plus parlant que la distance elle-même."
+    },
+    {
+      "h": "Les confins du système solaire, en heures plutôt qu'en années",
+      "body": "En s'éloignant du Soleil, ce délai s'allonge mais reste modeste. La lumière met un peu plus de quatre minutes pour atteindre Mars, environ quarante minutes pour Jupiter, et plus de quatre heures pour Neptune, la planète la plus lointaine du système solaire. Au-delà, aux confins glacés où s'égrènent les derniers objets qui gravitent autour du Soleil, on compte encore en heures, pas en jours. Cette échelle mérite d'être retenue : le système solaire tout entier tient dans quelques heures de lumière. L'étoile la plus proche du Soleil, elle, se trouve à plusieurs années de lumière — un changement d'échelle qui sépare nettement un système planétaire du vide qui isole les étoiles les unes des autres."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Unité astronomique (UA)",
+      "def": "La distance moyenne entre la Terre et le Soleil, environ 150 millions de kilomètres, soit un peu plus de huit minutes-lumière."
+    },
+    {
+      "term": "Minute-lumière",
+      "def": "La distance parcourue par la lumière en une minute, utilisée pour mesurer les distances à l'échelle du système solaire."
+    }
+  ],
+  "recap": "Le Soleil est vu avec environ huit minutes de retard, et les confins du système solaire avec quelques heures seulement — des distances proches à l'échelle de l'espace, quand celles qui séparent les étoiles se comptent en années.",
+  "next": "Demain — la gravité : qui attire quoi, et selon quelle règle."
+}

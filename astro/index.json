@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01",
-  "count": 6,
+  "updated": "2026-09-02",
+  "count": 7,
   "lessons": [
     {
       "n": 1,
@@ -51,6 +51,15 @@
         "Étoile",
         "Planète",
         "Scintillation"
+      ]
+    },
+    {
+      "n": 7,
+      "file": "astro/lessons/007-le-systeme-solaire-en-temps-de-trajet.json",
+      "title": "Le système solaire en temps de trajet",
+      "terms": [
+        "Unité astronomique (UA)",
+        "Minute-lumière"
       ]
     }
   ]

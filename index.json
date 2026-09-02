@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-01",
-  "updatedSlot": "midi",
+  "updated": "2026-09-02",
+  "updatedSlot": "matin",
   "count": 19,
   "editions": [
+    {
+      "date": "2026-09-02",
+      "slot": "matin",
+      "file": "editions/2026-09-02-matin.json",
+      "essentiel": "Tuerie de Chevaline : un pistolet repêché dans le lac d'Annecy relance l'enquête, quatorze ans après",
+      "term": "Ultra petita",
+      "rubriques": [
+        "Téléphone portable interdit au lycée : la loi du 24 août 2026 étend l'interdiction dès la rentrée 2026-2027",
+        "« Gang bangs » payants et dignité humaine : le Conseil d'État valide la fermeture administrative d'un établissement parisien",
+        "Été 2026 : le récapitulatif des textes et de la jurisprudence que les praticiens ont pu manquer",
+        "2 septembre 1945 : le Japon signe l'acte de capitulation à bord de l'USS Missouri, fin officielle de la Seconde Guerre mondiale",
+        "122e congrès des notaires de France : rendez-vous à Lille du 30 septembre au 2 octobre 2026 sur « Le notaire et l'impôt »",
+        "Météo : trois départements pyrénéens en vigilance jaune orages ce mercredi 2 septembre"
+      ]
+    },
     {
       "date": "2026-09-01",
       "slot": "midi",
@@ -271,21 +286,6 @@
         "18 août 1634 : le jour où le bûcher d'Urbain Grandier a scellé l'un des procès en sorcellerie les plus politiques de l'Ancien Régime",
         "Collaboration en cabinet d'avocats : le CNB structure l'entretien annuel obligatoire entre collaborateur et cabinet",
         "Météo : un temps plus frais et orageux succède à la chaleur sur la France (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-08-17",
-      "slot": null,
-      "file": "editions/2026-08-17.json",
-      "essentiel": "Dommage corporel : l'Assemblée plénière neutralise la faute de la victime que l'organisateur professionnel n'a pas informée des consignes de sécurité",
-      "term": "Stellionat",
-      "rubriques": [
-        "Conseil supérieur de la magistrature : un décret du 13 août 2026 réécrit le processus électoral de ses membres magistrats",
-        "Arrêt maladie : proposer une rupture conventionnelle ne caractérise pas, à lui seul, une discrimination liée à l'état de santé",
-        "Droits des femmes : la délégation sénatoriale dresse le bilan de trois ans d'action et fixe ses priorités jusqu'en 2029",
-        "17 août 1945 : quand les militaires obtiennent enfin le droit de vote",
-        "Médiation : un décret du 13 août 2026 modifie la composition et le fonctionnement du Conseil national de la médiation",
-        "Météo : la canicule résiste sur la moitié sud avant un vrai changement de temps attendu fin août (hors justice)"
       ]
     }
   ]
