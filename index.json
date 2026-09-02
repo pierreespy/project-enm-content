@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-02",
-  "updatedSlot": "matin",
-  "count": 19,
+  "updatedSlot": "midi",
+  "count": 20,
   "editions": [
+    {
+      "date": "2026-09-02",
+      "slot": "midi",
+      "file": "editions/2026-09-02-midi.json",
+      "essentiel": "Dénigrement : France Télévisions et Radio France face aux médias Bolloré devant le tribunal des activités économiques de Paris",
+      "term": "Stellionat",
+      "rubriques": [
+        "Justice des mineurs : les centres éducatifs fermés publics cèdent la place aux unités judiciaires à priorité éducative depuis le 1er septembre",
+        "Dommage corporel : l'Assemblée plénière écarte la faute de la victime non informée des consignes de sécurité",
+        "Une thèse lilloise interroge la réintégration du salarié protégé à l'aune de ses droits fondamentaux",
+        "2 septembre 2020 : ouverture à Paris du procès des attentats de janvier 2015",
+        "La Grande Rentrée des Avocats : le Conseil national des barreaux réunit la profession le 28 septembre 2026 à Paris",
+        "Météo-France peut désormais moduler sa vigilance à l'intérieur d'un même département"
+      ]
+    },
     {
       "date": "2026-09-02",
       "slot": "matin",
