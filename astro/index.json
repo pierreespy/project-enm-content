@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02",
-  "count": 7,
+  "updated": "2026-09-03",
+  "count": 8,
   "lessons": [
     {
       "n": 1,
@@ -60,6 +60,15 @@
       "terms": [
         "Unité astronomique (UA)",
         "Minute-lumière"
+      ]
+    },
+    {
+      "n": 8,
+      "file": "astro/lessons/008-la-gravite-qui-attire-quoi.json",
+      "title": "La gravité : qui attire quoi, et selon quelle règle",
+      "terms": [
+        "Masse",
+        "Gravitation"
       ]
     }
   ]

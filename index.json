@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-02",
-  "updatedSlot": "midi",
+  "updated": "2026-09-03",
+  "updatedSlot": "matin",
   "count": 20,
   "editions": [
+    {
+      "date": "2026-09-03",
+      "slot": "matin",
+      "file": "editions/2026-09-03-matin.json",
+      "essentiel": "Rachida Dati et Carlos Ghosn seront jugés du 16 au 28 septembre 2026 pour corruption dans l'affaire Renault-Nissan",
+      "term": "Anatocisme",
+      "rubriques": [
+        "Intelligence artificielle : la Commission européenne désigne ChatGPT « très grand moteur de recherche en ligne » au titre du DSA",
+        "Droit de se taire devant la Commission de régulation de l'énergie : le Conseil constitutionnel censure le code de l'énergie",
+        "E-réputation des dirigeants : quels recours quand une intelligence artificielle affirme un fait faux ?",
+        "3 septembre 1783 : le traité de Paris met fin à la guerre d'Indépendance américaine",
+        "Une nouvelle classe déconcentrée de l'ENM ouvre en Guadeloupe pour la rentrée 2026-2027",
+        "Tapisserie de Bayeux : Emmanuel Macron inaugure son exposition au British Museum, un « geste d'amitié » entre la France et le Royaume-Uni"
+      ]
+    },
     {
       "date": "2026-09-02",
       "slot": "midi",
@@ -286,21 +301,6 @@
         "19 août 2003 : l'attentat de l'hôtel Canal à Bagdad, à l'origine de la Journée mondiale de l'aide humanitaire",
         "Accès à la profession d'avocat sans CAPA : le CNB rappelle la clôture des inscriptions aux examens des articles 99 et 100 le 21 août 2026",
         "Allocation de rentrée scolaire : jusqu'à 466 euros par enfant versés par la CAF depuis le 18 août 2026 (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-08-18",
-      "slot": null,
-      "file": "editions/2026-08-18.json",
-      "essentiel": "Cyberattaque à la DGFiP : plus de 678 000 contribuables victimes d'une fuite massive de données fiscales",
-      "term": "Obligation in solidum",
-      "rubriques": [
-        "Loi d'urgence pour la souveraineté agricole : le Conseil constitutionnel censure la servitude de voisinage agricole et six cavaliers législatifs",
-        "Attentat de Charlie Hebdo : la deuxième chambre civile précise les critères de la victime directe ouvrant droit à indemnisation intégrale",
-        "Une thèse nantaise interroge la réhabilitation judiciaire comme objet d'étude du pardon et du remords dans l'imaginaire pénal",
-        "18 août 1634 : le jour où le bûcher d'Urbain Grandier a scellé l'un des procès en sorcellerie les plus politiques de l'Ancien Régime",
-        "Collaboration en cabinet d'avocats : le CNB structure l'entretien annuel obligatoire entre collaborateur et cabinet",
-        "Météo : un temps plus frais et orageux succède à la chaleur sur la France (hors justice)"
       ]
     }
   ]
