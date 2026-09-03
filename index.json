@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-03",
-  "updatedSlot": "matin",
-  "count": 20,
+  "updatedSlot": "midi",
+  "count": 21,
   "editions": [
+    {
+      "date": "2026-09-03",
+      "slot": "midi",
+      "file": "editions/2026-09-03-midi.json",
+      "essentiel": "500 000 € d'amende : la CNIL sanctionne l'Hôpital privé de la Loire après le vol de 524 000 dossiers patients",
+      "term": "Renvoi",
+      "rubriques": [
+        "Taxe d'apprentissage : la seconde période de répartition du solde s'ouvre sur SOLTéA jusqu'au 21 octobre",
+        "Cauet contre NRJ : la Cour de cassation rejette le pourvoi et rend l'arrêt d'appel définitif",
+        "Une thèse nantaise interroge la réhabilitation judiciaire comme objet d'étude du pardon et du remords",
+        "3 septembre 1791 : l'Assemblée constituante adopte la première Constitution écrite de l'histoire de France",
+        "État de droit : le barreau de Paris coorganise la conférence annuelle de l'European Law Institute jusqu'au 4 septembre",
+        "Chaleur tardive : six départements du Sud placés en vigilance jaune canicule ce jeudi"
+      ]
+    },
     {
       "date": "2026-09-03",
       "slot": "matin",

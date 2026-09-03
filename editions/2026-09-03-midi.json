@@ -89,33 +89,5 @@
   },
   "date": "2026-09-03",
   "dateShort": "3 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 8,
-    "title": "La gravité : qui attire quoi, et selon quelle règle",
-    "subtitle": "Comprendre que toute masse attire toute masse, et selon quelles deux règles simples",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Tout attire tout",
-        "body": "La gravité n'est pas seulement ce qui fait tomber les objets sur Terre : c'est une attraction mutuelle entre toute masse et toute masse, où la masse désigne simplement la quantité de matière que contient un objet. La Terre attire la Lune, mais la Lune attire aussi la Terre ; le Soleil attire chaque planète, mais chaque planète attire aussi le Soleil, même si cette attraction reste minuscule à son échelle. Cette force qui rapproche deux masses, où qu'elles se trouvent dans l'univers, porte un nom : la gravitation. Elle ne connaît aucune exception, conformément à l'universalité des lois physiques évoquée dans la première leçon de ce cours."
-      },
-      {
-        "h": "Deux règles simples",
-        "body": "L'intensité de cette attraction obéit à deux règles, sans qu'aucun calcul soit nécessaire pour les retenir. D'abord, plus les masses en présence sont grandes, plus l'attraction est forte : le Soleil, bien plus massif que n'importe quelle planète, domine gravitationnellement tout le système solaire. Ensuite, plus la distance entre les deux masses est grande, plus l'attraction s'affaiblit, et elle diminue très vite avec l'éloignement. C'est pourquoi, malgré son immense masse, le Soleil n'exerce plus qu'une emprise très faible sur les objets qui se trouvent à plusieurs unités astronomiques de lui, aux confins du système solaire."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Masse",
-        "def": "La quantité de matière que contient un objet ; c'est elle qui détermine l'intensité de son attraction gravitationnelle sur les autres masses."
-      },
-      {
-        "term": "Gravitation",
-        "def": "La force d'attraction mutuelle qui s'exerce entre toute masse et toute masse, d'autant plus forte que les masses sont grandes et que la distance qui les sépare est petite."
-      }
-    ],
-    "recap": "Toute masse attire toute masse : l'attraction est plus forte quand les masses sont grandes, et plus faible quand la distance qui les sépare augmente.",
-    "next": "Demain — pourquoi les astres tournent au lieu de tomber."
-  }
+  "slot": "midi"
 }
