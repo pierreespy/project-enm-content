@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-03",
-  "updatedSlot": "midi",
+  "updated": "2026-09-04",
+  "updatedSlot": "matin",
   "count": 21,
   "editions": [
+    {
+      "date": "2026-09-04",
+      "slot": "matin",
+      "file": "editions/2026-09-04-matin.json",
+      "essentiel": "Diffamation : deux députées LFI jugées à Tours par « le Canon français », décision attendue le 12 novembre",
+      "term": "Action ut singuli",
+      "rubriques": [
+        "Accueil des personnes sourdes ou malentendantes : un décret précise les obligations d'accessibilité des services publics",
+        "Ajournement de peine : le chef étoilé Gérald Passedat fixé sur son sort ce vendredi par le tribunal correctionnel de Marseille",
+        "« La mer et les politiques publiques » : le Conseil d'État consacre son étude annuelle 2026 aux enjeux juridiques du littoral et des océans",
+        "4 septembre 1870 : Léon Gambetta proclame la République à l'Hôtel de Ville de Paris",
+        "CRFPA 2026 : l'épreuve de procédure clôture ce vendredi les écrits d'admissibilité",
+        "Canicule tardive : vigilance orange dans cinq départements du Sud, une situation rarissime en septembre"
+      ]
+    },
     {
       "date": "2026-09-03",
       "slot": "midi",
@@ -301,21 +316,6 @@
         "20 août 1789 : l'Assemblée constituante adopte le préambule et les trois premiers articles de la Déclaration des droits de l'homme et du citoyen",
         "Formation des magistrats : une première classe préparatoire Talents de l'ENM ouvre en Guadeloupe pour la rentrée 2026-2027",
         "Esports World Cup 2026 : la grande finale parisienne s'achève le 23 août à Porte de Versailles (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-08-19",
-      "slot": null,
-      "file": "editions/2026-08-19.json",
-      "essentiel": "Licenciement pour faute lourde en Nouvelle-Calédonie : le Conseil constitutionnel censure la privation d'indemnité de congés payés",
-      "term": "Déchéance quadriennale",
-      "rubriques": [
-        "Loi Ripost : le Conseil constitutionnel censure le délit de rassemblement festif musical illégal et la fermeture des commerces d'articles pyrotechniques",
-        "Logement de fonction et domaine public : la troisième chambre civile impose le renvoi préjudiciel au juge administratif en cas de contestation sérieuse",
-        "La Cour des comptes dresse une feuille de route critique pour le nouveau Défenseur des droits",
-        "19 août 2003 : l'attentat de l'hôtel Canal à Bagdad, à l'origine de la Journée mondiale de l'aide humanitaire",
-        "Accès à la profession d'avocat sans CAPA : le CNB rappelle la clôture des inscriptions aux examens des articles 99 et 100 le 21 août 2026",
-        "Allocation de rentrée scolaire : jusqu'à 466 euros par enfant versés par la CAF depuis le 18 août 2026 (hors justice)"
       ]
     }
   ]
