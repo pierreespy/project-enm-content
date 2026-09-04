@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-04",
-  "updatedSlot": "matin",
-  "count": 21,
+  "updatedSlot": "midi",
+  "count": 22,
   "editions": [
+    {
+      "date": "2026-09-04",
+      "slot": "midi",
+      "file": "editions/2026-09-04-midi.json",
+      "essentiel": "Corruption à la prison d'Aiton : trois surveillants et une policière condamnés, six ans ferme pour le détenu corrupteur",
+      "term": "Tierce opposition",
+      "rubriques": [
+        "Visite du pape Léon XIV : un décret du 3 septembre 2026 place l'événement sous le régime de sécurité des grands rassemblements",
+        "Ajournement de peine : nouveau renvoi pour le chef étoilé Gérald Passedat, jugé au 12 mars 2027",
+        "« La doctrine comme objet d'étude » : un colloque interroge le 22 septembre le statut scientifique de la doctrine juridique",
+        "4 septembre 476 : Odoacre dépose Romulus Augustule, dernier empereur romain d'Occident",
+        "Assassinat du rugbyman Aramburu : ouverture lundi du procès aux assises de Paris, jusqu'au 28 septembre",
+        "Marathon caritatif : le ZEvent lance ce soir sa dixième et dernière édition, plus de 330 streameurs à Montpellier"
+      ]
+    },
     {
       "date": "2026-09-04",
       "slot": "matin",

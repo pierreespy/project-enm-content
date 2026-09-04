@@ -89,33 +89,5 @@
   },
   "date": "2026-09-04",
   "dateShort": "4 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 9,
-    "title": "Pourquoi les astres tournent au lieu de tomber",
-    "subtitle": "Comprendre l'orbite comme une chute qui rate perpétuellement sa cible",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Une chute qui manque toujours son but",
-        "body": "Une planète est en permanence attirée par son étoile : elle « tombe » vers elle sans jamais s'arrêter. Mais elle possède aussi, dès l'origine, un mouvement latéral, une vitesse qui la pousse sur le côté plutôt que droit devant. Cette tendance de tout objet en mouvement à continuer sur sa lancée, à vitesse et en ligne droite, tant qu'aucune force ne le détourne, porte un nom : l'inertie. Sans la gravité, la planète filerait en ligne droite, indéfiniment, sur cette trajectoire latérale. Sans le mouvement latéral, elle s'écraserait tout droit sur l'étoile. C'est la combinaison des deux qui produit le mouvement observé : la planète tombe vers l'étoile, mais son déplacement latéral l'entraîne toujours un peu plus loin — si bien que la surface de l'étoile, qui devrait se trouver sur son chemin, se dérobe sans cesse sous elle."
-      },
-      {
-        "h": "L'orbite, une trajectoire qui se referme sur elle-même",
-        "body": "Ce jeu d'équilibre entre la chute vers l'étoile et la fuite latérale produit une trajectoire close, qui revient sur elle-même sans jamais toucher son point d'attraction : l'orbite. Sa forme dépend de la vitesse latérale de la planète au moment considéré. Trop lente, l'attraction l'emporte et la trajectoire se resserre en spirale vers l'étoile. Trop rapide, la fuite latérale l'emporte et la planète s'échappe définitivement. Entre les deux se trouve toute une gamme de vitesses qui maintiennent l'astre en orbite stable, année après année, sans qu'aucune force extérieure n'ait besoin d'intervenir pour l'entretenir."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Inertie",
-        "def": "La tendance de tout objet en mouvement à conserver sa vitesse et sa direction tant qu'aucune force ne vient le dévier."
-      },
-      {
-        "term": "Orbite",
-        "def": "La trajectoire fermée que suit un astre attiré par un autre, résultant de l'équilibre entre la chute due à la gravitation et la fuite due à l'inertie."
-      }
-    ],
-    "recap": "Une planète ne s'écrase jamais sur son étoile : son inertie la fait constamment dévier de la chute que lui impose la gravitation, et cet équilibre dessine une trajectoire close, l'orbite.",
-    "next": "Demain — une étoile, c'est quoi : une boule de gaz qui tient debout."
-  }
+  "slot": "midi"
 }
