@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-05",
-  "updatedSlot": "matin",
-  "count": 22,
+  "updatedSlot": "midi",
+  "count": 23,
   "editions": [
+    {
+      "date": "2026-09-05",
+      "slot": "midi",
+      "file": "editions/2026-09-05-midi.json",
+      "essentiel": "Drame de Gy (Haute-Saône) : l'autopsie révèle que le père a tué ses deux enfants et sa belle-mère avant de se donner la mort",
+      "term": "Déchéance quadriennale",
+      "rubriques": [
+        "État civil : un décret du 4 septembre 2026 élargit les administrations autorisées à demander des actes avec indication de la filiation",
+        "Violences sur mineurs isolés : deux policiers condamnés par le tribunal correctionnel de Paris",
+        "Accès à la justice : le Défenseur des droits alerte sur l'effectivité inégale du droit au juge",
+        "5 septembre 1997 : la mort de Mère Teresa, prix Nobel de la paix, à Calcutta",
+        "Avocat aux Conseils : la clôture des candidatures à l'examen d'aptitude fixée au 4 septembre 2026",
+        "La Braderie de Lille ouvre ses 100 km d'étals pour son édition 2026 (hors justice)"
+      ]
+    },
     {
       "date": "2026-09-05",
       "slot": "matin",
