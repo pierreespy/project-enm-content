@@ -89,29 +89,5 @@
   },
   "date": "2026-09-05",
   "dateShort": "5 sept.",
-  "slot": "matin",
-  "astro": {
-    "n": 10,
-    "title": "Une étoile, c'est quoi : une boule de gaz qui tient debout",
-    "subtitle": "Pourquoi une masse de gaz aussi énorme ne s'effondre pas sur elle-même",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Une masse de gaz, et rien de solide",
-        "body": "Une étoile n'a ni sol ni structure rigide : c'est une immense quantité de gaz, presque uniquement de l'hydrogène, rassemblée en une boule par sa propre gravitation. Sa masse est telle que chaque particule de gaz attire toutes les autres vers le centre commun. Livrée à elle-même, une masse de gaz de cette taille devrait donc s'effondrer sur elle-même, comme n'importe quel objet cède sous son propre poids lorsque rien ne le soutient. Le Soleil, qui contient à lui seul plus de 99 % de la masse de tout le système solaire, ne devrait ainsi former qu'un point. Ce n'est pourtant pas ce qu'on observe : l'étoile garde, des milliards d'années durant, une taille stable."
-      },
-      {
-        "h": "Ce qui pousse vers l'extérieur",
-        "body": "Ce qui retient l'effondrement, c'est la pression : la force qu'exerce un gaz comprimé, qui pousse vers l'extérieur à mesure qu'il est resserré et chauffé. Plus on s'approche du centre de l'étoile, plus le poids des couches de gaz supérieures comprime celles du dessous, et plus leur pression augmente en retour. Une étoile tient donc debout par un rapport de forces : la gravitation qui tire chaque particule vers le centre, la pression du gaz comprimé qui la repousse vers l'extérieur. Aucune des deux ne l'emporte durablement sur l'autre — c'est précisément cet équilibre qui donne à l'étoile sa taille et sa stabilité, et qui sera au cœur des prochaines leçons."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Pression",
-        "def": "La force qu'exerce un gaz comprimé, orientée vers l'extérieur, et qui augmente à mesure que ce gaz est resserré et chauffé."
-      }
-    ],
-    "recap": "Une étoile est une boule de gaz que sa propre gravitation tend à effondrer, mais que la pression du gaz comprimé repousse vers l'extérieur — sa stabilité tient à cet équilibre des deux forces.",
-    "next": "Demain — pourquoi une étoile brille : la fusion."
-  }
+  "slot": "matin"
 }

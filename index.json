@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-04",
-  "updatedSlot": "midi",
+  "updated": "2026-09-05",
+  "updatedSlot": "matin",
   "count": 22,
   "editions": [
+    {
+      "date": "2026-09-05",
+      "slot": "matin",
+      "file": "editions/2026-09-05-matin.json",
+      "essentiel": "Piratage du Fisc : un hacker de 18 ans mis en examen et placé en détention provisoire",
+      "term": "Exception d'inexécution",
+      "rubriques": [
+        "Comportement dangereux d'un parent : un décret permet désormais de changer l'enfant d'école",
+        "Exonération de CFE des jeunes avocats : le Conseil constitutionnel censure une différence de traitement injustifiée",
+        "Racisme, antisémitisme, xénophobie : la CNCDH recense 9 737 actes en 2025, en hausse de 5 %",
+        "5 septembre 1972 : la prise d'otages des Jeux olympiques de Munich tourne au drame",
+        "Commissaires de justice : la fusion des professions d'huissier et de commissaire-priseur judiciaire effective depuis le 1er juillet 2026",
+        "Zinédine Zidane officiellement sélectionneur des Bleus avant son premier rassemblement en Ligue des nations"
+      ]
+    },
     {
       "date": "2026-09-04",
       "slot": "midi",
@@ -316,21 +331,6 @@
         "21 août 1911 : la Joconde disparaît du Louvre, un vol qui a précipité la protection pénale du patrimoine artistique",
         "Affaires familiales : le tribunal judiciaire de Paris expérimente le « consensus parental » dès le 7 octobre 2026",
         "Météo : après la plus longue canicule depuis 1983, orages et rafraîchissement s'installent sur la France ce vendredi"
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "slot": null,
-      "file": "editions/2026-08-20.json",
-      "essentiel": "Aide à mourir : le Conseil constitutionnel valide la loi avec trois réserves d'interprétation",
-      "term": "Excuse absolutoire",
-      "rubriques": [
-        "Montagne vivante et souveraine : la loi du 18 août 2026 sécurise le partage de l'eau et l'urbanisation en discontinuité",
-        "Autoroute A69 : le Conseil d'État confirme définitivement la légalité du chantier Toulouse-Castres",
-        "Une thèse lyonnaise réexamine le transfert fiduciaire de biens à l'épreuve de la liberté contractuelle",
-        "20 août 1789 : l'Assemblée constituante adopte le préambule et les trois premiers articles de la Déclaration des droits de l'homme et du citoyen",
-        "Formation des magistrats : une première classe préparatoire Talents de l'ENM ouvre en Guadeloupe pour la rentrée 2026-2027",
-        "Esports World Cup 2026 : la grande finale parisienne s'achève le 23 août à Porte de Versailles (hors justice)"
       ]
     }
   ]

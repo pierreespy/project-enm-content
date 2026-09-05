@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04",
-  "count": 9,
+  "updated": "2026-09-05",
+  "count": 10,
   "lessons": [
     {
       "n": 1,
@@ -78,6 +78,14 @@
       "terms": [
         "Inertie",
         "Orbite"
+      ]
+    },
+    {
+      "n": 10,
+      "file": "astro/lessons/010-une-etoile-cest-quoi.json",
+      "title": "Une étoile, c'est quoi : une boule de gaz qui tient debout",
+      "terms": [
+        "Pression"
       ]
     }
   ]
