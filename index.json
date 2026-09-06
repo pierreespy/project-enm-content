@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-06",
-  "updatedSlot": "matin",
-  "count": 23,
+  "updatedSlot": "midi",
+  "count": 24,
   "editions": [
+    {
+      "date": "2026-09-06",
+      "slot": "midi",
+      "file": "editions/2026-09-06-midi.json",
+      "essentiel": "Pas-de-Calais : un automobiliste fauche trois piétons et prend la fuite près de Saint-Omer",
+      "term": "Acquiescement au jugement",
+      "rubriques": [
+        "Gendarmerie : un arrêté du 3 septembre 2026 ouvre un nouveau concours de sous-officiers pour la session 2026-2027",
+        "Détournement de fichiers clients : la Cour de cassation fait peser le risque sur le nouvel employeur",
+        "Le Sénat, fabrique de la loi : une étude interroge ce que la « chambre du second regard » fait vraiment du droit",
+        "6 septembre 1522 : la Victoria, seul navire rescapé de l'expédition de Magellan, achève le premier tour du monde",
+        "Open data des décisions de justice : la publication des jugements prud'homaux de nouveau reportée, au 30 septembre 2026",
+        "Ardèche : l'incendie de Malbosc toujours actif, 110 pompiers mobilisés ce dimanche"
+      ]
+    },
     {
       "date": "2026-09-06",
       "slot": "matin",
