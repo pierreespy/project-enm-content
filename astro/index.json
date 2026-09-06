@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05",
-  "count": 10,
+  "updated": "2026-09-06",
+  "count": 11,
   "lessons": [
     {
       "n": 1,
@@ -86,6 +86,15 @@
       "title": "Une étoile, c'est quoi : une boule de gaz qui tient debout",
       "terms": [
         "Pression"
+      ]
+    },
+    {
+      "n": 11,
+      "file": "astro/lessons/011-pourquoi-une-etoile-brille-la-fusion.json",
+      "title": "Pourquoi une étoile brille : la fusion",
+      "terms": [
+        "Fusion nucléaire",
+        "Cœur (d'une étoile)"
       ]
     }
   ]

@@ -1,0 +1,26 @@
+{
+  "n": 11,
+  "title": "Pourquoi une étoile brille : la fusion",
+  "subtitle": "Ce qui se passe au cœur d'une étoile pour qu'elle dégage autant de lumière et de chaleur, pendant des milliards d'années.",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un four qui n'a besoin de rien d'extérieur",
+      "body": "Une étoile n'est pas un feu ordinaire : un feu de bois a besoin d'air pour brûler, et s'éteint sans lui. Une étoile tire son énergie d'elle-même, en son cœur, là où la masse écrase la matière sous une pression extrême. Dans ces conditions, les noyaux des atomes d'hydrogène, le gaz le plus abondant de l'étoile, sont pressés les uns contre les autres avec une telle violence qu'ils finissent par s'assembler en un atome plus lourd, l'hélium. Ce phénomène s'appelle la fusion nucléaire : chaque fusion libère une infime quantité d'énergie, sous forme de lumière et de chaleur."
+    },
+    {
+      "h": "Une lumière qui met des siècles à sortir",
+      "body": "Prise isolément, une fusion ne produit presque rien. Mais un cœur d'étoile en enchaîne un nombre proprement inimaginable chaque seconde, et c'est cette accumulation qui fait briller l'étoile entière. Cette énergie ne jaillit pourtant pas aussitôt à l'extérieur : la matière qui compose l'étoile est si dense que la lumière produite au centre progresse très lentement, absorbée puis réémise d'innombrables fois avant d'atteindre la surface — un trajet qui peut prendre des dizaines de milliers d'années. Ce n'est qu'une fois libérée à la surface qu'elle voyage enfin librement, à la vitesse de la lumière, vers nous ou vers le reste de l'univers."
+    },
+    {
+      "h": "Ce que le mot « brûler » cache mal",
+      "body": "On dit souvent qu'une étoile « brûle » son hydrogène, par commodité de langage — mais la combustion, celle d'une bûche ou d'une bougie, est une réaction chimique qui casse des molécules sans toucher aux atomes eux-mêmes. La fusion nucléaire, elle, transforme la nature même des atomes : des noyaux d'hydrogène deviennent un noyau d'hélium différent. C'est cette transformation profonde de la matière, et elle seule, qui libère assez d'énergie pour illuminer une étoile pendant des milliards d'années plutôt que quelques heures, comme le ferait n'importe quel feu ordinaire."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Fusion nucléaire", "def": "La réaction par laquelle deux noyaux d'atomes légers s'assemblent en un noyau plus lourd, en libérant de l'énergie." },
+    { "term": "Cœur (d'une étoile)", "def": "La région centrale d'une étoile, où la pression et la température sont assez élevées pour que la fusion nucléaire s'y produise." }
+  ],
+  "recap": "Une étoile brille parce que la fusion nucléaire, à son cœur, transforme l'hydrogène en hélium en libérant de l'énergie — une transformation profonde de la matière, et non une combustion.",
+  "next": "Demain — l'équilibre entre la gravité qui écrase l'étoile et la pression qui la soutient, et pourquoi cet équilibre finit toujours par céder."
+}

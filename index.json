@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-05",
-  "updatedSlot": "midi",
+  "updated": "2026-09-06",
+  "updatedSlot": "matin",
   "count": 23,
   "editions": [
+    {
+      "date": "2026-09-06",
+      "slot": "matin",
+      "file": "editions/2026-09-06-matin.json",
+      "essentiel": "Violences conjugales : l'humoriste Greg Guillotin reconnaît avoir frappé son ex-compagne",
+      "term": "Obligation in solidum",
+      "rubriques": [
+        "Retraite des mères : les nouvelles règles de calcul s'appliquent depuis le 1er septembre 2026",
+        "Couvre-feu imposé aux mineurs à Oradour-sur-Glane : le Conseil d'État suspend l'arrêté du maire",
+        "Régimes matrimoniaux : le Conseil supérieur du notariat propose une réforme d'ampleur",
+        "6 septembre 1901 : le président américain William McKinley victime d'une tentative d'assassinat à Buffalo",
+        "Experts judiciaires : la campagne d'inscription aux tableaux des cours administratives d'appel se clôture le 15 septembre 2026",
+        "Formule 1 : le Grand Prix d'Italie s'élance à Monza ce dimanche 6 septembre 2026"
+      ]
+    },
     {
       "date": "2026-09-05",
       "slot": "midi",
@@ -331,21 +346,6 @@
         "22 août 1864 : la première convention de Genève fonde le droit international humanitaire",
         "Formation continue des avocats : le CNB soumet à la concertation un projet de réforme de ses obligations",
         "Cyclisme : la Vuelta a España 2026 s'élance de Monaco ce samedi avec un contre-la-montre"
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "slot": null,
-      "file": "editions/2026-08-21.json",
-      "essentiel": "Cambriolage du musée Jacques Chirac : le parquet de Lyon se saisit de l'enquête sur le vol des souvenirs de la Coupe du monde 1998",
-      "term": "Quasi-usufruit",
-      "rubriques": [
-        "Saint-Martin : un décret du 18 août 2026 étend la compétence de la chambre de proximité aux fonctions de juge d'instruction",
-        "Détention provisoire : la chambre criminelle sanctionne la communication tardive des réquisitions du parquet général",
-        "Une thèse lyonnaise interroge l'accueil des demandeurs d'asile en France à l'aune de l'exigence de dignité",
-        "21 août 1911 : la Joconde disparaît du Louvre, un vol qui a précipité la protection pénale du patrimoine artistique",
-        "Affaires familiales : le tribunal judiciaire de Paris expérimente le « consensus parental » dès le 7 octobre 2026",
-        "Météo : après la plus longue canicule depuis 1983, orages et rafraîchissement s'installent sur la France ce vendredi"
       ]
     }
   ]
