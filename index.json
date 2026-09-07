@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-07",
-  "updatedSlot": "matin",
-  "count": 24,
+  "updatedSlot": "midi",
+  "count": 25,
   "editions": [
+    {
+      "date": "2026-09-07",
+      "slot": "midi",
+      "file": "editions/2026-09-07-midi.json",
+      "essentiel": "Poitiers : trois jeunes hommes grièvement blessés par balle dans la nuit, enquête ouverte pour tentative d'homicide volontaire",
+      "term": "Quasi-usufruit",
+      "rubriques": [
+        "Police nationale : un arrêté du 3 septembre 2026 met à jour la liste des postes difficiles ouvrant droit à l'indemnité de responsabilité et de performance",
+        "Rupture du contrat d'agent commercial : une transaction conclue après la fin du contrat reste valable même sans connaître le montant exact de l'indemnité due",
+        "Régulation de l'information en ligne : le Sénat plaide pour un observatoire des manipulations et la responsabilisation des concepteurs d'IA",
+        "7 septembre 1911 : Guillaume Apollinaire arrêté et écroué à la Santé dans l'affaire du vol de la Joconde",
+        "Journées européennes du patrimoine : le tribunal judiciaire et le barreau de Bordeaux ouvrent leurs portes les 19 et 20 septembre 2026",
+        "Ligue des champions : la nouvelle campagne européenne s'ouvre cette semaine pour le PSG, Lille et Lens"
+      ]
+    },
     {
       "date": "2026-09-07",
       "slot": "matin",
