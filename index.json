@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-06",
-  "updatedSlot": "midi",
+  "updated": "2026-09-07",
+  "updatedSlot": "matin",
   "count": 24,
   "editions": [
+    {
+      "date": "2026-09-07",
+      "slot": "matin",
+      "file": "editions/2026-09-07-matin.json",
+      "essentiel": "Kalachnikov à Châteauroux : quatre hommes jugés aux assises pour plusieurs tentatives d'assassinat commises en 2022",
+      "term": "Bénéfice de subrogation",
+      "rubriques": [
+        "Frais de gestion des opérateurs de compétences : un arrêté du 6 août 2026 encadre leur plafond en l'absence de convention avec l'État",
+        "Faute inexcusable de l'employeur : la Cour de cassation renverse la charge de la preuve de l'exposition au risque",
+        "Garantie AGS et résiliation judiciaire : la Cour de cassation aligne sa jurisprudence sur le droit de l'Union",
+        "7 septembre 1822 : Dom Pedro proclame l'indépendance du Brésil au bord de l'Ipiranga",
+        "Conseil d'État : la rentrée solennelle 2026 se tiendra le 9 septembre, retransmise en direct",
+        "Canicule tardive : six départements du Sud-Est en vigilance orange ce lundi 7 septembre"
+      ]
+    },
     {
       "date": "2026-09-06",
       "slot": "midi",
@@ -346,21 +361,6 @@
         "24 août 1780 : Louis XVI abolit la « question préparatoire », la torture judiciaire destinée à arracher des aveux",
         "Magistrature : les candidatures aux concours d'accès à l'ENM rouvrent après la pause estivale, jusqu'au 7 décembre 2026",
         "Météo : de forts orages traversent les deux tiers du pays ce lundi 24 août avant un retour de la chaleur"
-      ]
-    },
-    {
-      "date": "2026-08-22",
-      "slot": null,
-      "file": "editions/2026-08-22.json",
-      "essentiel": "Affaire Le Scouarnec : le parquet de Lorient ouvre une information judiciaire pour 10 nouveaux viols et 40 agressions sexuelles",
-      "term": "Acte anormal de gestion",
-      "rubriques": [
-        "Érosion du littoral : un décret du 20 août 2026 adopte la stratégie nationale de gestion intégrée du trait de côte",
-        "Service public numérique : le Conseil d'État impose à l'État de corriger les dysfonctionnements de la plateforme ANEF",
-        "Une thèse toulousaine interroge les transformations du droit pénal à l'ère de l'intelligence artificielle",
-        "22 août 1864 : la première convention de Genève fonde le droit international humanitaire",
-        "Formation continue des avocats : le CNB soumet à la concertation un projet de réforme de ses obligations",
-        "Cyclisme : la Vuelta a España 2026 s'élance de Monaco ce samedi avec un contre-la-montre"
       ]
     }
   ]

@@ -89,33 +89,5 @@
   },
   "date": "2026-09-07",
   "dateShort": "7 sept.",
-  "slot": "matin",
-  "astro": {
-    "n": 12,
-    "title": "L'équilibre qui tient une étoile debout",
-    "subtitle": "Deux forces opposées maintiennent une étoile stable pendant des milliards d'années — et pourquoi, un jour, l'une l'emporte.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Deux forces qui se neutralisent",
-        "body": "Une étoile est prise en étau entre deux forces opposées. D'un côté, sa propre masse exerce une gravitation qui tend à l'écraser sur elle-même — plus une étoile est massive, plus cette force est violente. De l'autre, la fusion nucléaire qui se produit dans son cœur chauffe la matière et produit une pression qui pousse vers l'extérieur, comme l'air chaud gonfle un ballon. Tant que ces deux forces se neutralisent exactement, l'étoile ne change ni de taille ni de forme : on appelle cet état l'équilibre hydrostatique. Une étoile stable — le Soleil, par exemple — n'est donc pas un objet figé, mais un bras de fer permanent entre deux forces adverses, remarquablement stable pendant des milliards d'années."
-      },
-      {
-        "h": "Ce qui alimente la pression",
-        "body": "Cette pression n'est pas gratuite : elle dépend entièrement de la fusion nucléaire qui se déroule au cœur de l'étoile, laquelle transforme l'hydrogène en hélium en libérant de l'énergie. Tant que le cœur dispose d'hydrogène à fusionner, la production d'énergie — et donc de pression — reste suffisante pour contenir la gravitation. L'équilibre tient parce que les deux forces sont liées : si la gravitation se resserre un peu, elle comprime le cœur, ce qui accélère la fusion, ce qui augmente la pression, ce qui repousse à son tour la gravitation. Ce mécanisme d'autorégulation explique la remarquable constance avec laquelle une étoile comme le Soleil brille depuis près de cinq milliards d'années."
-      },
-      {
-        "h": "Un équilibre voué à céder",
-        "body": "Cet équilibre n'est pourtant pas éternel, car il repose sur un stock fini : l'hydrogène du cœur. Ce combustible s'épuise inexorablement, fusion après fusion, sans être renouvelé. Le jour où le cœur manque d'hydrogène à transformer, la production d'énergie faiblit, la pression cesse de compenser la gravitation, et cette dernière reprend l'avantage : l'étoile commence à se contracter. Ce basculement, inévitable pour toute étoile, ne signifie pas encore sa disparition — il marque le début d'une nouvelle phase de sa vie, différente selon sa masse initiale."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Équilibre hydrostatique",
-        "def": "L'état d'une étoile où la pression produite en son cœur compense exactement la gravitation qui tend à l'écraser."
-      }
-    ],
-    "recap": "Une étoile tient debout parce que la pression issue de la fusion en son cœur équilibre exactement sa propre gravitation — un équilibre qui cède dès que l'hydrogène du cœur s'épuise.",
-    "next": "Demain — la couleur d'une étoile n'est pas qu'esthétique : elle dit sa température."
-  }
+  "slot": "matin"
 }

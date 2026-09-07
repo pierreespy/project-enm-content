@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06",
-  "count": 11,
+  "updated": "2026-09-07",
+  "count": 12,
   "lessons": [
     {
       "n": 1,
@@ -95,6 +95,14 @@
       "terms": [
         "Fusion nucléaire",
         "Cœur (d'une étoile)"
+      ]
+    },
+    {
+      "n": 12,
+      "file": "astro/lessons/012-l-equilibre-entre-gravite-et-pression.json",
+      "title": "L'équilibre qui tient une étoile debout",
+      "terms": [
+        "Équilibre hydrostatique"
       ]
     }
   ]
