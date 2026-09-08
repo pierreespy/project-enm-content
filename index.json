@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-07",
-  "updatedSlot": "midi",
-  "count": 25,
+  "updated": "2026-09-08",
+  "updatedSlot": "matin",
+  "count": 26,
   "editions": [
+    {
+      "date": "2026-09-08",
+      "slot": "matin",
+      "file": "editions/2026-09-08-matin.json",
+      "essentiel": "Sedan : à l'ouverture de son procès, l'accusé reconnaît le viol et le meurtre de Loana, 10 ans",
+      "term": "Théorie du fonctionnaire de fait",
+      "rubriques": [
+        "Violences faites aux femmes et aux enfants : la proposition de « loi intégrale » entame son parcours à l'Assemblée nationale",
+        "Harcèlement conjugal devant les enfants : la chambre criminelle valide le retrait d'autorité parentale sans demande de l'autre parent",
+        "Précarité et accès aux droits : le Défenseur des droits documente un cercle vicieux de discriminations cumulées",
+        "8 septembre de l'an 70 : les légions de Titus détruisent le Temple de Jérusalem",
+        "Élections au Conseil national des barreaux : candidatures closes le 30 septembre pour un scrutin fixé au 24 novembre 2026",
+        "Rentrée littéraire : le Prix Goncourt dévoile sa première sélection de seize romans"
+      ]
+    },
     {
       "date": "2026-09-07",
       "slot": "midi",

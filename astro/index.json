@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07",
-  "count": 12,
+  "updated": "2026-09-08",
+  "count": 13,
   "lessons": [
     {
       "n": 1,
@@ -103,6 +103,14 @@
       "title": "L'équilibre qui tient une étoile debout",
       "terms": [
         "Équilibre hydrostatique"
+      ]
+    },
+    {
+      "n": 13,
+      "file": "astro/lessons/013-la-couleur-d-une-etoile-dit-sa-temperature.json",
+      "title": "La couleur d'une étoile dit sa température",
+      "terms": [
+        "Température de surface"
       ]
     }
   ]
