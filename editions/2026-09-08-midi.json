@@ -89,33 +89,5 @@
   },
   "date": "2026-09-08",
   "dateShort": "8 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 13,
-    "title": "La couleur d'une étoile dit sa température",
-    "subtitle": "Une étoile rouge, une étoile blanche, une étoile bleue : ce n'est pas une question de goût, mais de chaleur.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Une couleur qui n'a rien d'arbitraire",
-        "body": "À l'œil nu, les étoiles ne brillent pas toutes de la même couleur : certaines tirent sur le rouge, d'autres sur le blanc, d'autres encore sur le bleu. Cette couleur n'est pas une propriété de la matière qui compose l'étoile — presque toutes sont faites des mêmes éléments, principalement de l'hydrogène. Ce qui varie, c'est la température de surface : la température de la couche externe de l'étoile, celle qui émet la lumière que l'on reçoit. Plus cette couche est chaude, plus la lumière qu'elle émet est décalée vers le bleu ; plus elle est froide, plus elle est décalée vers le rouge."
-      },
-      {
-        "h": "Une échelle, du rouge au bleu",
-        "body": "Une étoile rouge a une température de surface relativement basse, de l'ordre de 3 000 degrés. Une étoile jaune comme le Soleil tourne autour de 5 500 degrés. Une étoile blanche dépasse les 7 000 degrés, et une étoile bleue peut atteindre, voire dépasser, 20 000 degrés. La couleur d'une étoile permet ainsi, à elle seule et sans aucun autre instrument, d'estimer sa température de surface — un renseignement précieux, obtenu d'un simple coup d'œil."
-      },
-      {
-        "h": "Le même principe qu'un métal que l'on chauffe",
-        "body": "Ce lien entre couleur et température n'a rien de mystérieux : c'est le même phénomène qu'un morceau de métal porté au rouge, puis au blanc, à mesure qu'on le chauffe davantage. Tout corps suffisamment chaud émet de la lumière, et la couleur de cette lumière dépend de sa température — plus il est chaud, plus la lumière émise est décalée vers le bleu. Une étoile n'échappe pas à cette règle : elle est, de ce point de vue, un objet incandescent comme un autre, mais à une échelle où l'on peut lire sa température depuis la Terre."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Température de surface",
-        "def": "La température de la couche externe d'une étoile, celle qui émet la lumière que l'on reçoit — elle détermine la couleur apparente de l'étoile."
-      }
-    ],
-    "recap": "La couleur d'une étoile n'est pas une question de composition mais de température de surface : rouge pour les plus froides, bleu pour les plus chaudes.",
-    "next": "Demain — décomposer la lumière d'une étoile en dit bien plus que sa seule couleur : c'est le spectre."
-  }
+  "slot": "midi"
 }

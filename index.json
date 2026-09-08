@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-08",
-  "updatedSlot": "matin",
-  "count": 26,
+  "updatedSlot": "midi",
+  "count": 27,
   "editions": [
+    {
+      "date": "2026-09-08",
+      "slot": "midi",
+      "file": "editions/2026-09-08-midi.json",
+      "essentiel": "Sologne : le procès pour braconnage visant Olivier Bouygues s'achève après deux jours devant le tribunal correctionnel d'Orléans",
+      "term": "Saisine d'office",
+      "rubriques": [
+        "Personnes handicapées : un décret du 7 septembre 2026 proroge les mandats du président et des membres du Conseil national consultatif",
+        "Corruption à l'IAAF : le nouveau procès en appel de Papa Massata Diack s'ouvre ce mardi devant la cour d'appel de Paris",
+        "Gouvernance des autorités indépendantes : la Cour des comptes pointe l'expansion incontrôlée des missions de la CNCDH",
+        "8 septembre 1951 : le traité de San Francisco met juridiquement fin à la Seconde Guerre mondiale dans le Pacifique",
+        "Élections sénatoriales : le scrutin du 27 septembre 2026 renouvellera 178 sièges de la série 2",
+        "Retour des orages : 21 départements du Sud-Est et de l'Est placés en vigilance jaune ce mardi"
+      ]
+    },
     {
       "date": "2026-09-08",
       "slot": "matin",
