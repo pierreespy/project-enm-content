@@ -89,33 +89,5 @@
   },
   "date": "2026-09-09",
   "dateShort": "9 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 14,
-    "title": "Décomposer la lumière : le spectre",
-    "subtitle": "Une même lumière blanche cache en réalité toutes les couleurs de l'arc-en-ciel — encore faut-il savoir les séparer.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Une lumière qui n'est pas simple",
-        "body": "La lumière blanche d'une étoile, vue à l'œil nu, semble uniforme. Elle ne l'est pas : elle est en réalité un mélange de toutes les couleurs, du rouge au bleu, comme le montre un arc-en-ciel — la lumière du Soleil, déviée par les gouttes d'eau, s'y sépare en ses couleurs constitutives. Le spectre d'une lumière est précisément cette décomposition : l'étalement de ses différentes couleurs, obtenu en laboratoire à l'aide d'un prisme ou d'un instrument spécialisé plutôt que par la pluie."
-      },
-      {
-        "h": "Un spectre plutôt qu'une couleur",
-        "body": "La leçon précédente a montré que la couleur dominante d'une étoile renseigne déjà sur sa température de surface. Mais s'arrêter à cette couleur d'ensemble, c'est se priver de l'essentiel : le spectre complet contient beaucoup plus d'information qu'une simple teinte. En étalant la lumière d'une étoile sur toute sa gamme de couleurs, on obtient une sorte de code-barres lumineux, propre à chaque étoile, que l'on peut ensuite analyser dans le détail."
-      },
-      {
-        "h": "Le seul outil disponible, poussé à fond",
-        "body": "Aucune sonde n'ira jamais toucher une étoile : la lumière reste, comme la première leçon l'a annoncé, le seul témoin dont dispose l'astrophysicien. Le spectre est la manière d'exploiter ce témoin au maximum de ce qu'il peut dire — non plus seulement d'où vient la lumière et depuis quand elle voyage, mais de quoi est faite son émission, seconde par seconde de couleur. C'est cet outil que la leçon suivante apprendra à lire."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Spectre",
-        "def": "La décomposition de la lumière d'un astre en ses différentes couleurs, obtenue à l'aide d'un prisme ou d'un instrument spécialisé — une sorte de code-barres lumineux propre à chaque source."
-      }
-    ],
-    "recap": "Le spectre étale la lumière d'une étoile en toutes ses couleurs, livrant bien plus d'information que sa seule couleur d'ensemble.",
-    "next": "Demain — ce que les raies du spectre révèlent : la signature des éléments chimiques."
-  }
+  "slot": "midi"
 }

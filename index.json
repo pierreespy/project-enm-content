@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-09",
-  "updatedSlot": "matin",
-  "count": 27,
+  "updatedSlot": "midi",
+  "count": 28,
   "editions": [
+    {
+      "date": "2026-09-09",
+      "slot": "midi",
+      "file": "editions/2026-09-09-midi.json",
+      "essentiel": "Sedan : Jean-Baptiste Mentz condamné à 30 ans de réclusion criminelle pour le viol et le meurtre de Loana, 10 ans",
+      "term": "Rescision pour lésion",
+      "rubriques": [
+        "Ombrières photovoltaïques sur parkings : un décret du 7 septembre 2026 étend le report d'échéance aux parcs de 1 500 à 10 000 m²",
+        "Départ vers un concurrent : la seule présence de fichiers confidentiels sur le matériel fourni par le nouvel employeur caractérise leur appropriation",
+        "Un simple post sur un réseau social peut être une œuvre protégée par le droit d'auteur, tranche la CJUE",
+        "9 septembre 1087 : la mort de Guillaume le Conquérant, duc de Normandie et roi d'Angleterre",
+        "Le Conseil d'État tient sa rentrée solennelle, la première présidée par son nouveau vice-président Marc Guillaume",
+        "Fin de la chaleur tardive : un air polaire percute la masse chaude saharienne, orages et pluies-inondations dans les Alpes"
+      ]
+    },
     {
       "date": "2026-09-09",
       "slot": "matin",
