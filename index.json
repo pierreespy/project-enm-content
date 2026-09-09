@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-08",
-  "updatedSlot": "midi",
+  "updated": "2026-09-09",
+  "updatedSlot": "matin",
   "count": 27,
   "editions": [
+    {
+      "date": "2026-09-09",
+      "slot": "matin",
+      "file": "editions/2026-09-09-matin.json",
+      "essentiel": "Affaire des assistants du MoDem : le procès en appel de François Bayrou s'ouvre ce mercredi à Paris",
+      "term": "Emprise irrégulière",
+      "rubriques": [
+        "Médicaments remboursables : un arrêté du 31 août 2026 modifie la liste des spécialités prises en charge par l'assurance maladie",
+        "Plan de sauvegarde de l'emploi annulé : la Cour de cassation subordonne l'exonération de cotisations à l'homologation régulière",
+        "Une thèse d'Assas interroge le droit d'accès à l'eau potable, entre service public et garantie fondamentale",
+        "9 septembre 1899 : le conseil de guerre de Rennes condamne une seconde fois Alfred Dreyfus, à dix ans de détention",
+        "Concours professionnel de la magistrature : les inscriptions pour la session 2027 s'ouvrent le 14 septembre",
+        "Ligue des champions : le PSG reçoit le Slovan Bratislava ce mercredi pour sa première journée de la nouvelle campagne européenne"
+      ]
+    },
     {
       "date": "2026-09-08",
       "slot": "midi",
@@ -391,21 +406,6 @@
         "25 août 1539 : l'ordonnance de Villers-Cotterêts impose le français dans tous les actes de justice",
         "Examen du CAPA : le CNB détaille les nouvelles modalités applicables dès la session 2026",
         "Météo : la Corse placée en vigilance orange orages dans la nuit de lundi à mardi, avant une accalmie"
-      ]
-    },
-    {
-      "date": "2026-08-24",
-      "slot": null,
-      "file": "editions/2026-08-24.json",
-      "essentiel": "Sucy-en-Brie : un homme soupçonné d'avoir tué sa mère placé en garde à vue pour homicide volontaire sur ascendant",
-      "term": "Rescision pour lésion",
-      "rubriques": [
-        "Sécurité sociale : quatre décrets du 21 août 2026 réorganisent la prise en charge des soins dentaires, dispositifs médicaux, médicaments innovants et transport sanitaire",
-        "Nullités de la procédure pénale : la chambre criminelle exige l'identification précise des actes subséquents annulés, y compris devant la juridiction de jugement",
-        "Une thèse lilloise pose les invendus comme point d'entrée d'une approche juridique de l'économie circulaire",
-        "24 août 1780 : Louis XVI abolit la « question préparatoire », la torture judiciaire destinée à arracher des aveux",
-        "Magistrature : les candidatures aux concours d'accès à l'ENM rouvrent après la pause estivale, jusqu'au 7 décembre 2026",
-        "Météo : de forts orages traversent les deux tiers du pays ce lundi 24 août avant un retour de la chaleur"
       ]
     }
   ]
