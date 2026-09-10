@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-09",
-  "updatedSlot": "midi",
+  "updated": "2026-09-10",
+  "updatedSlot": "matin",
   "count": 28,
   "editions": [
+    {
+      "date": "2026-09-10",
+      "slot": "matin",
+      "file": "editions/2026-09-10-matin.json",
+      "essentiel": "Frichti : les deux ex-dirigeants de la plateforme de livraison jugés à Paris pour travail dissimulé et emploi d'étrangers sans titre",
+      "term": "Comparution à délai différé",
+      "rubriques": [
+        "Politique d'installation et de transmission en agriculture : un décret du 7 septembre 2026 précise la composition des instances régionales de concertation",
+        "Péremption d'instance aux prud'hommes : deux arrêts du 9 septembre 2026 précisent la charge des diligences après radiation",
+        "Une thèse d'Assas revisite la théorie générale du contrat administratif à travers l'indemnisation",
+        "10 septembre 1419 : l'assassinat de Jean sans Peur, duc de Bourgogne, sur le pont de Montereau",
+        "Élections du Conseil national des barreaux : candidatures closes le 30 septembre pour un scrutin fixé au 24 novembre 2026",
+        "Jay-Z au Stade de France ce jeudi soir, une première pour un rappeur américain depuis Eminem en 2013"
+      ]
+    },
     {
       "date": "2026-09-09",
       "slot": "midi",
@@ -406,21 +421,6 @@
         "26 août 1920 : le dix-neuvième amendement consacre le droit de vote des femmes aux États-Unis",
         "Facturation électronique : le CNB lance sa plateforme e-Facturation à destination des cabinets d'avocats",
         "Météo : trente départements du nord-ouest placés en vigilance orage ce mercredi 26 août"
-      ]
-    },
-    {
-      "date": "2026-08-25",
-      "slot": null,
-      "file": "editions/2026-08-25.json",
-      "essentiel": "Mort de l'influenceuse Sonia Bellina dans le Gard : un homme de 32 ans mis en examen pour assassinat et placé en détention provisoire",
-      "term": "Coemploi",
-      "rubriques": [
-        "Comptes des syndicats professionnels : un décret du 21 août 2026 simplifie la procédure de dépôt pour les structures de moins de 230 000 € de ressources",
-        "Indemnité de licenciement dans les cabinets médicaux : la chambre sociale impose la prise en compte de la reprise d'ancienneté",
-        "Une thèse nantaise interroge le statut juridique des sénatus-consultes napoléoniens, entre pouvoir constituant et pouvoir législatif",
-        "25 août 1539 : l'ordonnance de Villers-Cotterêts impose le français dans tous les actes de justice",
-        "Examen du CAPA : le CNB détaille les nouvelles modalités applicables dès la session 2026",
-        "Météo : la Corse placée en vigilance orange orages dans la nuit de lundi à mardi, avant une accalmie"
       ]
     }
   ]

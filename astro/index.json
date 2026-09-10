@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09",
-  "count": 14,
+  "updated": "2026-09-10",
+  "count": 15,
   "lessons": [
     {
       "n": 1,
@@ -119,6 +119,14 @@
       "title": "Décomposer la lumière : le spectre",
       "terms": [
         "Spectre"
+      ]
+    },
+    {
+      "n": 15,
+      "file": "astro/lessons/015-les-raies-spectrales-signature-des-elements.json",
+      "title": "Les raies spectrales, signature des éléments",
+      "terms": [
+        "Raie spectrale"
       ]
     }
   ]
