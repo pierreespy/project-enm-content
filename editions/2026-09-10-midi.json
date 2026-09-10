@@ -89,33 +89,5 @@
   },
   "date": "2026-09-10",
   "dateShort": "10 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 15,
-    "title": "Les raies spectrales, signature des éléments",
-    "subtitle": "Le spectre d'une étoile n'est pas un simple arc-en-ciel continu : il porte des marques, et ces marques ont un nom.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Un spectre troué, pas continu",
-        "body": "La leçon précédente a montré comment on étale la lumière d'une étoile en ses couleurs. En y regardant de près, ce spectre n'est pas une bande de couleurs parfaitement lisse : il est traversé de fines lignes, plus sombres ou plus brillantes que le reste, à des positions bien précises. Chacune de ces lignes est une raie spectrale — l'absence, ou au contraire l'excès, de lumière à une couleur exacte, au milieu de toutes les autres."
-      },
-      {
-        "h": "Une signature propre à chaque élément",
-        "body": "Ces raies ne sont pas dues au hasard : chaque élément chimique — l'hydrogène, l'hélium, le fer — absorbe ou émet la lumière à des couleurs qui lui sont propres, toujours les mêmes, et à aucune autre. On mesure ces couleurs en laboratoire, sur Terre, pour chaque élément pris isolément. Le résultat forme une sorte d'empreinte digitale : deux éléments différents ne produisent jamais la même combinaison de raies."
-      },
-      {
-        "h": "Lire la matière sans la toucher",
-        "body": "Il suffit alors de comparer le spectre d'une étoile à ces empreintes connues pour reconnaître, une à une, les raies qui le composent — et donc les éléments présents. Aucune sonde n'a jamais prélevé la matière d'une étoile ; c'est cette comparaison qui permet malgré tout de savoir de quoi elle est faite. C'est ainsi que l'on sait que les étoiles sont très majoritairement composées d'hydrogène, bien avant d'avoir pu s'en approcher."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Raie spectrale",
-        "def": "Une fine ligne, plus sombre ou plus brillante que le reste, à une couleur précise d'un spectre — la signature d'un élément chimique qui absorbe ou émet la lumière à cette couleur et à aucune autre."
-      }
-    ],
-    "recap": "Le spectre d'une étoile porte des raies, propres à chaque élément chimique, qui permettent de savoir de quoi elle est faite sans jamais la toucher.",
-    "next": "Demain — l'effet Doppler : lire un mouvement dans la lumière."
-  }
+  "slot": "midi"
 }

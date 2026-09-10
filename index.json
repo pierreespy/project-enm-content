@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-10",
-  "updatedSlot": "matin",
-  "count": 28,
+  "updatedSlot": "midi",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-10",
+      "slot": "midi",
+      "file": "editions/2026-09-10-midi.json",
+      "essentiel": "Diffamation : le président du Finistère Maël de Calan jugé à Brest après avoir qualifié un député LFI de « factieux et antisémite »",
+      "term": "Perpétuité de l'exception de nullité",
+      "rubriques": [
+        "Transparence salariale : le gouvernement présente son projet de loi en conseil des ministres",
+        "Commissionnaire de transport : la chambre commerciale écarte l'exception d'inexécution opposée à son droit de rétention",
+        "Cinquièmes Rencontres de droit des contrats : université et Cour de cassation dialoguent le 14 septembre",
+        "10 septembre 1857 : le Pacte fondamental accorde aux sujets du bey de Tunis une égalité inédite devant la loi et l'impôt",
+        "Affaire Christian Nègre : les parties civiles réclament l'accélération de l'instruction lors d'une réunion avec les juges",
+        "Orages : la Haute-Corse placée en vigilance jaune ce jeudi après-midi"
+      ]
+    },
     {
       "date": "2026-09-10",
       "slot": "matin",
