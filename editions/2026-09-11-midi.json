@@ -89,37 +89,5 @@
   },
   "date": "2026-09-11",
   "dateShort": "11 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 16,
-    "title": "L'effet Doppler : lire un mouvement dans la lumière",
-    "subtitle": "Les raies spectrales de la leçon précédente ne restent pas toujours à leur place — leur déplacement raconte un mouvement.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Un son qui change en s'approchant",
-        "body": "Le principe se comprend d'abord avec le son. Une sirène qui approche semble plus aiguë, puis plus grave une fois qu'elle s'éloigne — le son lui-même n'a pourtant pas changé. C'est l'effet Doppler : quand une source d'onde et celui qui l'observe se rapprochent ou s'éloignent l'un de l'autre, la fréquence perçue de l'onde change, compressée à l'approche, étirée à l'éloignement. Ce phénomène ne concerne pas que le son : il s'applique à toute onde, la lumière comprise."
-      },
-      {
-        "h": "La même chose se produit avec la lumière",
-        "body": "Une étoile qui se rapproche ou s'éloigne de la Terre produit le même effet sur sa lumière : les raies spectrales, ces marques précises vues à la leçon précédente, se déplacent légèrement par rapport à la position qu'elles occupent en laboratoire, où la source est immobile. Ce déplacement, mesurable avec précision, porte le nom de décalage Doppler. Il se lit dans deux directions possibles : vers le bleu si l'étoile se rapproche, vers le rouge si elle s'éloigne."
-      },
-      {
-        "h": "Un mouvement lu sans le toucher",
-        "body": "L'intérêt est le même que pour la composition chimique des étoiles : on n'a jamais posé d'instrument sur une étoile pour mesurer sa vitesse. C'est la comparaison entre la position habituelle d'une raie et sa position réellement observée qui révèle, par le seul calcul, si l'étoile se rapproche ou s'éloigne, et à quelle vitesse. La lumière ne montre pas seulement de quoi une étoile est faite — elle dit aussi comment elle se déplace."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Effet Doppler",
-        "def": "Le changement de fréquence perçu d'une onde lorsque sa source et l'observateur se rapprochent ou s'éloignent l'un de l'autre."
-      },
-      {
-        "term": "Décalage Doppler",
-        "def": "Le déplacement, vers le bleu ou vers le rouge, de la position d'une raie spectrale par rapport à sa position de référence mesurée en laboratoire, causé par le mouvement de la source."
-      }
-    ],
-    "recap": "Le déplacement des raies spectrales d'une étoile, causé par l'effet Doppler, permet de savoir si elle se rapproche ou s'éloigne de nous, et à quelle vitesse — sans jamais avoir mesuré son mouvement directement.",
-    "next": "Demain — le décalage vers le rouge, et ce qu'il permet de découvrir sur les étoiles les plus lointaines."
-  }
+  "slot": "midi"
 }

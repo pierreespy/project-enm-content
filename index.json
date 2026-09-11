@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-11",
-  "updatedSlot": "matin",
-  "count": 28,
+  "updatedSlot": "midi",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-11",
+      "slot": "midi",
+      "file": "editions/2026-09-11-midi.json",
+      "essentiel": "Home-jacking de Gianluigi Donnarumma : audience sous très haute tension à Paris, « Ganito » menace des policiers",
+      "term": "Substitution de motifs",
+      "rubriques": [
+        "Facturation électronique obligatoire depuis le 1er septembre : cadre juridique et sanctions pour les entreprises et cabinets",
+        "Cour d'assises spéciale terrorisme : la Cour de cassation restreint l'indemnisation des parties civiles pour les infractions connexes",
+        "PAC 2023-2027 : la Cour des comptes juge la mise en œuvre française incohérente entre objectifs économiques et environnementaux",
+        "25 ans après le 11-Septembre : New York rend hommage aux 2 977 victimes des attentats",
+        "Facturation électronique : le Conseil national des barreaux ouvre sa plateforme « e-Facturation » aux avocats",
+        "Budget 2027 : le gouvernement abaisse sa prévision de croissance à 0,5 % pour 2026"
+      ]
+    },
     {
       "date": "2026-09-11",
       "slot": "matin",
