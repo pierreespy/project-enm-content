@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-10",
-  "updatedSlot": "midi",
-  "count": 29,
+  "updated": "2026-09-11",
+  "updatedSlot": "matin",
+  "count": 28,
   "editions": [
+    {
+      "date": "2026-09-11",
+      "slot": "matin",
+      "file": "editions/2026-09-11-matin.json",
+      "essentiel": "Grand banditisme : Jean-Charles Preira, complice présumé de Mohamed Amra lors de son évasion, acquitté d'un meurtre par la cour d'assises de l'Eure",
+      "term": "Solve et repete",
+      "rubriques": [
+        "Gazole non routier dans le BTP : un décret du 9 septembre 2026 instaure une aide pour les entreprises de travaux publics",
+        "Expertise génétique : l'expert doit être inscrit sur la liste des experts judiciaires au jour de sa désignation, tranche la Cour de cassation",
+        "Quarante ans de la loi antiterroriste du 9 septembre 1986 : la Cour de cassation organise un colloque le 25 septembre",
+        "11 septembre 1714 : la chute de Barcelone met fin à la guerre de Succession d'Espagne et donne naissance à la Diada catalane",
+        "Logiciel Themisia : le Barreau de Paris ouvre à tous les avocats de France son outil de gestion de cabinet",
+        "Orages : les Alpes-Maritimes placées en vigilance jaune ce vendredi après-midi"
+      ]
+    },
     {
       "date": "2026-09-10",
       "slot": "midi",
@@ -406,36 +421,6 @@
         "27 août 1791 : la déclaration de Pillnitz, quand deux monarques étrangers prennent parti pour Louis XVI",
         "IA générative en cabinet d'avocat : le CNB adopte un guide déontologique pour encadrer son usage",
         "Météo : le Doubs placé en vigilance jaune orages ce jeudi 27 août en fin de journée"
-      ]
-    },
-    {
-      "date": "2026-08-26",
-      "slot": "midi",
-      "file": "editions/2026-08-26-midi.json",
-      "essentiel": "Sérophobie : deux hommes en grève de la faim devant le tribunal judiciaire de Reims réclament une réponse pénale",
-      "term": "Réitération d'infractions",
-      "rubriques": [
-        "Conseil d'État : un décret du 25 août 2026 précise les règles de présidence des sections et de la commission permanente",
-        "Accident du travail : la chambre sociale confirme l'irrecevabilité de l'action prud'homale fondée sur un manquement à l'obligation de sécurité",
-        "La CNCDH adopte un avis pour une conception des services numériques respectueuse des droits humains",
-        "26 août 1648 : la Journée des Barricades, quand l'arrestation d'un conseiller au Parlement de Paris embrase la capitale",
-        "Justice pénale numérique : soixante-dix tribunaux judiciaires certifiés « Tribunal pénal numérique » en 2026, contre trente en 2025",
-        "Ligue des champions : Lyon reçoit Fenerbahçe ce mercredi soir pour une qualification jouée sur un fil"
-      ]
-    },
-    {
-      "date": "2026-08-26",
-      "slot": "matin",
-      "file": "editions/2026-08-26-matin.json",
-      "essentiel": "Évasion du tribunal de Tarbes en pleine énonciation de peine : le militaire fugitif condamné à 8 mois de prison",
-      "term": "Substitution de motifs",
-      "rubriques": [
-        "Plan national loup : un décret du 24 août 2026 renforce les pouvoirs du préfet coordonnateur sur les tirs de défense",
-        "Cautionnement disproportionné : un engagement de caution arrivé à échéance reste compté dans l'endettement du garant",
-        "Une thèse nantaise interroge la manière dont les nouvelles techniques de gestion des ressources humaines rebattent le droit du travail",
-        "26 août 1920 : le dix-neuvième amendement consacre le droit de vote des femmes aux États-Unis",
-        "Facturation électronique : le CNB lance sa plateforme e-Facturation à destination des cabinets d'avocats",
-        "Météo : trente départements du nord-ouest placés en vigilance orage ce mercredi 26 août"
       ]
     }
   ]

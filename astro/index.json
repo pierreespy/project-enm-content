@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10",
-  "count": 15,
+  "updated": "2026-09-11",
+  "count": 16,
   "lessons": [
     {
       "n": 1,
@@ -127,6 +127,15 @@
       "title": "Les raies spectrales, signature des éléments",
       "terms": [
         "Raie spectrale"
+      ]
+    },
+    {
+      "n": 16,
+      "file": "astro/lessons/016-effet-doppler-lire-un-mouvement.json",
+      "title": "L'effet Doppler : lire un mouvement dans la lumière",
+      "terms": [
+        "Effet Doppler",
+        "Décalage Doppler"
       ]
     }
   ]
