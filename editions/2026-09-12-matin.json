@@ -89,37 +89,5 @@
   },
   "date": "2026-09-12",
   "dateShort": "12 sept.",
-  "slot": "matin",
-  "astro": {
-    "n": 17,
-    "title": "Le décalage vers le rouge",
-    "subtitle": "Un cas particulier du décalage Doppler vu hier, mais si général qu'il a changé la façon de voir l'univers.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Une observation presque universelle",
-        "body": "Dans les années 1920, les astronomes qui examinent le spectre des galaxies lointaines remarquent une chose étrange : la quasi-totalité d'entre elles présentent le même type de décalage Doppler vu dans la leçon précédente, et toujours dans le même sens — vers le rouge. Autrement dit, presque toutes les galaxies observées semblent s'éloigner de nous, jamais s'en rapprocher. Ce résultat, obtenu indépendamment galaxie après galaxie, à mesure que les instruments s'améliorent, ne pouvait pas relever d'un simple hasard de mouvements individuels : une régularité aussi massive appelle une cause commune."
-      },
-      {
-        "h": "Plus loin, plus vite",
-        "body": "Le décalage vers le rouge, mesuré galaxie par galaxie, ne varie pas non plus au hasard : plus une galaxie est lointaine, plus son décalage est important, ce qui, par le principe vu hier, signifie qu'elle semble s'éloigner plus vite. Cette relation entre distance et vitesse d'éloignement, établie en 1929 par l'astronome américain Edwin Hubble, porte depuis son nom : la loi de Hubble. Elle transforme un simple effet optique, observé galaxie après galaxie, en un outil de mesure : connaître le décalage d'une galaxie, c'est apprendre quelque chose sur sa distance."
-      },
-      {
-        "h": "Ce que cette régularité annonce",
-        "body": "Une régularité aussi systématique, touchant la quasi-totalité des galaxies observables et croissant avec la distance, ne peut pas s'expliquer par le mouvement propre de chacune, comme une étoile qui s'éloignerait par hasard de son voisinage. Elle appelle une explication d'ensemble, qui concerne l'espace lui-même plutôt que chaque galaxie prise isolément. Cette explication, qui a changé la façon de concevoir l'univers tout entier, sera l'objet d'une leçon à venir — pour l'instant, il suffit de retenir l'observation elle-même, et sa régularité."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Décalage vers le rouge",
-        "def": "Décalage Doppler d'une source lumineuse vers les grandes longueurs d'onde, associé à son éloignement."
-      },
-      {
-        "term": "Loi de Hubble",
-        "def": "La relation observée selon laquelle le décalage vers le rouge d'une galaxie, donc sa vitesse d'éloignement apparente, croît avec sa distance."
-      }
-    ],
-    "recap": "Le décalage vers le rouge, cas particulier du décalage Doppler, touche la quasi-totalité des galaxies observées et croît avec leur distance — la loi de Hubble — une régularité si générale qu'elle réclame une explication à l'échelle de l'univers entier.",
-    "next": "Demain — la naissance des étoiles, quand un nuage de gaz s'effondre sur lui-même."
-  }
+  "slot": "matin"
 }

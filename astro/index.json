@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11",
-  "count": 16,
+  "updated": "2026-09-12",
+  "count": 17,
   "lessons": [
     {
       "n": 1,
@@ -136,6 +136,15 @@
       "terms": [
         "Effet Doppler",
         "Décalage Doppler"
+      ]
+    },
+    {
+      "n": 17,
+      "file": "astro/lessons/017-le-decalage-vers-le-rouge.json",
+      "title": "Le décalage vers le rouge",
+      "terms": [
+        "Décalage vers le rouge",
+        "Loi de Hubble"
       ]
     }
   ]
