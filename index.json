@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-12",
-  "updatedSlot": "matin",
-  "count": 28,
+  "updatedSlot": "midi",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-12",
+      "slot": "midi",
+      "file": "editions/2026-09-12-midi.json",
+      "essentiel": "Déraillement d'un TER près de Rouen : la piste de l'acte malveillant désormais privilégiée",
+      "term": "Loi de police",
+      "rubriques": [
+        "Franchises médicales et participations forfaitaires : un décret du 11 septembre 2026 porte leur plafond annuel à 140 euros",
+        "Action paulienne : l'assignation en licitation interrompt aussi la prescription, tranche la Cour de cassation",
+        "Quarante ans du droit français de la concurrence devant le juge judiciaire : un colloque annoncé le 28 septembre à la Cour de cassation",
+        "12 septembre 1914 : la première bataille de la Marne s'achève sur le repli allemand",
+        "Procédure d'appel civile : la réforme de simplification est entrée en vigueur le 1er septembre",
+        "Top 14 : six affiches ce samedi, Toulon reçoit La Rochelle en clôture à Mayol (hors justice)"
+      ]
+    },
     {
       "date": "2026-09-12",
       "slot": "matin",
