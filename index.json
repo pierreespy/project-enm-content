@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-12",
-  "updatedSlot": "midi",
-  "count": 29,
+  "updated": "2026-09-13",
+  "updatedSlot": "matin",
+  "count": 28,
   "editions": [
+    {
+      "date": "2026-09-13",
+      "slot": "matin",
+      "file": "editions/2026-09-13-matin.json",
+      "essentiel": "Paris : une femme violée dans le hall de son immeuble après avoir été suivie depuis la Bastille, l'agresseur toujours recherché",
+      "term": "Astreinte comminatoire",
+      "rubriques": [
+        "Fuites de données personnelles : la loi sur la protection des données et ses décrets d'application renforcent la répression depuis le 11 septembre",
+        "Préconisations du médecin du travail ignorées : le seul manquement de l'employeur ouvre droit à réparation",
+        "Vingt ans après l'arrêt Marks & Spencer : un colloque lyonnais fait le point sur la déductibilité fiscale des pertes étrangères",
+        "13 septembre 1993 : la signature des accords d'Oslo entre Israël et l'OLP sur la pelouse de la Maison Blanche",
+        "Formation continue des avocats : le CNB soumet aux ordres et aux écoles un avant-projet de réforme",
+        "Orages : cinq départements du Grand Est placés en vigilance jaune ce dimanche (hors justice)"
+      ]
+    },
     {
       "date": "2026-09-12",
       "slot": "midi",
@@ -406,36 +421,6 @@
         "29 août 1842 : le traité de Nankin, premier des « traités inégaux », met fin à la première guerre de l'opium",
         "Concours de l'ENM : les épreuves orales d'admission des quatre concours 2026 débutent le 7 septembre",
         "Corse : la vigilance orange canicule reconduite ce samedi 29 août en Corse-du-Sud et Haute-Corse"
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "slot": "midi",
-      "file": "editions/2026-08-28-midi.json",
-      "essentiel": "Ardennes : le suspect de l'agression du maire de Bairon-et-ses-environs jugé ce vendredi à Charleville-Mézières",
-      "term": "Péremption d'instance",
-      "rubriques": [
-        "Vente de logements sociaux : un décret du 25 août 2026 précise les conditions de cession par les organismes HLM",
-        "Vidéosurveillance algorithmique aux abords des écoles : le Conseil d'État confirme l'absence de base légale",
-        "Une thèse genevoise tente de réconcilier le droit international des investissements avec l'exigence démocratique",
-        "28 août 1963 : Martin Luther King prononce « I Have a Dream » devant le Lincoln Memorial",
-        "Magistrature : un décret du 17 août 2026 acte des nominations à la cour d'appel de Paris et aux tribunaux judiciaires de Versailles et Chartres",
-        "Astronomie : une éclipse partielle de la pleine Lune de l'Esturgeon visible ce vendredi matin depuis la France"
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "slot": "matin",
-      "file": "editions/2026-08-28-matin.json",
-      "essentiel": "Avignon : l'Irlandais soupçonné de menaces antisémites contre un couple juif reconnaît les faits et est déféré au parquet",
-      "term": "Réputé non écrit",
-      "rubriques": [
-        "Accessibilité numérique : un décret du 24 août 2026 muscle le contrôle des sites publics et des grandes entreprises",
-        "GPA à l'étranger : l'Assemblée plénière reconnaît la filiation par la seule voie de l'exequatur, sans passer par l'adoption",
-        "Trusts : la Conférence de La Haye publie une note pour qualifier les institutions étrangères analogues au trust",
-        "28 août 1942 : la police de Vichy dresse le bilan des rafles de juifs apatrides en zone libre, 6 584 arrestations",
-        "PARDI : le décret du 27 juillet 2026 ouvre une procédure d'admission rapide des demandes incontestées",
-        "Météo : 26 départements du centre et de l'est placés en vigilance orange orages ce vendredi 28 août"
       ]
     }
   ]

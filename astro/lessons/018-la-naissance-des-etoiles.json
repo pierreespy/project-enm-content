@@ -1,0 +1,27 @@
+{
+  "n": 18,
+  "title": "La naissance des étoiles : nuages de gaz et effondrement",
+  "subtitle": "D'un nuage froid et diffus à une future étoile : ce que la gravité fait, patiemment, sur des millions d'années.",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un nuage, pas un vide",
+      "body": "Entre les étoiles, l'espace n'est pas parfaitement vide : il contient de vastes nuages de gaz — surtout de l'hydrogène — et de poussière, étirés sur plusieurs années-lumière. On les appelle des nuages moléculaires. Ils restent extrêmement froids et, comparés à l'air que l'on respire, presque vides : leur matière y est bien plus diluée qu'ici-bas. C'est pourtant dans ces nuages, et nulle part ailleurs, que naissent toutes les étoiles."
+    },
+    {
+      "h": "Quand la gravité l'emporte",
+      "body": "Un nuage moléculaire tient d'ordinaire en équilibre : la gravitation, vue au jour 8, attire chaque particule de gaz vers les autres, mais l'agitation propre du gaz s'y oppose, un peu comme la pression tenait debout une étoile au jour 10. Il suffit d'une perturbation — le passage d'une onde de choc, ou simplement une zone plus dense que le reste — pour rompre cet équilibre en un point du nuage. La gravité y prend alors le dessus : c'est l'effondrement gravitationnel, la contraction d'une région du nuage sur elle-même, qui n'est plus retenue par rien."
+    },
+    {
+      "h": "Une étoile qui n'existe pas encore",
+      "body": "En s'effondrant, la matière se resserre et s'échauffe, de plus en plus vers le centre : une protoétoile se forme, noyau dense et chaud, encore loin d'être une étoile. Elle ne le devient que lorsque son cœur atteint une densité et une température suffisantes pour déclencher la fusion nucléaire découverte au jour 11 : à cet instant précis, un nuage de gaz devient une étoile, et cesse de s'effondrer — la pression de la fusion prend le relais de la gravité."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Nuage moléculaire", "def": "Vaste nuage froid de gaz et de poussière, dispersé sur plusieurs années-lumière, à partir duquel se forment les étoiles." },
+    { "term": "Effondrement gravitationnel", "def": "Contraction d'un nuage de gaz sur lui-même lorsque la gravité n'est plus contrebalancée par la pression du gaz." },
+    { "term": "Protoétoile", "def": "Noyau dense et chaud qui se forme au centre d'un nuage en effondrement, avant que la fusion nucléaire ne s'y déclenche." }
+  ],
+  "recap": "Une étoile naît de l'effondrement gravitationnel d'un nuage moléculaire : sa matière se resserre en une protoétoile jusqu'à ce que son cœur soit assez chaud pour déclencher la fusion.",
+  "next": "Demain — la mort des petites étoiles, quand une étoile comme le Soleil arrive au bout de son carburant."
+}
