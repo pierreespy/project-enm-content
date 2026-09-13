@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-13",
-  "updatedSlot": "matin",
-  "count": 28,
+  "updatedSlot": "midi",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-13",
+      "slot": "midi",
+      "file": "editions/2026-09-13-midi.json",
+      "essentiel": "Calvados : un homme de 30 ans tué à l'arme blanche en pleine rue à Clécy, l'agresseur toujours en fuite",
+      "term": "Révocation ad nutum",
+      "rubriques": [
+        "Annonces judiciaires et légales : un décret du 12 septembre 2026 revoit à la baisse les seuils d'habilitation de la presse",
+        "Virement parti sur un faux RIB : la banque doit prouver l'autorisation du client et produire l'ordre de paiement",
+        "L'indemnisation des cocontractants de l'administration au cœur d'une thèse soutenue à Assas",
+        "13 septembre 1592 : la mort de Michel de Montaigne, ancien conseiller au Parlement de Bordeaux et auteur des Essais",
+        "Procès Dati-Ghosn : l'ex-PDG de Renault demande le report de l'audience du 16 septembre pour défaut de citation régulière",
+        "Cyclisme : la Vuelta s'achève ce dimanche à Grenade, où Enric Mas est en position de décrocher son premier sacre sur un Grand Tour (hors justice)"
+      ]
+    },
     {
       "date": "2026-09-13",
       "slot": "matin",
