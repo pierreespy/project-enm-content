@@ -89,41 +89,5 @@
   },
   "date": "2026-09-14",
   "dateShort": "14 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 19,
-    "title": "La mort des petites étoiles : naines blanches",
-    "subtitle": "Ce que devient une étoile comme le Soleil quand elle a brûlé tout son hydrogène.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Le carburant s'épuise",
-        "body": "Vu au jour 12, une étoile tient debout parce que la pression issue de la fusion nucléaire (jour 11) contrebalance sa propre gravité. Mais le cœur d'une étoile ne contient qu'une quantité finie d'hydrogène : au bout de plusieurs milliards d'années, ce carburant s'épuise. La pression qui soutenait le cœur faiblit, et la gravité y reprend l'avantage : le cœur se contracte à nouveau, tandis que les couches extérieures, elles, gonflent démesurément. L'étoile devient alors une géante rouge — un astre bien plus large, mais dont la surface, plus diffuse, s'est refroidie."
-      },
-      {
-        "h": "Une étoile qui se dépouille",
-        "body": "Une géante rouge ne tient pas : ses couches externes, très peu retenues par la gravité à cette distance du cœur, finissent par se disperser lentement dans l'espace. Ce nuage de gaz éjecté forme une coquille ténue autour de l'étoile, appelée nébuleuse planétaire — un nom trompeur, hérité d'astronomes qui, faute de meilleurs instruments, la confondaient autrefois avec une planète. Il n'y a là aucune planète : seulement les couches d'une étoile qui s'en défait, laissant apparaître ce qu'il y avait dessous."
-      },
-      {
-        "h": "Un résidu qui ne s'éteint plus vraiment",
-        "body": "Ce qui reste au centre, une fois les couches externes dispersées, est une naine blanche : un résidu très chaud et extraordinairement dense, où la matière est comprimée au point de ne plus pouvoir se contracter davantage — c'est ce qui l'empêche de s'effondrer plus loin, sans qu'il y ait de fusion pour le soutenir. Sans plus produire d'énergie, une naine blanche ne fait plus que refroidir, imperceptiblement, sur des milliards d'années. C'est le sort réservé aux étoiles de taille modeste, comme le Soleil — les plus grosses connaissent une fin bien plus brutale."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Géante rouge",
-        "def": "Étoile parvenue en fin de vie dont le cœur se contracte tandis que les couches extérieures gonflent et se refroidissent en surface."
-      },
-      {
-        "term": "Nébuleuse planétaire",
-        "def": "Coquille de gaz dispersée dans l'espace par une géante rouge qui se dépouille de ses couches externes ; ne contient aucune planète."
-      },
-      {
-        "term": "Naine blanche",
-        "def": "Résidu très dense et très chaud d'une étoile de taille modeste, qui ne produit plus de fusion et se contente de refroidir très lentement."
-      }
-    ],
-    "recap": "Une étoile comme le Soleil finit en naine blanche : un résidu dense laissé après qu'une géante rouge s'est dépouillée de ses couches externes dans une nébuleuse planétaire.",
-    "next": "Demain — la mort des grosses étoiles : la supernova, une fin autrement plus violente."
-  }
+  "slot": "midi"
 }

@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-14",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-14",
+      "slot": "midi",
+      "file": "editions/2026-09-14-midi.json",
+      "essentiel": "Attentats de Trèbes et Carcassonne : le procès en appel de trois complices présumés s'ouvre à Paris, huit ans après les faits",
+      "term": "Théorie du bilan",
+      "rubriques": [
+        "Chauffage et climatisation : un décret du 12 septembre 2026 plafonne les émissions de CO2 des nouveaux équipements installés dans les bâtiments",
+        "Licenciement pendant un arrêt maladie : à défaut de preuve de la désorganisation de l'entreprise, il est sans cause réelle et sérieuse — mais pas nul pour discrimination",
+        "La Commission nationale anti-corruption de Thaïlande au prisme du droit administratif : une thèse soutenue ce lundi à Toulouse",
+        "14 septembre 1791 : Olympe de Gouges fait paraître la Déclaration des droits de la femme et de la citoyenne",
+        "Élections au Conseil national des barreaux : le scrutin de la mandature 2027-2029 est fixé au 24 novembre 2026, candidatures jusqu'au 30 septembre",
+        "Météo : un anticyclone jugé « exceptionnel » installe une vague de chaleur tardive sur la France à partir de ce 14 septembre (hors justice)"
+      ]
+    },
     {
       "date": "2026-09-14",
       "slot": "matin",
