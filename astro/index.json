@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13",
-  "count": 18,
+  "updated": "2026-09-14",
+  "count": 19,
   "lessons": [
     {
       "n": 1,
@@ -155,6 +155,16 @@
         "Nuage moléculaire",
         "Effondrement gravitationnel",
         "Protoétoile"
+      ]
+    },
+    {
+      "n": 19,
+      "file": "astro/lessons/019-la-mort-des-petites-etoiles.json",
+      "title": "La mort des petites étoiles : naines blanches",
+      "terms": [
+        "Géante rouge",
+        "Nébuleuse planétaire",
+        "Naine blanche"
       ]
     }
   ]

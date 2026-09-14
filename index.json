@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-13",
-  "updatedSlot": "midi",
+  "updated": "2026-09-14",
+  "updatedSlot": "matin",
   "count": 29,
   "editions": [
+    {
+      "date": "2026-09-14",
+      "slot": "matin",
+      "file": "editions/2026-09-14-matin.json",
+      "essentiel": "Carpentras : le tribunal judiciaire accueille ce lundi sa première audience de cour criminelle départementale, 25 ans après un procès d'assises",
+      "term": "Correctionnalisation judiciaire",
+      "rubriques": [
+        "Crédit à la consommation : un décret du 12 septembre 2026 encadre les frais exclus du calcul de la réduction en cas de remboursement anticipé",
+        "Faute inexcusable de l'employeur : le juge n'est plus lié par la date de consolidation ni le taux d'incapacité retenus par la caisse",
+        "Guerre économique et droit international : une thèse soutenue le 28 septembre à l'université de Perpignan",
+        "14 septembre 1901 : la mort du président McKinley, assassiné, ouvre la voie à l'un des procès les plus expéditifs de l'histoire américaine",
+        "Discipline des magistrats : un décret du 11 septembre 2026 prononce la radiation des cadres de Fabrice Karcenty",
+        "Ligue 1 : le PSG s'impose 0-1 à Brest et signe sa première victoire de la saison en championnat (hors justice)"
+      ]
+    },
     {
       "date": "2026-09-13",
       "slot": "midi",
@@ -421,21 +436,6 @@
         "31 août 1939 : l'opération Himmler, prétexte allemand à l'invasion de la Pologne qui déclenche la Seconde Guerre mondiale",
         "Paris, capitale européenne du droit du 2 au 4 septembre 2026 : le Barreau de Paris partenaire de la conférence annuelle de l'European Law Institute",
         "Météo : dix départements du nord-est placés en vigilance jaune orages pour la nuit et la matinée de ce lundi 31 août"
-      ]
-    },
-    {
-      "date": "2026-08-29",
-      "slot": "matin",
-      "file": "editions/2026-08-29-matin.json",
-      "essentiel": "Vendée : un homme tué par balles sur une aire d'accueil des gens du voyage à Mortagne-sur-Sèvre, l'auteur des coups de feu toujours recherché",
-      "term": "Ordre public de proximité",
-      "rubriques": [
-        "Réseau France services agriculture : un décret du 25 août 2026 encadre le contrôle administratif des structures agréées",
-        "Préjudice d'anxiété : la Cour de cassation le rattache au dommage corporel et fixe sa prescription à dix ans",
-        "La Cour des comptes juge la gestion des ressources humaines du Défenseur des droits trop coûteuse et formule neuf recommandations",
-        "29 août 1842 : le traité de Nankin, premier des « traités inégaux », met fin à la première guerre de l'opium",
-        "Concours de l'ENM : les épreuves orales d'admission des quatre concours 2026 débutent le 7 septembre",
-        "Corse : la vigilance orange canicule reconduite ce samedi 29 août en Corse-du-Sud et Haute-Corse"
       ]
     }
   ]
