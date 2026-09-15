@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-15",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-09-15",
+      "slot": "midi",
+      "file": "editions/2026-09-15-midi.json",
+      "essentiel": "Violences sexuelles dans le périscolaire parisien : Anne Hidalgo reconnaît un « échec collectif » devant la commission d'enquête du Sénat",
+      "term": "Réputé non écrit",
+      "rubriques": [
+        "Télésurveillance médicale : un arrêté du 14 septembre 2026 revalorise le forfait pris en charge par l'assurance maladie",
+        "Location longue durée résiliée : le juge ne peut ignorer la demande de modération de l'indemnité comme clause pénale, ni la requalifier d'office en perte de chance",
+        "Le financement de la vie politique par les recettes électorales : une thèse toulousaine plaide pour un contrôle renforcé",
+        "15 septembre : Journée internationale de la démocratie, instituée par les Nations unies en 2007",
+        "Le Conseil national des barreaux noue un partenariat avec la legaltech française Jimini AI pour former les élèves-avocats à l'intelligence artificielle",
+        "Concarneau rend un hommage populaire au navigateur Charlie Dalin, mort en juin d'un cancer à 42 ans"
+      ]
+    },
     {
       "date": "2026-09-15",
       "slot": "matin",
