@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-14",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-09-15",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-09-15",
+      "slot": "matin",
+      "file": "editions/2026-09-15-matin.json",
+      "essentiel": "Enlèvement de la petite Mia et « projet Azur » : le procès de Rémy Daillet et quatorze coprévenus s'ouvre ce mardi à Paris",
+      "term": "Fongibilité asymétrique",
+      "rubriques": [
+        "Un décret du 12 septembre 2026 crée la Coordination nationale pour la sécurité des grands événements, en vue des JO d'hiver 2030",
+        "Concurrence déloyale : la seule détention de fichiers confidentiels sur l'ordinateur fourni par le nouvel employeur suffit à engager sa responsabilité",
+        "Une thèse soutenue à Paris-Panthéon-Assas renouvelle la théorie générale de l'indemnisation dans les contrats administratifs",
+        "15 septembre 1865 : naissance à Grenoble d'Henri Capitant, dont le nom reste attaché aux « Grands arrêts » et au « Vocabulaire juridique »",
+        "Injonction de payer : les ordonnances rendues depuis le 1er septembre 2026 basculent vers la signification par voie électronique",
+        "« Septembre bouge » : le gouvernement lance tout le mois une campagne pour remettre l'activité physique au cœur du quotidien des Français"
+      ]
+    },
     {
       "date": "2026-09-14",
       "slot": "midi",

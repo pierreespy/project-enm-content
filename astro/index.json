@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14",
-  "count": 19,
+  "updated": "2026-09-15",
+  "count": 20,
   "lessons": [
     {
       "n": 1,
@@ -165,6 +165,15 @@
         "Géante rouge",
         "Nébuleuse planétaire",
         "Naine blanche"
+      ]
+    },
+    {
+      "n": 20,
+      "file": "astro/lessons/020-la-mort-des-grosses-etoiles-supernova.json",
+      "title": "La mort des grosses étoiles : supernova",
+      "terms": [
+        "Supernova",
+        "Effondrement du cœur"
       ]
     }
   ]

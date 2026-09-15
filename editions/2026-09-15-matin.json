@@ -89,37 +89,5 @@
   },
   "date": "2026-09-15",
   "dateShort": "15 sept.",
-  "slot": "matin",
-  "astro": {
-    "n": 20,
-    "title": "La mort des grosses étoiles : supernova",
-    "subtitle": "Ce qui distingue la fin d'une étoile massive de celle, discrète, d'une naine blanche.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Une étoile massive ne s'arrête pas à l'hélium",
-        "body": "Vu au jour 19, une étoile comme le Soleil finit en naine blanche une fois son hydrogène épuisé. Une étoile bien plus massive suit un autre chemin : sa gravitation, plus forte, comprime son cœur avec une intensité telle que la fusion nucléaire ne s'arrête pas à l'hélium. Une fois l'hélium à son tour épuisé, le cœur se contracte encore, chauffe davantage, et se met à fusionner du carbone, puis des éléments toujours plus lourds. L'étoile finit par ressembler à un oignon : des couches successives, chacune fusionnant un élément différent, la plus lourde — le fer — se trouvant au centre."
-      },
-      {
-        "h": "Le fer, un mur infranchissable",
-        "body": "Cette progression s'arrête net au fer : à la différence de tous les éléments plus légers, fusionner du fer ne produit pas d'énergie, il en consomme. Le cœur perd alors brutalement sa capacité à produire la pression qui le soutenait depuis des millions d'années. L'équilibre hydrostatique (jour 12) cède d'un coup, et la gravitation, sans plus aucune résistance, écrase le cœur en une fraction de seconde — un effondrement des centaines de fois plus rapide que celui, progressif, d'une géante rouge."
-      },
-      {
-        "h": "Une explosion visible depuis une autre galaxie",
-        "body": "Cet effondrement brutal du cœur produit un choc si violent qu'il repart vers l'extérieur et souffle le reste de l'étoile dans l'espace : c'est une supernova. Pendant quelques semaines, l'étoile qui explose peut briller autant que la totalité des étoiles de sa galaxie réunies, visible à l'œil nu même de très loin. Contrairement à la fin discrète d'une naine blanche, la supernova disperse violemment la matière de l'étoile — une différence qui n'est pas que spectaculaire, comme la suite du cours le montrera."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Supernova",
-        "def": "Explosion titanesque qui met fin à la vie d'une étoile massive, provoquée par l'effondrement brutal de son cœur devenu incapable de produire de la pression."
-      },
-      {
-        "term": "Effondrement du cœur",
-        "def": "Contraction extrêmement rapide du cœur d'une étoile massive, lorsque la fusion du fer cesse de pouvoir compenser la gravitation."
-      }
-    ],
-    "recap": "Une étoile massive fusionne des éléments de plus en plus lourds jusqu'au fer, qui ne peut plus produire de pression : son cœur s'effondre en une fraction de seconde et l'étoile explose en supernova.",
-    "next": "Demain — ce qu'une telle explosion disperse dans l'espace : l'origine des atomes dont nous sommes faits."
-  }
+  "slot": "matin"
 }
