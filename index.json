@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-16",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-09-16",
+      "slot": "midi",
+      "file": "editions/2026-09-16-midi.json",
+      "essentiel": "Périgueux : le procès en appel de Richard Sada, professeur de yoga condamné à 14 ans de réclusion pour viols sur quatre anciennes élèves, s'ouvre ce mercredi",
+      "term": "Forclusion",
+      "rubriques": [
+        "Réorganisation de l'administration centrale du ministère de l'intérieur et du ministère des outre-mer : un décret du 12 septembre 2026 modifie le texte fondateur de 2013",
+        "Bail commercial conclu sur le domaine public : la nullité est absolue, mais le délai pour l'invoquer ne court que du jour où l'illicéité est découverte",
+        "Démocratie sanitaire et gouvernance territoriale de la santé : une thèse angevine de droit comparé soutenue ce mardi",
+        "16 septembre 1620 (calendrier julien) : le Mayflower quitte Plymouth pour le Nouveau Monde",
+        "ERP piraté chez un prestataire mutualisé : ce que doivent décider l'éditeur, les entreprises clientes et leurs partenaires",
+        "Discours sur l'état de l'Union : Ursula von der Leyen propose d'interdire les réseaux sociaux aux moins de 13 ans et un Conseil de sécurité européen"
+      ]
+    },
     {
       "date": "2026-09-16",
       "slot": "matin",
