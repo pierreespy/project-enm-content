@@ -1,0 +1,16 @@
+{
+  "n": 21,
+  "title": "D'où viennent les atomes dont nous sommes faits",
+  "subtitle": "Ce que la supernova du jour 20 disperse réellement dans l'espace.",
+  "duration": "2 min",
+  "sections": [
+    { "h": "Une étoile qui fabrique en fusionnant", "body": "Au fil de sa vie, une étoile massive fusionne des éléments de plus en plus lourds — de l'hydrogène jusqu'au fer (jour 20). Chaque étape produit un élément chimique nouveau, empilé en couches dans le cœur de l'étoile. Une étoile est donc, avant toute chose, une fabrique d'éléments : elle transforme les plus légers en plus lourds, au rythme de sa fusion nucléaire (jour 11)." },
+    { "h": "L'explosion qui sème ces éléments", "body": "Ces éléments restent enfermés dans l'étoile tant qu'elle vit. C'est la supernova qui change tout : en soufflant l'étoile, elle disperse dans l'espace non seulement le fer et les éléments plus légers déjà fabriqués, mais aussi des éléments plus lourds encore, forgés dans la violence même de l'explosion — l'énergie colossale du souffle permettant des réactions impossibles dans une étoile stable." },
+    { "h": "Une matière recyclée", "body": "Ces éléments dispersés se mêlent aux nuages moléculaires (jour 18) à partir desquels naîtront de nouvelles étoiles — et, autour d'elles, des planètes. Le carbone, l'oxygène, le fer qui composent une planète, ou un corps vivant, ont donc traversé le cœur d'une étoile aujourd'hui disparue, avant d'être recyclés dans un système bien plus jeune. C'est en ce sens précis que la matière ordinaire est dite d'origine stellaire." }
+  ],
+  "keyTerms": [
+    { "term": "Nucléosynthèse stellaire", "def": "Fabrication d'éléments chimiques plus lourds à partir d'éléments plus légers, par fusion nucléaire au cœur des étoiles puis lors de leur explosion en supernova." }
+  ],
+  "recap": "Les étoiles fabriquent les éléments chimiques par fusion, et ce sont leurs explosions en supernova qui les dispersent dans l'espace, où ils entrent dans la composition des générations suivantes d'étoiles, de planètes et de corps vivants.",
+  "next": "Demain — ce qui reste du cœur après l'explosion : les étoiles à neutrons."
+}

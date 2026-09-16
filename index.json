@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-15",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-09-16",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-09-16",
+      "slot": "matin",
+      "file": "editions/2026-09-16-matin.json",
+      "essentiel": "Procès Dati-Ghosn : le tribunal correctionnel de Paris s'ouvre sur la demande de renvoi de Carlos Ghosn, absent et réfugié au Liban",
+      "term": "Coemploi",
+      "rubriques": [
+        "Procédure civile simplifiée : le décret sur l'admission rapide des demandes incontestées entre en vigueur dans deux semaines",
+        "Faute inexcusable de l'employeur : le juge n'est plus lié par la date de consolidation ni le taux d'incapacité retenus par la CPAM",
+        "L'accès à l'eau potable comme garantie entre service public et droit fondamental : une thèse soutenue à Assas",
+        "16 septembre : Journée internationale de la protection de la couche d'ozone",
+        "Avocats : la date limite de dépôt des candidatures aux élections du Conseil national des barreaux fixée au 30 septembre",
+        "Emmanuel Macron reçoit António Costa à l'Élysée avant une prise d'armes aux Invalides"
+      ]
+    },
     {
       "date": "2026-09-15",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "1er septembre 1715 : la mort de Louis XIV et le coup de force juridique du Parlement de Paris",
         "Statut de l'élève avocat : le CNB se prononce pour le recours au contrat d'apprentissage",
         "Ligue 1 : l'AS Monaco domine l'OM (2-0) et prend seule la tête du championnat"
-      ]
-    },
-    {
-      "date": "2026-08-31",
-      "slot": "midi",
-      "file": "editions/2026-08-31-midi.json",
-      "essentiel": "Roeux (Pas-de-Calais) : un adolescent de 14 ans tué par un TER à un passage à niveau",
-      "term": "Théorie de l'écran législatif",
-      "rubriques": [
-        "Contrats d'apprentissage : un décret du 29 août 2026 revoit les niveaux de prise en charge financière par les opérateurs de compétences",
-        "Réseaux sociaux et mineurs de 15 ans : le Conseil constitutionnel censure l'interdiction d'accès pour atteinte disproportionnée à la liberté d'expression",
-        "Exécution des peines : le Sénat formule vingt propositions pour redonner du sens aux sanctions pénales",
-        "31 août 1846 : Urbain Le Verrier annonce, par le seul calcul, l'existence de la planète Neptune",
-        "Conseil supérieur de la magistrature : un décret du 13 août 2026 réforme le scrutin des magistrats élus et crée un droit de se taire pour les juges consulaires",
-        "Université d'été du Parti socialiste à Blois : Olivier Faure se positionne en vue de la primaire de 2027"
-      ]
-    },
-    {
-      "date": "2026-08-31",
-      "slot": "matin",
-      "file": "editions/2026-08-31-matin.json",
-      "essentiel": "Armentières : un incendie d'immeuble fait deux morts, le second homme hospitalisé en Belgique a succombé à ses brûlures",
-      "term": "Forclusion",
-      "rubriques": [
-        "Régime unique de la haie : un décret du 28 août 2026 instaure un guichet unique pour toute destruction de haie",
-        "Retrait de nationalité et OQTF : le Conseil d'État écarte le référé-liberté faute de doute sérieux",
-        "Une thèse lyonnaise interroge l'équilibre entre protection et autonomie des majeurs handicapés accueillis en établissement médico-social",
-        "31 août 1939 : l'opération Himmler, prétexte allemand à l'invasion de la Pologne qui déclenche la Seconde Guerre mondiale",
-        "Paris, capitale européenne du droit du 2 au 4 septembre 2026 : le Barreau de Paris partenaire de la conférence annuelle de l'European Law Institute",
-        "Météo : dix départements du nord-est placés en vigilance jaune orages pour la nuit et la matinée de ce lundi 31 août"
       ]
     }
   ]
