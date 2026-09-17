@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-16",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-09-17",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-09-17",
+      "slot": "matin",
+      "file": "editions/2026-09-17-matin.json",
+      "essentiel": "Rejugé six ans après une première condamnation : le procès en appel de Saad Lamjarred pour viol s'ouvre à Créteil",
+      "term": "Fraus omnia corrumpit",
+      "rubriques": [
+        "Modes amiables de résolution des différends : le décret du 27 juillet 2026 assouplit le calendrier de la médiation avant son entrée en vigueur le 1er octobre",
+        "Redressement Urssaf : une méthode de calcul irrégulière emporte la nullité totale, même dans la limite des bases réelles",
+        "Maisons des femmes, mouvements transnationaux : une thèse angevine retrace l'histoire des « adresses féministes » (1969-1995)",
+        "17 septembre 1793 : la Convention vote la loi des suspects, qui ouvre la Terreur",
+        "Logiciel Scribe : la Cour des comptes sanctionne six hauts fonctionnaires pour un fiasco à 257 millions d'euros",
+        "Bussy-Saint-Georges accueille le plus grand temple hindou traditionnel d'Europe"
+      ]
+    },
     {
       "date": "2026-09-16",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "2 septembre 1945 : le Japon signe l'acte de capitulation à bord de l'USS Missouri, fin officielle de la Seconde Guerre mondiale",
         "122e congrès des notaires de France : rendez-vous à Lille du 30 septembre au 2 octobre 2026 sur « Le notaire et l'impôt »",
         "Météo : trois départements pyrénéens en vigilance jaune orages ce mercredi 2 septembre"
-      ]
-    },
-    {
-      "date": "2026-09-01",
-      "slot": "midi",
-      "file": "editions/2026-09-01-midi.json",
-      "essentiel": "Pollution aux PFAS : la redevance « pollueur-payeur » sur les rejets industriels dans l'eau entre en vigueur ce 1er septembre",
-      "term": "Confusion des patrimoines",
-      "rubriques": [
-        "Facturation électronique : l'obligation de réception s'impose ce 1er septembre à toutes les entreprises assujetties à la TVA",
-        "Sapeurs-pompiers volontaires : le Conseil d'État les reconnaît « travailleurs » au sens du droit de l'Union, sans bouleverser leur régime",
-        "Facturation électronique des avocats : le CNB obtient l'exclusion des données couvertes par le secret professionnel",
-        "1er septembre 1972 : Boris Spassky abandonne par téléphone, Bobby Fischer devient champion du monde d'échecs",
-        "Injonction de payer : les dispositions accélérant la procédure et modernisant les voies d'exécution s'appliquent aux ordonnances rendues depuis ce 1er septembre",
-        "Chaleur tardive : jusqu'à 39-40°C attendus dans le Sud-Ouest, trois départements pyrénéens en vigilance jaune orages"
-      ]
-    },
-    {
-      "date": "2026-09-01",
-      "slot": "matin",
-      "file": "editions/2026-09-01-matin.json",
-      "essentiel": "Arrêts maladie plafonnés à 31 jours : le Conseil d'État refuse de suspendre la réforme entrée en vigueur ce 1er septembre",
-      "term": "Novation par changement de débiteur",
-      "rubriques": [
-        "MaPrimeRénov' : un décret du 25 août 2026 supprime plusieurs gestes éligibles au parcours « par geste »",
-        "Perquisition au cabinet d'avocat : la chambre criminelle verrouille le secret professionnel",
-        "Digital Fairness Act : vers une protection renforcée du consommateur numérique",
-        "1er septembre 1715 : la mort de Louis XIV et le coup de force juridique du Parlement de Paris",
-        "Statut de l'élève avocat : le CNB se prononce pour le recours au contrat d'apprentissage",
-        "Ligue 1 : l'AS Monaco domine l'OM (2-0) et prend seule la tête du championnat"
       ]
     }
   ]
