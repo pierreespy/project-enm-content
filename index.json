@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-17",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-09-17",
+      "slot": "midi",
+      "file": "editions/2026-09-17-midi.json",
+      "essentiel": "Apologie du terrorisme : le tribunal correctionnel de Paris rend ce jeudi son jugement contre Dieudonné M'Bala M'Bala",
+      "term": "Écran législatif",
+      "rubriques": [
+        "Expulsion locative : un arrêté du 9 septembre 2026 actualise le formulaire unique de diagnostic social et financier",
+        "Harcèlement sexuel « d'ambiance » : la chambre sociale ouvre droit à indemnisation même sans ciblage personnel",
+        "La Cour des comptes épingle les dispositifs de démocratie participative, dispersés et sous-évalués",
+        "17 septembre 1807 : Napoléon Ier crée la Cour des comptes",
+        "Arrêts de travail plafonnés à 31 puis 62 jours depuis le 1er septembre : les voies de recours en cas de refus d'indemnités",
+        "17 septembre : Journée mondiale de la sécurité des patients, consacrée cette année aux maladies non transmissibles"
+      ]
+    },
     {
       "date": "2026-09-17",
       "slot": "matin",

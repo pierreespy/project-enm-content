@@ -89,37 +89,5 @@
   },
   "date": "2026-09-17",
   "dateShort": "17 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 22,
-    "title": "Étoiles à neutrons",
-    "subtitle": "Ce qui reste du cœur d'une étoile massive, quand ni la fusion ni la pression ordinaire ne peuvent plus le retenir.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Un cœur trop comprimé pour rester ce qu'il était",
-        "body": "Après une supernova (jour 20), le cœur qui subsiste ne redevient pas une étoile ordinaire : sa gravité (jour 8) est telle qu'aucun équilibre hydrostatique (jour 12) ordinaire ne peut plus la contrebalancer. Si ce cœur est trop massif pour s'arrêter au stade de naine blanche (jour 19), l'effondrement continue jusqu'à écraser les atomes eux-mêmes : leurs électrons sont forcés de fusionner avec les protons du noyau, donnant naissance à des neutrons — des particules sans charge électrique, jusque-là simplement associées aux protons au cœur de la matière."
-      },
-      {
-        "h": "Une boule de neutrons de la taille d'une ville",
-        "body": "L'effondrement finit par se stopper net : serrés les uns contre les autres, les neutrons résistent à toute compression supplémentaire, exactement comme les électrons le faisaient dans une naine blanche, mais à une échelle bien plus extrême. Le résultat tient dans une sphère d'une vingtaine de kilomètres de diamètre — à peine la taille d'une grande ville — pour une masse comparable à celle du Soleil tout entier. C'est une étoile à neutrons : ce qui reste du cœur d'une étoile massive une fois la fusion et l'explosion achevées."
-      },
-      {
-        "h": "Une matière qu'on ne trouve nulle part ailleurs",
-        "body": "La densité qui en résulte dépasse tout ce que l'on connaît sur Terre : un sucre de cette matière pèserait plusieurs centaines de millions de tonnes, soit à peu près autant qu'une montagne entière. Aucune roche, aucun métal ne s'en approche : la matière ordinaire, faite d'atomes largement vides (jour 21), n'a ici plus cours — il ne reste que des neutrons tassés au maximum de ce que la nature autorise."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Neutron",
-        "def": "Particule dépourvue de charge électrique qui, avec le proton, compose le noyau des atomes."
-      },
-      {
-        "term": "Étoile à neutrons",
-        "def": "Astre extrêmement dense et compact issu de l'effondrement du cœur d'une étoile massive après sa supernova, entièrement composé de neutrons serrés les uns contre les autres."
-      }
-    ],
-    "recap": "Quand le cœur d'une étoile massive est trop comprimé après la supernova pour s'arrêter au stade de naine blanche, il s'effondre jusqu'à ce que ses atomes se transforment en une boule de neutrons de la taille d'une ville, à la densité inégalée sur Terre.",
-    "next": "Demain — les trous noirs : ce qu'ils sont réellement, et ce qu'ils ne sont pas."
-  }
+  "slot": "midi"
 }
