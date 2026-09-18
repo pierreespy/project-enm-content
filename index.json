@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-18",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-09-18",
+      "slot": "midi",
+      "file": "editions/2026-09-18-midi.json",
+      "essentiel": "Drancy : une mère et son bébé de deux mois tués à l'arme blanche, le compagnon en garde à vue mais « aucune piste n'est écartée »",
+      "term": "Nemo auditur propriam turpitudinem allegans",
+      "rubriques": [
+        "Aides de la politique agricole commune : un décret du 14 septembre 2026 actualise les règles du plan stratégique national",
+        "Décharges sauvages de Nestlé Waters dans les Vosges : la cour d'appel de Nancy annule les nullités prononcées en mars, le procès repart de zéro",
+        "« L'affaire Dreyfus, une affaire d'honneur » : la Cour de cassation referme ce vendredi son cycle « Justice et Honneur »",
+        "18 septembre 1180 : la mort de Louis VII ouvre la voie à l'avènement de Philippe II Auguste, roi à quinze ans",
+        "Concours de la magistrature : les 522 candidats admissibles passent leurs oraux d'admission depuis le 7 septembre",
+        "Orages : quatre départements du Sud-Est placés en vigilance jaune ce vendredi"
+      ]
+    },
     {
       "date": "2026-09-18",
       "slot": "matin",
