@@ -89,37 +89,5 @@
   },
   "date": "2026-09-18",
   "dateShort": "18 sept.",
-  "slot": "matin",
-  "astro": {
-    "n": 23,
-    "title": "Trous noirs : ce qu'ils sont réellement, et ce qu'ils ne sont pas",
-    "subtitle": "Ce qui se passe quand même les neutrons ne suffisent plus à arrêter l'effondrement.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Quand même les neutrons cèdent",
-        "body": "Dans une étoile à neutrons (jour 22), les neutrons serrés les uns contre les autres résistent à toute compression supplémentaire — mais seulement jusqu'à un certain point. Si le cœur qui s'effondre après une supernova (jour 20) est trop massif, cette résistance ne suffit plus : rien ne peut plus contrebalancer la gravité (jour 8), et l'effondrement continue sans jamais s'arrêter. Toute la masse finit concentrée dans un volume si petit qu'on ne sait pas le décrire autrement que comme un point. C'est ce que l'on appelle un trou noir."
-      },
-      {
-        "h": "Une frontière que même la lumière ne franchit pas",
-        "body": "Autour de ce point, la gravité devient si intense qu'elle définit une frontière précise, appelée horizon des événements : en deçà, rien ne peut plus s'en échapper — pas même la lumière (jour 2), pourtant la chose la plus rapide qui existe (jour 3). Au-delà de cet horizon, en revanche, la gravité du trou noir ne se comporte pas autrement que celle de n'importe quel astre de même masse : un vaisseau qui passerait à bonne distance suivrait une orbite (jour 9) parfaitement ordinaire."
-      },
-      {
-        "h": "Ce qu'un trou noir n'est pas",
-        "body": "L'image d'un trou noir qui « aspire » tout ce qui passe à proximité est trompeuse : il n'attire pas plus fort qu'une étoile de même masse au même endroit — si le Soleil devenait un trou noir sans perdre sa masse, la Terre continuerait de tourner autour exactement comme avant. Ce qui rend un trou noir singulier n'est pas une force d'attraction hors norme, mais l'existence de cette frontière au-delà de laquelle il n'y a plus aucun retour possible."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Trou noir",
-        "def": "Objet issu de l'effondrement d'un cœur stellaire trop massif pour que la résistance des neutrons l'arrête, dont la gravité empêche toute sortie au-delà d'une certaine frontière."
-      },
-      {
-        "term": "Horizon des événements",
-        "def": "Frontière autour d'un trou noir en deçà de laquelle même la lumière ne peut plus s'échapper."
-      }
-    ],
-    "recap": "Quand un cœur stellaire est trop massif pour s'arrêter au stade d'étoile à neutrons, l'effondrement ne cesse jamais : il forme un trou noir, dont l'horizon des événements retient même la lumière, sans pour autant attirer plus fort qu'un astre ordinaire de même masse.",
-    "next": "Demain — les galaxies, et la nôtre."
-  }
+  "slot": "matin"
 }

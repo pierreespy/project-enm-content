@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17",
-  "count": 22,
+  "updated": "2026-09-18",
+  "count": 23,
   "lessons": [
     {
       "n": 1,
@@ -191,6 +191,15 @@
       "terms": [
         "Neutron",
         "Étoile à neutrons"
+      ]
+    },
+    {
+      "n": 23,
+      "file": "astro/lessons/023-trous-noirs.json",
+      "title": "Trous noirs : ce qu'ils sont réellement, et ce qu'ils ne sont pas",
+      "terms": [
+        "Trou noir",
+        "Horizon des événements"
       ]
     }
   ]

@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-17",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-09-18",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-09-18",
+      "slot": "matin",
+      "file": "editions/2026-09-18-matin.json",
+      "essentiel": "Droits voisins de la presse : devant la cour d'appel de Paris, Bercy et le parquet général soutiennent l'Autorité de la concurrence face à Meta",
+      "term": "Cristallisation des moyens",
+      "rubriques": [
+        "Procédure d'admission rapide des demandes incontestées : le décret du 27 juillet 2026 entre en vigueur le 1er octobre",
+        "TICPE et admission temporaire douanière : la Cour de cassation censure un redressement fondé sur un simple soupçon de détournement",
+        "Le secret dans la jurisprudence pontificale de la Rome archaïque : une thèse soutenue ce vendredi à Assas",
+        "18 septembre 1981 : l'Assemblée nationale vote l'abolition de la peine de mort",
+        "Procédure PARDI : le Conseil national des barreaux mandate son président pour engager un recours contentieux contre le décret du 27 juillet 2026",
+        "Sécheresse des sols : la France atteint son niveau le plus bas jamais mesuré"
+      ]
+    },
     {
       "date": "2026-09-17",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "3 septembre 1783 : le traité de Paris met fin à la guerre d'Indépendance américaine",
         "Une nouvelle classe déconcentrée de l'ENM ouvre en Guadeloupe pour la rentrée 2026-2027",
         "Tapisserie de Bayeux : Emmanuel Macron inaugure son exposition au British Museum, un « geste d'amitié » entre la France et le Royaume-Uni"
-      ]
-    },
-    {
-      "date": "2026-09-02",
-      "slot": "midi",
-      "file": "editions/2026-09-02-midi.json",
-      "essentiel": "Dénigrement : France Télévisions et Radio France face aux médias Bolloré devant le tribunal des activités économiques de Paris",
-      "term": "Stellionat",
-      "rubriques": [
-        "Justice des mineurs : les centres éducatifs fermés publics cèdent la place aux unités judiciaires à priorité éducative depuis le 1er septembre",
-        "Dommage corporel : l'Assemblée plénière écarte la faute de la victime non informée des consignes de sécurité",
-        "Une thèse lilloise interroge la réintégration du salarié protégé à l'aune de ses droits fondamentaux",
-        "2 septembre 2020 : ouverture à Paris du procès des attentats de janvier 2015",
-        "La Grande Rentrée des Avocats : le Conseil national des barreaux réunit la profession le 28 septembre 2026 à Paris",
-        "Météo-France peut désormais moduler sa vigilance à l'intérieur d'un même département"
-      ]
-    },
-    {
-      "date": "2026-09-02",
-      "slot": "matin",
-      "file": "editions/2026-09-02-matin.json",
-      "essentiel": "Tuerie de Chevaline : un pistolet repêché dans le lac d'Annecy relance l'enquête, quatorze ans après",
-      "term": "Ultra petita",
-      "rubriques": [
-        "Téléphone portable interdit au lycée : la loi du 24 août 2026 étend l'interdiction dès la rentrée 2026-2027",
-        "« Gang bangs » payants et dignité humaine : le Conseil d'État valide la fermeture administrative d'un établissement parisien",
-        "Été 2026 : le récapitulatif des textes et de la jurisprudence que les praticiens ont pu manquer",
-        "2 septembre 1945 : le Japon signe l'acte de capitulation à bord de l'USS Missouri, fin officielle de la Seconde Guerre mondiale",
-        "122e congrès des notaires de France : rendez-vous à Lille du 30 septembre au 2 octobre 2026 sur « Le notaire et l'impôt »",
-        "Météo : trois départements pyrénéens en vigilance jaune orages ce mercredi 2 septembre"
       ]
     }
   ]
