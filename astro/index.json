@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18",
-  "count": 23,
+  "updated": "2026-09-19",
+  "count": 24,
   "lessons": [
     {
       "n": 1,
@@ -200,6 +200,15 @@
       "terms": [
         "Trou noir",
         "Horizon des événements"
+      ]
+    },
+    {
+      "n": 24,
+      "file": "astro/lessons/024-les-galaxies-et-la-notre.json",
+      "title": "Les galaxies, et la nôtre",
+      "terms": [
+        "Galaxie",
+        "Voie lactée"
       ]
     }
   ]

@@ -1,0 +1,32 @@
+{
+  "n": 24,
+  "title": "Les galaxies, et la nôtre",
+  "subtitle": "Ce que devient la gravité quand elle agit non plus sur une étoile, mais sur des centaines de milliards.",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un rassemblement tenu par la gravité",
+      "body": "Les étoiles ne flottent pas éparpillées au hasard dans l'espace : elles sont regroupées par centaines de milliards au sein d'immenses ensembles appelés galaxies, où la gravitation (jour 8) — la même force qui retient une planète en orbite (jour 9) autour d'une étoile — agit ici à une tout autre échelle, en liant entre elles des quantités d'étoiles inimaginables, avec le gaz et la poussière qui les accompagnent. Le Soleil n'est, à cette échelle, qu'une étoile ordinaire parmi d'autres."
+    },
+    {
+      "h": "La Voie lactée, vue de l'intérieur",
+      "body": "Notre galaxie porte un nom, la Voie lactée. Nous ne pouvons pas en sortir pour la photographier : nous vivons à l'intérieur, dans son disque. C'est pourquoi elle nous apparaît, par nuit claire, comme une large bande pâle traversant le ciel — non pas un nuage, mais la lumière (jour 2) cumulée d'un nombre incalculable d'étoiles si lointaines et si serrées les unes contre les autres, vues depuis l'intérieur du disque, qu'elles se fondent à l'œil nu en une traînée continue plutôt qu'en points séparés."
+    },
+    {
+      "h": "Une galaxie parmi d'innombrables autres",
+      "body": "La Voie lactée n'est pas unique : l'univers compte d'autres galaxies, chacune rassemblant elle aussi des centaines de milliards d'étoiles, séparées de la nôtre par des distances si vastes que même la lumière, pourtant la chose la plus rapide qui existe (jour 3), met des millions, parfois des milliards d'années à en parvenir jusqu'à nous. Voir une galaxie lointaine, c'est donc la voir telle qu'elle était il y a un temps immense (jour 5) — pas telle qu'elle est aujourd'hui."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Galaxie",
+      "def": "Immense ensemble de centaines de milliards d'étoiles, de gaz et de poussière, maintenu cohérent par la gravitation."
+    },
+    {
+      "term": "Voie lactée",
+      "def": "Nom de la galaxie où se trouve le Soleil, visible de l'intérieur comme une bande pâle de lumière dans le ciel nocturne."
+    }
+  ],
+  "recap": "Les étoiles se rassemblent par gravitation en immenses ensembles, les galaxies ; le Soleil appartient à l'une d'elles, la Voie lactée, que nous voyons de l'intérieur comme une bande de lumière diffuse, et qui n'est qu'une galaxie parmi d'innombrables autres, dont la lumière nous parvient parfois après des milliards d'années de trajet.",
+  "next": "Demain — la matière noire : ce que la gravité laisse deviner sans qu'on la voie."
+}
