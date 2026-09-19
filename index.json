@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-19",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-09-19",
+      "slot": "midi",
+      "file": "editions/2026-09-19-midi.json",
+      "essentiel": "Violences conjugales : la cour d'appel de Paris alourdit la peine de Stéphane Plaza à 18 mois de prison avec sursis",
+      "term": "Ultra petita",
+      "rubriques": [
+        "Un décret du 18 septembre 2026 supprime le Centre d'études prospectives et d'informations internationales, né en 1978",
+        "Franchise et sauvegarde : la chambre commerciale valide la résiliation d'un contrat Carrefour au profit d'une enseigne concurrente",
+        "Budget 2027 : la Cour des comptes recommande de retarder à deux ans le remboursement de TVA aux collectivités",
+        "19 septembre 1893 : la Nouvelle-Zélande devient le premier pays au monde à accorder le droit de vote aux femmes",
+        "Journées européennes du patrimoine : le barreau de Bordeaux ouvre sa Maison des avocats et son forum des métiers de la justice",
+        "Orages : la Corse-du-Sud et la Haute-Corse placées en vigilance jaune ce samedi"
+      ]
+    },
     {
       "date": "2026-09-19",
       "slot": "matin",
