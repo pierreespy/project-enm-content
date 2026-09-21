@@ -1,0 +1,25 @@
+{
+  "n": 25,
+  "title": "La matière noire : ce que la gravité trahit sans qu'on la voie",
+  "subtitle": "Comment on devine une masse qu'aucun instrument ne détecte directement.",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Une vitesse qui ne colle pas avec ce qu'on voit",
+      "body": "Dans une galaxie (jour 24), les étoiles proches du bord tournent autour du centre à des vitesses mesurables grâce à l'effet Doppler (jour 16). Or ces vitesses sont bien trop élevées : selon la règle qui relie orbite (jour 9) et gravitation (jour 8), une étoile aussi rapide, si loin du centre, ne devrait être retenue que par une masse largement supérieure à celle de toutes les étoiles, tout le gaz et toute la poussière visibles réunis. À cette vitesse, elle devrait s'échapper — et pourtant elle ne s'échappe pas."
+    },
+    {
+      "h": "Une masse qui ne rate pas la gravitation, mais rate la lumière",
+      "body": "Pour expliquer cette différence, les astrophysiciens ont posé l'existence d'une masse supplémentaire, appelée matière noire : une matière qui exerce bien une gravitation, comme toute masse, mais qui n'émet, n'absorbe ni ne réfléchit de lumière (jour 2) — elle reste donc invisible à tout instrument fondé sur la lumière, aussi puissant soit-il. On ne la détecte pas directement ; on déduit sa présence de son seul effet sur le mouvement de ce qu'on voit."
+      },
+    {
+      "h": "L'essentiel de la masse d'une galaxie",
+      "body": "Ce raisonnement, répété sur d'innombrables galaxies, aboutit à une conclusion étonnante : la matière noire représenterait plusieurs fois plus de masse que toute la matière ordinaire — étoiles, planètes, gaz — réunie. Ce qui compose cette masse reste à ce jour inconnu : la matière noire est nommée par son effet, la gravitation qu'elle exerce, non par une observation directe de sa nature."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Matière noire", "def": "Masse dont l'existence est déduite de son effet gravitationnel, mais qui n'émet, n'absorbe ni ne réfléchit de lumière et demeure donc invisible à tout instrument optique." }
+  ],
+  "recap": "Les étoiles en périphérie des galaxies tournent trop vite pour la seule masse visible ; on en déduit l'existence d'une matière noire, qui n'agit que par gravitation et représenterait l'essentiel de la masse des galaxies, sans qu'on sache encore de quoi elle est faite.",
+  "next": "Demain — l'expansion de l'univers : pourquoi les galaxies s'éloignent toutes les unes des autres."
+}

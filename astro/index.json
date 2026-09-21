@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19",
-  "count": 24,
+  "updated": "2026-09-21",
+  "count": 25,
   "lessons": [
     {
       "n": 1,
@@ -209,6 +209,14 @@
       "terms": [
         "Galaxie",
         "Voie lactée"
+      ]
+    },
+    {
+      "n": 25,
+      "file": "astro/lessons/025-la-matiere-noire.json",
+      "title": "La matière noire : ce que la gravité trahit sans qu'on la voie",
+      "terms": [
+        "Matière noire"
       ]
     }
   ]

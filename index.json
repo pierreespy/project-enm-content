@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-19",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-09-21",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-21",
+      "slot": "matin",
+      "file": "editions/2026-09-21-matin.json",
+      "essentiel": "Cavale meurtrière dans l'Ouest : Stéphane Iganache condamné à la réclusion criminelle à perpétuité par la cour d'assises d'Angers",
+      "term": "Excuse absolutoire",
+      "rubriques": [
+        "Présomption de légitime défense pour les forces de l'ordre : des milliers de manifestants dénoncent le texte à la veille de son examen au Sénat",
+        "Sécurité privée : l'absence de carte professionnelle valide justifie à elle seule le licenciement, même si l'employeur n'a pas formé le salarié",
+        "Logiciels défectueux : le Barreau de Paris demande des clarifications avant la transposition de la directive européenne du 9 décembre 2026",
+        "21 septembre 1792 : au lendemain de Valmy, la Convention nationale abolit la royauté",
+        "Le 122e Congrès des notaires de France se tient à Lille du 30 septembre au 2 octobre sur le thème « Le notaire et l'impôt »",
+        "MMA : Ciryl Gane devient le premier Français de l'histoire sacré champion incontesté par l'UFC"
+      ]
+    },
     {
       "date": "2026-09-19",
       "slot": "midi",
@@ -421,66 +436,6 @@
         "6 septembre 1901 : le président américain William McKinley victime d'une tentative d'assassinat à Buffalo",
         "Experts judiciaires : la campagne d'inscription aux tableaux des cours administratives d'appel se clôture le 15 septembre 2026",
         "Formule 1 : le Grand Prix d'Italie s'élance à Monza ce dimanche 6 septembre 2026"
-      ]
-    },
-    {
-      "date": "2026-09-05",
-      "slot": "midi",
-      "file": "editions/2026-09-05-midi.json",
-      "essentiel": "Drame de Gy (Haute-Saône) : l'autopsie révèle que le père a tué ses deux enfants et sa belle-mère avant de se donner la mort",
-      "term": "Déchéance quadriennale",
-      "rubriques": [
-        "État civil : un décret du 4 septembre 2026 élargit les administrations autorisées à demander des actes avec indication de la filiation",
-        "Violences sur mineurs isolés : deux policiers condamnés par le tribunal correctionnel de Paris",
-        "Accès à la justice : le Défenseur des droits alerte sur l'effectivité inégale du droit au juge",
-        "5 septembre 1997 : la mort de Mère Teresa, prix Nobel de la paix, à Calcutta",
-        "Avocat aux Conseils : la clôture des candidatures à l'examen d'aptitude fixée au 4 septembre 2026",
-        "La Braderie de Lille ouvre ses 100 km d'étals pour son édition 2026 (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-09-05",
-      "slot": "matin",
-      "file": "editions/2026-09-05-matin.json",
-      "essentiel": "Piratage du Fisc : un hacker de 18 ans mis en examen et placé en détention provisoire",
-      "term": "Exception d'inexécution",
-      "rubriques": [
-        "Comportement dangereux d'un parent : un décret permet désormais de changer l'enfant d'école",
-        "Exonération de CFE des jeunes avocats : le Conseil constitutionnel censure une différence de traitement injustifiée",
-        "Racisme, antisémitisme, xénophobie : la CNCDH recense 9 737 actes en 2025, en hausse de 5 %",
-        "5 septembre 1972 : la prise d'otages des Jeux olympiques de Munich tourne au drame",
-        "Commissaires de justice : la fusion des professions d'huissier et de commissaire-priseur judiciaire effective depuis le 1er juillet 2026",
-        "Zinédine Zidane officiellement sélectionneur des Bleus avant son premier rassemblement en Ligue des nations"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "slot": "midi",
-      "file": "editions/2026-09-04-midi.json",
-      "essentiel": "Corruption à la prison d'Aiton : trois surveillants et une policière condamnés, six ans ferme pour le détenu corrupteur",
-      "term": "Tierce opposition",
-      "rubriques": [
-        "Visite du pape Léon XIV : un décret du 3 septembre 2026 place l'événement sous le régime de sécurité des grands rassemblements",
-        "Ajournement de peine : nouveau renvoi pour le chef étoilé Gérald Passedat, jugé au 12 mars 2027",
-        "« La doctrine comme objet d'étude » : un colloque interroge le 22 septembre le statut scientifique de la doctrine juridique",
-        "4 septembre 476 : Odoacre dépose Romulus Augustule, dernier empereur romain d'Occident",
-        "Assassinat du rugbyman Aramburu : ouverture lundi du procès aux assises de Paris, jusqu'au 28 septembre",
-        "Marathon caritatif : le ZEvent lance ce soir sa dixième et dernière édition, plus de 330 streameurs à Montpellier"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "slot": "matin",
-      "file": "editions/2026-09-04-matin.json",
-      "essentiel": "Diffamation : deux députées LFI jugées à Tours par « le Canon français », décision attendue le 12 novembre",
-      "term": "Action ut singuli",
-      "rubriques": [
-        "Accueil des personnes sourdes ou malentendantes : un décret précise les obligations d'accessibilité des services publics",
-        "Ajournement de peine : le chef étoilé Gérald Passedat fixé sur son sort ce vendredi par le tribunal correctionnel de Marseille",
-        "« La mer et les politiques publiques » : le Conseil d'État consacre son étude annuelle 2026 aux enjeux juridiques du littoral et des océans",
-        "4 septembre 1870 : Léon Gambetta proclame la République à l'Hôtel de Ville de Paris",
-        "CRFPA 2026 : l'épreuve de procédure clôture ce vendredi les écrits d'admissibilité",
-        "Canicule tardive : vigilance orange dans cinq départements du Sud, une situation rarissime en septembre"
       ]
     }
   ]
