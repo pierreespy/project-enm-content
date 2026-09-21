@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-21",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-21",
+      "slot": "midi",
+      "file": "editions/2026-09-21-midi.json",
+      "essentiel": "Présomption de légitime défense pour les forces de l'ordre : le Sénat entame l'examen du texte, une motion de rejet préalable rejetée dès l'ouverture",
+      "term": "Déchéance quadriennale",
+      "rubriques": [
+        "Fin de vie : le décret d'application de la loi du 8 avril 2026 sur l'aide à mourir est publié au Journal officiel",
+        "Permis de construire : le Conseil d'État juge que le silence gardé par le maire au-delà du délai d'instruction ne fait naître une décision implicite qu'à la condition que le dossier ait été complet",
+        "Justice prud'homale : la Cour des comptes alerte sur des délais de jugement qui restent supérieurs à seize mois dans un tiers des conseils",
+        "21 septembre 1964 : Malte accède à l'indépendance après près de cent-cinquante ans de domination britannique",
+        "Aide juridictionnelle : le formulaire de demande et le simulateur de ressources en ligne sont mis à jour pour intégrer le nouveau barème 2026-2027",
+        "La Fashion Week de Paris s'ouvre ce lundi pour dix jours de défilés printemps-été 2027"
+      ]
+    },
     {
       "date": "2026-09-21",
       "slot": "matin",
