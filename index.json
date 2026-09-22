@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-22",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-22",
+      "slot": "midi",
+      "file": "editions/2026-09-22-midi.json",
+      "essentiel": "Décapitations et exécutions en Syrie pour Daech : le procès de l'ex-djihadiste montpelliérain Othman Garrido s'achève ce mardi devant la cour d'assises spéciale de Paris",
+      "term": "Obligation in solidum",
+      "rubriques": [
+        "Spécialités pharmaceutiques remboursables : un arrêté du 17 septembre 2026 actualise une nouvelle fois la liste prise en charge par l'assurance maladie",
+        "Discipline des commissaires de justice : la Cour de cassation rejette le pourvoi formé contre une décision de la Commission nationale de discipline",
+        "Cohésion des territoires : la Cour des comptes publie ce mardi son rapport public annuel 2026",
+        "22 septembre 1862 : Abraham Lincoln proclame l'émancipation des esclaves des États confédérés",
+        "Modes amiables de résolution des différends : le Barreau de Paris y consacre sa session de formation continue de ce mardi",
+        "Prix des carburants : le gouvernement annonce à Bercy de nouvelles aides ciblées plutôt qu'une baisse générale des taxes"
+      ]
+    },
     {
       "date": "2026-09-22",
       "slot": "matin",
