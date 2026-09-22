@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-21",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-09-22",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-22",
+      "slot": "matin",
+      "file": "editions/2026-09-22-matin.json",
+      "essentiel": "Fréjus : le maire RN David Rachline jugé pour favoritisme au tribunal correctionnel de Draguignan",
+      "term": "Purge des nullités",
+      "rubriques": [
+        "Entreprises sinistrées par les incendies de l'été : un décret du 17 septembre 2026 ajuste l'aide exceptionnelle aux structures de moins de 250 salariés",
+        "Blocage de sites internet : le tribunal judiciaire de Paris rejette la demande de l'ancien président sénégalais Macky Sall visant un site hostile à sa candidature à l'ONU",
+        "Le cycle « L'enfance » de la Cour de cassation consacre sa prochaine séance à la représentation de l'enfant dans la procédure",
+        "22 septembre 1960 : le Soudan français devient le Mali indépendant",
+        "École des avocats : les résultats du concours d'admission 2026 ouvrent la voie à la rentrée du 1er octobre à l'EFB de Paris",
+        "Paris Respire : le centre de la capitale fermé à la circulation motorisée ce mardi pour la Journée sans voiture"
+      ]
+    },
     {
       "date": "2026-09-21",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "7 septembre 1822 : Dom Pedro proclame l'indépendance du Brésil au bord de l'Ipiranga",
         "Conseil d'État : la rentrée solennelle 2026 se tiendra le 9 septembre, retransmise en direct",
         "Canicule tardive : six départements du Sud-Est en vigilance orange ce lundi 7 septembre"
-      ]
-    },
-    {
-      "date": "2026-09-06",
-      "slot": "midi",
-      "file": "editions/2026-09-06-midi.json",
-      "essentiel": "Pas-de-Calais : un automobiliste fauche trois piétons et prend la fuite près de Saint-Omer",
-      "term": "Acquiescement au jugement",
-      "rubriques": [
-        "Gendarmerie : un arrêté du 3 septembre 2026 ouvre un nouveau concours de sous-officiers pour la session 2026-2027",
-        "Détournement de fichiers clients : la Cour de cassation fait peser le risque sur le nouvel employeur",
-        "Le Sénat, fabrique de la loi : une étude interroge ce que la « chambre du second regard » fait vraiment du droit",
-        "6 septembre 1522 : la Victoria, seul navire rescapé de l'expédition de Magellan, achève le premier tour du monde",
-        "Open data des décisions de justice : la publication des jugements prud'homaux de nouveau reportée, au 30 septembre 2026",
-        "Ardèche : l'incendie de Malbosc toujours actif, 110 pompiers mobilisés ce dimanche"
-      ]
-    },
-    {
-      "date": "2026-09-06",
-      "slot": "matin",
-      "file": "editions/2026-09-06-matin.json",
-      "essentiel": "Violences conjugales : l'humoriste Greg Guillotin reconnaît avoir frappé son ex-compagne",
-      "term": "Obligation in solidum",
-      "rubriques": [
-        "Retraite des mères : les nouvelles règles de calcul s'appliquent depuis le 1er septembre 2026",
-        "Couvre-feu imposé aux mineurs à Oradour-sur-Glane : le Conseil d'État suspend l'arrêté du maire",
-        "Régimes matrimoniaux : le Conseil supérieur du notariat propose une réforme d'ampleur",
-        "6 septembre 1901 : le président américain William McKinley victime d'une tentative d'assassinat à Buffalo",
-        "Experts judiciaires : la campagne d'inscription aux tableaux des cours administratives d'appel se clôture le 15 septembre 2026",
-        "Formule 1 : le Grand Prix d'Italie s'élance à Monza ce dimanche 6 septembre 2026"
       ]
     }
   ]

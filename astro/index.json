@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21",
-  "count": 25,
+  "updated": "2026-09-22",
+  "count": 26,
   "lessons": [
     {
       "n": 1,
@@ -217,6 +217,14 @@
       "title": "La matière noire : ce que la gravité trahit sans qu'on la voie",
       "terms": [
         "Matière noire"
+      ]
+    },
+    {
+      "n": 26,
+      "file": "astro/lessons/026-l-expansion-de-l-univers.json",
+      "title": "L'expansion de l'univers",
+      "terms": [
+        "Expansion de l'univers"
       ]
     }
   ]

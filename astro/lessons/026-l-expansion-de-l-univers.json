@@ -1,0 +1,25 @@
+{
+  "n": 26,
+  "title": "L'expansion de l'univers",
+  "subtitle": "Pourquoi les galaxies s'éloignent toutes les unes des autres, et ce que cela ne veut pas dire.",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un décalage qui grandit avec la distance",
+      "body": "Le décalage vers le rouge (jour 17) permet de mesurer, par l'effet Doppler (jour 16), que la quasi-totalité des galaxies (jour 24) s'éloignent de nous. Mais l'observation va plus loin : plus une galaxie est distante, plus son décalage vers le rouge est important, et donc plus elle semble s'éloigner vite — c'est la loi de Hubble (jour 17). Cette proportionnalité entre distance et vitesse apparente ne se limite pas à un ou deux cas isolés : elle vaut, en moyenne, pour l'ensemble des galaxies observées, dans toutes les directions du ciel."
+    },
+    {
+      "h": "Ce n'est pas la matière qui s'écarte, c'est l'espace qui s'étend",
+      "body": "Une fuite aussi régulière, dans toutes les directions, pourrait suggérer que notre galaxie occupe le centre d'un mouvement général. C'est l'inverse : l'espace lui-même s'étend, uniformément, et entraîne avec lui les galaxies qu'il contient — comme des repères tracés sur une surface élastique qu'on étire s'éloignent tous les uns des autres, sans qu'aucun ne soit le centre de l'étirement. Un observateur posté sur n'importe quelle autre galaxie verrait exactement la même chose : toutes les galaxies s'éloignant de lui, selon la même loi."
+    },
+    {
+      "h": "Remontée dans le temps, une conséquence inévitable",
+      "body": "Si l'espace s'étend aujourd'hui, il occupait nécessairement moins de place hier, et moins encore avant-hier. Remonter le fil de cette expansion, loi de Hubble à l'appui, conduit à un passé où toute la matière observable tenait dans un volume incomparablement plus petit, plus dense et plus chaud qu'aujourd'hui. Cette conséquence directe de l'expansion — et non une hypothèse indépendante — porte un nom que l'actualité a rendu familier, mais dont la vraie portée reste à préciser."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Expansion de l'univers", "def": "Accroissement continu des distances entre les galaxies, dû à l'extension de l'espace lui-même et non à un déplacement des galaxies à travers un espace fixe." }
+  ],
+  "recap": "Le décalage vers le rouge croissant avec la distance (loi de Hubble) révèle que l'espace s'étend et entraîne les galaxies avec lui, sans qu'aucune ne soit au centre ; remontée dans le temps, cette expansion pointe vers un état passé beaucoup plus dense et plus chaud.",
+  "next": "Demain — le Big Bang et le rayonnement fossile : ce que l'expansion, remontée jusqu'à ses limites, donne à comprendre de l'origine de l'univers."
+}
