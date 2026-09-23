@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-23",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-23",
+      "slot": "midi",
+      "file": "editions/2026-09-23-midi.json",
+      "essentiel": "Crimes contre l'humanité en Centrafrique : la Cour pénale internationale reconnaît Mahamat Saïd Abdel Kani coupable de torture et de persécution, l'acquitte de trois crimes de guerre",
+      "term": "Théorie de l'acte clair",
+      "rubriques": [
+        "Douanes européennes : le règlement (UE) 2026/2108 crée une Autorité douanière de l'Union, dont le siège s'installera à Lille",
+        "Fraude au RIB : la chambre commerciale exclut définitivement la théorie du créancier apparent en cas d'usurpation d'identité",
+        "Après le jugement Saïd, un commentaire rappelle que la CPI n'a pas de police : c'est le parquet antiterroriste et la cour d'appel de Paris qui font tourner la coopération française",
+        "23 septembre 1870 : pendant le siège de Paris, le ballon Le Neptune franchit les lignes prussiennes avec 125 kilos de dépêches officielles",
+        "Appel en matière d'expropriation : la notification des conclusions par RPVA ne dispense pas d'en adresser une copie papier au commissaire du gouvernement",
+        "Semaine mondiale de l'espace 2026 : l'Agence spatiale européenne s'associe à Pokémon, une peluche Pikachu ayant passé 67 jours à bord de l'ISS"
+      ]
+    },
     {
       "date": "2026-09-23",
       "slot": "matin",
