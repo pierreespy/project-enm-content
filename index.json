@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-22",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-09-23",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-23",
+      "slot": "matin",
+      "file": "editions/2026-09-23-matin.json",
+      "essentiel": "Barbara Lefebvre, chroniqueuse des « Grandes Gueules » sur RMC, jugée à Paris pour apologie de crime contre l'humanité et provocation à la haine",
+      "term": "Emphytéose",
+      "rubriques": [
+        "Arrêts de travail de longue durée : un décret du 16 septembre 2026 réduit de trois ans à un an la durée maximale d'indemnisation pour certaines ALD",
+        "Faute inexcusable de l'employeur : la Cour de cassation détache l'indemnisation complémentaire des constatations de la caisse",
+        "Trente ans après l'ouvrage fondateur de Bernard et Poirmeur, un colloque universitaire fait le bilan des études sur la doctrine juridique elle-même",
+        "23 septembre 1846 : l'astronome allemand Johann Gottfried Galle découvre Neptune, à l'endroit précis calculé par le Français Urbain Le Verrier",
+        "Formation continue des avocats : le Conseil national des barreaux soumet à la concertation un avant-projet de réforme",
+        "Équinoxe d'automne : l'hémisphère nord bascule officiellement dans l'automne ce mercredi à 2h05"
+      ]
+    },
     {
       "date": "2026-09-22",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "8 septembre de l'an 70 : les légions de Titus détruisent le Temple de Jérusalem",
         "Élections au Conseil national des barreaux : candidatures closes le 30 septembre pour un scrutin fixé au 24 novembre 2026",
         "Rentrée littéraire : le Prix Goncourt dévoile sa première sélection de seize romans"
-      ]
-    },
-    {
-      "date": "2026-09-07",
-      "slot": "midi",
-      "file": "editions/2026-09-07-midi.json",
-      "essentiel": "Poitiers : trois jeunes hommes grièvement blessés par balle dans la nuit, enquête ouverte pour tentative d'homicide volontaire",
-      "term": "Quasi-usufruit",
-      "rubriques": [
-        "Police nationale : un arrêté du 3 septembre 2026 met à jour la liste des postes difficiles ouvrant droit à l'indemnité de responsabilité et de performance",
-        "Rupture du contrat d'agent commercial : une transaction conclue après la fin du contrat reste valable même sans connaître le montant exact de l'indemnité due",
-        "Régulation de l'information en ligne : le Sénat plaide pour un observatoire des manipulations et la responsabilisation des concepteurs d'IA",
-        "7 septembre 1911 : Guillaume Apollinaire arrêté et écroué à la Santé dans l'affaire du vol de la Joconde",
-        "Journées européennes du patrimoine : le tribunal judiciaire et le barreau de Bordeaux ouvrent leurs portes les 19 et 20 septembre 2026",
-        "Ligue des champions : la nouvelle campagne européenne s'ouvre cette semaine pour le PSG, Lille et Lens"
-      ]
-    },
-    {
-      "date": "2026-09-07",
-      "slot": "matin",
-      "file": "editions/2026-09-07-matin.json",
-      "essentiel": "Kalachnikov à Châteauroux : quatre hommes jugés aux assises pour plusieurs tentatives d'assassinat commises en 2022",
-      "term": "Bénéfice de subrogation",
-      "rubriques": [
-        "Frais de gestion des opérateurs de compétences : un arrêté du 6 août 2026 encadre leur plafond en l'absence de convention avec l'État",
-        "Faute inexcusable de l'employeur : la Cour de cassation renverse la charge de la preuve de l'exposition au risque",
-        "Garantie AGS et résiliation judiciaire : la Cour de cassation aligne sa jurisprudence sur le droit de l'Union",
-        "7 septembre 1822 : Dom Pedro proclame l'indépendance du Brésil au bord de l'Ipiranga",
-        "Conseil d'État : la rentrée solennelle 2026 se tiendra le 9 septembre, retransmise en direct",
-        "Canicule tardive : six départements du Sud-Est en vigilance orange ce lundi 7 septembre"
       ]
     }
   ]

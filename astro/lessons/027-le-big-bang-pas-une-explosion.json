@@ -1,0 +1,26 @@
+{
+  "n": 27,
+  "title": "Le Big Bang : une expansion, pas une explosion",
+  "subtitle": "Ce que le nom a fait croire, et ce que la théorie dit réellement.",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Remonter jusqu'où ?",
+      "body": "Hier : remonter l'expansion de l'univers (jour 26) mène à un état passé extrêmement dense et chaud, qu'on appelle Big Bang. Le nom, forgé par ironie par un astronome qui n'y croyait pas, prête à confusion : il ne s'agit pas d'une explosion de matière projetée dans un espace vide préexistant, comme une bombe qui éclate quelque part. C'est l'espace lui-même qui, à cet instant de départ, était contracté à l'extrême — la théorie décrit l'histoire de cette expansion depuis son origine, pas un événement localisé qui se serait produit à un endroit précis."
+    },
+    {
+      "h": "Ce que la théorie explique, et ce qu'elle ne dit pas",
+      "body": "Le Big Bang ne répond ni à « qu'y avait-il avant » ni à « qu'est-ce qui l'a déclenché ». La physique connue permet de remonter jusqu'à une fraction de seconde après cet état initial, pas jusqu'à l'instant zéro lui-même, où les lois actuelles cessent de s'appliquer. C'est une reconstruction, appuyée sur l'expansion mesurée aujourd'hui, de ce que devait être l'univers dans son passé le plus reculé accessible à l'observation — pas un récit de sa cause."
+    },
+    {
+      "h": "Un âge, pas seulement une image",
+      "body": "Cette reconstruction donne aussi une date : en calculant depuis quand l'espace s'étend au rythme mesuré aujourd'hui, on obtient un âge de l'univers d'environ 13,8 milliards d'années — le temps écoulé depuis cet état originel, pas une distance ni une taille. Demain, un tout autre indice viendra confirmer cette histoire : une lumière qui, elle, s'observe directement."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Big Bang", "def": "Modèle qui décrit l'expansion de l'univers depuis un état passé extrêmement dense et chaud, et non une explosion de matière dans un espace préexistant." },
+    { "term": "Âge de l'univers", "def": "Durée écoulée depuis l'état initial du Big Bang, estimée à environ 13,8 milliards d'années à partir du rythme actuel de l'expansion." }
+  ],
+  "recap": "Le Big Bang n'est pas une explosion mais l'histoire, reconstituée depuis l'expansion mesurée aujourd'hui, d'un univers passé extrêmement dense et vieux d'environ 13,8 milliards d'années.",
+  "next": "Demain — le rayonnement fossile : la lumière la plus ancienne qu'on puisse observer, et ce qu'elle confirme du Big Bang."
+}
