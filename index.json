@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-24",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-24",
+      "slot": "midi",
+      "file": "editions/2026-09-24-midi.json",
+      "essentiel": "Mort d'un étudiant à Compiègne : ses parents portent plainte pour bizutage et homicide involontaire",
+      "term": "Anatocisme",
+      "rubriques": [
+        "Violences sexistes et sexuelles : la loi « intégrale » franchit sa première étape à l'Assemblée nationale",
+        "Déficit fonctionnel permanent : le juge du fond n'a pas à ordonner une expertise s'il dispose d'éléments suffisants",
+        "La Cour de cassation poursuit son cycle de conférences consacré à l'amiable",
+        "24 septembre 1724 : un arrêt royal crée la Bourse de Paris",
+        "Jurisprudences inventées, conclusions erronées : l'intelligence artificielle bouscule la pratique des avocats",
+        "Visite du pape Léon XIV : 15 000 policiers, gendarmes et militaires mobilisés à Paris dès vendredi"
+      ]
+    },
     {
       "date": "2026-09-24",
       "slot": "matin",
