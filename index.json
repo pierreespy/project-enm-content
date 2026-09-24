@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-23",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-09-24",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-24",
+      "slot": "matin",
+      "file": "editions/2026-09-24-matin.json",
+      "essentiel": "Affaire Hakimi : la Cour de cassation confirme le renvoi du joueur du PSG devant la cour d'assises pour viol",
+      "term": "Electa una via",
+      "rubriques": [
+        "Naturalisations et francisations de noms : un nouveau décret publié au Journal officiel",
+        "Restitution de l'indu : le point de départ des intérêts dépend de la bonne ou mauvaise foi du bénéficiaire",
+        "Une thèse perpignanaise retrace l'histoire du droit du patrimoine culturel burkinabè",
+        "24 septembre 1960 : l'US Navy met à l'eau l'USS Enterprise",
+        "Menaces contre les avocats : le Conseil national des barreaux veut structurer sa réponse",
+        "France 2 ressuscite « L'Heure de vérité », dix-huit mois avant la présidentielle"
+      ]
+    },
     {
       "date": "2026-09-23",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "9 septembre 1899 : le conseil de guerre de Rennes condamne une seconde fois Alfred Dreyfus, à dix ans de détention",
         "Concours professionnel de la magistrature : les inscriptions pour la session 2027 s'ouvrent le 14 septembre",
         "Ligue des champions : le PSG reçoit le Slovan Bratislava ce mercredi pour sa première journée de la nouvelle campagne européenne"
-      ]
-    },
-    {
-      "date": "2026-09-08",
-      "slot": "midi",
-      "file": "editions/2026-09-08-midi.json",
-      "essentiel": "Sologne : le procès pour braconnage visant Olivier Bouygues s'achève après deux jours devant le tribunal correctionnel d'Orléans",
-      "term": "Saisine d'office",
-      "rubriques": [
-        "Personnes handicapées : un décret du 7 septembre 2026 proroge les mandats du président et des membres du Conseil national consultatif",
-        "Corruption à l'IAAF : le nouveau procès en appel de Papa Massata Diack s'ouvre ce mardi devant la cour d'appel de Paris",
-        "Gouvernance des autorités indépendantes : la Cour des comptes pointe l'expansion incontrôlée des missions de la CNCDH",
-        "8 septembre 1951 : le traité de San Francisco met juridiquement fin à la Seconde Guerre mondiale dans le Pacifique",
-        "Élections sénatoriales : le scrutin du 27 septembre 2026 renouvellera 178 sièges de la série 2",
-        "Retour des orages : 21 départements du Sud-Est et de l'Est placés en vigilance jaune ce mardi"
-      ]
-    },
-    {
-      "date": "2026-09-08",
-      "slot": "matin",
-      "file": "editions/2026-09-08-matin.json",
-      "essentiel": "Sedan : à l'ouverture de son procès, l'accusé reconnaît le viol et le meurtre de Loana, 10 ans",
-      "term": "Théorie du fonctionnaire de fait",
-      "rubriques": [
-        "Violences faites aux femmes et aux enfants : la proposition de « loi intégrale » entame son parcours à l'Assemblée nationale",
-        "Harcèlement conjugal devant les enfants : la chambre criminelle valide le retrait d'autorité parentale sans demande de l'autre parent",
-        "Précarité et accès aux droits : le Défenseur des droits documente un cercle vicieux de discriminations cumulées",
-        "8 septembre de l'an 70 : les légions de Titus détruisent le Temple de Jérusalem",
-        "Élections au Conseil national des barreaux : candidatures closes le 30 septembre pour un scrutin fixé au 24 novembre 2026",
-        "Rentrée littéraire : le Prix Goncourt dévoile sa première sélection de seize romans"
       ]
     }
   ]

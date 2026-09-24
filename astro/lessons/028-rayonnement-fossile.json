@@ -1,0 +1,26 @@
+{
+  "n": 28,
+  "title": "Le rayonnement fossile",
+  "subtitle": "La lumière la plus ancienne qu'on puisse observer, et ce qu'elle confirme du Big Bang.",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un univers devenu transparent",
+      "body": "Hier : le Big Bang décrit un état originel extrêmement dense et chaud, remontant à environ 13,8 milliards d'années — l'âge de l'univers. Dans ses tout premiers instants, la matière formait un plasma si dense que les électrons circulaient librement, sans être liés à un noyau. Or la lumière, qui interagit sans cesse avec les électrons libres, ne pouvait alors parcourir aucune distance sans être aussitôt absorbée ou déviée — comme des phares dans un brouillard épais : l'univers primitif était opaque. Il a fallu environ 380 000 ans d'expansion et de refroidissement pour que les électrons se lient enfin aux noyaux et forment des atomes stables. La matière est alors devenue transparente : la lumière, libérée, s'est mise à circuler librement dans toutes les directions. C'est cette lumière-là, émise au moment précis où l'univers est devenu transparent, qu'on appelle le rayonnement fossile."
+    },
+    {
+      "h": "Une lumière venue de partout à la fois",
+      "body": "Ce rayonnement fossile n'a pas une source ponctuelle, comme une étoile : il a été émis simultanément par toute la matière de l'univers, alors bien plus resserré qu'aujourd'hui. Depuis, il voyage sans obstacle et nous parvient littéralement de toutes les directions du ciel à la fois — on l'observe où que l'on regarde. Mais 13,8 milliards d'années de trajet à travers un espace en expansion l'ont profondément transformé : comme pour la lumière des galaxies lointaines, l'expansion a étiré ses longueurs d'onde, un décalage vers le rouge poussé à l'extrême. Émise à l'origine sous une forme comparable à la lumière visible, elle nous parvient aujourd'hui sous forme d'ondes radio de très courte longueur, les micro-ondes — invisibles à l'œil nu, mais détectables par des instruments spécialisés."
+    },
+    {
+      "h": "Ce que cette lumière prouve",
+      "body": "Prédit dès les années 1940, ce rayonnement n'a été détecté qu'en 1965, presque par hasard, par deux ingénieurs américains qui cherchaient à éliminer un bruit persistant dans leur antenne radio. Sa découverte a tranché un débat : elle confirmait que l'univers avait bien connu un état passé dense et chaud, plutôt qu'il n'ait toujours existé sous sa forme actuelle. Aujourd'hui, ce rayonnement est cartographié avec une précision extrême : sa température est presque parfaitement uniforme dans toutes les directions, à d'infimes variations près. Ces variations, minuscules mais réelles, sont les toutes premières traces de structure dans l'univers — l'ébauche, à peine visible, des futures galaxies."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Rayonnement fossile", "def": "Lumière émise dans tout l'univers il y a environ 13,8 milliards d'années, au moment où celui-ci, en refroidissant, est devenu transparent — la plus ancienne lumière qu'on puisse observer." },
+    { "term": "Recombinaison (cosmologique)", "def": "Étape, environ 380 000 ans après le début de l'expansion, où les électrons se sont liés aux noyaux pour former des atomes stables, rendant l'univers transparent à la lumière." }
+  ],
+  "recap": "Le rayonnement fossile est la lumière émise il y a environ 13,8 milliards d'années, quand l'univers est devenu transparent en refroidissant — la plus ancienne lumière observable, et la confirmation directe du Big Bang.",
+  "next": "Demain — l'énergie noire : ce qui accélère, mystérieusement, l'expansion de l'univers."
+}
