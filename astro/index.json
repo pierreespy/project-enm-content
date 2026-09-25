@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24",
-  "count": 28,
+  "updated": "2026-09-25",
+  "count": 29,
   "lessons": [
     {
       "n": 1,
@@ -243,6 +243,14 @@
       "terms": [
         "Rayonnement fossile",
         "Recombinaison (cosmologique)"
+      ]
+    },
+    {
+      "n": 29,
+      "file": "astro/lessons/029-l-energie-noire.json",
+      "title": "L'énergie noire : ce qui accélère l'expansion",
+      "terms": [
+        "Énergie noire"
       ]
     }
   ]

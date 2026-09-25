@@ -89,33 +89,5 @@
   },
   "date": "2026-09-25",
   "dateShort": "25 sept.",
-  "slot": "matin",
-  "astro": {
-    "n": 29,
-    "title": "L'énergie noire : ce qui accélère l'expansion",
-    "subtitle": "Pourquoi les galaxies ne se contentent pas de s'éloigner : elles s'éloignent de plus en plus vite.",
-    "duration": "2 min",
-    "sections": [
-      {
-        "h": "Une expansion qu'on croyait ralentir",
-        "body": "Depuis la découverte de l'expansion (jour 26), les astrophysiciens s'attendaient à ce qu'elle ralentisse avec le temps : la gravité, qui attire toute la matière vers elle-même, devait progressivement freiner l'éloignement des galaxies. Restait à savoir de combien. Pour le mesurer, des équipes ont observé, à la fin des années 1990, des supernovae (jour 20) d'un type particulier, dont l'éclat réel est presque toujours le même — ce qui permet, en comparant cet éclat réel à leur éclat apparent, d'en déduire précisément leur distance. Croisée avec leur décalage vers le rouge (jour 17), donc leur vitesse d'éloignement, cette distance devait révéler l'ampleur du ralentissement."
-      },
-      {
-        "h": "Le résultat inverse : ça accélère",
-        "body": "Le résultat a contredit l'attente : les galaxies les plus lointaines s'éloignaient plus vite que ne le prévoyait un univers en décélération — l'expansion n'a pas ralenti, elle accélère. Confirmé depuis par d'autres méthodes indépendantes, ce résultat signifie qu'une composante inconnue contrarie l'effet freinateur de la gravité, et le domine largement à grande échelle. Faute de mieux la caractériser, les physiciens l'ont nommée énergie noire — un nom qui décrit un effet observé, une forme de pression qui écarte l'espace, bien plus qu'une explication de sa cause."
-      },
-      {
-        "h": "Ce qu'on en sait, et ce qu'on ignore",
-        "body": "L'énergie noire n'a rien à voir avec la matière noire (jour 25) : la matière noire attire, par gravité, comme n'importe quelle masse ; l'énergie noire, elle, repousse. Les deux sont indétectables autrement que par leurs effets, mais ces effets sont opposés. Les calculs actuels attribuent à l'énergie noire environ 70 % du contenu total de l'univers — davantage que toute la matière, noire ou ordinaire, réunie. Sa nature reste l'une des plus grandes inconnues de la physique actuelle : simple propriété de l'espace vide, ou manifestation d'un phénomène encore non identifié."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Énergie noire",
-        "def": "Composante inconnue de l'univers dont l'effet observé est de repousser l'espace et d'accélérer son expansion, à l'inverse de l'attraction exercée par la gravité."
-      }
-    ],
-    "recap": "Contre toute attente, l'expansion de l'univers n'a pas ralenti mais accélère ; cette accélération est attribuée à l'énergie noire, une composante inconnue qui repousse l'espace au lieu de l'attirer, et qui domine le contenu total de l'univers.",
-    "next": "Demain — les exoplanètes : ces mondes qu'on ne voit jamais directement, mais que l'on détecte."
-  }
+  "slot": "matin"
 }
