@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-25",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-25",
+      "slot": "midi",
+      "file": "editions/2026-09-25-midi.json",
+      "essentiel": "Preuve et RGPD : la Cour de cassation valide la pseudonymisation comme voie de conciliation",
+      "term": "Recel successoral",
+      "rubriques": [
+        "Recherches impliquant la personne humaine : un décret renouvelle le mandat des membres de la Commission nationale",
+        "Concurrence : les conséquences de l'annulation d'une décision de l'Autorité sur la cour d'appel de renvoi",
+        "L'aveu en droit romano-canonique (XIIe-XVe siècle) : une thèse soutenue ce vendredi à Paris-Panthéon-Assas",
+        "25 septembre 2012 : la Cour de cassation consacre le préjudice écologique dans l'affaire de l'Erika",
+        "Visite du pape à Notre-Dame : le Palais de justice et la Maison du barreau sous périmètre de sécurité ce vendredi",
+        "Discours de Benyamin Netanyahou à l'Assemblée générale de l'ONU : sorties de délégations en pleine intervention"
+      ]
+    },
     {
       "date": "2026-09-25",
       "slot": "matin",
