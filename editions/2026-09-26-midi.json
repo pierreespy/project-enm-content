@@ -89,41 +89,5 @@
   },
   "date": "2026-09-26",
   "dateShort": "26 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 30,
-    "title": "Des planètes autour d'autres étoiles",
-    "subtitle": "On ne voit presque jamais une exoplanète — on déduit sa présence de deux traces indirectes",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Une planète qu'on ne voit pas",
-        "body": "Une exoplanète est une planète qui orbite autour d'une étoile autre que le Soleil. Sur le papier, la définition est simple ; en pratique, l'observer est presque impossible. Une planète ne produit pas sa propre lumière — contrairement à l'étoile qu'elle accompagne, elle n'abrite aucune fusion nucléaire en son cœur. Elle se contente de réfléchir un peu de la lumière reçue, une lueur des milliards de fois plus faible que celle de son étoile. Vue depuis la Terre, cette lueur est purement et simplement noyée dans l'éclat de l'étoile, comme la flamme d'une bougie à côté d'un phare. Il a donc fallu inventer des méthodes de détection indirecte."
-      },
-      {
-        "h": "Le transit : une étoile qui clignote très légèrement",
-        "body": "La première méthode repose sur le transit : le passage d'une planète, vue depuis la Terre, juste devant le disque de son étoile. Ce passage bloque une part infime de la lumière de l'étoile — souvent moins d'un centième — pendant quelques heures. Un télescope assez sensible mesure cette baisse de luminosité, minuscule mais répétée à intervalles réguliers : chaque répétition correspond à un tour complet de la planète sur son orbite. De cette seule information — la durée du creux et l'écart entre deux creux — les astronomes déduisent la taille de la planète et la durée de son année. C'est la méthode la plus productive à ce jour."
-      },
-      {
-        "h": "Le va-et-vient de l'étoile",
-        "body": "La seconde méthode ne regarde pas la planète, mais l'étoile elle-même. Une étoile n'est pas parfaitement immobile : la gravitation de sa planète l'attire un peu, et l'étoile décrit un minuscule mouvement de va-et-vient autour du centre de masse commun aux deux corps. Ce mouvement se lit dans le spectre de l'étoile : quand elle s'éloigne légèrement de la Terre, ses raies spectrales se décalent vers le rouge ; quand elle s'en rapproche, elles se décalent vers le bleu — le même effet Doppler qui, à plus grande échelle, révèle la fuite des galaxies. On ne voit jamais l'objet, seulement la signature de son attraction : c'est la méthode dite des « vitesses radiales »."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Exoplanète",
-        "def": "Planète en orbite autour d'une étoile autre que le Soleil."
-      },
-      {
-        "term": "Transit (astronomique)",
-        "def": "Passage d'une planète devant le disque de son étoile, vu depuis un point d'observation, qui réduit très légèrement la lumière reçue."
-      },
-      {
-        "term": "Vitesse radiale",
-        "def": "Composante de la vitesse d'un astre dirigée le long de la ligne de visée, mesurable par effet Doppler dans son spectre."
-      }
-    ],
-    "recap": "Une exoplanète se détecte rarement par sa propre lumière : soit par l'ombre qu'elle jette en transitant devant son étoile, soit par le léger va-et-vient qu'elle imprime à celle-ci.",
-    "next": "Demain — les instruments qui rendent ces traces observables : télescopes au sol et dans l'espace."
-  }
+  "slot": "midi"
 }

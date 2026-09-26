@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-26",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-26",
+      "slot": "midi",
+      "file": "editions/2026-09-26-midi.json",
+      "essentiel": "Procès Rachida Dati : l'ancienne ministre s'emporte à la barre, « Fichez-moi la paix ! »",
+      "term": "Théorie des facilités essentielles",
+      "rubriques": [
+        "Abus de position dominante : la Commission européenne publie ses nouvelles lignes directrices sur les pratiques d'éviction",
+        "Discipline des commissaires de justice : la récusation des assesseurs professionnels relève du droit commun, tranche la Cour de cassation",
+        "Éviction abusive : la doctrine pointe la tension entre présomption et démonstration dans les nouvelles lignes directrices européennes",
+        "26 septembre 1939 : le gouvernement Daladier dissout le Parti communiste français",
+        "Intelligence artificielle : le Barreau de Paris lance son « Académie IA » gratuite pour les avocats",
+        "Visite du pape Léon XIV à Paris : messe en plein air sur les Champs-Élysées ce samedi après-midi"
+      ]
+    },
     {
       "date": "2026-09-26",
       "slot": "matin",
