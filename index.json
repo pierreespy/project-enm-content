@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-25",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-09-26",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-26",
+      "slot": "matin",
+      "file": "editions/2026-09-26-matin.json",
+      "essentiel": "Affaire Crépol : onze accusés renvoyés devant la cour d'assises des mineurs, la circonstance aggravante de racisme retenue contre l'avis du parquet",
+      "term": "Mini-abus de droit fiscal",
+      "rubriques": [
+        "Le garde des Sceaux nomme la nouvelle composition du Conseil national de la médiation",
+        "La réputation d'un animateur, élément essentiel et immatériel d'un contrat de production",
+        "Preuve déloyale en droit commercial : une étude retrace l'essor du contrôle de proportionnalité",
+        "26 septembre 1786 : le traité Eden-Rayneval scelle le libre-échange entre la France et l'Angleterre",
+        "Élections au Conseil national des barreaux : les candidatures doivent être déposées avant le 30 septembre",
+        "Plus de 260 marches pour le climat prévues ce samedi, le rassemblement parisien déplacé pour cause de visite pontificale"
+      ]
+    },
     {
       "date": "2026-09-25",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "11 septembre 1714 : la chute de Barcelone met fin à la guerre de Succession d'Espagne et donne naissance à la Diada catalane",
         "Logiciel Themisia : le Barreau de Paris ouvre à tous les avocats de France son outil de gestion de cabinet",
         "Orages : les Alpes-Maritimes placées en vigilance jaune ce vendredi après-midi"
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "slot": "midi",
-      "file": "editions/2026-09-10-midi.json",
-      "essentiel": "Diffamation : le président du Finistère Maël de Calan jugé à Brest après avoir qualifié un député LFI de « factieux et antisémite »",
-      "term": "Perpétuité de l'exception de nullité",
-      "rubriques": [
-        "Transparence salariale : le gouvernement présente son projet de loi en conseil des ministres",
-        "Commissionnaire de transport : la chambre commerciale écarte l'exception d'inexécution opposée à son droit de rétention",
-        "Cinquièmes Rencontres de droit des contrats : université et Cour de cassation dialoguent le 14 septembre",
-        "10 septembre 1857 : le Pacte fondamental accorde aux sujets du bey de Tunis une égalité inédite devant la loi et l'impôt",
-        "Affaire Christian Nègre : les parties civiles réclament l'accélération de l'instruction lors d'une réunion avec les juges",
-        "Orages : la Haute-Corse placée en vigilance jaune ce jeudi après-midi"
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "slot": "matin",
-      "file": "editions/2026-09-10-matin.json",
-      "essentiel": "Frichti : les deux ex-dirigeants de la plateforme de livraison jugés à Paris pour travail dissimulé et emploi d'étrangers sans titre",
-      "term": "Comparution à délai différé",
-      "rubriques": [
-        "Politique d'installation et de transmission en agriculture : un décret du 7 septembre 2026 précise la composition des instances régionales de concertation",
-        "Péremption d'instance aux prud'hommes : deux arrêts du 9 septembre 2026 précisent la charge des diligences après radiation",
-        "Une thèse d'Assas revisite la théorie générale du contrat administratif à travers l'indemnisation",
-        "10 septembre 1419 : l'assassinat de Jean sans Peur, duc de Bourgogne, sur le pont de Montereau",
-        "Élections du Conseil national des barreaux : candidatures closes le 30 septembre pour un scrutin fixé au 24 novembre 2026",
-        "Jay-Z au Stade de France ce jeudi soir, une première pour un rappeur américain depuis Eminem en 2013"
       ]
     }
   ]

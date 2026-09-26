@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25",
-  "count": 29,
+  "updated": "2026-09-26",
+  "count": 30,
   "lessons": [
     {
       "n": 1,
@@ -251,6 +251,16 @@
       "title": "L'énergie noire : ce qui accélère l'expansion",
       "terms": [
         "Énergie noire"
+      ]
+    },
+    {
+      "n": 30,
+      "file": "astro/lessons/030-des-planetes-autour-dautres-etoiles.json",
+      "title": "Des planètes autour d'autres étoiles",
+      "terms": [
+        "Exoplanète",
+        "Transit (astronomique)",
+        "Vitesse radiale"
       ]
     }
   ]
