@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-26",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-09-27",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-27",
+      "slot": "matin",
+      "file": "editions/2026-09-27-matin.json",
+      "essentiel": "Assassinat de Federico Martín Aramburu : Loïk Le Priol condamné à 26 ans de réclusion, Romain Bouvier à 19 ans de prison",
+      "term": "Convention de croupier",
+      "rubriques": [
+        "Douanes : le règlement créant l'Autorité douanière de l'Union, siégeant à Lille, est publié au Journal officiel de l'UE",
+        "Médecine du travail : le seul non-respect des préconisations d'aménagement de poste ouvre droit à réparation",
+        "L'accès à l'eau potable, entre service public et droit fondamental : une thèse soutenue à Paris-Panthéon-Assas",
+        "27 septembre 1822 : Champollion lit sa « Lettre à M. Dacier » et annonce le déchiffrement des hiéroglyphes",
+        "Apport d'affaires entre avocats : le CNB ouvre une consultation de la profession sur une possible rémunération",
+        "Le pape Léon XIV célèbre une messe géante au sanctuaire de Lourdes"
+      ]
+    },
     {
       "date": "2026-09-26",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "12 septembre 1213 : la bataille de Muret scelle la défaite du roi d'Aragon et le sort du Midi cathare",
         "Grève des transports : quels droits pour le salarié non-gréviste empêché de rejoindre son poste",
         "JO d'hiver 2030 : Edgar Grospiron quitte la présidence du comité d'organisation après des mois de crise de gouvernance (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "slot": "midi",
-      "file": "editions/2026-09-11-midi.json",
-      "essentiel": "Home-jacking de Gianluigi Donnarumma : audience sous très haute tension à Paris, « Ganito » menace des policiers",
-      "term": "Substitution de motifs",
-      "rubriques": [
-        "Facturation électronique obligatoire depuis le 1er septembre : cadre juridique et sanctions pour les entreprises et cabinets",
-        "Cour d'assises spéciale terrorisme : la Cour de cassation restreint l'indemnisation des parties civiles pour les infractions connexes",
-        "PAC 2023-2027 : la Cour des comptes juge la mise en œuvre française incohérente entre objectifs économiques et environnementaux",
-        "25 ans après le 11-Septembre : New York rend hommage aux 2 977 victimes des attentats",
-        "Facturation électronique : le Conseil national des barreaux ouvre sa plateforme « e-Facturation » aux avocats",
-        "Budget 2027 : le gouvernement abaisse sa prévision de croissance à 0,5 % pour 2026"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "slot": "matin",
-      "file": "editions/2026-09-11-matin.json",
-      "essentiel": "Grand banditisme : Jean-Charles Preira, complice présumé de Mohamed Amra lors de son évasion, acquitté d'un meurtre par la cour d'assises de l'Eure",
-      "term": "Solve et repete",
-      "rubriques": [
-        "Gazole non routier dans le BTP : un décret du 9 septembre 2026 instaure une aide pour les entreprises de travaux publics",
-        "Expertise génétique : l'expert doit être inscrit sur la liste des experts judiciaires au jour de sa désignation, tranche la Cour de cassation",
-        "Quarante ans de la loi antiterroriste du 9 septembre 1986 : la Cour de cassation organise un colloque le 25 septembre",
-        "11 septembre 1714 : la chute de Barcelone met fin à la guerre de Succession d'Espagne et donne naissance à la Diada catalane",
-        "Logiciel Themisia : le Barreau de Paris ouvre à tous les avocats de France son outil de gestion de cabinet",
-        "Orages : les Alpes-Maritimes placées en vigilance jaune ce vendredi après-midi"
       ]
     }
   ]

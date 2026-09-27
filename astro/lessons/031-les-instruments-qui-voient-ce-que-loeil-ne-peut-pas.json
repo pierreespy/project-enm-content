@@ -1,0 +1,26 @@
+{
+  "n": 31,
+  "title": "Les instruments qui voient ce que l'œil ne peut pas",
+  "subtitle": "Un télescope n'est pas un zoom : c'est un collecteur de lumière",
+  "duration": "3 min",
+  "sections": [
+    {
+      "h": "Recueillir la lumière, pas seulement grossir",
+      "body": "La lumière d'une étoile lointaine arrive sur Terre en quantité infime, et la pupille de l'œil n'en capte qu'une part minuscule. Un télescope est d'abord un instrument qui recueille cette lumière sur une surface bien plus large — un miroir ou une lentille — et la concentre en un point. Plus cette surface est grande, plus le télescope a de pouvoir collecteur : il rassemble davantage de lumière, ce qui permet de voir des objets trop faibles pour l'œil nu, et de distinguer des détails qu'aucun grossissement seul ne révélerait. C'est pour cela que les astronomes cherchent sans cesse à construire des miroirs plus grands, plutôt que des lunettes plus puissantes."
+    },
+    {
+      "h": "L'atmosphère, un filtre qu'on préfère éviter",
+      "body": "L'air qui nous entoure trouble l'image des astres : c'est lui qui provoque la scintillation des étoiles, décrite dans une leçon précédente. Mais il fait pire : il absorbe une grande partie des rayonnements que les astres émettent en dehors de la lumière visible, avant même qu'ils n'atteignent le sol. Un télescope placé en orbite, au-dessus de l'atmosphère, échappe à ces deux limites à la fois : son image n'est plus brouillée par l'air en mouvement, et il peut capter des rayonnements que le sol ne laisse jamais passer."
+    },
+    {
+      "h": "Deux stratégies complémentaires",
+      "body": "Un télescope au sol reste plus facile à construire très grand, à entretenir et à réparer qu'un télescope envoyé dans l'espace, dont la taille et la durée de vie sont contraintes par le lancement lui-même. Les astronomes ne choisissent donc pas entre les deux : ils combinent de vastes miroirs terrestres, pour le pouvoir collecteur, et des instruments spatiaux plus modestes, pour la netteté et l'accès à des rayonnements invisibles depuis le sol."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Télescope", "def": "Instrument qui recueille et concentre la lumière d'un astre, grâce à un miroir ou une lentille bien plus large que la pupille de l'œil, afin de révéler des objets trop faibles ou trop lointains pour être vus à l'œil nu." },
+    { "term": "Pouvoir collecteur", "def": "Quantité de lumière qu'un télescope parvient à recueillir, qui augmente avec la taille de son miroir ou de sa lentille." }
+  ],
+  "recap": "Un télescope vaut par sa capacité à recueillir la lumière, pas par son grossissement ; le placer dans l'espace permet en plus d'échapper au brouillage et aux limites de l'atmosphère terrestre.",
+  "next": "Demain — les ondes gravitationnelles : un tout autre message que la lumière, venu de l'univers."
+}

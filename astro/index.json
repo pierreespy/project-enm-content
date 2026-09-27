@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26",
-  "count": 30,
+  "updated": "2026-09-27",
+  "count": 31,
   "lessons": [
     {
       "n": 1,
@@ -261,6 +261,15 @@
         "Exoplanète",
         "Transit (astronomique)",
         "Vitesse radiale"
+      ]
+    },
+    {
+      "n": 31,
+      "file": "astro/lessons/031-les-instruments-qui-voient-ce-que-loeil-ne-peut-pas.json",
+      "title": "Les instruments qui voient ce que l'œil ne peut pas",
+      "terms": [
+        "Télescope",
+        "Pouvoir collecteur"
       ]
     }
   ]
