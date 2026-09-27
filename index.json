@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-27",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-27",
+      "slot": "midi",
+      "file": "editions/2026-09-27-midi.json",
+      "essentiel": "Élections sénatoriales 2026 : la moitié du Sénat renouvelée ce dimanche, 178 sièges de la série 2 en jeu",
+      "term": "Tierce opposition",
+      "rubriques": [
+        "Crues transfrontalières : la France publie sa convention avec la Région flamande pour le polder de Dunkerque - Furnes-les-Moëres",
+        "Marque et véracité : la Cour de cassation confirme l'annulation de « Fauré Le Page Paris 1717 » pour tromperie sur l'ancienneté revendiquée",
+        "Le droit peut-il relancer la natalité ? Un colloque franco-japonais réunit sept universités à Aix-en-Provence",
+        "27 septembre 1529 : Soliman le Magnifique met le siège devant Vienne, plus haute marque de l'expansion ottomane en Europe",
+        "Nuit du Droit 2026 : le Conseil d'État et les tribunaux administratifs ouvrent leurs portes le 5 octobre, l'anniversaire de la Constitution tombant un dimanche",
+        "Seine-Marathon 76 : plus de 16 000 coureurs sur les quais de Rouen pour la 8e édition"
+      ]
+    },
     {
       "date": "2026-09-27",
       "slot": "matin",
