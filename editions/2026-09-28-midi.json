@@ -89,37 +89,5 @@
   },
   "date": "2026-09-28",
   "dateShort": "28 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 32,
-    "title": "Les ondes gravitationnelles : un tout autre message que la lumière",
-    "subtitle": "Une déformation de l'espace lui-même, détectée pour la première fois en 2015",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Un signal d'une tout autre nature",
-        "body": "Tout ce que ce cours a mobilisé jusqu'ici provient de la lumière : c'est elle qui nous a permis de connaître la couleur des étoiles, leur composition, leur vitesse, l'expansion de l'univers. Il existe pourtant un second messager, découvert bien plus tard : l'onde gravitationnelle. Ce n'est pas de la lumière, ni une autre forme de rayonnement électromagnétique : c'est une déformation de l'espace lui-même, qui s'étire puis se resserre imperceptiblement sur son passage, un peu comme une ride se propage à la surface d'un étang. Elle naît des événements les plus violents de l'univers — la fusion de deux trous noirs, par exemple — et voyage ensuite à la vitesse de la lumière, sans être elle, jusqu'à traverser la Terre."
-      },
-      {
-        "h": "Une détection presque impossible",
-        "body": "Une onde gravitationnelle qui atteint la Terre déforme les distances d'une quantité dérisoire — bien moins que la taille d'un proton sur un instrument de plusieurs kilomètres. Pour la détecter, les scientifiques utilisent un interféromètre : un appareil qui envoie deux faisceaux laser perpendiculaires sur de longues distances, puis les recombine ; si l'espace s'est étiré différemment dans une direction que dans l'autre, la lumière recombinée change de façon caractéristique. C'est cette technique qui a permis, en 2015, la toute première détection directe d'une onde gravitationnelle, confirmant un siècle après sa prédiction théorique une conséquence de la gravitation que même son auteur jugeait sans doute inobservable."
-      },
-      {
-        "h": "Ce que la lumière seule ne pouvait pas montrer",
-        "body": "Deux trous noirs qui fusionnent n'émettent, par définition, aucune lumière : un trou noir ne laisse rien s'échapper, pas même la lumière, comme on l'a vu dans une leçon précédente. Un tel événement serait donc resté totalement invisible pour tout télescope, aussi puissant soit-il. Les ondes gravitationnelles ouvrent ainsi une fenêtre entièrement nouvelle sur l'univers, indépendante de la lumière et de ses limites : on parle désormais d'astronomie multimessagers, où lumière et ondes gravitationnelles, observées ensemble sur un même événement, se complètent pour raconter ce qu'aucune des deux, seule, ne pourrait révéler."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Onde gravitationnelle",
-        "def": "Déformation de l'espace lui-même, produite par un événement gravitationnel violent et se propageant à la vitesse de la lumière, sans être elle-même de la lumière."
-      },
-      {
-        "term": "Interféromètre",
-        "def": "Instrument qui compare deux faisceaux laser pour détecter une déformation infime de l'espace, trop petite pour être mesurée autrement."
-      }
-    ],
-    "recap": "Les ondes gravitationnelles sont des déformations de l'espace, détectées par interférométrie depuis 2015, qui révèlent des événements — comme la fusion de deux trous noirs — invisibles à toute lumière.",
-    "next": "Demain — y a-t-il de la vie ailleurs ? Ce que les exoplanètes permettent, et ce qu'elles ne permettent pas encore, de savoir."
-  }
+  "slot": "midi"
 }

@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-28",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-28",
+      "slot": "midi",
+      "file": "editions/2026-09-28-midi.json",
+      "essentiel": "Crash d'Air Algérie en 2014 : la compagnie Swiftair condamnée à 225 000 euros d'amende pour homicides involontaires",
+      "term": "Délégation imparfaite",
+      "rubriques": [
+        "Accessibilité des produits et services : un décret du 23 septembre 2026 muscle son application dans le code de la consommation",
+        "Compte courant d'associé : la chambre commerciale précise le sort des intérêts en procédure collective",
+        "Quarante ans du droit français de la concurrence devant le juge judiciaire : un colloque à la Cour de cassation",
+        "28 septembre : Journée internationale de l'accès universel à l'information",
+        "Décret « Magicobus III » : ce qui change en procédure civile à compter du 1er octobre 2026",
+        "Ligue des nations : première sortie à risque pour les Bleus de Zinédine Zidane à Bruxelles"
+      ]
+    },
     {
       "date": "2026-09-28",
       "slot": "matin",
