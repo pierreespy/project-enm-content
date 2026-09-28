@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-27",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-09-28",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-09-28",
+      "slot": "matin",
+      "file": "editions/2026-09-28-matin.json",
+      "essentiel": "Fusillade de Maurepas à Rennes : jusqu'à 25 ans de réclusion pour les tirs sur des policiers",
+      "term": "Prescription glissante",
+      "rubriques": [
+        "Pêche : un décret du 26 septembre 2026 reconduit l'aide de trésorerie liée à la flambée des carburants",
+        "Diffamation non publique : le courriel adressé à l'avocat de la partie adverse reste couvert par le secret des correspondances",
+        "Conflits armés et environnement : une thèse soutenue ce lundi à Perpignan",
+        "28 septembre 1958 : les Français adoptent par référendum la Constitution de la Ve République",
+        "Harcèlement et discrimination dans la profession : le CNB propose de rendre publiques les sanctions disciplinaires",
+        "Mondiaux de cyclisme sur route : l'Américain Brandon McNulty sacré à la surprise générale à Montréal"
+      ]
+    },
     {
       "date": "2026-09-27",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "13 septembre 1993 : la signature des accords d'Oslo entre Israël et l'OLP sur la pelouse de la Maison Blanche",
         "Formation continue des avocats : le CNB soumet aux ordres et aux écoles un avant-projet de réforme",
         "Orages : cinq départements du Grand Est placés en vigilance jaune ce dimanche (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-09-12",
-      "slot": "midi",
-      "file": "editions/2026-09-12-midi.json",
-      "essentiel": "Déraillement d'un TER près de Rouen : la piste de l'acte malveillant désormais privilégiée",
-      "term": "Loi de police",
-      "rubriques": [
-        "Franchises médicales et participations forfaitaires : un décret du 11 septembre 2026 porte leur plafond annuel à 140 euros",
-        "Action paulienne : l'assignation en licitation interrompt aussi la prescription, tranche la Cour de cassation",
-        "Quarante ans du droit français de la concurrence devant le juge judiciaire : un colloque annoncé le 28 septembre à la Cour de cassation",
-        "12 septembre 1914 : la première bataille de la Marne s'achève sur le repli allemand",
-        "Procédure d'appel civile : la réforme de simplification est entrée en vigueur le 1er septembre",
-        "Top 14 : six affiches ce samedi, Toulon reçoit La Rochelle en clôture à Mayol (hors justice)"
-      ]
-    },
-    {
-      "date": "2026-09-12",
-      "slot": "matin",
-      "file": "editions/2026-09-12-matin.json",
-      "essentiel": "Assassinat d'Aramburu : les enregistrements des dix coups de feu glacent la cour d'assises de Paris",
-      "term": "Nullités de la période suspecte",
-      "rubriques": [
-        "Centres de vaccination : un décret du 9 septembre 2026 refond les conditions d'habilitation des établissements",
-        "Accords de non-paternité : la Cour de cassation rappelle que la filiation échappe à la volonté des adultes",
-        "Excellence académique des universités : la commission d'enquête sénatoriale rend ses conclusions",
-        "12 septembre 1213 : la bataille de Muret scelle la défaite du roi d'Aragon et le sort du Midi cathare",
-        "Grève des transports : quels droits pour le salarié non-gréviste empêché de rejoindre son poste",
-        "JO d'hiver 2030 : Edgar Grospiron quitte la présidence du comité d'organisation après des mois de crise de gouvernance (hors justice)"
       ]
     }
   ]

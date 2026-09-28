@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27",
-  "count": 31,
+  "updated": "2026-09-28",
+  "count": 32,
   "lessons": [
     {
       "n": 1,
@@ -270,6 +270,15 @@
       "terms": [
         "Télescope",
         "Pouvoir collecteur"
+      ]
+    },
+    {
+      "n": 32,
+      "file": "astro/lessons/032-les-ondes-gravitationnelles.json",
+      "title": "Les ondes gravitationnelles : un tout autre message que la lumière",
+      "terms": [
+        "Onde gravitationnelle",
+        "Interféromètre"
       ]
     }
   ]
