@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28",
-  "count": 32,
+  "updated": "2026-09-29",
+  "count": 33,
   "lessons": [
     {
       "n": 1,
@@ -279,6 +279,15 @@
       "terms": [
         "Onde gravitationnelle",
         "Interféromètre"
+      ]
+    },
+    {
+      "n": 33,
+      "file": "astro/lessons/033-y-a-t-il-de-la-vie-ailleurs.json",
+      "title": "Y a-t-il de la vie ailleurs ? Ce qu'on peut, et ne peut pas, savoir",
+      "terms": [
+        "Zone habitable",
+        "Biosignature"
       ]
     }
   ]
