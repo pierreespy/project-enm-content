@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-29",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-29",
+      "slot": "midi",
+      "file": "editions/2026-09-29-midi.json",
+      "essentiel": "Sénatoriales 2026 : la droite conserve sa majorité, le Rassemblement national constitue pour la première fois un groupe au Sénat",
+      "term": "Rescision pour lésion",
+      "rubriques": [
+        "Maladies professionnelles : deux décrets du 24 septembre 2026 précisent les modalités d'établissement du diagnostic",
+        "Michael Lonsdale : le tribunal correctionnel de Paris rend son jugement contre le couple jugé pour abus de faiblesse",
+        "La doctrine comme objet d'étude : un colloque à l'université de Picardie Jules Verne",
+        "29 septembre 1954 : la convention du CERN entre en vigueur",
+        "Heures supplémentaires : un décompte imparfait suffit à ouvrir le débat probatoire",
+        "Le pape Léon XIV à Metz pour le dernier jour de sa visite en France"
+      ]
+    },
     {
       "date": "2026-09-29",
       "slot": "matin",

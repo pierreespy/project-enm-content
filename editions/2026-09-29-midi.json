@@ -89,33 +89,5 @@
   },
   "date": "2026-09-29",
   "dateShort": "29 sept.",
-  "slot": "midi",
-  "astro": {
-    "n": 33,
-    "title": "Y a-t-il de la vie ailleurs ? Ce qu'on peut, et ne peut pas, savoir",
-    "subtitle": "La zone habitable : une condition favorable, non une preuve",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Chercher une condition, pas la vie",
-        "body": "Les exoplanètes connues se comptent par milliers, mais aucune observation ne montre de la vie. Ce que l'on peut établir, ce sont des conditions favorables. La principale est la présence d'eau liquide en surface, indispensable à la seule forme de vie que nous connaissons. On définit donc la zone habitable : la bande de distances autour d'une étoile où une planète reçoit assez de chaleur pour que l'eau puisse rester liquide, ni gelée parce que trop loin, ni évaporée parce que trop près. Sa position dépend de l'étoile : plus celle-ci est chaude et lumineuse, plus la zone s'éloigne."
-      },
-      {
-        "h": "Ce que « habitable » ne veut pas dire",
-        "body": "Se trouver dans la zone habitable n'établit pas que la planète soit habitée, ni même habitable : il faut encore une atmosphère, dont la présence ne se déduit pas de la seule distance. Notre système en donne l'exemple : Mars se situe au bord de la zone habitable, sans eau liquide en surface aujourd'hui. Pour aller plus loin, on cherche des biosignatures, c'est-à-dire des traces dans la lumière d'une planète, comme certains gaz de son atmosphère, qui pourraient être produites par des êtres vivants. Aucune n'est aujourd'hui établie, et une même trace peut souvent avoir une origine non biologique."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Zone habitable",
-        "def": "Bande de distances autour d'une étoile où une planète peut, selon la chaleur reçue, garder de l'eau liquide en surface."
-      },
-      {
-        "term": "Biosignature",
-        "def": "Trace détectable dans la lumière d'une planète qui pourrait être produite par la vie, sans en constituer la preuve à elle seule."
-      }
-    ],
-    "recap": "La zone habitable désigne une condition favorable à la vie, l'eau liquide ; elle n'est ni une preuve de vie ni même de planète habitable.",
-    "next": "Demain — la fin de la route : ce que l'astrophysique ne sait pas encore, et comment on distingue une question ouverte d'une ignorance."
-  }
+  "slot": "midi"
 }
