@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29",
-  "count": 33,
+  "updated": "2026-09-30",
+  "count": 34,
   "lessons": [
     {
       "n": 1,
@@ -288,6 +288,15 @@
       "terms": [
         "Zone habitable",
         "Biosignature"
+      ]
+    },
+    {
+      "n": 34,
+      "file": "astro/lessons/034-ce-que-lastrophysique-ne-sait-pas-encore.json",
+      "title": "Ce que l'astrophysique ne sait pas encore",
+      "terms": [
+        "Hypothèse",
+        "Question ouverte"
       ]
     }
   ]

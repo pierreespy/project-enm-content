@@ -1,0 +1,22 @@
+{
+  "n": 34,
+  "title": "Ce que l'astrophysique ne sait pas encore",
+  "subtitle": "Distinguer une question ouverte d'une simple ignorance",
+  "duration": "3 min",
+  "sections": [
+    {
+      "h": "Ne pas savoir n'est pas toujours la même chose",
+      "body": "Au terme de ce parcours, une distinction s'impose. Une ignorance, c'est ne pas avoir regardé : personne n'a encore mesuré telle chose. Une question ouverte est autre chose : on a mesuré, on a des observations solides, et elles ne s'expliquent pas avec ce que l'on sait. Les scientifiques appellent hypothèse une explication proposée, que l'on peut confronter à de nouvelles observations. Une question ouverte est donc précise : elle indique exactement où l'explication manque, et ce qui permettrait de trancher."
+    },
+    {
+      "h": "Deux exemples déjà rencontrés",
+      "body": "La matière noire en est un : les mouvements des galaxies montrent la présence d'une masse que l'on ne voit pas, mais personne ne sait de quoi elle est faite. L'énergie noire en est un autre : l'expansion de l'univers s'accélère sans que l'on sache pourquoi. Dans les deux cas, l'effet est établi, la cause ne l'est pas. Cela ne fragilise pas le reste : les lois qui décrivent les étoiles ou les orbites n'en sont pas ébranlées. Une science solide se reconnaît à la netteté de ses questions ouvertes, non à l'absence de questions."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Hypothèse", "def": "Explication proposée d'un phénomène, formulée de façon à pouvoir être confrontée à de nouvelles observations." },
+    { "term": "Question ouverte", "def": "Phénomène bien établi par l'observation dont l'explication n'est pas encore trouvée, et dont on sait dire ce qui permettrait de trancher." }
+  ],
+  "recap": "Une question ouverte n'est pas une ignorance : c'est un effet établi dont la cause reste à trouver, et dont on sait ce qui la départagerait.",
+  "next": "Demain — comment un savoir scientifique se corrige : ce qui change quand une observation contredit une théorie."
+}
