@@ -1,8 +1,23 @@
 {
   "updated": "2026-09-30",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-09-30",
+      "slot": "midi",
+      "file": "editions/2026-09-30-midi.json",
+      "essentiel": "Budget 2027 : le projet de loi de finances est présenté en Conseil des ministres et déposé à l'Assemblée nationale ce 30 septembre",
+      "term": "Le criminel tient le civil en l'état",
+      "rubriques": [
+        "Services de prévention et de santé au travail interentreprises : l'arrêté fixant le coût moyen national des services paraît au Journal officiel",
+        "Avion repeint en vert : liberté d'expression contre condamnation, le débat de l'audience d'appel avant l'arrêt attendu ce 30 septembre",
+        "La question de la représentation de l'enfant : conférence à la Cour de cassation ce 30 septembre",
+        "30 septembre 1938 : les accords de Munich, signés par la France, le Royaume-Uni, l'Allemagne et l'Italie",
+        "Assignations : la mention d'avertissement au défendeur à actualiser dès le 1er octobre 2026, sous peine de nullité",
+        "Météo : pluies et orages sur le Sud-Est, l'Hérault et le Gard placés en vigilance rouge pluie-inondation ce mercredi"
+      ]
+    },
     {
       "date": "2026-09-30",
       "slot": "matin",
