@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-01",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-01",
+      "slot": "midi",
+      "file": "editions/2026-10-01-midi.json",
+      "essentiel": "Loi intégrale contre les violences sexuelles et sexistes : l'Assemblée nationale entame l'examen du texte ce jeudi 1er octobre",
+      "term": "Acquiescement à jugement",
+      "rubriques": [
+        "Décret n° 2026-915 du 30 septembre 2026 : l'organisation des services déconcentrés de la direction générale des douanes modifiée",
+        "Préemption Pinel : la prescription de l'action en nullité court dès que le locataire connaît la vente, sans attendre la copie de l'acte",
+        "Revue de jurisprudence en matière de risque, responsabilité civile et assurance : le bilan du premier semestre 2026",
+        "1er octobre 1946 : le tribunal militaire international de Nuremberg rend son jugement",
+        "Baux d'habitation : de nouveaux modèles de contrat de location entrent en vigueur au 1er octobre 2026",
+        "Gaz : le prix repère grimpe de 6,3 % au 1er octobre, à 182,88 euros le mégawattheure"
+      ]
+    },
     {
       "date": "2026-10-01",
       "slot": "matin",
