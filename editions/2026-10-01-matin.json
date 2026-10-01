@@ -89,33 +89,5 @@
   },
   "date": "2026-10-01",
   "dateShort": "1 oct.",
-  "slot": "matin",
-  "astro": {
-    "n": 35,
-    "title": "Comment un savoir scientifique se corrige",
-    "subtitle": "Ce qui se passe quand une observation contredit une théorie",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Une théorie est un ensemble d'hypothèses qui a tenu",
-        "body": "Une théorie est une explication d'ensemble, formée d'hypothèses déjà confrontées à de nombreuses observations sans avoir été prises en défaut. Le mot ne désigne donc pas une simple opinion : c'est le nom que l'on donne à ce qui a résisté. Sa force vient de ce qu'elle prédit des observations que personne n'a encore faites. Si ces observations arrivent conformes, la théorie se renforce ; si elles divergent, quelque chose doit changer. C'est cette exposition permanente au démenti qui distingue un savoir scientifique d'une affirmation que rien ne pourrait infirmer."
-      },
-      {
-        "h": "Quand une observation résiste",
-        "body": "Une observation qui ne cadre pas avec la théorie s'appelle une anomalie. Elle n'entraîne pas l'abandon immédiat de la théorie : on vérifie d'abord l'instrument, la mesure, le calcul. Si l'anomalie persiste, deux issues sont possibles. Soit la théorie est complétée, parce qu'un élément manquait : c'est ainsi qu'une anomalie dans le mouvement d'une planète a conduit à découvrir une autre planète. Soit la théorie est elle-même corrigée, parce que son domaine de validité était plus étroit qu'on ne le croyait. Dans les deux cas, l'ancien savoir n'est pas effacé : il reste valable là où il a été vérifié."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Théorie",
-        "def": "Explication d'ensemble, formée d'hypothèses qui ont résisté à de nombreuses confrontations avec l'observation, et qui permet de prédire des observations nouvelles."
-      },
-      {
-        "term": "Anomalie",
-        "def": "Observation qui ne s'accorde pas avec ce que prévoit une théorie, et qui oblige à vérifier la mesure, puis à compléter ou corriger la théorie."
-      }
-    ],
-    "recap": "Une théorie est un savoir qui a résisté, et une anomalie persistante oblige à la compléter ou à en préciser les limites, sans effacer ce qui a été vérifié.",
-    "next": "Demain — la gravitation revue : pourquoi la règle de la leçon 8 est exacte, mais pas dans tous les cas."
-  }
+  "slot": "matin"
 }

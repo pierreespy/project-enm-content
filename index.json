@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-30",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-10-01",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-10-01",
+      "slot": "matin",
+      "file": "editions/2026-10-01-matin.json",
+      "essentiel": "Exécution provisoire : la chambre criminelle juge que ni l'emprisonnement ni l'amende ne peuvent courir malgré l'appel",
+      "term": "Promesse de porte-fort",
+      "rubriques": [
+        "Procédure civile : les dispositions du décret n° 2026-683 du 27 juillet 2026 entrent en vigueur ce 1er octobre",
+        "Essais cliniques « sauvages » dans une abbaye près de Poitiers : jugement attendu ce 1er octobre contre les professeurs Fourtillan et Joyeux",
+        "Plan communal de sauvegarde et vigilance inondation : les obligations du maire après l'alerte du 30 septembre 2026",
+        "Prix Nobel 2026 : le calendrier des six annonces s'ouvre lundi 5 octobre avec la médecine",
+        "Fermage agricole : à quelle échéance payer, à qui verser après la vente et comment prouver le règlement",
+        "Météo : un début d'octobre très doux, jusqu'à 22 °C attendus à Paris ce jeudi"
+      ]
+    },
     {
       "date": "2026-09-30",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "16 septembre : Journée internationale de la protection de la couche d'ozone",
         "Avocats : la date limite de dépôt des candidatures aux élections du Conseil national des barreaux fixée au 30 septembre",
         "Emmanuel Macron reçoit António Costa à l'Élysée avant une prise d'armes aux Invalides"
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "slot": "midi",
-      "file": "editions/2026-09-15-midi.json",
-      "essentiel": "Violences sexuelles dans le périscolaire parisien : Anne Hidalgo reconnaît un « échec collectif » devant la commission d'enquête du Sénat",
-      "term": "Réputé non écrit",
-      "rubriques": [
-        "Télésurveillance médicale : un arrêté du 14 septembre 2026 revalorise le forfait pris en charge par l'assurance maladie",
-        "Location longue durée résiliée : le juge ne peut ignorer la demande de modération de l'indemnité comme clause pénale, ni la requalifier d'office en perte de chance",
-        "Le financement de la vie politique par les recettes électorales : une thèse toulousaine plaide pour un contrôle renforcé",
-        "15 septembre : Journée internationale de la démocratie, instituée par les Nations unies en 2007",
-        "Le Conseil national des barreaux noue un partenariat avec la legaltech française Jimini AI pour former les élèves-avocats à l'intelligence artificielle",
-        "Concarneau rend un hommage populaire au navigateur Charlie Dalin, mort en juin d'un cancer à 42 ans"
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "slot": "matin",
-      "file": "editions/2026-09-15-matin.json",
-      "essentiel": "Enlèvement de la petite Mia et « projet Azur » : le procès de Rémy Daillet et quatorze coprévenus s'ouvre ce mardi à Paris",
-      "term": "Fongibilité asymétrique",
-      "rubriques": [
-        "Un décret du 12 septembre 2026 crée la Coordination nationale pour la sécurité des grands événements, en vue des JO d'hiver 2030",
-        "Concurrence déloyale : la seule détention de fichiers confidentiels sur l'ordinateur fourni par le nouvel employeur suffit à engager sa responsabilité",
-        "Une thèse soutenue à Paris-Panthéon-Assas renouvelle la théorie générale de l'indemnisation dans les contrats administratifs",
-        "15 septembre 1865 : naissance à Grenoble d'Henri Capitant, dont le nom reste attaché aux « Grands arrêts » et au « Vocabulaire juridique »",
-        "Injonction de payer : les ordonnances rendues depuis le 1er septembre 2026 basculent vers la signification par voie électronique",
-        "« Septembre bouge » : le gouvernement lance tout le mois une campagne pour remettre l'activité physique au cœur du quotidien des Français"
       ]
     }
   ]

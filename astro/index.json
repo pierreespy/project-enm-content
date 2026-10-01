@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30",
-  "count": 34,
+  "updated": "2026-10-01",
+  "count": 35,
   "lessons": [
     {
       "n": 1,
@@ -297,6 +297,15 @@
       "terms": [
         "Hypothèse",
         "Question ouverte"
+      ]
+    },
+    {
+      "n": 35,
+      "file": "astro/lessons/035-comment-un-savoir-se-corrige.json",
+      "title": "Comment un savoir scientifique se corrige",
+      "terms": [
+        "Théorie",
+        "Anomalie"
       ]
     }
   ]
