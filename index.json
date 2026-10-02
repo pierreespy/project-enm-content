@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-01",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-10-02",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-10-02",
+      "slot": "matin",
+      "file": "editions/2026-10-02-matin.json",
+      "essentiel": "Essais cliniques « sauvages » dans une abbaye près de Poitiers : le professeur Fourtillan condamné à quatre ans de prison ferme",
+      "term": "Retrait litigieux",
+      "rubriques": [
+        "Obsèques : la notice d'information standardisée devient obligatoire chez tous les opérateurs funéraires",
+        "Protection temporaire et asile : la CJUE interdit la suspension automatique de l'examen des demandes (arrêt Jilin)",
+        "Elixir Aircraft d'occasion après le crash de Rochefort : navigabilité, assurance et recours du propriétaire",
+        "2 octobre 1967 : Thurgood Marshall prête serment comme premier juge afro-américain de la Cour suprême des États-Unis",
+        "Avis de vérification de comptabilité reçu : répondre, délais, contester et obtenir le sursis de paiement",
+        "Météo : une journée calme et assez ensoleillée, de 20 à 24 °C sur la moitié nord et de 23 à 28 °C dans le Sud"
+      ]
+    },
     {
       "date": "2026-10-01",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "17 septembre 1793 : la Convention vote la loi des suspects, qui ouvre la Terreur",
         "Logiciel Scribe : la Cour des comptes sanctionne six hauts fonctionnaires pour un fiasco à 257 millions d'euros",
         "Bussy-Saint-Georges accueille le plus grand temple hindou traditionnel d'Europe"
-      ]
-    },
-    {
-      "date": "2026-09-16",
-      "slot": "midi",
-      "file": "editions/2026-09-16-midi.json",
-      "essentiel": "Périgueux : le procès en appel de Richard Sada, professeur de yoga condamné à 14 ans de réclusion pour viols sur quatre anciennes élèves, s'ouvre ce mercredi",
-      "term": "Forclusion",
-      "rubriques": [
-        "Réorganisation de l'administration centrale du ministère de l'intérieur et du ministère des outre-mer : un décret du 12 septembre 2026 modifie le texte fondateur de 2013",
-        "Bail commercial conclu sur le domaine public : la nullité est absolue, mais le délai pour l'invoquer ne court que du jour où l'illicéité est découverte",
-        "Démocratie sanitaire et gouvernance territoriale de la santé : une thèse angevine de droit comparé soutenue ce mardi",
-        "16 septembre 1620 (calendrier julien) : le Mayflower quitte Plymouth pour le Nouveau Monde",
-        "ERP piraté chez un prestataire mutualisé : ce que doivent décider l'éditeur, les entreprises clientes et leurs partenaires",
-        "Discours sur l'état de l'Union : Ursula von der Leyen propose d'interdire les réseaux sociaux aux moins de 13 ans et un Conseil de sécurité européen"
-      ]
-    },
-    {
-      "date": "2026-09-16",
-      "slot": "matin",
-      "file": "editions/2026-09-16-matin.json",
-      "essentiel": "Procès Dati-Ghosn : le tribunal correctionnel de Paris s'ouvre sur la demande de renvoi de Carlos Ghosn, absent et réfugié au Liban",
-      "term": "Coemploi",
-      "rubriques": [
-        "Procédure civile simplifiée : le décret sur l'admission rapide des demandes incontestées entre en vigueur dans deux semaines",
-        "Faute inexcusable de l'employeur : le juge n'est plus lié par la date de consolidation ni le taux d'incapacité retenus par la CPAM",
-        "L'accès à l'eau potable comme garantie entre service public et droit fondamental : une thèse soutenue à Assas",
-        "16 septembre : Journée internationale de la protection de la couche d'ozone",
-        "Avocats : la date limite de dépôt des candidatures aux élections du Conseil national des barreaux fixée au 30 septembre",
-        "Emmanuel Macron reçoit António Costa à l'Élysée avant une prise d'armes aux Invalides"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01",
-  "count": 35,
+  "updated": "2026-10-02",
+  "count": 36,
   "lessons": [
     {
       "n": 1,
@@ -306,6 +306,15 @@
       "terms": [
         "Théorie",
         "Anomalie"
+      ]
+    },
+    {
+      "n": 36,
+      "file": "astro/lessons/036-mercure-et-la-relativite-generale.json",
+      "title": "Mercure et la limite de la règle de Newton",
+      "terms": [
+        "Périhélie",
+        "Relativité générale"
       ]
     }
   ]
