@@ -89,33 +89,5 @@
   },
   "date": "2026-10-02",
   "dateShort": "2 oct.",
-  "slot": "midi",
-  "astro": {
-    "n": 36,
-    "title": "Mercure et la limite de la règle de Newton",
-    "subtitle": "Pourquoi la gravitation de la leçon 8 est exacte presque partout, mais pas partout",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Une orbite qui ne se referme pas tout à fait",
-        "body": "La règle de la gravitation vue en leçon 8 prédit très bien les orbites. Pour Mercure, la planète la plus proche du Soleil, elle laissait pourtant un écart. Le périhélie, point de l'orbite le plus proche du Soleil, se déplace lentement à chaque tour, de sorte que l'orbite ne se referme jamais exactement. Cet écart est minuscule : environ 43 secondes d'arc par siècle. Mais, mesuré depuis le XIXe siècle, il persistait : c'était une anomalie, au sens de la leçon précédente."
-      },
-      {
-        "h": "Compléter ou corriger",
-        "body": "Les astronomes ont d'abord tenté de compléter la théorie, en supposant l'existence d'une planète encore inconnue plus proche du Soleil. Elle n'a jamais été trouvée. En 1915, Einstein a corrigé la théorie elle-même : la relativité générale décrit la gravitation non plus comme une force à distance, mais comme une déformation de l'espace et du temps par la masse. Appliquée à Mercure, elle retrouve exactement les 43 secondes d'arc manquantes. Pour les planètes plus éloignées et la plupart des usages courants, les deux théories donnent des résultats indiscernables : la règle de Newton reste valable là où elle a été vérifiée."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Périhélie",
-        "def": "Point de l'orbite d'un astre où il est le plus proche du Soleil."
-      },
-      {
-        "term": "Relativité générale",
-        "def": "Théorie d'Einstein (1915) qui décrit la gravitation comme une déformation de l'espace et du temps par la masse, et qui précise la règle de Newton là où celle-ci est insuffisante."
-      }
-    ],
-    "recap": "La règle de Newton laissait un petit écart sur l'orbite de Mercure ; la relativité générale l'explique, sans invalider la règle là où elle fonctionne.",
-    "next": "Demain — l'espace-temps : ce que veut dire « déformer l'espace »."
-  }
+  "slot": "midi"
 }

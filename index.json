@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-02",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-02",
+      "slot": "midi",
+      "file": "editions/2026-10-02-midi.json",
+      "essentiel": "Composition du tribunal pour enfants : le Conseil constitutionnel rend sa décision sur la QPC n° 2026-1223",
+      "term": "Réserve d'interprétation neutralisante",
+      "rubriques": [
+        "Haut Conseil de la famille, de l'enfance et de l'âge : le Conseil constitutionnel déclasse en partie l'article L. 142-1 du code de l'action sociale et des familles",
+        "Témoin entendu sans serment aux assises : valeur de sa déclaration et moyens de la contester après la QPC du 1er octobre 2026",
+        "Posté, protégé : du post à l'œuvre — analyse de l'arrêt CJUE du 3 septembre 2026, C-598/24",
+        "2 octobre : naissance de Gandhi et Journée internationale de la non-violence",
+        "Compte inactif et Livret A d'un parent décédé : comment récupérer l'épargne avant le transfert à la Caisse des dépôts",
+        "Météo : retour d'un temps calme et largement ensoleillé ce vendredi, environ 22 °C à Paris"
+      ]
+    },
     {
       "date": "2026-10-02",
       "slot": "matin",
