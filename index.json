@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-03",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-03",
+      "slot": "midi",
+      "file": "editions/2026-10-03-midi.json",
+      "essentiel": "Bébé secoué de Calenzana : quinze ans de prison pour le père, cinq ans pour la mère",
+      "term": "Commission par omission",
+      "rubriques": [
+        "Démarchage à domicile : acompte interdit pendant sept jours et rétractation de quatorze jours, ce que prévoit le code de la consommation",
+        "Incendie de Saint-Laurent-de-la-Salanque : trois accusés devant la cour d'assises des Pyrénées-Orientales pour incendie volontaire ayant entraîné la mort",
+        "Procès de l'incendie de Saint-Laurent-de-la-Salanque : qualifications criminelles, complicité et droits des victimes",
+        "3 octobre 1967 : William Knight porte le X-15 à Mach 6,7, record de vitesse pour un avion piloté",
+        "Permis de construire attaqué par un voisin : annulation partielle, sursis à statuer et régularisation pour sauver le projet",
+        "Week-end des 3 et 4 octobre : faut-il rallumer le chauffage ? Le calcul simple pour décider"
+      ]
+    },
     {
       "date": "2026-10-03",
       "slot": "matin",

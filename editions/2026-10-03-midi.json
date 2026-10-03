@@ -89,33 +89,5 @@
   },
   "date": "2026-10-03",
   "dateShort": "3 oct.",
-  "slot": "midi",
-  "astro": {
-    "n": 37,
-    "title": "L'espace-temps : ce que veut dire « déformer l'espace »",
-    "subtitle": "Pourquoi la relativité générale ne parle plus d'espace et de temps séparés",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Un seul cadre pour l'espace et le temps",
-        "body": "Pour situer un événement, il faut quatre informations : trois pour le lieu (largeur, longueur, hauteur) et une pour le moment. La relativité générale, vue à la leçon précédente, réunit ces quatre données dans un cadre unique, l'espace-temps : l'ensemble de tous les lieux et de tous les instants possibles. Ce n'est pas un décor ajouté à l'univers, mais ce dans quoi tout événement a lieu. Dans cette théorie, l'espace et le temps ne sont plus des données fixes et indépendantes : ils forment un tout que la matière peut modifier."
-      },
-      {
-        "h": "Ce que « déformer » veut dire",
-        "body": "Dire que la masse déforme l'espace-temps ne désigne pas une matière élastique qui se plierait. C'est une façon de dire que les distances et les durées mesurées près d'une grande masse ne suivent plus tout à fait les règles de la géométrie ordinaire. Et les objets libres, sans force qui les pousse, suivent les trajets les plus directs de cet espace-temps modifié. Vus de loin, ces trajets ressemblent à des orbites : c'est ce que la règle de Newton décrivait comme une force. Près du Soleil, l'écart entre les deux descriptions est faible, mais il explique les 43 secondes d'arc de Mercure."
-      },
-      {
-        "h": "Un effet que l'on mesure",
-        "body": "Cette déformation touche aussi le temps. Une horloge placée plus près d'une masse avance un peu plus lentement qu'une horloge plus éloignée. L'écart est infime sur Terre, mais mesurable : les horloges des satellites de localisation, situés plus haut, avancent légèrement plus vite que celles du sol, et leur système doit en tenir compte pour rester précis."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Espace-temps",
-        "def": "Cadre unique qui réunit les trois dimensions d'espace et le temps, et que la masse modifie selon la relativité générale."
-      }
-    ],
-    "recap": "Pour la relativité générale, la masse modifie le cadre commun de l'espace et du temps, et les astres suivent les trajets les plus directs de ce cadre modifié.",
-    "next": "Demain — comment la lumière elle-même se courbe près d'une grande masse."
-  }
+  "slot": "midi"
 }
