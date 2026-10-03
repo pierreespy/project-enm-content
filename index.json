@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-02",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-10-03",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-10-03",
+      "slot": "matin",
+      "file": "editions/2026-10-03-matin.json",
+      "essentiel": "PSE d'Auchan : le Conseil d'État valide le plan de 2 400 suppressions de postes et censure les juges du fond",
+      "term": "Appel-nullité",
+      "rubriques": [
+        "Décret n° 2026-918 du 1er octobre 2026 : les dispositions applicables aux mineurs pour la généralisation du travail d'intérêt général dans les entreprises de l'ESS",
+        "Plan de sauvegarde de l'emploi et groupe : le Conseil d'État définit le périmètre du secteur d'activité à examiner pour apprécier le motif économique",
+        "PSE Auchan invalidé en appel : consultation du CSE et accord majoritaire, les enseignements de l'arrêt de Douai",
+        "3 octobre 1990 : la réunification allemande, devenue Jour de l'Unité allemande",
+        "Condamnation annulée par la Cour de révision et de réexamen : effacer le casier, les fichiers de police et obtenir réparation",
+        "Météo : anticyclone et soleil sur la moitié nord, vigilance jaune orages dans les Bouches-du-Rhône ce samedi"
+      ]
+    },
     {
       "date": "2026-10-02",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "18 septembre 1981 : l'Assemblée nationale vote l'abolition de la peine de mort",
         "Procédure PARDI : le Conseil national des barreaux mandate son président pour engager un recours contentieux contre le décret du 27 juillet 2026",
         "Sécheresse des sols : la France atteint son niveau le plus bas jamais mesuré"
-      ]
-    },
-    {
-      "date": "2026-09-17",
-      "slot": "midi",
-      "file": "editions/2026-09-17-midi.json",
-      "essentiel": "Apologie du terrorisme : le tribunal correctionnel de Paris rend ce jeudi son jugement contre Dieudonné M'Bala M'Bala",
-      "term": "Écran législatif",
-      "rubriques": [
-        "Expulsion locative : un arrêté du 9 septembre 2026 actualise le formulaire unique de diagnostic social et financier",
-        "Harcèlement sexuel « d'ambiance » : la chambre sociale ouvre droit à indemnisation même sans ciblage personnel",
-        "La Cour des comptes épingle les dispositifs de démocratie participative, dispersés et sous-évalués",
-        "17 septembre 1807 : Napoléon Ier crée la Cour des comptes",
-        "Arrêts de travail plafonnés à 31 puis 62 jours depuis le 1er septembre : les voies de recours en cas de refus d'indemnités",
-        "17 septembre : Journée mondiale de la sécurité des patients, consacrée cette année aux maladies non transmissibles"
-      ]
-    },
-    {
-      "date": "2026-09-17",
-      "slot": "matin",
-      "file": "editions/2026-09-17-matin.json",
-      "essentiel": "Rejugé six ans après une première condamnation : le procès en appel de Saad Lamjarred pour viol s'ouvre à Créteil",
-      "term": "Fraus omnia corrumpit",
-      "rubriques": [
-        "Modes amiables de résolution des différends : le décret du 27 juillet 2026 assouplit le calendrier de la médiation avant son entrée en vigueur le 1er octobre",
-        "Redressement Urssaf : une méthode de calcul irrégulière emporte la nullité totale, même dans la limite des bases réelles",
-        "Maisons des femmes, mouvements transnationaux : une thèse angevine retrace l'histoire des « adresses féministes » (1969-1995)",
-        "17 septembre 1793 : la Convention vote la loi des suspects, qui ouvre la Terreur",
-        "Logiciel Scribe : la Cour des comptes sanctionne six hauts fonctionnaires pour un fiasco à 257 millions d'euros",
-        "Bussy-Saint-Georges accueille le plus grand temple hindou traditionnel d'Europe"
       ]
     }
   ]
