@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-04",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-04",
+      "slot": "midi",
+      "file": "editions/2026-10-04-midi.json",
+      "essentiel": "Émeutes de 2024 en Nouvelle-Calédonie : l'État condamné à indemniser deux armureries sans avoir commis de faute",
+      "term": "Charge spéciale et anormale",
+      "rubriques": [
+        "Code de la sécurité intérieure : le cadre de la responsabilité de l'État en cas de dommages causés par des attroupements",
+        "Maintien de l'ordre pendant les émeutes de mai-juin 2024 : le tribunal administratif de Nouvelle-Calédonie précise les responsabilités de l'État",
+        "Rupture brutale et groupe de sociétés : commentaire critique d'un arrêt de la cour d'appel de Paris",
+        "4 octobre 1958 : la Constitution de la Ve République est promulguée",
+        "Acquéreur évincé par une préemption : annuler la décision de la mairie et récupérer le bien",
+        "Papeete se mobilise pour sauver le ʻao, héron endémique menacé d'extinction"
+      ]
+    },
     {
       "date": "2026-10-04",
       "slot": "matin",
