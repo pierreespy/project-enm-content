@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03",
-  "count": 37,
+  "updated": "2026-10-04",
+  "count": 38,
   "lessons": [
     {
       "n": 1,
@@ -323,6 +323,15 @@
       "title": "L'espace-temps : ce que veut dire « déformer l'espace »",
       "terms": [
         "Espace-temps"
+      ]
+    },
+    {
+      "n": 38,
+      "file": "astro/lessons/038-la-lumiere-se-courbe.json",
+      "title": "La lumière se courbe près d'une grande masse",
+      "terms": [
+        "Déviation de la lumière",
+        "Lentille gravitationnelle"
       ]
     }
   ]

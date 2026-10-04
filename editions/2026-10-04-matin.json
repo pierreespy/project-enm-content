@@ -89,37 +89,5 @@
   },
   "date": "2026-10-04",
   "dateShort": "4 oct.",
-  "slot": "matin",
-  "astro": {
-    "n": 38,
-    "title": "La lumière se courbe près d'une grande masse",
-    "subtitle": "Une conséquence de l'espace-temps que l'on a pu vérifier",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Même la lumière suit le trajet le plus direct",
-        "body": "La leçon précédente a posé que les objets libres suivent les trajets les plus directs de l'espace-temps modifié par une masse. La lumière n'y échappe pas. Près d'un astre massif, un rayon lumineux ne suit donc plus tout à fait une ligne droite : sa trajectoire est légèrement infléchie. On parle de déviation de la lumière. L'effet est minuscule pour une étoile comme le Soleil, mais il est prévu avec précision par la relativité générale, ce qui permet de le mettre à l'épreuve."
-      },
-      {
-        "h": "Une vérification en 1919",
-        "body": "En mai 1919, lors d'une éclipse totale de Soleil, des astronomes ont photographié des étoiles situées derrière le bord du Soleil, rendues visibles parce que la Lune masquait sa lumière. Ils ont constaté que ces étoiles paraissaient très légèrement déplacées par rapport à leur position habituelle dans le ciel, dans le sens prévu par la théorie. Cette mesure a contribué à faire adopter la relativité générale. Elle illustre une méthode : une théorie vaut par les prédictions qu'elle permet de contredire."
-      },
-      {
-        "h": "Des mirages gravitationnels",
-        "body": "Si la masse est bien plus grande, comme celle d'un amas de galaxies, la lumière d'un astre lointain peut être déviée au point de former plusieurs images du même objet ou des arcs lumineux. On appelle lentille gravitationnelle une masse qui dévie ainsi la lumière d'un astre situé derrière elle. Les astronomes s'en servent pour observer des objets trop lointains pour être vus autrement."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Déviation de la lumière",
-        "def": "Légère courbure de la trajectoire d'un rayon lumineux passant près d'une grande masse."
-      },
-      {
-        "term": "Lentille gravitationnelle",
-        "def": "Masse qui dévie la lumière d'un astre situé derrière elle, pouvant en former plusieurs images ou des arcs."
-      }
-    ],
-    "recap": "Près d'une grande masse, la lumière est infléchie ; mesurée en 1919, cette déviation a confirmé la relativité générale et sert aujourd'hui d'instrument d'observation.",
-    "next": "Demain — retour sur ce que le cours a posé : ce que la relativité générale change à notre image de l'univers."
-  }
+  "slot": "matin"
 }

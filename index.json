@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-03",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-10-04",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-10-04",
+      "slot": "matin",
+      "file": "editions/2026-10-04-matin.json",
+      "essentiel": "Inondations dans le Narbonnais : la garantie catastrophes naturelles ne joue qu'après un arrêté interministériel, et les délais courent déjà",
+      "term": "Quae temporalia ad agendum, perpetua ad excipiendum",
+      "rubriques": [
+        "JORF n° 0231 du 3 octobre 2026 : arrêtés relatifs aux concours et postes d'examen 2027 et décision de délégation de signature",
+        "GPA réalisée à l'étranger : l'Assemblée plénière fait de l'exequatur la voie d'accueil du jugement étranger de filiation",
+        "Exequatur des décisions étrangères établissant la filiation d'enfants nés par GPA : l'assemblée plénière « persiste sans convaincre »",
+        "4 octobre 1957 : l'URSS lance Spoutnik 1, premier satellite artificiel, et ouvre l'ère spatiale",
+        "Inondation : déclarer le sinistre, contester un assureur qui refuse ou paie trop peu",
+        "Mobilisation lycéenne : 400 lycées fermés et plus de 2 000 interpellations, les organisations appellent à poursuivre"
+      ]
+    },
     {
       "date": "2026-10-03",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "19 septembre 1356 : à la bataille de Poitiers, le roi Jean II le Bon est capturé par le Prince Noir",
         "Journées européennes du patrimoine : pour la première fois, le tribunal judiciaire de Paris ouvre ses portes au public les 19 et 20 septembre",
         "La Techno Parade défile samedi dans Paris pour son retour après deux ans d'absence"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "slot": "midi",
-      "file": "editions/2026-09-18-midi.json",
-      "essentiel": "Drancy : une mère et son bébé de deux mois tués à l'arme blanche, le compagnon en garde à vue mais « aucune piste n'est écartée »",
-      "term": "Nemo auditur propriam turpitudinem allegans",
-      "rubriques": [
-        "Aides de la politique agricole commune : un décret du 14 septembre 2026 actualise les règles du plan stratégique national",
-        "Décharges sauvages de Nestlé Waters dans les Vosges : la cour d'appel de Nancy annule les nullités prononcées en mars, le procès repart de zéro",
-        "« L'affaire Dreyfus, une affaire d'honneur » : la Cour de cassation referme ce vendredi son cycle « Justice et Honneur »",
-        "18 septembre 1180 : la mort de Louis VII ouvre la voie à l'avènement de Philippe II Auguste, roi à quinze ans",
-        "Concours de la magistrature : les 522 candidats admissibles passent leurs oraux d'admission depuis le 7 septembre",
-        "Orages : quatre départements du Sud-Est placés en vigilance jaune ce vendredi"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "slot": "matin",
-      "file": "editions/2026-09-18-matin.json",
-      "essentiel": "Droits voisins de la presse : devant la cour d'appel de Paris, Bercy et le parquet général soutiennent l'Autorité de la concurrence face à Meta",
-      "term": "Cristallisation des moyens",
-      "rubriques": [
-        "Procédure d'admission rapide des demandes incontestées : le décret du 27 juillet 2026 entre en vigueur le 1er octobre",
-        "TICPE et admission temporaire douanière : la Cour de cassation censure un redressement fondé sur un simple soupçon de détournement",
-        "Le secret dans la jurisprudence pontificale de la Rome archaïque : une thèse soutenue ce vendredi à Assas",
-        "18 septembre 1981 : l'Assemblée nationale vote l'abolition de la peine de mort",
-        "Procédure PARDI : le Conseil national des barreaux mandate son président pour engager un recours contentieux contre le décret du 27 juillet 2026",
-        "Sécheresse des sols : la France atteint son niveau le plus bas jamais mesuré"
       ]
     }
   ]
