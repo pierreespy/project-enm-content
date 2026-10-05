@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-05",
-  "updatedSlot": "matin",
-  "count": 29,
+  "updatedSlot": "midi",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-05",
+      "slot": "midi",
+      "file": "editions/2026-10-05-midi.json",
+      "essentiel": "Château de la Buzine : Benoît Payan et cinq de ses adjoints devant la 17e chambre à Paris pour diffamation et injures envers le petit-fils de Marcel Pagnol",
+      "term": "Offre de preuve",
+      "rubriques": [
+        "Décret n° 2026-683 du 27 juillet 2026 (« Magicobus III ») : la simplification de la procédure civile entrée en vigueur le 1er octobre",
+        "Erreur matérielle affectant un arrêt rendu en formation collégiale : seule une juridiction collégiale peut la rectifier",
+        "Le décret « Magicobus III » : commentaire des mesures de simplification de la procédure civile",
+        "La Nuit du droit 2026 : le Conseil d'État, la cour administrative d'appel, le tribunal administratif et le barreau de Paris ouvrent leurs portes ce 5 octobre",
+        "Notification des mémoires devant le juge des loyers commerciaux : fin de la LRAR après la saisine",
+        "Journée mondiale des enseignants : l'UNESCO plaide pour mieux protéger et valoriser la profession"
+      ]
+    },
     {
       "date": "2026-10-05",
       "slot": "matin",
