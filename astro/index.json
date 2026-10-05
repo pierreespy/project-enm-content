@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04",
-  "count": 38,
+  "updated": "2026-10-05",
+  "count": 39,
   "lessons": [
     {
       "n": 1,
@@ -332,6 +332,14 @@
       "terms": [
         "Déviation de la lumière",
         "Lentille gravitationnelle"
+      ]
+    },
+    {
+      "n": 39,
+      "file": "astro/lessons/039-le-temps-ralentit-pres-d-une-masse.json",
+      "title": "Près d'une grande masse, le temps s'écoule plus lentement",
+      "terms": [
+        "Dilatation gravitationnelle du temps"
       ]
     }
   ]

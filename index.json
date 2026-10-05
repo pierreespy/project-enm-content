@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-04",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-10-05",
+  "updatedSlot": "matin",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-10-05",
+      "slot": "matin",
+      "file": "editions/2026-10-05-matin.json",
+      "essentiel": "Saint-Martin : Louis Mussington, président de la collectivité, jugé à Marigot pour prise illégale d'intérêts dès ce lundi",
+      "term": "Intérêt quelconque",
+      "rubriques": [
+        "Décisions de déclassement du 1er octobre 2026 : le Conseil constitutionnel statue sur la nature de dispositions des codes de la consommation, de l'action sociale et de la défense",
+        "Témoin entendu sans serment aux assises : le Conseil constitutionnel valide l'article 310 du Code de procédure pénale",
+        "Analyses de jurisprudence du Conseil d'État du 16 juillet au 31 août 2026",
+        "5 octobre 1789 : la marche des femmes sur Versailles et le retour de la famille royale à Paris",
+        "Salaire d'octobre non versé ou versé en retard : mise en demeure, référé prud'homal et garantie AGS",
+        "Ligue des nations : la France reçoit la Belgique au Stade de France"
+      ]
+    },
     {
       "date": "2026-10-04",
       "slot": "midi",
@@ -421,36 +436,6 @@
         "21 septembre 1792 : au lendemain de Valmy, la Convention nationale abolit la royauté",
         "Le 122e Congrès des notaires de France se tient à Lille du 30 septembre au 2 octobre sur le thème « Le notaire et l'impôt »",
         "MMA : Ciryl Gane devient le premier Français de l'histoire sacré champion incontesté par l'UFC"
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "slot": "midi",
-      "file": "editions/2026-09-19-midi.json",
-      "essentiel": "Violences conjugales : la cour d'appel de Paris alourdit la peine de Stéphane Plaza à 18 mois de prison avec sursis",
-      "term": "Ultra petita",
-      "rubriques": [
-        "Un décret du 18 septembre 2026 supprime le Centre d'études prospectives et d'informations internationales, né en 1978",
-        "Franchise et sauvegarde : la chambre commerciale valide la résiliation d'un contrat Carrefour au profit d'une enseigne concurrente",
-        "Budget 2027 : la Cour des comptes recommande de retarder à deux ans le remboursement de TVA aux collectivités",
-        "19 septembre 1893 : la Nouvelle-Zélande devient le premier pays au monde à accorder le droit de vote aux femmes",
-        "Journées européennes du patrimoine : le barreau de Bordeaux ouvre sa Maison des avocats et son forum des métiers de la justice",
-        "Orages : la Corse-du-Sud et la Haute-Corse placées en vigilance jaune ce samedi"
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "slot": "matin",
-      "file": "editions/2026-09-19-matin.json",
-      "essentiel": "Concarneau : le maire Quentin Le Gaillard mis en examen pour viol et agression sexuelle, placé sous contrôle judiciaire strict",
-      "term": "Stellionat",
-      "rubriques": [
-        "Résistance au feu des bâtiments : les nouvelles règles d'évaluation s'appliquent aux permis déposés à compter du 1er octobre 2026",
-        "Discipline des commissaires de justice : l'annulation d'un rapport d'enquête partial n'entraîne pas la nullité des poursuites",
-        "Comment le droit pénal saisit la pluralité des violences : l'université de Strasbourg annonce son colloque des 8 et 9 octobre 2026",
-        "19 septembre 1356 : à la bataille de Poitiers, le roi Jean II le Bon est capturé par le Prince Noir",
-        "Journées européennes du patrimoine : pour la première fois, le tribunal judiciaire de Paris ouvre ses portes au public les 19 et 20 septembre",
-        "La Techno Parade défile samedi dans Paris pour son retour après deux ans d'absence"
       ]
     }
   ]

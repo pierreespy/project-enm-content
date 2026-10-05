@@ -89,33 +89,5 @@
   },
   "date": "2026-10-05",
   "dateShort": "5 oct.",
-  "slot": "matin",
-  "astro": {
-    "n": 39,
-    "title": "Près d'une grande masse, le temps s'écoule plus lentement",
-    "subtitle": "L'autre moitié de l'espace-temps : la gravité agit aussi sur les horloges",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Le temps fait partie de la déformation",
-        "body": "Les leçons précédentes ont posé qu'une masse modifie l'espace-temps, c'est-à-dire l'ensemble formé par les trois dimensions de l'espace et par le temps. Cette modification ne touche pas seulement les distances : elle touche aussi la durée. Selon la relativité générale, une horloge placée près d'une grande masse bat un peu plus lentement qu'une horloge identique située plus loin. On parle de dilatation gravitationnelle du temps. Aucune des deux horloges n'est défectueuse : c'est l'écoulement du temps lui-même qui diffère."
-      },
-      {
-        "h": "Un effet minuscule, mais mesuré",
-        "body": "Sur Terre, l'écart est infime : une horloge au sol retarde de quelques millionièmes de seconde sur plusieurs années par rapport à une horloge en altitude. Il est pourtant mesuré avec des horloges atomiques, dont la précision est suffisante pour détecter une différence de hauteur de quelques dizaines de centimètres. Les satellites de positionnement par satellite (GPS) en tiennent compte : leurs horloges, plus éloignées de la Terre, avancent légèrement plus vite que celles du sol. Sans correction, l'erreur de position s'accumulerait de plusieurs kilomètres par jour."
-      },
-      {
-        "h": "Ce que cela confirme",
-        "body": "Cette prédiction a été vérifiée bien après celle de la déviation de la lumière, par des instruments sans rapport avec l'astronomie. Elle suit la même logique : une théorie qui annonce un effet inattendu, puis le met à l'épreuve. Plus la masse est grande et concentrée, plus l'effet s'accentue ; nous y reviendrons à propos des objets les plus compacts."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Dilatation gravitationnelle du temps",
-        "def": "Ralentissement de l'écoulement du temps à proximité d'une grande masse, comparé à un endroit plus éloigné."
-      }
-    ],
-    "recap": "Une masse déforme le temps comme elle déforme l'espace : une horloge proche d'elle bat plus lentement, effet minime sur Terre mais mesuré et corrigé dans le GPS.",
-    "next": "Demain — ce que la relativité générale change à notre image de l'univers pris dans son ensemble."
-  }
+  "slot": "matin"
 }
