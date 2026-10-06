@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-06",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-06",
+      "slot": "midi",
+      "file": "editions/2026-10-06-midi.json",
+      "essentiel": "Nullités en procédure pénale : à compter du 23 octobre, le délai pour les soulever passe de six à quatre mois",
+      "term": "Contra non valentem agere non currit praescriptio",
+      "rubriques": [
+        "Loi n° 2026-651 du 23 juillet 2026 sur la justice criminelle et le respect des victimes : un texte à entrées en vigueur échelonnées",
+        "Ourse Caramelles : l'affaire de la chasse en Ariège rejugée en appel à Toulouse",
+        "Le respect « à moindres frais » des victimes dans la loi du 23 juillet 2026 sur la justice criminelle",
+        "6 octobre 1927 : « Le Chanteur de jazz » sort à New York, premier long métrage parlant d'Hollywood",
+        "Grève du 6 octobre 2026 : retenue sur salaire et protection du gréviste, ce que dit le droit",
+        "Prix Nobel de physique 2026 : l'annonce du lauréat à Stockholm ce mardi"
+      ]
+    },
     {
       "date": "2026-10-06",
       "slot": "matin",
