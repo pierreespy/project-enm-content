@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-05",
-  "updatedSlot": "midi",
-  "count": 30,
+  "updated": "2026-10-06",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-06",
+      "slot": "matin",
+      "file": "editions/2026-10-06-matin.json",
+      "essentiel": "Accident ferroviaire de Denguin : la SNCF jugée à Pau douze ans après la collision entre un TER et un TGV",
+      "term": "Faute caractérisée",
+      "rubriques": [
+        "Décret n° 2026-924 du 2 octobre 2026 : le statut de collaborateur occasionnel du service public pour les médecins assurant la régulation de l'accès aux soins ambulatoires",
+        "Ordonnance de clôture et sursis à statuer : un sursis qui ne lève pas expressément la clôture laisse subsister l'irrecevabilité des conclusions",
+        "Perquisitions pénales sans recours et correspondance avocat-client : lecture critique des décisions QPC du Conseil constitutionnel",
+        "6 octobre 1973 : l'Égypte et la Syrie attaquent Israël le jour de Yom Kippour, début de la guerre du Kippour",
+        "Victime d'un accident de train : blessures involontaires, procès pénal et indemnisation",
+        "Prix Nobel de médecine 2026 : Karl Deisseroth, Peter Hegemann et Georg Nagel récompensés pour l'optogénétique"
+      ]
+    },
     {
       "date": "2026-10-05",
       "slot": "midi",

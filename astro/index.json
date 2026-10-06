@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05",
-  "count": 39,
+  "updated": "2026-10-06",
+  "count": 40,
   "lessons": [
     {
       "n": 1,
@@ -340,6 +340,14 @@
       "title": "Près d'une grande masse, le temps s'écoule plus lentement",
       "terms": [
         "Dilatation gravitationnelle du temps"
+      ]
+    },
+    {
+      "n": 40,
+      "file": "astro/lessons/040-un-univers-qui-evolue.json",
+      "title": "La relativité générale appliquée à l'univers entier",
+      "terms": [
+        "Principe cosmologique"
       ]
     }
   ]

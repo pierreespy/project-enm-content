@@ -1,0 +1,28 @@
+{
+  "n": 40,
+  "title": "La relativité générale appliquée à l'univers entier",
+  "subtitle": "Pourquoi la théorie de la gravité prédit un univers qui ne reste pas figé",
+  "duration": "3 min",
+  "sections": [
+    {
+      "h": "Appliquer la théorie au tout",
+      "body": "La relativité générale (jour 36) décrit comment la matière déforme l'espace-temps (jour 37). Rien n'empêche de l'appliquer à l'ensemble de l'univers, à condition de simplifier : on suppose qu'à très grande échelle, la matière est répartie à peu près uniformément et de la même façon dans toutes les directions. Cette hypothèse de départ s'appelle le principe cosmologique. Elle permet de ne plus suivre chaque étoile, mais l'univers pris comme un seul objet."
+    },
+    {
+      "h": "Un résultat qui dérange",
+      "body": "Les calculs montrent qu'un univers rempli de matière ne peut pas rester immobile : la gravitation (jour 8) tend à le faire se contracter, sauf si l'espace lui-même s'étend. Einstein, qui croyait à un univers stable, a d'abord modifié ses équations pour obtenir un univers figé. Dans les années 1920, d'autres théoriciens ont pris les équations au sérieux et montré que l'espace pouvait s'étendre ou se contracter selon son contenu. La théorie annonçait donc un univers dont la taille varie."
+    },
+    {
+      "h": "L'observation donne raison à la théorie",
+      "body": "Quelques années plus tard, la loi de Hubble (jour 17) a établi que les galaxies s'éloignent d'autant plus vite qu'elles sont lointaines : l'expansion de l'univers (jour 26) n'était plus seulement une conséquence de calculs, mais un fait mesuré. Ce lien entre une prédiction théorique et une observation indépendante est ce qui donne au modèle de l'expansion son assise."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Principe cosmologique",
+      "def": "Hypothèse selon laquelle, à très grande échelle, la matière de l'univers est répartie uniformément et de la même façon dans toutes les directions."
+    }
+  ],
+  "recap": "Appliquée à l'univers entier, la relativité générale prédit un espace qui s'étend ou se contracte ; l'observation de la fuite des galaxies a confirmé cette prédiction.",
+  "next": "Demain — comment on mesure, avec des repères de luminosité connue, la distance des objets très éloignés."
+}
