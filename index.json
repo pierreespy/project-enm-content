@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-07",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-07",
+      "slot": "midi",
+      "file": "editions/2026-10-07-midi.json",
+      "essentiel": "Istres : le maire François Bernardini jugé à Paris pour détournement de fonds publics",
+      "term": "Gestion de fait",
+      "rubriques": [
+        "Budget 2027 : l'Assemblée nationale devrait entamer l'examen du projet de loi de finances le 13 octobre",
+        "Chambre criminelle, 10 juin 2026 : un arrêt publié au Bulletin en matière de détention",
+        "Annulation des actes subséquents : l'obligation d'inventaire précis et la règle du « support nécessaire » (art. 174 et 385 CPP)",
+        "7 octobre 1959 : la sonde soviétique Luna 3 photographie pour la première fois la face cachée de la Lune",
+        "Détournement de fonds publics : quelques rappels utiles sur l'incrimination",
+        "Prix Nobel de littérature : l'Académie suédoise annoncera son lauréat jeudi 8 octobre"
+      ]
+    },
     {
       "date": "2026-10-07",
       "slot": "matin",
