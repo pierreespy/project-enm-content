@@ -89,41 +89,5 @@
   },
   "date": "2026-10-07",
   "dateShort": "7 oct.",
-  "slot": "matin",
-  "astro": {
-    "n": 41,
-    "title": "Les chandelles standard : mesurer une distance avec une lumière connue",
-    "subtitle": "Comment on évalue la distance d'un astre dont on ne peut pas sonder la distance directement",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Deux grandeurs à ne pas confondre",
-        "body": "La luminosité d'un astre est la quantité totale de lumière qu'il émet réellement, quelle que soit la distance à laquelle on l'observe. L'éclat est la quantité de lumière qui nous parvient : il dépend de la luminosité, mais aussi de la distance. Une lampe puissante très éloignée peut paraître plus faible qu'une petite lampe toute proche. Pour un même astre, plus on s'éloigne, plus l'éclat diminue, et il diminue très vite : à distance double, l'éclat est quatre fois plus faible."
-      },
-      {
-        "h": "Le principe de la chandelle standard",
-        "body": "Si l'on connaît la luminosité réelle d'un astre, la comparer à son éclat mesuré donne sa distance : plus il paraît faible, plus il est loin. Un astre dont on connaît la luminosité s'appelle une chandelle standard, par analogie avec une bougie de puissance connue que l'on verrait à travers un champ. Tout le problème est de savoir que l'astre est bien de ce type : il faut une raison indépendante de croire que sa luminosité est connue."
-      },
-      {
-        "h": "Une méthode qui dépend de ses étalons",
-        "body": "Cette méthode repose donc sur un étalonnage : on mesure d'abord la luminosité d'astres proches, dont la distance peut être établie autrement, puis on suppose que des astres de même nature, plus lointains, ont la même luminosité. Une erreur sur l'étalon se répercute sur toutes les distances qui en dépendent. Les prochaines leçons verront quels astres servent de chandelles standard."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Luminosité",
-        "def": "Quantité totale de lumière qu'un astre émet réellement, indépendamment de la distance d'observation."
-      },
-      {
-        "term": "Éclat",
-        "def": "Quantité de lumière d'un astre qui nous parvient, et qui diminue quand la distance augmente."
-      },
-      {
-        "term": "Chandelle standard",
-        "def": "Astre dont la luminosité réelle est connue, ce qui permet de déduire sa distance en comparant cette luminosité à son éclat."
-      }
-    ],
-    "recap": "Comparer l'éclat observé d'un astre à sa luminosité réelle, quand elle est connue, donne sa distance : c'est le principe de la chandelle standard.",
-    "next": "Demain — des étoiles dont l'éclat pulse, et la règle qui relie leur rythme à leur luminosité."
-  }
+  "slot": "matin"
 }

@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-06",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-10-07",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-07",
+      "slot": "matin",
+      "file": "editions/2026-10-07-matin.json",
+      "essentiel": "Saint-Leu : Justin Baleinier condamné à 25 ans de réclusion criminelle pour le meurtre de son ex-compagne Kamla Beechook",
+      "term": "Ultra petita",
+      "rubriques": [
+        "Décision n° 2026-332 L du 1er octobre 2026 : le Conseil constitutionnel reconnaît un caractère réglementaire à des termes de l'article L. 120-1 du code du service national",
+        "Appel déclaré caduc : le relevé de caducité par simple courriel adressé au greffe est validé par la Cour de cassation",
+        "Appel limité de l'accusé et inégalité avec le prévenu : la QPC n° 2026-1209 devant le Conseil constitutionnel",
+        "7 octobre 1571 : la bataille de Lépante, plus grand affrontement naval depuis l'Antiquité",
+        "Après un verdict d'assises : l'appel dans les dix jours et les droits de la famille de la victime",
+        "Prix Nobel de physique 2026 : Francis Halzen récompensé pour l'observatoire de neutrinos IceCube"
+      ]
+    },
     {
       "date": "2026-10-06",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "22 septembre 1960 : le Soudan français devient le Mali indépendant",
         "École des avocats : les résultats du concours d'admission 2026 ouvrent la voie à la rentrée du 1er octobre à l'EFB de Paris",
         "Paris Respire : le centre de la capitale fermé à la circulation motorisée ce mardi pour la Journée sans voiture"
-      ]
-    },
-    {
-      "date": "2026-09-21",
-      "slot": "midi",
-      "file": "editions/2026-09-21-midi.json",
-      "essentiel": "Présomption de légitime défense pour les forces de l'ordre : le Sénat entame l'examen du texte, une motion de rejet préalable rejetée dès l'ouverture",
-      "term": "Déchéance quadriennale",
-      "rubriques": [
-        "Fin de vie : le décret d'application de la loi du 8 avril 2026 sur l'aide à mourir est publié au Journal officiel",
-        "Permis de construire : le Conseil d'État juge que le silence gardé par le maire au-delà du délai d'instruction ne fait naître une décision implicite qu'à la condition que le dossier ait été complet",
-        "Justice prud'homale : la Cour des comptes alerte sur des délais de jugement qui restent supérieurs à seize mois dans un tiers des conseils",
-        "21 septembre 1964 : Malte accède à l'indépendance après près de cent-cinquante ans de domination britannique",
-        "Aide juridictionnelle : le formulaire de demande et le simulateur de ressources en ligne sont mis à jour pour intégrer le nouveau barème 2026-2027",
-        "La Fashion Week de Paris s'ouvre ce lundi pour dix jours de défilés printemps-été 2027"
-      ]
-    },
-    {
-      "date": "2026-09-21",
-      "slot": "matin",
-      "file": "editions/2026-09-21-matin.json",
-      "essentiel": "Cavale meurtrière dans l'Ouest : Stéphane Iganache condamné à la réclusion criminelle à perpétuité par la cour d'assises d'Angers",
-      "term": "Excuse absolutoire",
-      "rubriques": [
-        "Présomption de légitime défense pour les forces de l'ordre : des milliers de manifestants dénoncent le texte à la veille de son examen au Sénat",
-        "Sécurité privée : l'absence de carte professionnelle valide justifie à elle seule le licenciement, même si l'employeur n'a pas formé le salarié",
-        "Logiciels défectueux : le Barreau de Paris demande des clarifications avant la transposition de la directive européenne du 9 décembre 2026",
-        "21 septembre 1792 : au lendemain de Valmy, la Convention nationale abolit la royauté",
-        "Le 122e Congrès des notaires de France se tient à Lille du 30 septembre au 2 octobre sur le thème « Le notaire et l'impôt »",
-        "MMA : Ciryl Gane devient le premier Français de l'histoire sacré champion incontesté par l'UFC"
       ]
     }
   ]
