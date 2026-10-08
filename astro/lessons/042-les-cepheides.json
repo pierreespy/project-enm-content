@@ -1,0 +1,27 @@
+{
+  "n": 42,
+  "title": "Les céphéides : des étoiles dont le rythme dit la luminosité",
+  "subtitle": "Une chandelle standard découverte dans des étoiles qui pulsent",
+  "duration": "3 min",
+  "sections": [
+    {
+      "h": "Des étoiles dont l'éclat pulse",
+      "body": "Une étoile variable est une étoile dont l'éclat change au cours du temps. Parmi elles, les céphéides gonflent et se contractent régulièrement, ce qui fait monter puis baisser leur éclat, avec un rythme très régulier. La durée d'un cycle complet, de quelques jours à quelques semaines selon l'étoile, s'appelle la période. Elle se mesure simplement en observant l'étoile nuit après nuit : aucune distance n'est nécessaire."
+    },
+    {
+      "h": "Une règle découverte par comparaison",
+      "body": "Vers 1908-1912, l'astronome américaine Henrietta Leavitt étudie des céphéides d'une petite galaxie voisine de la nôtre, le Petit Nuage de Magellan. Toutes ces étoiles sont, à peu près, à la même distance de nous : comparer leurs éclats revient donc à comparer leurs luminosités. Elle constate que les céphéides à longue période sont aussi les plus lumineuses. La période permet ainsi de connaître la luminosité réelle de l'étoile."
+    },
+    {
+      "h": "De la règle à la distance",
+      "body": "Il reste à étalonner la règle, c'est-à-dire à établir la luminosité réelle d'une céphéide proche, dont la distance est connue par ailleurs. Ensuite, pour toute céphéide lointaine, on mesure sa période, on en déduit sa luminosité, puis on la compare à son éclat observé : c'est le principe de la chandelle standard vu à la leçon précédente. Les céphéides, très lumineuses, sont visibles jusque dans d'autres galaxies."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Étoile variable", "def": "Étoile dont l'éclat change au cours du temps." },
+    { "term": "Céphéide", "def": "Étoile variable qui gonfle et se contracte régulièrement, et dont la période est liée à la luminosité réelle." },
+    { "term": "Période", "def": "Durée d'un cycle complet de variation de l'éclat d'une étoile variable." }
+  ],
+  "recap": "Plus une céphéide pulse lentement, plus elle est lumineuse : mesurer sa période revient à connaître sa luminosité, donc, par comparaison avec son éclat, sa distance.",
+  "next": "Demain — la découverte de céphéides dans une nébuleuse lointaine, et ce qu'elle a changé à l'idée qu'on se faisait de l'univers."
+}

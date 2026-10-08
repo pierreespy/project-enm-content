@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07",
-  "count": 41,
+  "updated": "2026-10-08",
+  "count": 42,
   "lessons": [
     {
       "n": 1,
@@ -358,6 +358,16 @@
         "Luminosité",
         "Éclat",
         "Chandelle standard"
+      ]
+    },
+    {
+      "n": 42,
+      "file": "astro/lessons/042-les-cepheides.json",
+      "title": "Les céphéides : des étoiles dont le rythme dit la luminosité",
+      "terms": [
+        "Étoile variable",
+        "Céphéide",
+        "Période"
       ]
     }
   ]
