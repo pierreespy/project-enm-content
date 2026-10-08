@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-08",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-08",
+      "slot": "midi",
+      "file": "editions/2026-10-08-midi.json",
+      "essentiel": "Black-out de 2024 en Guadeloupe : le tribunal de Pointe-à-Pitre rend sa décision à l'égard de 14 agents d'EDF-PEI",
+      "term": "Exception de recours parallèle",
+      "rubriques": [
+        "Loi organique n° 2026-650 du 23 juillet 2026 : les avocats honoraires pérennisés comme assesseurs des cours criminelles départementales",
+        "Cass. com., 17 juin 2026, n° 24-20.640 : cassation partielle d'un arrêt de la cour d'appel de Paris dans un litige opposant un particulier à la Société générale",
+        "« Tout savoir sur la loi Justice criminelle » : le guide du Conseil national des barreaux à l'attention des avocats",
+        "8 octobre 1799 : Bonaparte débarque à Fréjus au retour d'Égypte",
+        "Loi JCRV : le tableau d'entrée en vigueur des dispositions pénales, publié par la Chancellerie",
+        "Croissance 2026 : l'Insee abaisse sa prévision à 0,4 %"
+      ]
+    },
     {
       "date": "2026-10-08",
       "slot": "matin",
