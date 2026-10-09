@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-08",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-10-09",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-09",
+      "slot": "matin",
+      "file": "editions/2026-10-09-matin.json",
+      "essentiel": "Vente anticipée d'un bien saisi : le Conseil constitutionnel valide l'article 706-152 du code de procédure pénale sous réserve d'interprétation",
+      "term": "Subrogation réelle",
+      "rubriques": [
+        "Décret n° 2026-929 du 6 octobre 2026 : les compétences liées à un mandat électif local (article L. 6112-5 du code du travail)",
+        "Cass. crim., 10 février 2026, n° 25-80.975 : le faux en écriture publique commis pendant l'information viole une règle de procédure pénale",
+        "L'offre de preuve contraire en diffamation (art. 56 de la loi du 29 juillet 1881) : délai préfix de cinq jours et déchéance",
+        "9 octobre 1981 : la France abolit la peine de mort, sous l'impulsion de Robert Badinter",
+        "Contrôle positif à l'alcool : éthylomètre contesté, marge d'erreur, vérification et défense du permis",
+        "Prix Nobel de la paix 2026 : le comité d'Oslo dévoile son lauréat ce vendredi à 11 h"
+      ]
+    },
     {
       "date": "2026-10-08",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "24 septembre 1960 : l'US Navy met à l'eau l'USS Enterprise",
         "Menaces contre les avocats : le Conseil national des barreaux veut structurer sa réponse",
         "France 2 ressuscite « L'Heure de vérité », dix-huit mois avant la présidentielle"
-      ]
-    },
-    {
-      "date": "2026-09-23",
-      "slot": "midi",
-      "file": "editions/2026-09-23-midi.json",
-      "essentiel": "Crimes contre l'humanité en Centrafrique : la Cour pénale internationale reconnaît Mahamat Saïd Abdel Kani coupable de torture et de persécution, l'acquitte de trois crimes de guerre",
-      "term": "Théorie de l'acte clair",
-      "rubriques": [
-        "Douanes européennes : le règlement (UE) 2026/2108 crée une Autorité douanière de l'Union, dont le siège s'installera à Lille",
-        "Fraude au RIB : la chambre commerciale exclut définitivement la théorie du créancier apparent en cas d'usurpation d'identité",
-        "Après le jugement Saïd, un commentaire rappelle que la CPI n'a pas de police : c'est le parquet antiterroriste et la cour d'appel de Paris qui font tourner la coopération française",
-        "23 septembre 1870 : pendant le siège de Paris, le ballon Le Neptune franchit les lignes prussiennes avec 125 kilos de dépêches officielles",
-        "Appel en matière d'expropriation : la notification des conclusions par RPVA ne dispense pas d'en adresser une copie papier au commissaire du gouvernement",
-        "Semaine mondiale de l'espace 2026 : l'Agence spatiale européenne s'associe à Pokémon, une peluche Pikachu ayant passé 67 jours à bord de l'ISS"
-      ]
-    },
-    {
-      "date": "2026-09-23",
-      "slot": "matin",
-      "file": "editions/2026-09-23-matin.json",
-      "essentiel": "Barbara Lefebvre, chroniqueuse des « Grandes Gueules » sur RMC, jugée à Paris pour apologie de crime contre l'humanité et provocation à la haine",
-      "term": "Emphytéose",
-      "rubriques": [
-        "Arrêts de travail de longue durée : un décret du 16 septembre 2026 réduit de trois ans à un an la durée maximale d'indemnisation pour certaines ALD",
-        "Faute inexcusable de l'employeur : la Cour de cassation détache l'indemnisation complémentaire des constatations de la caisse",
-        "Trente ans après l'ouvrage fondateur de Bernard et Poirmeur, un colloque universitaire fait le bilan des études sur la doctrine juridique elle-même",
-        "23 septembre 1846 : l'astronome allemand Johann Gottfried Galle découvre Neptune, à l'endroit précis calculé par le Français Urbain Le Verrier",
-        "Formation continue des avocats : le Conseil national des barreaux soumet à la concertation un avant-projet de réforme",
-        "Équinoxe d'automne : l'hémisphère nord bascule officiellement dans l'automne ce mercredi à 2h05"
       ]
     }
   ]
