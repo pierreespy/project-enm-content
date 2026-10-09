@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-09",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-09",
+      "slot": "midi",
+      "file": "editions/2026-10-09-midi.json",
+      "essentiel": "IntegraGen : le tribunal de commerce d'Évry arbitre ce vendredi entre deux offres de reprise en redressement judiciaire",
+      "term": "Période suspecte",
+      "rubriques": [
+        "Décrets de naturalisation d'octobre 2026 : le suivi des publications au Journal officiel",
+        "Cass. 1re civ., 8 juillet 2026, n° 24-16.567 : cassation partielle d'un arrêt de la cour d'appel de Grenoble",
+        "Cass. soc., 9 avril 2026, n° 24-21.017 (affaire Petit Bateau) : une décision de la chambre sociale commentée",
+        "9 octobre 1874 : le traité de Berne fonde l'Union postale universelle",
+        "Redressement opéré par l'URSSAF : une méthode de calcul irrégulière entraîne l'annulation de l'ensemble du redressement",
+        "Septembre 2026 : le deuxième septembre le plus chaud jamais observé en France"
+      ]
+    },
     {
       "date": "2026-10-09",
       "slot": "matin",

@@ -89,33 +89,5 @@
   },
   "date": "2026-10-09",
   "dateShort": "9 oct.",
-  "slot": "midi",
-  "astro": {
-    "n": 43,
-    "title": "Hubble et la nébuleuse d'Andromède : l'univers s'agrandit",
-    "subtitle": "Comment des céphéides ont montré que notre galaxie n'est pas tout l'univers",
-    "duration": "3 min",
-    "sections": [
-      {
-        "h": "Un débat sur la taille de l'univers",
-        "body": "Au début du XXe siècle, les astronomes observent des taches lumineuses floues, qu'ils appellent nébuleuses : des objets étendus, sans contour net comme celui d'une étoile. Certaines ont une forme de spirale. Faut-il y voir de petits nuages de gaz appartenant à notre galaxie, qui serait alors l'univers entier, ou de lointains ensembles d'étoiles comparables à elle ? Faute de pouvoir mesurer leur distance, la question reste ouverte jusqu'aux années 1920."
-      },
-      {
-        "h": "Des céphéides dans Andromède",
-        "body": "En 1923-1924, l'astronome américain Edwin Hubble photographie la nébuleuse d'Andromède avec le plus grand télescope de l'époque, au mont Wilson, en Californie. Il y repère des céphéides, ces étoiles dont la période de pulsation dit la luminosité réelle. Il mesure leur période, en déduit leur luminosité, puis la compare à leur éclat observé : la distance en découle, comme à la leçon précédente."
-      },
-      {
-        "h": "Une distance qui change tout",
-        "body": "Le résultat dépasse de très loin la taille connue de notre galaxie : Andromède se trouve à environ deux millions d'années-lumière, valeur plus précise que celle de Hubble. Ce n'est donc pas un nuage local, mais un autre ensemble d'étoiles, de même nature que la Voie lactée. Une galaxie est un tel ensemble, et la nôtre n'est qu'une parmi d'autres : l'univers est bien plus vaste qu'on ne le pensait."
-      }
-    ],
-    "keyTerms": [
-      {
-        "term": "Nébuleuse",
-        "def": "Tache lumineuse floue et étendue, qui peut être un nuage de gaz ou, comme Andromède, une galaxie lointaine."
-      }
-    ],
-    "recap": "En trouvant des céphéides dans Andromède, Hubble a mesuré sa distance et montré qu'il s'agit d'une autre galaxie : la nôtre n'est pas l'univers entier.",
-    "next": "Demain — au-delà des céphéides : comment on mesure la distance des galaxies plus lointaines encore."
-  }
+  "slot": "midi"
 }
