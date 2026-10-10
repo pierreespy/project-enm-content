@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-10",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-10",
+      "slot": "midi",
+      "file": "editions/2026-10-10-midi.json",
+      "essentiel": "Prud'hommes : depuis le 1er octobre, la requête n'exige plus qu'un bordereau et le dernier bulletin de salaire afférent au litige",
+      "term": "Concentration des prétentions",
+      "rubriques": [
+        "Décret n° 2026-918 du 1er octobre 2026 : le travail d'intérêt général des mineurs dans l'économie sociale et solidaire",
+        "Vol avec violences ayant entraîné la mort d'un retraité creusois : 30 et 25 ans de réclusion criminelle",
+        "Réforme du droit du travail 2026 : la présomption de salariat des plateformes n'est pas encore transposée",
+        "10 octobre 1789 : sur proposition de Talleyrand, la Constituante nationalise les biens de l'Église",
+        "Arrêt maladie en ALD : à partir du 15 octobre 2026, les indemnités journalières sont limitées à un an au lieu de trois",
+        "Météo d'octobre 2026 : les prévisions d'un expert pour le mois"
+      ]
+    },
     {
       "date": "2026-10-10",
       "slot": "matin",
