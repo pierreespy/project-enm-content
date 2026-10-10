@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09",
-  "count": 43,
+  "updated": "2026-10-10",
+  "count": 44,
   "lessons": [
     {
       "n": 1,
@@ -376,6 +376,14 @@
       "title": "Hubble et la nébuleuse d'Andromède : l'univers s'agrandit",
       "terms": [
         "Nébuleuse"
+      ]
+    },
+    {
+      "n": 44,
+      "file": "astro/lessons/044-les-supernovae-de-type-ia.json",
+      "title": "Les supernovae de type Ia : des chandelles visibles de très loin",
+      "terms": [
+        "Supernova de type Ia"
       ]
     }
   ]

@@ -1,0 +1,28 @@
+{
+  "n": 44,
+  "title": "Les supernovae de type Ia : des chandelles visibles de très loin",
+  "subtitle": "Pourquoi l'explosion d'une naine blanche sert à mesurer des distances immenses",
+  "duration": "3 min",
+  "sections": [
+    {
+      "h": "Les céphéides ne suffisent plus",
+      "body": "Les céphéides, étoiles dont la période de pulsation dit la luminosité, ne se distinguent individuellement que dans les galaxies relativement proches. Au-delà, les étoiles isolées deviennent trop faibles pour être repérées une à une. Il faut donc une chandelle standard beaucoup plus brillante, visible à des distances bien plus grandes."
+    },
+    {
+      "h": "Une naine blanche qui explose",
+      "body": "Une naine blanche est le résidu d'une étoile de faible masse. Si elle a un compagnon proche, elle peut lui arracher de la matière et grossir jusqu'à une masse limite. Elle explose alors en supernova, de type Ia. Comme l'explosion survient toujours à peu près au même seuil de masse, sa luminosité réelle est presque toujours la même : très élevée, comparable à celle d'une galaxie entière pendant quelques semaines."
+    },
+    {
+      "h": "Mesurer par comparaison",
+      "body": "Cette luminosité quasi constante en fait une chandelle standard. Comme pour les céphéides, on compare l'éclat observé à la luminosité connue, et la distance s'en déduit. Les supernovae de type Ia sont assez brillantes pour être vues à plusieurs milliards d'années-lumière, ce qui permet de sonder bien plus loin que les céphéides."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Supernova de type Ia",
+      "def": "Explosion d'une naine blanche ayant atteint une masse limite, dont la luminosité est presque toujours la même, ce qui en fait une chandelle standard très lointaine."
+    }
+  ],
+  "recap": "Les supernovae de type Ia explosent toujours avec à peu près la même luminosité : leur éclat observé donne leur distance, jusqu'à plusieurs milliards d'années-lumière.",
+  "next": "Demain — l'échelle des distances : comment les céphéides et les supernovae se relaient pour mesurer l'univers."
+}

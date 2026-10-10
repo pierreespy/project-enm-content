@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-09",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-10-10",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-10",
+      "slot": "matin",
+      "file": "editions/2026-10-10-matin.json",
+      "essentiel": "Sous-traitance : le maître d'ouvrage peut répondre des travaux supplémentaires impayés, même s'il ignorait leur réalisation",
+      "term": "Action directe du sous-traitant",
+      "rubriques": [
+        "Décret n° 2026-741 du 6 août 2026 : le droit de l'arbitrage modifié",
+        "Garantie de paiement du sous-traitant : la 3e chambre civile casse partiellement un arrêt sur les avenants de travaux supplémentaires",
+        "Entreprise générale liquidée : le sous-traitant et ses travaux supplémentaires",
+        "10 octobre 1793 : la Convention proclame le gouvernement « révolutionnaire jusqu'à la paix »",
+        "Sous-traitance : vérifier la garantie de paiement avant tout avenant",
+        "Prix Nobel d'économie 2026 : annonce attendue lundi 12 octobre"
+      ]
+    },
     {
       "date": "2026-10-09",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "25 septembre 1789 : le Congrès américain adopte les douze amendements dont dix formeront le Bill of Rights",
         "CRFPA : le grand oral inaugure une nouvelle épreuve de « culture juridique numérique »",
         "Journée nationale d'hommage aux harkis : la France commémore ce vendredi les auxiliaires de l'armée française en Algérie"
-      ]
-    },
-    {
-      "date": "2026-09-24",
-      "slot": "midi",
-      "file": "editions/2026-09-24-midi.json",
-      "essentiel": "Mort d'un étudiant à Compiègne : ses parents portent plainte pour bizutage et homicide involontaire",
-      "term": "Anatocisme",
-      "rubriques": [
-        "Violences sexistes et sexuelles : la loi « intégrale » franchit sa première étape à l'Assemblée nationale",
-        "Déficit fonctionnel permanent : le juge du fond n'a pas à ordonner une expertise s'il dispose d'éléments suffisants",
-        "La Cour de cassation poursuit son cycle de conférences consacré à l'amiable",
-        "24 septembre 1724 : un arrêt royal crée la Bourse de Paris",
-        "Jurisprudences inventées, conclusions erronées : l'intelligence artificielle bouscule la pratique des avocats",
-        "Visite du pape Léon XIV : 15 000 policiers, gendarmes et militaires mobilisés à Paris dès vendredi"
-      ]
-    },
-    {
-      "date": "2026-09-24",
-      "slot": "matin",
-      "file": "editions/2026-09-24-matin.json",
-      "essentiel": "Affaire Hakimi : la Cour de cassation confirme le renvoi du joueur du PSG devant la cour d'assises pour viol",
-      "term": "Electa una via",
-      "rubriques": [
-        "Naturalisations et francisations de noms : un nouveau décret publié au Journal officiel",
-        "Restitution de l'indu : le point de départ des intérêts dépend de la bonne ou mauvaise foi du bénéficiaire",
-        "Une thèse perpignanaise retrace l'histoire du droit du patrimoine culturel burkinabè",
-        "24 septembre 1960 : l'US Navy met à l'eau l'USS Enterprise",
-        "Menaces contre les avocats : le Conseil national des barreaux veut structurer sa réponse",
-        "France 2 ressuscite « L'Heure de vérité », dix-huit mois avant la présidentielle"
       ]
     }
   ]
