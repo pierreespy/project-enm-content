@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-11",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-11",
+      "slot": "midi",
+      "file": "editions/2026-10-11-midi.json",
+      "essentiel": "Incendie de Saint-Laurent-de-la-Salanque : huit morts, trois accusés et une décision attendue le 16 octobre à Perpignan",
+      "term": "Correctionnalisation judiciaire",
+      "rubriques": [
+        "Décret n° 2026-780 du 14 août 2026 : le Conseil national de la commande publique remplace l'observatoire économique",
+        "Cass. soc., 8 juillet 2026, n° 25-60.148 : rejet du pourvoi, arrêt non publié",
+        "QPC360° : Laurent Fabius présente un outil « utile à tous les acteurs de la procédure »",
+        "11 octobre 1138 : un séisme dévastateur détruit une grande partie d'Alep",
+        "Explosion de la rue de Trévise : le procès de la Ville de Paris et du syndic annoncé du 20 octobre au 7 décembre",
+        "Ligue 1 : Nice–Strasbourg et Rennes–Auxerre au programme de ce dimanche 11 octobre"
+      ]
+    },
     {
       "date": "2026-10-11",
       "slot": "matin",
