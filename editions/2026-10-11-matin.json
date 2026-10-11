@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Intrusion à la résidence préfectorale : la Cour de cassation casse la condamnation de Rodrigue Petitot, qui sera rejugé",
+    "dek": "Le mardi 6 octobre, la chambre criminelle a annulé l'arrêt de la cour d'appel de Fort-de-France qui avait condamné le leader du mouvement contre la vie chère en Martinique à un an d'emprisonnement. L'affaire est renvoyée pour être jugée à nouveau.",
+    "source": "RCI Martinique, octobre 2026",
+    "url": "https://rci.fm/martinique?node=48619"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Décret n° 2026-683 : la simplification de la procédure civile entre en vigueur le 1er octobre",
+      "summary": "Publié au Journal officiel du 29 juillet 2026, le décret prévoit notamment l'admission rapide des demandes incontestées et un aménagement du contentieux de la nationalité.",
+      "source": "Décret n° 2026-683 du 29 juillet 2026 (Lexis Veille)",
+      "url": "https://www.lexisveille.fr/diverses-mesures-de-simplification-procedurale-sont-publiees-par-decret",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. 1re civ., 3 juin 2026, n° 24-21.579 : rejet du pourvoi, arrêt classé inédit",
+      "summary": "La première chambre civile rejette le pourvoi dans cet arrêt non publié au Bulletin, consultable dans la base Doctrine.",
+      "source": "Cass. 1re civ., 3 juin 2026, n° 24-21.579",
+      "url": "https://www.doctrine.fr/d/CASS/2026/CASSP4D4A89EC0E08C52F66F2",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Résolution amiable des différends : vers une gouvernance unifiée et un nouveau statut des conciliateurs de justice",
+      "summary": "L'article examine les pistes de modernisation du statut des conciliateurs et d'unification de la gouvernance des modes amiables.",
+      "source": "Actu-Juridique",
+      "url": "https://www.actu-juridique.fr/marl/resolution-amiable-des-differends-vers-une-gouvernance-unifiee-et-une-modernisation-du-statut-des-conciliateurs-de-justice/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "11 octobre 1531 : Zwingli meurt à la bataille de Kappel, face aux cantons catholiques",
+      "summary": "Le réformateur zurichois est tué lors d'un affrontement entre protestants et cantons catholiques suisses, épisode clé des guerres de religion helvétiques.",
+      "source": "Wikipédia (simple), 11 octobre",
+      "url": "https://simple.wikipedia.com/wiki/October_11",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Loi du 23 juillet 2026 : l'aide juridictionnelle des victimes de violences intrafamiliales attendra le 1er janvier 2027",
+      "summary": "Si certaines mesures de la loi sont en vigueur depuis le 25 juillet, l'information et l'aide juridictionnelle des victimes de violences intrafamiliales ou sur mineur ne s'appliqueront qu'au 1er janvier 2027.",
+      "source": "Blog d'avocats, « La justice fait sa rentrée »",
+      "url": "https://consultation.avocat.fr/blog/stephanie-mantione/article-2983147-la-justice-fait-sa-rentree.html",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Prix Nobel 2026 : la récompense passe à plus d'un million d'euros",
+      "summary": "Chaque lauréat de l'édition 2026 recevra 12 millions de couronnes suédoises, soit environ 1,06 million d'euros.",
+      "source": "DH, 18 sept. 2026",
+      "url": "https://www.dhnet.be/dernieres-depeches/2026/09/18/laureat-du-prix-nobel-la-recompense-passe-a-plus-dun-million-deuros-MM2TDTX6S5AYTGG2J7RMS5NOKI/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Cassation par voie de retranchement",
+    "subtitle": "Procédure · Code de l'organisation judiciaire, art. L. 411-3",
+    "defShort": "Cassation limitée à une disposition de la décision attaquée, supprimée sans renvoi, le reste de l'arrêt demeurant intact.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Plutôt que d'annuler l'arrêt et de renvoyer l'affaire devant une autre juridiction, la Cour de cassation se borne à supprimer (retrancher) une disposition qui n'avait pas lieu d'être. Le surplus de la décision subsiste."
+      },
+      {
+        "h": "Fondement",
+        "body": "L'article L. 411-3 du code de l'organisation judiciaire permet à la Cour de casser sans renvoi lorsque la cassation n'implique pas qu'il soit à nouveau statué sur le fond."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Typiquement, une condamnation accessoire ou une mesure que le juge ne pouvait pas prononcer : il n'y a rien à rejuger, il suffit de l'ôter."
+      },
+      {
+        "h": "Portée",
+        "body": "Elle s'oppose à la cassation avec renvoi, comme celle dont bénéficie Rodrigue Petitot, qui rouvre le débat devant une nouvelle juridiction. Le retranchement évite ce détour et économise des années de procédure."
+      }
+    ],
+    "seeAlso": "Voir aussi — cassation sans renvoi (art. L. 411-3 COJ) · juridiction de renvoi · cassation partielle"
+  },
+  "date": "2026-10-11",
+  "dateShort": "11 oct.",
+  "slot": "matin"
+}

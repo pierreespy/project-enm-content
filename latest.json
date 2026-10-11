@@ -1,121 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Prud'hommes : depuis le 1er octobre, la requête n'exige plus qu'un bordereau et le dernier bulletin de salaire afférent au litige",
-    "dek": "Un décret du 27 juillet 2026 allège les pièces à joindre à la requête saisissant le conseil de prud'hommes, en vigueur depuis le 1er octobre. Le bordereau des pièces et le dernier bulletin de salaire afférent au litige suffisent désormais.",
-    "source": "HelloWork, « Ce qui change au 1er octobre 2026 pour les salariés »",
-    "url": "https://www.hellowork.com/fr-fr/medias/droit-du-travai-actualite-changement-1er-octobre.html"
+    "title": "Intrusion à la résidence préfectorale : la Cour de cassation casse la condamnation de Rodrigue Petitot, qui sera rejugé",
+    "dek": "Le mardi 6 octobre, la chambre criminelle a annulé l'arrêt de la cour d'appel de Fort-de-France qui avait condamné le leader du mouvement contre la vie chère en Martinique à un an d'emprisonnement. L'affaire est renvoyée pour être jugée à nouveau.",
+    "source": "RCI Martinique, octobre 2026",
+    "url": "https://rci.fm/martinique?node=48619"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Décret n° 2026-918 du 1er octobre 2026 : le travail d'intérêt général des mineurs dans l'économie sociale et solidaire",
-      "summary": "Ce décret du ministère de la Justice, publié au Journal officiel du 2 octobre, concerne l'accueil de mineurs en travail d'intérêt général au sein d'entreprises de l'économie sociale et solidaire.",
-      "source": "JORF n° 0230 du 2 octobre 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/02/0230",
+      "title": "Décret n° 2026-683 : la simplification de la procédure civile entre en vigueur le 1er octobre",
+      "summary": "Publié au Journal officiel du 29 juillet 2026, le décret prévoit notamment l'admission rapide des demandes incontestées et un aménagement du contentieux de la nationalité.",
+      "source": "Décret n° 2026-683 du 29 juillet 2026 (Lexis Veille)",
+      "url": "https://www.lexisveille.fr/diverses-mesures-de-simplification-procedurale-sont-publiees-par-decret",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Vol avec violences ayant entraîné la mort d'un retraité creusois : 30 et 25 ans de réclusion criminelle",
-      "summary": "La cour d'assises a condamné Mohamed El Jamal à 30 ans de réclusion avec une peine de sûreté de 18 ans, et Mickaël Maximin à 25 ans, pour des faits commis en 2022.",
-      "source": "France 3 Nouvelle-Aquitaine, 8-9 oct. 2026",
-      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/c-etait-un-oncle-un-ami-un-voisin-un-frere-mort-d-un-creusois-de-69-ans-deux-jeunes-hommes-condamnes-par-la-cour-d-assises-a-30-et-25-ans-de-reclusion-criminelle-3430110.html",
+      "title": "Cass. 1re civ., 3 juin 2026, n° 24-21.579 : rejet du pourvoi, arrêt classé inédit",
+      "summary": "La première chambre civile rejette le pourvoi dans cet arrêt non publié au Bulletin, consultable dans la base Doctrine.",
+      "source": "Cass. 1re civ., 3 juin 2026, n° 24-21.579",
+      "url": "https://www.doctrine.fr/d/CASS/2026/CASSP4D4A89EC0E08C52F66F2",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Réforme du droit du travail 2026 : la présomption de salariat des plateformes n'est pas encore transposée",
-      "summary": "Un point d'étape de la Revue juridique rappelle qu'au 5 octobre 2026 la transposition de la présomption de salariat des travailleurs de plateformes reste en attente.",
-      "source": "Revue juridique, oct. 2026",
-      "url": "https://revue-juridique.fr/reforme-droit-travail-2026-changements-employeurs-salaries",
+      "title": "Résolution amiable des différends : vers une gouvernance unifiée et un nouveau statut des conciliateurs de justice",
+      "summary": "L'article examine les pistes de modernisation du statut des conciliateurs et d'unification de la gouvernance des modes amiables.",
+      "source": "Actu-Juridique",
+      "url": "https://www.actu-juridique.fr/marl/resolution-amiable-des-differends-vers-une-gouvernance-unifiee-et-une-modernisation-du-statut-des-conciliateurs-de-justice/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "10 octobre 1789 : sur proposition de Talleyrand, la Constituante nationalise les biens de l'Église",
-      "summary": "Trois mois après la nuit du 4 août, l'Assemblée constituante place les biens du clergé à la disposition de la Nation, première étape d'un bouleversement du régime de la propriété ecclésiastique.",
-      "source": "Hérodote, almanach du 10 octobre",
-      "url": "https://www.herodote.net/almanach-jour-1010.php",
+      "title": "11 octobre 1531 : Zwingli meurt à la bataille de Kappel, face aux cantons catholiques",
+      "summary": "Le réformateur zurichois est tué lors d'un affrontement entre protestants et cantons catholiques suisses, épisode clé des guerres de religion helvétiques.",
+      "source": "Wikipédia (simple), 11 octobre",
+      "url": "https://simple.wikipedia.com/wiki/October_11",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Arrêt maladie en ALD : à partir du 15 octobre 2026, les indemnités journalières sont limitées à un an au lieu de trois",
-      "summary": "Les conseils aux salariés et aux employeurs portent sur l'anticipation de cette nouvelle durée maximale d'indemnisation, annoncée pour le 15 octobre.",
-      "source": "HelloWork, oct. 2026",
-      "url": "https://www.hellowork.com/fr-fr/medias/droit-du-travai-actualite-changement-1er-octobre.html",
+      "title": "Loi du 23 juillet 2026 : l'aide juridictionnelle des victimes de violences intrafamiliales attendra le 1er janvier 2027",
+      "summary": "Si certaines mesures de la loi sont en vigueur depuis le 25 juillet, l'information et l'aide juridictionnelle des victimes de violences intrafamiliales ou sur mineur ne s'appliqueront qu'au 1er janvier 2027.",
+      "source": "Blog d'avocats, « La justice fait sa rentrée »",
+      "url": "https://consultation.avocat.fr/blog/stephanie-mantione/article-2983147-la-justice-fait-sa-rentree.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Météo d'octobre 2026 : les prévisions d'un expert pour le mois",
-      "summary": "Après un mois de septembre très chaud et sec, la chronique de Nicolas Le Friant détaille les tendances attendues pour octobre.",
-      "source": "Pleinchamp, chronique météo",
-      "url": "https://www.pleinchamp.com/actualite/meteo-quelles-sont-les-previsions-pour-octobre-2026-la-chronique-de-nicolas-le-friant-expert-meteo",
+      "title": "Prix Nobel 2026 : la récompense passe à plus d'un million d'euros",
+      "summary": "Chaque lauréat de l'édition 2026 recevra 12 millions de couronnes suédoises, soit environ 1,06 million d'euros.",
+      "source": "DH, 18 sept. 2026",
+      "url": "https://www.dhnet.be/dernieres-depeches/2026/09/18/laureat-du-prix-nobel-la-recompense-passe-a-plus-dun-million-deuros-MM2TDTX6S5AYTGG2J7RMS5NOKI/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Concentration des prétentions",
-    "subtitle": "Procédure civile · Article 910-4 du Code de procédure civile",
-    "defShort": "Obligation faite à l'appelant et à l'intimé de présenter, dès leurs premières conclusions, l'ensemble de leurs prétentions sur le fond, à peine d'irrecevabilité de celles formulées ensuite.",
+    "term": "Cassation par voie de retranchement",
+    "subtitle": "Procédure · Code de l'organisation judiciaire, art. L. 411-3",
+    "defShort": "Cassation limitée à une disposition de la décision attaquée, supprimée sans renvoi, le reste de l'arrêt demeurant intact.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Devant la cour d'appel, on ne peut pas formuler ses demandes au fil des échanges : toutes les prétentions au fond doivent figurer dans les premières conclusions. Celles qui apparaissent dans des conclusions ultérieures sont irrecevables, et le juge peut le soulever d'office."
+        "body": "Plutôt que d'annuler l'arrêt et de renvoyer l'affaire devant une autre juridiction, la Cour de cassation se borne à supprimer (retrancher) une disposition qui n'avait pas lieu d'être. Le surplus de la décision subsiste."
       },
       {
         "h": "Fondement",
-        "body": "Article 910-4 du Code de procédure civile, issu du décret n° 2017-891 du 6 mai 2017. Il s'inscrit dans la logique du calendrier de procédure en appel : concentrer le débat pour accélérer le jugement."
+        "body": "L'article L. 411-3 du code de l'organisation judiciaire permet à la Cour de casser sans renvoi lorsque la cassation n'implique pas qu'il soit à nouveau statué sur le fond."
       },
       {
         "h": "Cas visés",
-        "body": "Il vise les prétentions, c'est-à-dire ce que la partie demande au juge, et non les moyens, c'est-à-dire les arguments invoqués à l'appui d'une demande déjà formulée. Une partie peut donc enrichir son argumentation, mais non ajouter une demande nouvelle."
+        "body": "Typiquement, une condamnation accessoire ou une mesure que le juge ne pouvait pas prononcer : il n'y a rien à rejuger, il suffit de l'ôter."
       },
       {
         "h": "Portée",
-        "body": "Deux tempéraments sont prévus : la survenance ou la révélation d'un fait postérieur aux premières conclusions, et les demandes destinées à répliquer aux conclusions adverses ou à faire juger les questions nées de l'intervention d'un tiers. À défaut, la prétention tardive est écartée sans examen au fond."
+        "body": "Elle s'oppose à la cassation avec renvoi, comme celle dont bénéficie Rodrigue Petitot, qui rouvre le débat devant une nouvelle juridiction. Le retranchement évite ce détour et économise des années de procédure."
       }
     ],
-    "seeAlso": "Voir aussi — effet dévolutif de l'appel (art. 562) · prétentions nouvelles en appel (art. 564 à 566) · office du juge d'appel"
+    "seeAlso": "Voir aussi — cassation sans renvoi (art. L. 411-3 COJ) · juridiction de renvoi · cassation partielle"
   },
-  "date": "2026-10-10",
-  "dateShort": "10 oct.",
-  "slot": "midi",
+  "date": "2026-10-11",
+  "dateShort": "11 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 44,
-    "title": "Les supernovae de type Ia : des chandelles visibles de très loin",
-    "subtitle": "Pourquoi l'explosion d'une naine blanche sert à mesurer des distances immenses",
+    "n": 45,
+    "title": "L'échelle des distances : des méthodes qui se relaient",
+    "subtitle": "Pourquoi aucune règle ne mesure tout l'univers, et comment on les enchaîne",
     "duration": "3 min",
     "sections": [
       {
-        "h": "Les céphéides ne suffisent plus",
-        "body": "Les céphéides, étoiles dont la période de pulsation dit la luminosité, ne se distinguent individuellement que dans les galaxies relativement proches. Au-delà, les étoiles isolées deviennent trop faibles pour être repérées une à une. Il faut donc une chandelle standard beaucoup plus brillante, visible à des distances bien plus grandes."
+        "h": "Aucune méthode ne couvre tout",
+        "body": "Chaque méthode de mesure de distance a une portée limitée. Pour les astres proches, on s'appuie sur des mesures directes. Plus loin, les céphéides, ces étoiles dont la période de pulsation dit la luminosité, prennent le relais, mais ne se distinguent plus au-delà des galaxies voisines. Plus loin encore, les supernovae de type Ia, explosions de naines blanches de luminosité presque constante, restent visibles à plusieurs milliards d'années-lumière."
       },
       {
-        "h": "Une naine blanche qui explose",
-        "body": "Une naine blanche est le résidu d'une étoile de faible masse. Si elle a un compagnon proche, elle peut lui arracher de la matière et grossir jusqu'à une masse limite. Elle explose alors en supernova, de type Ia. Comme l'explosion survient toujours à peu près au même seuil de masse, sa luminosité réelle est presque toujours la même : très élevée, comparable à celle d'une galaxie entière pendant quelques semaines."
+        "h": "Chaque barreau s'appuie sur le précédent",
+        "body": "Ces méthodes ne sont pas indépendantes. Une chandelle standard, source de luminosité connue dont l'éclat donne la distance, doit d'abord être étalonnée : on règle sa luminosité grâce à des objets dont la distance est déjà établie par la méthode d'en dessous. On appelle échelle des distances cet enchaînement, où chaque barreau est calibré sur le précédent. Les céphéides sont ajustées sur les distances proches, puis les supernovae sur les galaxies où l'on voit à la fois des céphéides et une supernova."
       },
       {
-        "h": "Mesurer par comparaison",
-        "body": "Cette luminosité quasi constante en fait une chandelle standard. Comme pour les céphéides, on compare l'éclat observé à la luminosité connue, et la distance s'en déduit. Les supernovae de type Ia sont assez brillantes pour être vues à plusieurs milliards d'années-lumière, ce qui permet de sonder bien plus loin que les céphéides."
+        "h": "Ce que cela implique",
+        "body": "Toute erreur sur un barreau se répercute sur ceux qui le suivent. C'est pourquoi les astrophysiciens recoupent les méthodes entre elles et cherchent sans cesse à affiner les premiers barreaux : de leur exactitude dépend celle de toutes les distances lointaines."
       }
     ],
     "keyTerms": [
       {
-        "term": "Supernova de type Ia",
-        "def": "Explosion d'une naine blanche ayant atteint une masse limite, dont la luminosité est presque toujours la même, ce qui en fait une chandelle standard très lointaine."
+        "term": "Échelle des distances",
+        "def": "Enchaînement de méthodes de mesure dont chacune est calibrée sur la précédente pour atteindre des distances de plus en plus grandes."
+      },
+      {
+        "term": "Étalonnage",
+        "def": "Réglage de la luminosité réelle d'une chandelle standard à l'aide d'objets dont la distance est déjà connue."
       }
     ],
-    "recap": "Les supernovae de type Ia explosent toujours avec à peu près la même luminosité : leur éclat observé donne leur distance, jusqu'à plusieurs milliards d'années-lumière.",
-    "next": "Demain — l'échelle des distances : comment les céphéides et les supernovae se relaient pour mesurer l'univers."
+    "recap": "On mesure l'univers par une chaîne de méthodes qui se relaient, chacune étalonnée sur la précédente, si bien qu'une erreur initiale se propage jusqu'au bout.",
+    "next": "Demain — la constante de Hubble : à quelle vitesse l'univers s'étend-il ?"
   }
 }

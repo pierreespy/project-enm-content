@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10",
-  "count": 44,
+  "updated": "2026-10-11",
+  "count": 45,
   "lessons": [
     {
       "n": 1,
@@ -384,6 +384,15 @@
       "title": "Les supernovae de type Ia : des chandelles visibles de très loin",
       "terms": [
         "Supernova de type Ia"
+      ]
+    },
+    {
+      "n": 45,
+      "file": "astro/lessons/045-l-echelle-des-distances.json",
+      "title": "L'échelle des distances : des méthodes qui se relaient",
+      "terms": [
+        "Échelle des distances",
+        "Étalonnage"
       ]
     }
   ]

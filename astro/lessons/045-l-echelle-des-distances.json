@@ -1,0 +1,32 @@
+{
+  "n": 45,
+  "title": "L'échelle des distances : des méthodes qui se relaient",
+  "subtitle": "Pourquoi aucune règle ne mesure tout l'univers, et comment on les enchaîne",
+  "duration": "3 min",
+  "sections": [
+    {
+      "h": "Aucune méthode ne couvre tout",
+      "body": "Chaque méthode de mesure de distance a une portée limitée. Pour les astres proches, on s'appuie sur des mesures directes. Plus loin, les céphéides, ces étoiles dont la période de pulsation dit la luminosité, prennent le relais, mais ne se distinguent plus au-delà des galaxies voisines. Plus loin encore, les supernovae de type Ia, explosions de naines blanches de luminosité presque constante, restent visibles à plusieurs milliards d'années-lumière."
+    },
+    {
+      "h": "Chaque barreau s'appuie sur le précédent",
+      "body": "Ces méthodes ne sont pas indépendantes. Une chandelle standard, source de luminosité connue dont l'éclat donne la distance, doit d'abord être étalonnée : on règle sa luminosité grâce à des objets dont la distance est déjà établie par la méthode d'en dessous. On appelle échelle des distances cet enchaînement, où chaque barreau est calibré sur le précédent. Les céphéides sont ajustées sur les distances proches, puis les supernovae sur les galaxies où l'on voit à la fois des céphéides et une supernova."
+    },
+    {
+      "h": "Ce que cela implique",
+      "body": "Toute erreur sur un barreau se répercute sur ceux qui le suivent. C'est pourquoi les astrophysiciens recoupent les méthodes entre elles et cherchent sans cesse à affiner les premiers barreaux : de leur exactitude dépend celle de toutes les distances lointaines."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Échelle des distances",
+      "def": "Enchaînement de méthodes de mesure dont chacune est calibrée sur la précédente pour atteindre des distances de plus en plus grandes."
+    },
+    {
+      "term": "Étalonnage",
+      "def": "Réglage de la luminosité réelle d'une chandelle standard à l'aide d'objets dont la distance est déjà connue."
+    }
+  ],
+  "recap": "On mesure l'univers par une chaîne de méthodes qui se relaient, chacune étalonnée sur la précédente, si bien qu'une erreur initiale se propage jusqu'au bout.",
+  "next": "Demain — la constante de Hubble : à quelle vitesse l'univers s'étend-il ?"
+}

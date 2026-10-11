@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-10",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-10-11",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-11",
+      "slot": "matin",
+      "file": "editions/2026-10-11-matin.json",
+      "essentiel": "Intrusion à la résidence préfectorale : la Cour de cassation casse la condamnation de Rodrigue Petitot, qui sera rejugé",
+      "term": "Cassation par voie de retranchement",
+      "rubriques": [
+        "Décret n° 2026-683 : la simplification de la procédure civile entre en vigueur le 1er octobre",
+        "Cass. 1re civ., 3 juin 2026, n° 24-21.579 : rejet du pourvoi, arrêt classé inédit",
+        "Résolution amiable des différends : vers une gouvernance unifiée et un nouveau statut des conciliateurs de justice",
+        "11 octobre 1531 : Zwingli meurt à la bataille de Kappel, face aux cantons catholiques",
+        "Loi du 23 juillet 2026 : l'aide juridictionnelle des victimes de violences intrafamiliales attendra le 1er janvier 2027",
+        "Prix Nobel 2026 : la récompense passe à plus d'un million d'euros"
+      ]
+    },
     {
       "date": "2026-10-10",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "26 septembre 1786 : le traité Eden-Rayneval scelle le libre-échange entre la France et l'Angleterre",
         "Élections au Conseil national des barreaux : les candidatures doivent être déposées avant le 30 septembre",
         "Plus de 260 marches pour le climat prévues ce samedi, le rassemblement parisien déplacé pour cause de visite pontificale"
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "slot": "midi",
-      "file": "editions/2026-09-25-midi.json",
-      "essentiel": "Preuve et RGPD : la Cour de cassation valide la pseudonymisation comme voie de conciliation",
-      "term": "Recel successoral",
-      "rubriques": [
-        "Recherches impliquant la personne humaine : un décret renouvelle le mandat des membres de la Commission nationale",
-        "Concurrence : les conséquences de l'annulation d'une décision de l'Autorité sur la cour d'appel de renvoi",
-        "L'aveu en droit romano-canonique (XIIe-XVe siècle) : une thèse soutenue ce vendredi à Paris-Panthéon-Assas",
-        "25 septembre 2012 : la Cour de cassation consacre le préjudice écologique dans l'affaire de l'Erika",
-        "Visite du pape à Notre-Dame : le Palais de justice et la Maison du barreau sous périmètre de sécurité ce vendredi",
-        "Discours de Benyamin Netanyahou à l'Assemblée générale de l'ONU : sorties de délégations en pleine intervention"
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "slot": "matin",
-      "file": "editions/2026-09-25-matin.json",
-      "essentiel": "Meurtre de Véronique Duchesne : seize ans après les faits, l'enquêteur affirme n'avoir « aucun doute » sur la culpabilité de Thierry Meunier",
-      "term": "Quasi-usufruit",
-      "rubriques": [
-        "Fonction publique : un arrêté ajuste les postes réservés aux travailleurs handicapés dans le corps interministériel des attachés d'administration",
-        "Heures supplémentaires : le salarié n'a pas à produire une reconstitution parfaite de ses journées de travail",
-        "Quarante ans après la loi du 9 septembre 1986, un colloque à la Cour de cassation dresse le bilan du droit antiterroriste",
-        "25 septembre 1789 : le Congrès américain adopte les douze amendements dont dix formeront le Bill of Rights",
-        "CRFPA : le grand oral inaugure une nouvelle épreuve de « culture juridique numérique »",
-        "Journée nationale d'hommage aux harkis : la France commémore ce vendredi les auxiliaires de l'armée française en Algérie"
       ]
     }
   ]
