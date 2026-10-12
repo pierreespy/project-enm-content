@@ -1,0 +1,28 @@
+{
+  "n": 46,
+  "title": "La constante de Hubble : à quelle vitesse l'univers s'étend-il ?",
+  "subtitle": "Un seul nombre pour dire à quel rythme les galaxies s'éloignent les unes des autres",
+  "duration": "3 min",
+  "sections": [
+    {
+      "h": "Plus c'est loin, plus ça s'éloigne vite",
+      "body": "Les mesures de distance et de décalage vers le rouge, ce changement de couleur de la lumière qui traduit un éloignement, révèlent une régularité : plus une galaxie est lointaine, plus elle s'éloigne vite de nous. Ce n'est pas un hasard de notre position. C'est ce que produit l'expansion de l'univers, l'étirement de l'espace entre les galaxies : chaque galaxie s'éloigne de toutes les autres, et l'écart grandit proportionnellement à la distance."
+    },
+    {
+      "h": "Un nombre pour le rythme de l'expansion",
+      "body": "On résume cette régularité par un seul nombre, la constante de Hubble : la vitesse d'éloignement supplémentaire que l'on gagne à chaque tranche de distance. Elle vaut environ 70 kilomètres par seconde pour 3,3 millions d'années-lumière. Une galaxie située deux fois plus loin s'éloigne donc deux fois plus vite. Le mot « constante » est trompeur : elle est la même partout à un instant donné, mais sa valeur change au fil de l'histoire de l'univers."
+    },
+    {
+      "h": "Pourquoi sa valeur compte",
+      "body": "Connaître ce rythme permet de remonter le temps : plus l'expansion est rapide aujourd'hui, plus l'univers a mis peu de temps à atteindre sa taille actuelle, donc plus il est jeune. Mesurer la constante de Hubble avec précision revient ainsi à estimer l'âge de l'univers. Et comme elle s'appuie sur l'échelle des distances, toute erreur sur celle-ci s'y répercute."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Constante de Hubble",
+      "def": "Nombre qui indique de combien la vitesse d'éloignement des galaxies augmente à mesure que leur distance croît ; il mesure le rythme actuel de l'expansion de l'univers."
+    }
+  ],
+  "recap": "Les galaxies s'éloignent d'autant plus vite qu'elles sont lointaines, et la constante de Hubble chiffre ce rythme, dont dépend l'âge de l'univers.",
+  "next": "Demain — deux manières de mesurer la constante de Hubble, et pourquoi elles ne donnent pas tout à fait le même résultat."
+}

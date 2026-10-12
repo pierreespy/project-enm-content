@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11",
-  "count": 45,
+  "updated": "2026-10-12",
+  "count": 46,
   "lessons": [
     {
       "n": 1,
@@ -393,6 +393,14 @@
       "terms": [
         "Échelle des distances",
         "Étalonnage"
+      ]
+    },
+    {
+      "n": 46,
+      "file": "astro/lessons/046-la-constante-de-hubble.json",
+      "title": "La constante de Hubble : à quelle vitesse l'univers s'étend-il ?",
+      "terms": [
+        "Constante de Hubble"
       ]
     }
   ]

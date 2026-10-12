@@ -1,125 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Incendie de Saint-Laurent-de-la-Salanque : huit morts, trois accusés et une décision attendue le 16 octobre à Perpignan",
-    "dek": "Devant la cour d'assises des Pyrénées-Orientales, l'exécutant présumé affirme avoir agi sous la pression de l'épicier et de son frère, qui nient. Les enquêteurs soupçonnent une fraude à l'assurance (environ 170 000 euros) ; les accusés encourent la réclusion criminelle à perpétuité.",
-    "source": "France 3 Occitanie, octobre 2026",
-    "url": "https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/proces-de-saint-laurent-de-la-salanque-l-un-des-accuses-affirme-avoir-agi-sous-la-pression-des-deux-autres-dans-l-incendie-qui-a-fait-8-morts-3430938.html"
+    "title": "Meurtre de Véronique Duchesne : Thierry Meunier condamné à 25 ans de réclusion criminelle par la cour d'assises des Côtes-d'Armor",
+    "dek": "Vendredi 9 octobre, la cour d'assises a déclaré l'accusé coupable du meurtre de son épouse. L'avocat général avait requis 30 ans ; la défense plaidait l'acquittement et l'accusé a toujours clamé son innocence. Un appel reste possible.",
+    "source": "ICI (France Bleu), 9 octobre 2026",
+    "url": "https://www.ici.fr/bretagne/cotes-d-armor-22/saint-brieuc/meurtre-de-veronique-duchesne-thierry-meunier-reconnu-coupable-il-est-condamne-a-25-ans-de-reclusion-criminelle-2968286"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Décret n° 2026-780 du 14 août 2026 : le Conseil national de la commande publique remplace l'observatoire économique",
-      "summary": "Publié au Journal officiel du 15 août, le décret crée un Conseil national de la commande publique (CNCP) en lieu et place de l'observatoire économique de la commande publique.",
-      "source": "Décret n° 2026-780 du 14 août 2026 (Le Monde du Droit)",
-      "url": "https://www.lemondedudroit.fr/public/281-contrats-publics/105468-creation-du-conseil-national-de-la-commande-publique-cncp.html",
+      "title": "Formation professionnelle : nouveau calendrier de déclaration des sessions et de vérification par les employeurs",
+      "summary": "Un décret fixe au 1er octobre 2026 la date limite de déclaration des sessions de septembre 2025 par les organismes de formation, les employeurs disposant jusqu'au 1er janvier 2027 pour vérifier ces déclarations.",
+      "source": "L'Officiel des métiers, octobre 2026",
+      "url": "https://www.lofficieldesmetiers.fr/?p=7787",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass. soc., 8 juillet 2026, n° 25-60.148 : rejet du pourvoi, arrêt non publié",
-      "summary": "La chambre sociale rejette le pourvoi dans cet arrêt classé inédit, consultable dans la base Doctrine.",
-      "source": "Cass. soc., 8 juill. 2026, n° 25-60.148",
-      "url": "https://www.doctrine.fr/d/CASS/2026/CASSPA0AB34BA65BAF402C1C0",
+      "title": "Cons. const., 1er octobre 2026, n° 2026-1222 QPC : l'absence de serment des personnes entendues en vertu du pouvoir discrétionnaire est conforme",
+      "summary": "Le Conseil juge conforme à la Constitution le dernier alinéa de l'article 310 du code de procédure pénale, la différence avec les experts, soumis au serment, reposant sur un régime distinct.",
+      "source": "Cons. const., 1er octobre 2026, n° 2026-1222 QPC (Le Monde du Droit)",
+      "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/106146-qpc-pas-de-prestation-de-serment-des-gens-entendus-par-le-president-de-la-cour-d-assises.html",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "QPC360° : Laurent Fabius présente un outil « utile à tous les acteurs de la procédure »",
-      "summary": "Le président du Conseil constitutionnel présente le portail qui rassemble les décisions QPC rendues par les différentes juridictions.",
-      "source": "Actu-Juridique",
-      "url": "https://www.actu-juridique.fr/constitutionnel/laurent-fabius-qpc360-un-outil-utile-a-tous-les-acteurs-de-la-procedure/",
+      "title": "Deux siècles du Recueil Dalloz : un dictionnaire du bicentenaire",
+      "summary": "L'ouvrage collectif publié en 2025 revient sur l'histoire et les notions que le Recueil Dalloz a contribué à façonner depuis deux cents ans.",
+      "source": "Portail universitaire du droit",
+      "url": "https://univ-droit.fr/recherche/actualites-de-la-recherche/parutions/58710-dictionnaire-du-bicentenaire-200-ans-du-recueil-dalloz",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "11 octobre 1138 : un séisme dévastateur détruit une grande partie d'Alep",
-      "summary": "L'un des tremblements de terre les plus meurtriers du Moyen Âge frappe la Syrie et ravage Alep, d'après les chroniques de l'époque.",
-      "source": "Wikipédia (simple), 11 octobre",
-      "url": "https://simple.wikipedia.com/wiki/October_11",
+      "title": "12 octobre 1492 : Christophe Colomb aborde l'île de Guanahani, aux Bahamas",
+      "summary": "Au service des Rois Catholiques de Castille et d'Aragon, le navigateur débarque dans l'archipel des Bahamas, date devenue fête nationale en Espagne.",
+      "source": "Wikipédia (simple), 12 octobre",
+      "url": "https://simple.wikipedia.com/wiki/October_12",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Explosion de la rue de Trévise : le procès de la Ville de Paris et du syndic annoncé du 20 octobre au 7 décembre",
-      "summary": "La Ville de Paris et la société CIPA, syndic de l'immeuble, sont renvoyées devant le tribunal correctionnel de Paris pour homicides et blessures involontaires après l'explosion du 12 janvier 2019 (quatre morts).",
-      "source": "Le Club des juristes ; Actu-Juridique",
-      "url": "https://www.leclubdesjuristes.com/?p=17402",
+      "title": "Condamnation aux assises : appel, droits des proches et suites procédurales",
+      "summary": "Un cabinet d'avocats parisien rappelle, à propos d'un meurtre jugé seize ans après les faits, les voies de recours ouvertes après une condamnation à 25 ans de réclusion.",
+      "source": "Cabinet Kohen Avocats, 2026",
+      "url": "https://kohenavocats.com/proces-meurtre-epouse-seize-ans-apres-25-ans-reclusion-assises-appel-droits-proches-2026/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Ligue 1 : Nice–Strasbourg et Rennes–Auxerre au programme de ce dimanche 11 octobre",
-      "summary": "Le calendrier du jour affiche notamment ces deux rencontres de championnat, avec des horaires à vérifier auprès de la Ligue.",
-      "source": "Sport Flash, calendrier du 11 octobre 2026",
-      "url": "https://www.sport-flash.com/sports/football/ma/calendar/2026-10-11",
+      "title": "Prix Nobel d'économie 2026 : annonce du lauréat ce lundi 12 octobre",
+      "summary": "La Fondation Nobel dévoile ce lundi, à partir de 11 h 45, le nom du lauréat 2026, après le trio Mokyr, Aghion et Howitt récompensé en 2025.",
+      "source": "Fondation Nobel",
+      "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-economic-sciences/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Correctionnalisation judiciaire",
-    "subtitle": "Procédure pénale · articles 186-3 et 469, alinéa 4, du Code de procédure pénale",
-    "defShort": "Procédé par lequel un fait de nature criminelle est renvoyé devant le tribunal correctionnel plutôt que devant la cour d'assises, en omettant ou en écartant une circonstance aggravante ou un élément constitutif du crime.",
+    "term": "Déchéance quadriennale",
+    "subtitle": "Droit administratif · Loi n° 68-1250 du 31 décembre 1968",
+    "defShort": "Prescription extinctive spéciale de quatre ans qui éteint les créances sur l'État, les départements, les communes et les établissements publics lorsqu'elles n'ont pas été réclamées à temps.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "La correctionnalisation judiciaire est une pratique de l'instruction : le juge d'instruction (ou la chambre de l'instruction) renvoie au tribunal correctionnel des faits qui, selon la qualification stricte, relèveraient de la cour d'assises. Elle ne se confond pas avec la correctionnalisation légale, où le législateur lui-même requalifie un crime en délit."
+        "body": "Une créance détenue contre une personne publique est éteinte si elle n'est pas réclamée dans un délai de quatre ans. Le délai court à compter du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis, ce qui rend son calcul propre au régime."
       },
       {
         "h": "Fondement",
-        "body": "Elle n'est pas prévue comme telle par le Code de procédure pénale, qui l'encadre pourtant par touches : l'article 469, alinéa 4, interdit au tribunal correctionnel de décliner sa compétence lorsque le renvoi a été ordonné par un magistrat instructeur et que la victime, constituée partie civile et assistée d'un avocat, était en mesure de contester la qualification. L'article 186-3 ouvre en outre un appel contre l'ordonnance de renvoi à la personne mise en examen et à la partie civile."
+        "body": "Loi n° 68-1250 du 31 décembre 1968 relative à la prescription des créances sur l'État, les départements, les communes et les établissements publics. Elle déroge à la prescription civile de droit commun."
       },
       {
-        "h": "Intérêts",
-        "body": "Gain de temps et de moyens (une audience correctionnelle plutôt qu'une session d'assises), peine maximale ramenée de la perpétuité ou de vingt ou trente ans de réclusion à dix ans d'emprisonnement en cas de délit puni de cette peine, et débat parfois moins éprouvant pour les victimes. Contreparties : la qualification pénale cesse de refléter la gravité réelle des faits, et les victimes comme les accusés peuvent s'y opposer."
+        "h": "Mécanisme",
+        "body": "Le délai est interrompu par certains actes, notamment toute demande de paiement ou réclamation écrite adressée à l'administration, et il peut être relevé en cas d'ignorance légitime de la créance ou de fait de l'administration. La déchéance n'est pas soulevée d'office par le juge : l'administration doit l'opposer."
       },
       {
         "h": "Portée",
-        "body": "Le contentieux de la qualification est ainsi purgé par la voie de l'instruction : une fois la juridiction saisie, la contestation ne peut plus venir d'une simple déclaration d'incompétence du tribunal. La demande de renvoi en correctionnelle, évoquée par des avocats de la défense dans des dossiers criminels très lourds, relève de ce mécanisme."
+        "body": "Elle constitue un moyen de défense redoutable pour l'administration en contentieux indemnitaire. À ne pas confondre avec la forclusion, qui sanctionne l'inobservation d'un délai pour agir, ni avec la prescription de droit commun."
       }
     ],
-    "seeAlso": "Voir aussi — correctionnalisation légale · requalification (art. 469 CPP) · ordonnance de mise en accusation (art. 181 CPP) · incompétence de la juridiction correctionnelle"
+    "seeAlso": "Voir aussi — forclusion · prescription extinctive · interruption de la prescription · responsabilité sans faute de l'administration"
   },
-  "date": "2026-10-11",
-  "dateShort": "11 oct.",
-  "slot": "midi",
+  "date": "2026-10-12",
+  "dateShort": "12 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 45,
-    "title": "L'échelle des distances : des méthodes qui se relaient",
-    "subtitle": "Pourquoi aucune règle ne mesure tout l'univers, et comment on les enchaîne",
+    "n": 46,
+    "title": "La constante de Hubble : à quelle vitesse l'univers s'étend-il ?",
+    "subtitle": "Un seul nombre pour dire à quel rythme les galaxies s'éloignent les unes des autres",
     "duration": "3 min",
     "sections": [
       {
-        "h": "Aucune méthode ne couvre tout",
-        "body": "Chaque méthode de mesure de distance a une portée limitée. Pour les astres proches, on s'appuie sur des mesures directes. Plus loin, les céphéides, ces étoiles dont la période de pulsation dit la luminosité, prennent le relais, mais ne se distinguent plus au-delà des galaxies voisines. Plus loin encore, les supernovae de type Ia, explosions de naines blanches de luminosité presque constante, restent visibles à plusieurs milliards d'années-lumière."
+        "h": "Plus c'est loin, plus ça s'éloigne vite",
+        "body": "Les mesures de distance et de décalage vers le rouge, ce changement de couleur de la lumière qui traduit un éloignement, révèlent une régularité : plus une galaxie est lointaine, plus elle s'éloigne vite de nous. Ce n'est pas un hasard de notre position. C'est ce que produit l'expansion de l'univers, l'étirement de l'espace entre les galaxies : chaque galaxie s'éloigne de toutes les autres, et l'écart grandit proportionnellement à la distance."
       },
       {
-        "h": "Chaque barreau s'appuie sur le précédent",
-        "body": "Ces méthodes ne sont pas indépendantes. Une chandelle standard, source de luminosité connue dont l'éclat donne la distance, doit d'abord être étalonnée : on règle sa luminosité grâce à des objets dont la distance est déjà établie par la méthode d'en dessous. On appelle échelle des distances cet enchaînement, où chaque barreau est calibré sur le précédent. Les céphéides sont ajustées sur les distances proches, puis les supernovae sur les galaxies où l'on voit à la fois des céphéides et une supernova."
+        "h": "Un nombre pour le rythme de l'expansion",
+        "body": "On résume cette régularité par un seul nombre, la constante de Hubble : la vitesse d'éloignement supplémentaire que l'on gagne à chaque tranche de distance. Elle vaut environ 70 kilomètres par seconde pour 3,3 millions d'années-lumière. Une galaxie située deux fois plus loin s'éloigne donc deux fois plus vite. Le mot « constante » est trompeur : elle est la même partout à un instant donné, mais sa valeur change au fil de l'histoire de l'univers."
       },
       {
-        "h": "Ce que cela implique",
-        "body": "Toute erreur sur un barreau se répercute sur ceux qui le suivent. C'est pourquoi les astrophysiciens recoupent les méthodes entre elles et cherchent sans cesse à affiner les premiers barreaux : de leur exactitude dépend celle de toutes les distances lointaines."
+        "h": "Pourquoi sa valeur compte",
+        "body": "Connaître ce rythme permet de remonter le temps : plus l'expansion est rapide aujourd'hui, plus l'univers a mis peu de temps à atteindre sa taille actuelle, donc plus il est jeune. Mesurer la constante de Hubble avec précision revient ainsi à estimer l'âge de l'univers. Et comme elle s'appuie sur l'échelle des distances, toute erreur sur celle-ci s'y répercute."
       }
     ],
     "keyTerms": [
       {
-        "term": "Échelle des distances",
-        "def": "Enchaînement de méthodes de mesure dont chacune est calibrée sur la précédente pour atteindre des distances de plus en plus grandes."
-      },
-      {
-        "term": "Étalonnage",
-        "def": "Réglage de la luminosité réelle d'une chandelle standard à l'aide d'objets dont la distance est déjà connue."
+        "term": "Constante de Hubble",
+        "def": "Nombre qui indique de combien la vitesse d'éloignement des galaxies augmente à mesure que leur distance croît ; il mesure le rythme actuel de l'expansion de l'univers."
       }
     ],
-    "recap": "On mesure l'univers par une chaîne de méthodes qui se relaient, chacune étalonnée sur la précédente, si bien qu'une erreur initiale se propage jusqu'au bout.",
-    "next": "Demain — la constante de Hubble : à quelle vitesse l'univers s'étend-il ?"
+    "recap": "Les galaxies s'éloignent d'autant plus vite qu'elles sont lointaines, et la constante de Hubble chiffre ce rythme, dont dépend l'âge de l'univers.",
+    "next": "Demain — deux manières de mesurer la constante de Hubble, et pourquoi elles ne donnent pas tout à fait le même résultat."
   }
 }

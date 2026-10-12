@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Meurtre de Véronique Duchesne : Thierry Meunier condamné à 25 ans de réclusion criminelle par la cour d'assises des Côtes-d'Armor",
+    "dek": "Vendredi 9 octobre, la cour d'assises a déclaré l'accusé coupable du meurtre de son épouse. L'avocat général avait requis 30 ans ; la défense plaidait l'acquittement et l'accusé a toujours clamé son innocence. Un appel reste possible.",
+    "source": "ICI (France Bleu), 9 octobre 2026",
+    "url": "https://www.ici.fr/bretagne/cotes-d-armor-22/saint-brieuc/meurtre-de-veronique-duchesne-thierry-meunier-reconnu-coupable-il-est-condamne-a-25-ans-de-reclusion-criminelle-2968286"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Formation professionnelle : nouveau calendrier de déclaration des sessions et de vérification par les employeurs",
+      "summary": "Un décret fixe au 1er octobre 2026 la date limite de déclaration des sessions de septembre 2025 par les organismes de formation, les employeurs disposant jusqu'au 1er janvier 2027 pour vérifier ces déclarations.",
+      "source": "L'Officiel des métiers, octobre 2026",
+      "url": "https://www.lofficieldesmetiers.fr/?p=7787",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cons. const., 1er octobre 2026, n° 2026-1222 QPC : l'absence de serment des personnes entendues en vertu du pouvoir discrétionnaire est conforme",
+      "summary": "Le Conseil juge conforme à la Constitution le dernier alinéa de l'article 310 du code de procédure pénale, la différence avec les experts, soumis au serment, reposant sur un régime distinct.",
+      "source": "Cons. const., 1er octobre 2026, n° 2026-1222 QPC (Le Monde du Droit)",
+      "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/106146-qpc-pas-de-prestation-de-serment-des-gens-entendus-par-le-president-de-la-cour-d-assises.html",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Deux siècles du Recueil Dalloz : un dictionnaire du bicentenaire",
+      "summary": "L'ouvrage collectif publié en 2025 revient sur l'histoire et les notions que le Recueil Dalloz a contribué à façonner depuis deux cents ans.",
+      "source": "Portail universitaire du droit",
+      "url": "https://univ-droit.fr/recherche/actualites-de-la-recherche/parutions/58710-dictionnaire-du-bicentenaire-200-ans-du-recueil-dalloz",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "12 octobre 1492 : Christophe Colomb aborde l'île de Guanahani, aux Bahamas",
+      "summary": "Au service des Rois Catholiques de Castille et d'Aragon, le navigateur débarque dans l'archipel des Bahamas, date devenue fête nationale en Espagne.",
+      "source": "Wikipédia (simple), 12 octobre",
+      "url": "https://simple.wikipedia.com/wiki/October_12",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Condamnation aux assises : appel, droits des proches et suites procédurales",
+      "summary": "Un cabinet d'avocats parisien rappelle, à propos d'un meurtre jugé seize ans après les faits, les voies de recours ouvertes après une condamnation à 25 ans de réclusion.",
+      "source": "Cabinet Kohen Avocats, 2026",
+      "url": "https://kohenavocats.com/proces-meurtre-epouse-seize-ans-apres-25-ans-reclusion-assises-appel-droits-proches-2026/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Prix Nobel d'économie 2026 : annonce du lauréat ce lundi 12 octobre",
+      "summary": "La Fondation Nobel dévoile ce lundi, à partir de 11 h 45, le nom du lauréat 2026, après le trio Mokyr, Aghion et Howitt récompensé en 2025.",
+      "source": "Fondation Nobel",
+      "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-economic-sciences/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Déchéance quadriennale",
+    "subtitle": "Droit administratif · Loi n° 68-1250 du 31 décembre 1968",
+    "defShort": "Prescription extinctive spéciale de quatre ans qui éteint les créances sur l'État, les départements, les communes et les établissements publics lorsqu'elles n'ont pas été réclamées à temps.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Une créance détenue contre une personne publique est éteinte si elle n'est pas réclamée dans un délai de quatre ans. Le délai court à compter du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis, ce qui rend son calcul propre au régime."
+      },
+      {
+        "h": "Fondement",
+        "body": "Loi n° 68-1250 du 31 décembre 1968 relative à la prescription des créances sur l'État, les départements, les communes et les établissements publics. Elle déroge à la prescription civile de droit commun."
+      },
+      {
+        "h": "Mécanisme",
+        "body": "Le délai est interrompu par certains actes, notamment toute demande de paiement ou réclamation écrite adressée à l'administration, et il peut être relevé en cas d'ignorance légitime de la créance ou de fait de l'administration. La déchéance n'est pas soulevée d'office par le juge : l'administration doit l'opposer."
+      },
+      {
+        "h": "Portée",
+        "body": "Elle constitue un moyen de défense redoutable pour l'administration en contentieux indemnitaire. À ne pas confondre avec la forclusion, qui sanctionne l'inobservation d'un délai pour agir, ni avec la prescription de droit commun."
+      }
+    ],
+    "seeAlso": "Voir aussi — forclusion · prescription extinctive · interruption de la prescription · responsabilité sans faute de l'administration"
+  },
+  "date": "2026-10-12",
+  "dateShort": "12 oct.",
+  "slot": "matin"
+}
