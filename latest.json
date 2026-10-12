@@ -1,61 +1,61 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Meurtre de Véronique Duchesne : Thierry Meunier condamné à 25 ans de réclusion criminelle par la cour d'assises des Côtes-d'Armor",
-    "dek": "Vendredi 9 octobre, la cour d'assises a déclaré l'accusé coupable du meurtre de son épouse. L'avocat général avait requis 30 ans ; la défense plaidait l'acquittement et l'accusé a toujours clamé son innocence. Un appel reste possible.",
-    "source": "ICI (France Bleu), 9 octobre 2026",
-    "url": "https://www.ici.fr/bretagne/cotes-d-armor-22/saint-brieuc/meurtre-de-veronique-duchesne-thierry-meunier-reconnu-coupable-il-est-condamne-a-25-ans-de-reclusion-criminelle-2968286"
+    "title": "Vol retardé par le contrôle aérien : la Cour de justice de l'Union européenne désavoue, pour la première fois, le Tribunal sur le droit à indemnisation",
+    "dek": "Par un arrêt du 8 octobre 2026, la Cour de justice se prononce sur l'indemnité due aux passagers lorsque le retard d'un vol tient au contrôle aérien, et censure l'analyse retenue par le Tribunal. Le commentaire est au cœur de l'édito de la semaine de Dalloz Actualité publié ce lundi 12 octobre.",
+    "source": "CJUE, 8 octobre 2026 (commentaire Cabinet Kohen, 12 octobre 2026)",
+    "url": "https://kohenavocats.fr/2026/10/12/vol-retarde-controle-aerien-indemnite-compagnie-desaveu-tribunal-cour-justice-8-octobre-2026"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Formation professionnelle : nouveau calendrier de déclaration des sessions et de vérification par les employeurs",
-      "summary": "Un décret fixe au 1er octobre 2026 la date limite de déclaration des sessions de septembre 2025 par les organismes de formation, les employeurs disposant jusqu'au 1er janvier 2027 pour vérifier ces déclarations.",
-      "source": "L'Officiel des métiers, octobre 2026",
-      "url": "https://www.lofficieldesmetiers.fr/?p=7787",
+      "title": "Semaine du 12 octobre : l'Assemblée nationale bascule sur la discussion budgétaire, le Sénat examine les stocks de sécurité des médicaments",
+      "summary": "La conférence des présidents de juillet a fait de la semaine du 12 octobre une semaine consacrée aux textes budgétaires (PLF et PLFSS 2027), tandis que le Sénat inscrit mardi 13 octobre une proposition de loi sur les stocks de sécurité des médicaments.",
+      "source": "Assemblée nationale, relevé de conclusions de la conférence des présidents ; Sénat, ordre du jour",
+      "url": "https://www2.assemblee-nationale.fr/17/la-conference-des-presidents/releve-de-conclusions/reunion-du-mercredi-15-juillet-2026",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cons. const., 1er octobre 2026, n° 2026-1222 QPC : l'absence de serment des personnes entendues en vertu du pouvoir discrétionnaire est conforme",
-      "summary": "Le Conseil juge conforme à la Constitution le dernier alinéa de l'article 310 du code de procédure pénale, la différence avec les experts, soumis au serment, reposant sur un régime distinct.",
-      "source": "Cons. const., 1er octobre 2026, n° 2026-1222 QPC (Le Monde du Droit)",
-      "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/106146-qpc-pas-de-prestation-de-serment-des-gens-entendus-par-le-president-de-la-cour-d-assises.html",
+      "title": "Cass. 3 septembre 2026, n° 25-14.904 : la hausse forfaitaire et automatique du loyer d'un bail commercial, sans limite de durée ni plafond, est réputée non écrite",
+      "summary": "La Cour de cassation écarte la clause prévoyant une augmentation annuelle fixe de 1,5 %, qui n'est pas une échelle mobile indexée mais une hausse sans contrepartie, contraire à l'ordre public du régime des loyers commerciaux.",
+      "source": "Cass., 3 sept. 2026, n° 25-14.904 (Actu-Juridique)",
+      "url": "https://www.actu-juridique.fr/civil/immobilier/bail-commercial-nullite-de-la-clause-dechelle-mobile-ne-jouant-qua-la-hausse/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Deux siècles du Recueil Dalloz : un dictionnaire du bicentenaire",
-      "summary": "L'ouvrage collectif publié en 2025 revient sur l'histoire et les notions que le Recueil Dalloz a contribué à façonner depuis deux cents ans.",
-      "source": "Portail universitaire du droit",
-      "url": "https://univ-droit.fr/recherche/actualites-de-la-recherche/parutions/58710-dictionnaire-du-bicentenaire-200-ans-du-recueil-dalloz",
+      "title": "Injonction relative aux bénéficiaires effectifs : de la régularité de la notification",
+      "summary": "Un commentaire d'arrêt de la Cour de cassation rappelle que, pour sanctionner la société qui n'a pas déclaré ses bénéficiaires effectifs, le juge du fond doit rechercher si l'ordonnance d'injonction a été régulièrement notifiée.",
+      "source": "Le Monde du Droit, 8 octobre 2026",
+      "url": "https://lemondedudroit.fr/decryptages/379-actualite-juridique/106135-injonction-relative-aux-beneficiaires-effectifs-de-la-regularite-de-la-notification.html",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "12 octobre 1492 : Christophe Colomb aborde l'île de Guanahani, aux Bahamas",
-      "summary": "Au service des Rois Catholiques de Castille et d'Aragon, le navigateur débarque dans l'archipel des Bahamas, date devenue fête nationale en Espagne.",
-      "source": "Wikipédia (simple), 12 octobre",
-      "url": "https://simple.wikipedia.com/wiki/October_12",
+      "title": "Le statut juridique de l'animal : une note à retenir de la semaine",
+      "summary": "Dalloz Étudiant met en avant une note du 7 octobre sur la place de l'animal en droit, entre être sensible et bien soumis au régime des biens.",
+      "source": "Dalloz Étudiant, 7 octobre 2026",
+      "url": "https://actu.dalloz-etudiant.fr/a-la-une/archalaune.html",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Condamnation aux assises : appel, droits des proches et suites procédurales",
-      "summary": "Un cabinet d'avocats parisien rappelle, à propos d'un meurtre jugé seize ans après les faits, les voies de recours ouvertes après une condamnation à 25 ans de réclusion.",
-      "source": "Cabinet Kohen Avocats, 2026",
-      "url": "https://kohenavocats.com/proces-meurtre-epouse-seize-ans-apres-25-ans-reclusion-assises-appel-droits-proches-2026/",
+      "title": "Avocats aux Conseils : consultation publique de l'Autorité de la concurrence sur la liberté d'installation, jusqu'au 5 novembre",
+      "summary": "L'Autorité de la concurrence recueille jusqu'au 5 novembre 2026 les observations des professionnels sur l'ouverture de l'installation des avocats au Conseil d'État et à la Cour de cassation.",
+      "source": "Le Monde du Droit, 7 octobre 2026",
+      "url": "https://lemondedudroit.fr/decryptages/379-actualite-juridique/106103-liberte-d-installation-des-avocats-au-conseils-consultation-publique.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Prix Nobel d'économie 2026 : annonce du lauréat ce lundi 12 octobre",
-      "summary": "La Fondation Nobel dévoile ce lundi, à partir de 11 h 45, le nom du lauréat 2026, après le trio Mokyr, Aghion et Howitt récompensé en 2025.",
+      "title": "Prix Nobel d'économie 2026 : annonce prévue ce lundi à 11 h 45 (heure de Stockholm)",
+      "summary": "Le prix de la Banque de Suède en sciences économiques est annoncé ce 12 octobre par l'Académie royale des sciences ; le palmarès officiel est publié sur le site de la Fondation Nobel.",
       "source": "Fondation Nobel",
       "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-economic-sciences/",
       "ink": "#5a3f66",
@@ -64,32 +64,32 @@
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Déchéance quadriennale",
-    "subtitle": "Droit administratif · Loi n° 68-1250 du 31 décembre 1968",
-    "defShort": "Prescription extinctive spéciale de quatre ans qui éteint les créances sur l'État, les départements, les communes et les établissements publics lorsqu'elles n'ont pas été réclamées à temps.",
+    "term": "Réfaction",
+    "subtitle": "Droit des contrats · Articles 1223 et 1217 du Code civil",
+    "defShort": "Réduction du prix proportionnelle à l'inexécution partielle ou imparfaite du contrat, que le créancier peut décider lui-même, par notification, sans passer par le juge.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Une créance détenue contre une personne publique est éteinte si elle n'est pas réclamée dans un délai de quatre ans. Le délai court à compter du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis, ce qui rend son calcul propre au régime."
+        "body": "Lorsque le débiteur n'exécute pas ou exécute mal sa prestation, le créancier qui n'a pas encore payé, ou qui a payé et veut être remboursé, peut réclamer une diminution du prix. Cette sanction, issue de la réforme du droit des obligations de 2016, est unilatérale : le créancier la décide seul, sans saisir le juge."
       },
       {
         "h": "Fondement",
-        "body": "Loi n° 68-1250 du 31 décembre 1968 relative à la prescription des créances sur l'État, les départements, les communes et les établissements publics. Elle déroge à la prescription civile de droit commun."
+        "body": "L'article 1223 du Code civil la place parmi les remèdes à l'inexécution, aux côtés de l'exception d'inexécution, de l'exécution forcée, de la résolution et des dommages et intérêts (art. 1217). Elle suppose une mise en demeure préalable infructueuse, puis une notification rapide de la décision de réduire le prix."
       },
       {
         "h": "Mécanisme",
-        "body": "Le délai est interrompu par certains actes, notamment toute demande de paiement ou réclamation écrite adressée à l'administration, et il peut être relevé en cas d'ignorance légitime de la créance ou de fait de l'administration. La déchéance n'est pas soulevée d'office par le juge : l'administration doit l'opposer."
+        "body": "Le créancier notifie la réduction proportionnelle du prix et l'acceptation par le débiteur doit être écrite. Si le prix n'est pas encore payé, le créancier le réduit d'office ; s'il l'est déjà, la différence est restituée. Le débiteur peut contester devant le juge, qui contrôle la proportionnalité de la réduction."
       },
       {
         "h": "Portée",
-        "body": "Elle constitue un moyen de défense redoutable pour l'administration en contentieux indemnitaire. À ne pas confondre avec la forclusion, qui sanctionne l'inobservation d'un délai pour agir, ni avec la prescription de droit commun."
+        "body": "À distinguer de la résolution partielle, qui supprime une part du contrat, et des dommages et intérêts, qui réparent un préjudice : la réfaction ajuste l'équilibre des prestations sans exiger la preuve d'un dommage. Elle n'a de sens que si l'inexécution est partielle ou imparfaite et la prestation divisible."
       }
     ],
-    "seeAlso": "Voir aussi — forclusion · prescription extinctive · interruption de la prescription · responsabilité sans faute de l'administration"
+    "seeAlso": "Voir aussi — exception d'inexécution (art. 1219) · résolution par notification (art. 1226) · exécution forcée en nature (art. 1221)"
   },
   "date": "2026-10-12",
   "dateShort": "12 oct.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 46,
     "title": "La constante de Hubble : à quelle vitesse l'univers s'étend-il ?",

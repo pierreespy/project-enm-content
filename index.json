@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-12",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-12",
+      "slot": "midi",
+      "file": "editions/2026-10-12-midi.json",
+      "essentiel": "Vol retardé par le contrôle aérien : la Cour de justice de l'Union européenne désavoue, pour la première fois, le Tribunal sur le droit à indemnisation",
+      "term": "Réfaction",
+      "rubriques": [
+        "Semaine du 12 octobre : l'Assemblée nationale bascule sur la discussion budgétaire, le Sénat examine les stocks de sécurité des médicaments",
+        "Cass. 3 septembre 2026, n° 25-14.904 : la hausse forfaitaire et automatique du loyer d'un bail commercial, sans limite de durée ni plafond, est réputée non écrite",
+        "Injonction relative aux bénéficiaires effectifs : de la régularité de la notification",
+        "Le statut juridique de l'animal : une note à retenir de la semaine",
+        "Avocats aux Conseils : consultation publique de l'Autorité de la concurrence sur la liberté d'installation, jusqu'au 5 novembre",
+        "Prix Nobel d'économie 2026 : annonce prévue ce lundi à 11 h 45 (heure de Stockholm)"
+      ]
+    },
     {
       "date": "2026-10-12",
       "slot": "matin",
