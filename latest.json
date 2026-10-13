@@ -1,121 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Vol retardé par le contrôle aérien : la Cour de justice de l'Union européenne désavoue, pour la première fois, le Tribunal sur le droit à indemnisation",
-    "dek": "Par un arrêt du 8 octobre 2026, la Cour de justice se prononce sur l'indemnité due aux passagers lorsque le retard d'un vol tient au contrôle aérien, et censure l'analyse retenue par le Tribunal. Le commentaire est au cœur de l'édito de la semaine de Dalloz Actualité publié ce lundi 12 octobre.",
-    "source": "CJUE, 8 octobre 2026 (commentaire Cabinet Kohen, 12 octobre 2026)",
-    "url": "https://kohenavocats.fr/2026/10/12/vol-retarde-controle-aerien-indemnite-compagnie-desaveu-tribunal-cour-justice-8-octobre-2026"
+    "title": "Fusion-absorption et responsabilité pénale : la Cour de cassation juge que la seule concomitance avec la mise en examen de la société absorbée ne prouve pas la fraude",
+    "dek": "Par un arrêt du 29 septembre 2026, la chambre criminelle casse partiellement une décision de la cour d'appel de Bordeaux du 28 mai 2024 qui avait fait répondre la société absorbante des faits de l'absorbée. Les juges doivent décrire un ensemble d'indices ; la règle posée en 2020 n'est pas remise en cause.",
+    "source": "Cass. crim., 29 sept. 2026, n° 25-82.579 (La Tribune du Droit, 7 oct. 2026)",
+    "url": "https://latribunedudroit.lexjob.fr/2026/10/07/fusion-absorption-et-responsabilite-penale-la-cour-de-cassation-precise-les-contours-de-lexception-de-fraude/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Semaine du 12 octobre : l'Assemblée nationale bascule sur la discussion budgétaire, le Sénat examine les stocks de sécurité des médicaments",
-      "summary": "La conférence des présidents de juillet a fait de la semaine du 12 octobre une semaine consacrée aux textes budgétaires (PLF et PLFSS 2027), tandis que le Sénat inscrit mardi 13 octobre une proposition de loi sur les stocks de sécurité des médicaments.",
-      "source": "Assemblée nationale, relevé de conclusions de la conférence des présidents ; Sénat, ordre du jour",
-      "url": "https://www2.assemblee-nationale.fr/17/la-conference-des-presidents/releve-de-conclusions/reunion-du-mercredi-15-juillet-2026",
+      "title": "Espaces sans tabac : le décret n° 2025-582 du 27 juin 2025 étend l'interdiction aux plages, parcs, abribus et abords des écoles",
+      "summary": "Le texte interdit de fumer dans les lieux collectifs ainsi énumérés, un arrêté du 21 juillet 2025 fixant à 10 mètres le périmètre autour des accès concernés ; les terrasses n'y figurent pas.",
+      "source": "Décret n° 2025-582 du 27 juin 2025 (Banque des Territoires)",
+      "url": "https://www.banquedesterritoires.fr/extension-des-espaces-sans-tabac-le-decret-est-paru",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass. 3 septembre 2026, n° 25-14.904 : la hausse forfaitaire et automatique du loyer d'un bail commercial, sans limite de durée ni plafond, est réputée non écrite",
-      "summary": "La Cour de cassation écarte la clause prévoyant une augmentation annuelle fixe de 1,5 %, qui n'est pas une échelle mobile indexée mais une hausse sans contrepartie, contraire à l'ordre public du régime des loyers commerciaux.",
-      "source": "Cass., 3 sept. 2026, n° 25-14.904 (Actu-Juridique)",
-      "url": "https://www.actu-juridique.fr/civil/immobilier/bail-commercial-nullite-de-la-clause-dechelle-mobile-ne-jouant-qua-la-hausse/",
+      "title": "Fusion-absorption et fraude à la loi : la chambre criminelle exige un faisceau d'indices, pas la seule concomitance avec l'instruction",
+      "summary": "Le 29 septembre 2026, la chambre criminelle casse partiellement un arrêt de la cour d'appel de Bordeaux qui déduisait la fraude du seul fait que la fusion était intervenue après la mise en examen de la société absorbée.",
+      "source": "Cass. crim., 29 sept. 2026, n° 25-82.579 (Kohen Avocats)",
+      "url": "https://kohenavocats.com/fusion-absorption-fraude-loi-mise-en-examen-condamner-societe-absorbante-29-septembre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Injonction relative aux bénéficiaires effectifs : de la régularité de la notification",
-      "summary": "Un commentaire d'arrêt de la Cour de cassation rappelle que, pour sanctionner la société qui n'a pas déclaré ses bénéficiaires effectifs, le juge du fond doit rechercher si l'ordonnance d'injonction a été régulièrement notifiée.",
-      "source": "Le Monde du Droit, 8 octobre 2026",
-      "url": "https://lemondedudroit.fr/decryptages/379-actualite-juridique/106135-injonction-relative-aux-beneficiaires-effectifs-de-la-regularite-de-la-notification.html",
+      "title": "L'opposition des créanciers à la fusion-absorption : recevabilité, garanties et inopposabilité (2023-2026)",
+      "summary": "Une synthèse de la jurisprudence récente sur les conditions de l'opposition des créanciers, la constitution de garanties et la sanction de l'inopposabilité.",
+      "source": "Kohen Avocats, 11 septembre 2026",
+      "url": "https://kohenavocats.fr/2026/09/11/opposition-creanciers-fusion-absorption-garanties-inopposabilite-2023-2026/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "Le statut juridique de l'animal : une note à retenir de la semaine",
-      "summary": "Dalloz Étudiant met en avant une note du 7 octobre sur la place de l'animal en droit, entre être sensible et bien soumis au régime des biens.",
-      "source": "Dalloz Étudiant, 7 octobre 2026",
-      "url": "https://actu.dalloz-etudiant.fr/a-la-une/archalaune.html",
+      "title": "13 octobre 1307 : sur ordre de Philippe le Bel, les Templiers de France sont arrêtés au même moment",
+      "summary": "Préparée en secret, l'opération dirigée notamment par Guillaume de Nogaret vise toutes les commanderies du royaume et ouvre le procès de l'ordre, dont le grand maître Jacques de Molay sera brûlé en 1314.",
+      "source": "Hérodote.net",
+      "url": "https://www.herodote.net/13_octobre_1307-evenement-13071013.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Avocats aux Conseils : consultation publique de l'Autorité de la concurrence sur la liberté d'installation, jusqu'au 5 novembre",
-      "summary": "L'Autorité de la concurrence recueille jusqu'au 5 novembre 2026 les observations des professionnels sur l'ouverture de l'installation des avocats au Conseil d'État et à la Cour de cassation.",
-      "source": "Le Monde du Droit, 7 octobre 2026",
-      "url": "https://lemondedudroit.fr/decryptages/379-actualite-juridique/106103-liberte-d-installation-des-avocats-au-conseils-consultation-publique.html",
+      "title": "Cour d'assises de la Gironde : ouverture de la session n° 18 le 12 octobre 2026 par la révision de la liste des jurés",
+      "summary": "Le rôle de la session débute par une audience publique à 9 h 30 consacrée à la révision de la liste des jurés, étape préalable au tirage au sort des jurés de chaque affaire.",
+      "source": "Cour d'appel de Bordeaux, rôle des assises (12 oct. 2026)",
+      "url": "https://www.cours-appel.justice.fr/sites/default/files/2026-09/Modif%202%20-%20Session%2018%20sect.1%20Assises%20Bis%20-%2012%20oct.%202026.pdf",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Prix Nobel d'économie 2026 : annonce prévue ce lundi à 11 h 45 (heure de Stockholm)",
-      "summary": "Le prix de la Banque de Suède en sciences économiques est annoncé ce 12 octobre par l'Académie royale des sciences ; le palmarès officiel est publié sur le site de la Fondation Nobel.",
-      "source": "Fondation Nobel",
-      "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-economic-sciences/",
+      "title": "Prix Nobel d'économie 2026 : Michael Woodford et Robert Hall distingués pour les fondements microéconomiques de la stabilisation macroéconomique",
+      "summary": "Annoncé lundi 12 octobre, le prix est partagé entre les deux économistes américains, dont les modèles sont utilisés par les banques centrales et les ministères des Finances.",
+      "source": "Guineematin.com, 12 octobre 2026",
+      "url": "https://guineematin.com/2026/10/12/le-prix-nobel-deconomie-2026-attribue-a-deux-americains/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Réfaction",
-    "subtitle": "Droit des contrats · Articles 1223 et 1217 du Code civil",
-    "defShort": "Réduction du prix proportionnelle à l'inexécution partielle ou imparfaite du contrat, que le créancier peut décider lui-même, par notification, sans passer par le juge.",
+    "term": "Délai-butoir",
+    "subtitle": "Droit civil · Article 2232 du Code civil",
+    "defShort": "Plafond de vingt ans, à compter de la naissance du droit, au-delà duquel la prescription extinctive ne peut plus être repoussée par un report, une suspension ou une interruption.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Lorsque le débiteur n'exécute pas ou exécute mal sa prestation, le créancier qui n'a pas encore payé, ou qui a payé et veut être remboursé, peut réclamer une diminution du prix. Cette sanction, issue de la réforme du droit des obligations de 2016, est unilatérale : le créancier la décide seul, sans saisir le juge."
+        "body": "Le délai-butoir ne se confond pas avec le délai de prescription : il borne la durée totale pendant laquelle l'action peut être exercée, quelles que soient les causes de report, de suspension ou d'interruption. Un titulaire dont la prescription n'a pas commencé à courir faute de connaissance du dommage se heurte néanmoins à cette limite."
       },
       {
         "h": "Fondement",
-        "body": "L'article 1223 du Code civil la place parmi les remèdes à l'inexécution, aux côtés de l'exception d'inexécution, de l'exécution forcée, de la résolution et des dommages et intérêts (art. 1217). Elle suppose une mise en demeure préalable infructueuse, puis une notification rapide de la décision de réduire le prix."
+        "body": "Il résulte de l'article 2232 du Code civil, issu de la loi du 17 juin 2008 portant réforme de la prescription en matière civile. Le délai est fixé à vingt ans à compter du jour de la naissance du droit ; l'alinéa 2 du même article prévoit des exceptions limitativement énumérées."
       },
       {
-        "h": "Mécanisme",
-        "body": "Le créancier notifie la réduction proportionnelle du prix et l'acceptation par le débiteur doit être écrite. Si le prix n'est pas encore payé, le créancier le réduit d'office ; s'il l'est déjà, la différence est restituée. Le débiteur peut contester devant le juge, qui contrôle la proportionnalité de la réduction."
+        "h": "Cas visés",
+        "body": "Il joue notamment lorsque le point de départ glissant de la prescription (jour où le titulaire a connu ou aurait dû connaître les faits) est très tardif : même si le délai de cinq ans de l'article 2224 n'a pas commencé à courir, l'action s'éteint vingt ans après la naissance du droit."
       },
       {
         "h": "Portée",
-        "body": "À distinguer de la résolution partielle, qui supprime une part du contrat, et des dommages et intérêts, qui réparent un préjudice : la réfaction ajuste l'équilibre des prestations sans exiger la preuve d'un dommage. Elle n'a de sens que si l'inexécution est partielle ou imparfaite et la prestation divisible."
+        "body": "Le délai-butoir ne peut être écarté par les mécanismes qui jouent sur le cours de la prescription : c'est sa raison d'être, la sécurité juridique commandant de ne pas laisser une action ouverte indéfiniment. Il se distingue ainsi des causes d'interruption, qui font courir un nouveau délai, mais dans le plafond qu'il fixe."
       }
     ],
-    "seeAlso": "Voir aussi — exception d'inexécution (art. 1219) · résolution par notification (art. 1226) · exécution forcée en nature (art. 1221)"
+    "seeAlso": "Voir aussi — point de départ glissant (art. 2224) · suspension de la prescription (art. 2230) · interruption de la prescription (art. 2240 s.) · prescription extinctive (art. 2219)"
   },
-  "date": "2026-10-12",
-  "dateShort": "12 oct.",
-  "slot": "midi",
+  "date": "2026-10-13",
+  "dateShort": "13 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 46,
-    "title": "La constante de Hubble : à quelle vitesse l'univers s'étend-il ?",
-    "subtitle": "Un seul nombre pour dire à quel rythme les galaxies s'éloignent les unes des autres",
+    "n": 47,
+    "title": "Deux mesures de la constante de Hubble, deux résultats",
+    "subtitle": "Pourquoi deux méthodes également sérieuses ne s'accordent pas sur le rythme de l'expansion",
     "duration": "3 min",
     "sections": [
       {
-        "h": "Plus c'est loin, plus ça s'éloigne vite",
-        "body": "Les mesures de distance et de décalage vers le rouge, ce changement de couleur de la lumière qui traduit un éloignement, révèlent une régularité : plus une galaxie est lointaine, plus elle s'éloigne vite de nous. Ce n'est pas un hasard de notre position. C'est ce que produit l'expansion de l'univers, l'étirement de l'espace entre les galaxies : chaque galaxie s'éloigne de toutes les autres, et l'écart grandit proportionnellement à la distance."
+        "h": "Première méthode : l'échelle des distances",
+        "body": "On peut mesurer la constante de Hubble en suivant l'échelle des distances : des étoiles proches, dont on connaît la luminosité, servent à étalonner des supernovae lointaines, dont on compare la vitesse d'éloignement à la distance. Cette méthode part de l'univers proche, tel qu'il est aujourd'hui, et donne une valeur d'environ 73 kilomètres par seconde pour 3,3 millions d'années-lumière."
       },
       {
-        "h": "Un nombre pour le rythme de l'expansion",
-        "body": "On résume cette régularité par un seul nombre, la constante de Hubble : la vitesse d'éloignement supplémentaire que l'on gagne à chaque tranche de distance. Elle vaut environ 70 kilomètres par seconde pour 3,3 millions d'années-lumière. Une galaxie située deux fois plus loin s'éloigne donc deux fois plus vite. Le mot « constante » est trompeur : elle est la même partout à un instant donné, mais sa valeur change au fil de l'histoire de l'univers."
+        "h": "Seconde méthode : le rayonnement fossile",
+        "body": "L'autre méthode part de l'univers très jeune. Le rayonnement fossile, cette lumière émise lorsque l'univers est devenu transparent, porte l'empreinte de la matière présente à l'époque. À partir d'elle, on calcule, grâce aux lois physiques admises, le rythme de l'expansion aujourd'hui. On obtient environ 67 kilomètres par seconde pour la même distance."
       },
       {
-        "h": "Pourquoi sa valeur compte",
-        "body": "Connaître ce rythme permet de remonter le temps : plus l'expansion est rapide aujourd'hui, plus l'univers a mis peu de temps à atteindre sa taille actuelle, donc plus il est jeune. Mesurer la constante de Hubble avec précision revient ainsi à estimer l'âge de l'univers. Et comme elle s'appuie sur l'échelle des distances, toute erreur sur celle-ci s'y répercute."
+        "h": "Un écart qui résiste",
+        "body": "La différence, de l'ordre de 8 %, est pourtant supérieure à ce que laissent attendre les incertitudes annoncées. On l'appelle la tension de Hubble. Soit l'une des mesures cache une erreur encore inconnue, soit le modèle qui relie l'univers jeune à l'univers actuel est incomplet. Le débat reste ouvert."
       }
     ],
     "keyTerms": [
       {
-        "term": "Constante de Hubble",
-        "def": "Nombre qui indique de combien la vitesse d'éloignement des galaxies augmente à mesure que leur distance croît ; il mesure le rythme actuel de l'expansion de l'univers."
+        "term": "Tension de Hubble",
+        "def": "Désaccord entre la valeur de la constante de Hubble mesurée dans l'univers proche et celle déduite du rayonnement fossile, trop grand pour s'expliquer par les seules incertitudes de mesure."
       }
     ],
-    "recap": "Les galaxies s'éloignent d'autant plus vite qu'elles sont lointaines, et la constante de Hubble chiffre ce rythme, dont dépend l'âge de l'univers.",
-    "next": "Demain — deux manières de mesurer la constante de Hubble, et pourquoi elles ne donnent pas tout à fait le même résultat."
+    "recap": "Mesurée dans l'univers proche ou déduite de l'univers jeune, la constante de Hubble prend deux valeurs qui ne concordent pas : c'est la tension de Hubble.",
+    "next": "Demain — ce que la valeur de la constante de Hubble change à l'estimation de l'âge de l'univers."
   }
 }

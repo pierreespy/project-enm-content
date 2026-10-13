@@ -1,0 +1,28 @@
+{
+  "n": 47,
+  "title": "Deux mesures de la constante de Hubble, deux résultats",
+  "subtitle": "Pourquoi deux méthodes également sérieuses ne s'accordent pas sur le rythme de l'expansion",
+  "duration": "3 min",
+  "sections": [
+    {
+      "h": "Première méthode : l'échelle des distances",
+      "body": "On peut mesurer la constante de Hubble en suivant l'échelle des distances : des étoiles proches, dont on connaît la luminosité, servent à étalonner des supernovae lointaines, dont on compare la vitesse d'éloignement à la distance. Cette méthode part de l'univers proche, tel qu'il est aujourd'hui, et donne une valeur d'environ 73 kilomètres par seconde pour 3,3 millions d'années-lumière."
+    },
+    {
+      "h": "Seconde méthode : le rayonnement fossile",
+      "body": "L'autre méthode part de l'univers très jeune. Le rayonnement fossile, cette lumière émise lorsque l'univers est devenu transparent, porte l'empreinte de la matière présente à l'époque. À partir d'elle, on calcule, grâce aux lois physiques admises, le rythme de l'expansion aujourd'hui. On obtient environ 67 kilomètres par seconde pour la même distance."
+    },
+    {
+      "h": "Un écart qui résiste",
+      "body": "La différence, de l'ordre de 8 %, est pourtant supérieure à ce que laissent attendre les incertitudes annoncées. On l'appelle la tension de Hubble. Soit l'une des mesures cache une erreur encore inconnue, soit le modèle qui relie l'univers jeune à l'univers actuel est incomplet. Le débat reste ouvert."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Tension de Hubble",
+      "def": "Désaccord entre la valeur de la constante de Hubble mesurée dans l'univers proche et celle déduite du rayonnement fossile, trop grand pour s'expliquer par les seules incertitudes de mesure."
+    }
+  ],
+  "recap": "Mesurée dans l'univers proche ou déduite de l'univers jeune, la constante de Hubble prend deux valeurs qui ne concordent pas : c'est la tension de Hubble.",
+  "next": "Demain — ce que la valeur de la constante de Hubble change à l'estimation de l'âge de l'univers."
+}

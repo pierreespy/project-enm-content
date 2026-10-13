@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12",
-  "count": 46,
+  "updated": "2026-10-13",
+  "count": 47,
   "lessons": [
     {
       "n": 1,
@@ -401,6 +401,14 @@
       "title": "La constante de Hubble : à quelle vitesse l'univers s'étend-il ?",
       "terms": [
         "Constante de Hubble"
+      ]
+    },
+    {
+      "n": 47,
+      "file": "astro/lessons/047-la-tension-de-hubble.json",
+      "title": "Deux mesures de la constante de Hubble, deux résultats",
+      "terms": [
+        "Tension de Hubble"
       ]
     }
   ]

@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-12",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-10-13",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-13",
+      "slot": "matin",
+      "file": "editions/2026-10-13-matin.json",
+      "essentiel": "Fusion-absorption et responsabilité pénale : la Cour de cassation juge que la seule concomitance avec la mise en examen de la société absorbée ne prouve pas la fraude",
+      "term": "Délai-butoir",
+      "rubriques": [
+        "Espaces sans tabac : le décret n° 2025-582 du 27 juin 2025 étend l'interdiction aux plages, parcs, abribus et abords des écoles",
+        "Fusion-absorption et fraude à la loi : la chambre criminelle exige un faisceau d'indices, pas la seule concomitance avec l'instruction",
+        "L'opposition des créanciers à la fusion-absorption : recevabilité, garanties et inopposabilité (2023-2026)",
+        "13 octobre 1307 : sur ordre de Philippe le Bel, les Templiers de France sont arrêtés au même moment",
+        "Cour d'assises de la Gironde : ouverture de la session n° 18 le 12 octobre 2026 par la révision de la liste des jurés",
+        "Prix Nobel d'économie 2026 : Michael Woodford et Robert Hall distingués pour les fondements microéconomiques de la stabilisation macroéconomique"
+      ]
+    },
     {
       "date": "2026-10-12",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "28 septembre 1958 : les Français adoptent par référendum la Constitution de la Ve République",
         "Harcèlement et discrimination dans la profession : le CNB propose de rendre publiques les sanctions disciplinaires",
         "Mondiaux de cyclisme sur route : l'Américain Brandon McNulty sacré à la surprise générale à Montréal"
-      ]
-    },
-    {
-      "date": "2026-09-27",
-      "slot": "midi",
-      "file": "editions/2026-09-27-midi.json",
-      "essentiel": "Élections sénatoriales 2026 : la moitié du Sénat renouvelée ce dimanche, 178 sièges de la série 2 en jeu",
-      "term": "Tierce opposition",
-      "rubriques": [
-        "Crues transfrontalières : la France publie sa convention avec la Région flamande pour le polder de Dunkerque - Furnes-les-Moëres",
-        "Marque et véracité : la Cour de cassation confirme l'annulation de « Fauré Le Page Paris 1717 » pour tromperie sur l'ancienneté revendiquée",
-        "Le droit peut-il relancer la natalité ? Un colloque franco-japonais réunit sept universités à Aix-en-Provence",
-        "27 septembre 1529 : Soliman le Magnifique met le siège devant Vienne, plus haute marque de l'expansion ottomane en Europe",
-        "Nuit du Droit 2026 : le Conseil d'État et les tribunaux administratifs ouvrent leurs portes le 5 octobre, l'anniversaire de la Constitution tombant un dimanche",
-        "Seine-Marathon 76 : plus de 16 000 coureurs sur les quais de Rouen pour la 8e édition"
-      ]
-    },
-    {
-      "date": "2026-09-27",
-      "slot": "matin",
-      "file": "editions/2026-09-27-matin.json",
-      "essentiel": "Assassinat de Federico Martín Aramburu : Loïk Le Priol condamné à 26 ans de réclusion, Romain Bouvier à 19 ans de prison",
-      "term": "Convention de croupier",
-      "rubriques": [
-        "Douanes : le règlement créant l'Autorité douanière de l'Union, siégeant à Lille, est publié au Journal officiel de l'UE",
-        "Médecine du travail : le seul non-respect des préconisations d'aménagement de poste ouvre droit à réparation",
-        "L'accès à l'eau potable, entre service public et droit fondamental : une thèse soutenue à Paris-Panthéon-Assas",
-        "27 septembre 1822 : Champollion lit sa « Lettre à M. Dacier » et annonce le déchiffrement des hiéroglyphes",
-        "Apport d'affaires entre avocats : le CNB ouvre une consultation de la profession sur une possible rémunération",
-        "Le pape Léon XIV célèbre une messe géante au sanctuaire de Lourdes"
       ]
     }
   ]
