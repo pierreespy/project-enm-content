@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-13",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-13",
+      "slot": "midi",
+      "file": "editions/2026-10-13-midi.json",
+      "essentiel": "Virement exécuté hors du protocole de sécurité convenu : la chambre commerciale refuse à la banque d'opposer la négligence grave de son client",
+      "term": "Quasi-usufruit",
+      "rubriques": [
+        "Décret n° 2026-948 du 12 octobre 2026 : les modalités de la majoration de durée d'assurance pour l'exercice d'un mandat local",
+        "Devoir de vigilance : le tribunal judiciaire de Paris enjoint à TotalEnergies de compléter son plan sur le climat, la société a fait appel",
+        "Devoir de vigilance et droit pénal : ce que la condamnation d'Yves Rocher du 12 mars 2026 change pour les entreprises assujetties",
+        "Prix Nobel de la paix 2026 : la juriste sud-africaine Navi Pillay récompensée pour son action en faveur du droit international",
+        "Élections du Conseil national des barreaux : scrutin le 24 novembre, professions de foi à transmettre avant le 23 octobre",
+        "Budget 2027 : le projet de loi de finances vise un déficit public de 5,0 % du PIB, vote solennel sur la première partie le 20 octobre"
+      ]
+    },
     {
       "date": "2026-10-13",
       "slot": "matin",
