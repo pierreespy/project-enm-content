@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-13",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-10-14",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-14",
+      "slot": "matin",
+      "file": "editions/2026-10-14-matin.json",
+      "essentiel": "Mis en examen incapable de se défendre : la chambre criminelle, en formation solennelle, abandonne le sursis au renvoi devant les assises",
+      "term": "Évocation",
+      "rubriques": [
+        "Décret n° 2026-936 du 8 octobre 2026 : les modalités de la taxe de répartition des coûts du mécanisme de capacité",
+        "Fouille d'une cellule, examen d'un véhicule : la chambre criminelle trace la frontière avec la perquisition",
+        "Le double régime de la preuve en procédure pénale : loyauté exigée de l'autorité publique, liberté quasi absolue du particulier (2023-2026)",
+        "14 octobre 1066 : Guillaume le Conquérant bat le roi Harold II à Hastings",
+        "Convention nationale des avocats 2026 : rendez-vous à Toulouse du 21 au 23 octobre, autour de l'intelligence artificielle et de l'accès au droit",
+        "Prix Nobel de chimie 2026 : Henri B. Kagan et Kenso Soai distingués"
+      ]
+    },
     {
       "date": "2026-10-13",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "29 septembre 1898 : Samory Touré est capturé par le capitaine Gouraud",
         "Élections du CNB 2026 : les candidatures doivent être déposées au plus tard le 30 septembre",
         "Grève dans la fonction publique ce mardi : huit syndicats mobilisés contre le gel du point d'indice"
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "slot": "midi",
-      "file": "editions/2026-09-28-midi.json",
-      "essentiel": "Crash d'Air Algérie en 2014 : la compagnie Swiftair condamnée à 225 000 euros d'amende pour homicides involontaires",
-      "term": "Délégation imparfaite",
-      "rubriques": [
-        "Accessibilité des produits et services : un décret du 23 septembre 2026 muscle son application dans le code de la consommation",
-        "Compte courant d'associé : la chambre commerciale précise le sort des intérêts en procédure collective",
-        "Quarante ans du droit français de la concurrence devant le juge judiciaire : un colloque à la Cour de cassation",
-        "28 septembre : Journée internationale de l'accès universel à l'information",
-        "Décret « Magicobus III » : ce qui change en procédure civile à compter du 1er octobre 2026",
-        "Ligue des nations : première sortie à risque pour les Bleus de Zinédine Zidane à Bruxelles"
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "slot": "matin",
-      "file": "editions/2026-09-28-matin.json",
-      "essentiel": "Fusillade de Maurepas à Rennes : jusqu'à 25 ans de réclusion pour les tirs sur des policiers",
-      "term": "Prescription glissante",
-      "rubriques": [
-        "Pêche : un décret du 26 septembre 2026 reconduit l'aide de trésorerie liée à la flambée des carburants",
-        "Diffamation non publique : le courriel adressé à l'avocat de la partie adverse reste couvert par le secret des correspondances",
-        "Conflits armés et environnement : une thèse soutenue ce lundi à Perpignan",
-        "28 septembre 1958 : les Français adoptent par référendum la Constitution de la Ve République",
-        "Harcèlement et discrimination dans la profession : le CNB propose de rendre publiques les sanctions disciplinaires",
-        "Mondiaux de cyclisme sur route : l'Américain Brandon McNulty sacré à la surprise générale à Montréal"
       ]
     }
   ]

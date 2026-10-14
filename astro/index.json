@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13",
-  "count": 47,
+  "updated": "2026-10-14",
+  "count": 48,
   "lessons": [
     {
       "n": 1,
@@ -409,6 +409,14 @@
       "title": "Deux mesures de la constante de Hubble, deux résultats",
       "terms": [
         "Tension de Hubble"
+      ]
+    },
+    {
+      "n": 48,
+      "file": "astro/lessons/048-l-age-de-l-univers-et-la-constante-de-hubble.json",
+      "title": "Ce que la constante de Hubble dit de l'âge de l'univers",
+      "terms": [
+        "Âge de l'univers"
       ]
     }
   ]

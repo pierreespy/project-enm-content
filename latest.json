@@ -1,121 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Virement exécuté hors du protocole de sécurité convenu : la chambre commerciale refuse à la banque d'opposer la négligence grave de son client",
-    "dek": "Dans un arrêt du 8 octobre 2026 publié au Bulletin, la chambre commerciale, financière et économique juge que la banque qui accepte un ordre transmis en dehors du protocole de sécurité convenu avec son client ne peut pas se prévaloir de la négligence grave de celui-ci pour refuser le remboursement. L'affaire est renvoyée devant la cour d'appel de Paris, autrement composée.",
-    "source": "Cass. com., 8 oct. 2026, n° 25-17.510, FS-B (Cour de cassation ; presse spécialisée)",
-    "url": "https://www.courdecassation.fr/"
+    "title": "Mis en examen incapable de se défendre : la chambre criminelle, en formation solennelle, abandonne le sursis au renvoi devant les assises",
+    "dek": "Par un arrêt du 7 octobre 2026 publié au Bulletin, la chambre criminelle opère un revirement : l'altération des facultés de la personne mise en examen, qui l'empêche de se défendre elle-même, ne suspend plus son renvoi devant la juridiction de jugement. Le contrôle de la capacité à être jugé se déplace vers la juridiction de jugement.",
+    "source": "Cass. crim., 7 oct. 2026, n° 26-84.139, formation solennelle (Kohen Avocats)",
+    "url": "https://kohenavocats.com/capacite-a-etre-juge-revirement-chambre-criminelle-7-octobre-2026-mise-en-accusation/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Décret n° 2026-948 du 12 octobre 2026 : les modalités de la majoration de durée d'assurance pour l'exercice d'un mandat local",
-      "summary": "Publié au Journal officiel du 13 octobre 2026, le texte définit les modalités d'application de la majoration de durée d'assurance retraite accordée aux titulaires d'un mandat local.",
-      "source": "JORF n° 0239 du 13 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/13/0239",
+      "title": "Décret n° 2026-936 du 8 octobre 2026 : les modalités de la taxe de répartition des coûts du mécanisme de capacité",
+      "summary": "Le texte précise la constatation, le paiement et le régime des acomptes de la taxe, et prévoit que, pour la première période de livraison (1er novembre 2026 – 31 mars 2027), seuls RTE et Enedis seront redevables du premier acompte.",
+      "source": "Décret n° 2026-936 du 8 oct. 2026, JORF n° 0236 du 9 oct. 2026 (Landot Avocats)",
+      "url": "https://blog.landot-avocats.net/2026/10/11/energie-publication-du-decret-sur-le-nouveau-regime-de-mecanisme-de-capacite/",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Devoir de vigilance : le tribunal judiciaire de Paris enjoint à TotalEnergies de compléter son plan sur le climat, la société a fait appel",
-      "summary": "Par une décision du 25 juin 2026, le juge parisien ordonne à la société de compléter son plan de vigilance en matière climatique, décision dont appel a été interjeté.",
-      "source": "Trib. jud. Paris, 25 juin 2026 (relevé par Kohen Avocats, 13 oct. 2026)",
-      "url": "https://kohenavocats.fr/2026/10/13/devoir-vigilance-droit-penal-condamnation-yves-rocher-entreprise-assujettie-2026/",
+      "title": "Fouille d'une cellule, examen d'un véhicule : la chambre criminelle trace la frontière avec la perquisition",
+      "summary": "Par deux arrêts publiés du 7 octobre 2026, elle rejette un pourvoi contestant une fouille menée par l'administration pénitentiaire et juge que l'examen d'un véhicule relève de l'article 54 du code de procédure pénale, non d'une perquisition.",
+      "source": "Cass. crim., 7 oct. 2026, n° 26-81.370 et n° 26-80.496 (Kohen Avocats)",
+      "url": "https://kohenavocats.com/fouille-cellule-vehicule-sans-perquisition-frontiere-domicile-cassation-7-octobre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Devoir de vigilance et droit pénal : ce que la condamnation d'Yves Rocher du 12 mars 2026 change pour les entreprises assujetties",
-      "summary": "Une analyse publiée le 13 octobre examine l'articulation entre le devoir de vigilance et la responsabilité pénale des sociétés qui y sont soumises.",
-      "source": "Kohen Avocats, blog, 13 oct. 2026",
-      "url": "https://kohenavocats.fr/2026/10/13/devoir-vigilance-droit-penal-condamnation-yves-rocher-entreprise-assujettie-2026/",
+      "title": "Le double régime de la preuve en procédure pénale : loyauté exigée de l'autorité publique, liberté quasi absolue du particulier (2023-2026)",
+      "summary": "Une étude de la jurisprudence récente sur le stratagème d'une partie privée, que la chambre criminelle tolère alors qu'elle sanctionne celui de l'autorité publique.",
+      "source": "Kohen Avocats, étude de jurisprudence 2023-2026",
+      "url": "https://kohenavocats.com/loyaute-preuve-penale-stratageme-partie-privee-2023-2026/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "Prix Nobel de la paix 2026 : la juriste sud-africaine Navi Pillay récompensée pour son action en faveur du droit international",
-      "summary": "Le comité Nobel norvégien a distingué le 9 octobre Navanethem Pillay, 85 ans, pour avoir contribué à ce que crimes de guerre, crimes contre l'humanité et génocide soient poursuivis ; la remise aura lieu à Oslo le 10 décembre.",
-      "source": "franceinfo, 9 oct. 2026",
-      "url": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-la-paix-est-decerne-a-la-sud-africaine-navanethem-navi-pillay-pour-ses-efforts-en-faveur-de-la-promotion-de-la-paix-et-du-droit-international_8229787.html",
+      "title": "14 octobre 1066 : Guillaume le Conquérant bat le roi Harold II à Hastings",
+      "summary": "La victoire du duc de Normandie lui ouvre la couronne d'Angleterre, qu'il reçoit à Noël de la même année, et bouleverse durablement l'organisation du royaume.",
+      "source": "Wikipédia, « Bataille d'Hastings »",
+      "url": "https://fr.wikipedia.org/wiki/Bataille_d%27Hastings",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Élections du Conseil national des barreaux : scrutin le 24 novembre, professions de foi à transmettre avant le 23 octobre",
-      "summary": "Seize sièges sont à pourvoir pour la circonscription de Paris et vingt-quatre pour la circonscription nationale hors Paris, les résultats étant attendus le 25 novembre.",
-      "source": "Conseil national des barreaux",
-      "url": "https://cnb.avocat.fr/elections-du-conseil-national-des-barreaux-2026",
+      "title": "Convention nationale des avocats 2026 : rendez-vous à Toulouse du 21 au 23 octobre, autour de l'intelligence artificielle et de l'accès au droit",
+      "summary": "Organisée par le Conseil national des barreaux avec les barreaux de Toulouse, d'Albi et de Montauban, la manifestation fait de l'intelligence artificielle et de l'accès au droit ses deux thèmes principaux.",
+      "source": "Le Monde du Droit (CNB)",
+      "url": "https://www.lemondedudroit.fr/institutions/105958-toulouse-accueille-la-convention-nationale-des-avocats-2026.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Budget 2027 : le projet de loi de finances vise un déficit public de 5,0 % du PIB, vote solennel sur la première partie le 20 octobre",
-      "summary": "Présenté comme un budget de « stabilité fiscale », le texte est examiné en première partie du 12 au 19 octobre, la seconde partie devant débuter le 27 octobre.",
-      "source": "Assemblée nationale, organisation de la discussion budgétaire ; DWF",
-      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plf_2027",
+      "title": "Prix Nobel de chimie 2026 : Henri B. Kagan et Kenso Soai distingués",
+      "summary": "Annoncé le 7 octobre, le prix couronne un chercheur français et un chercheur japonais ; chaque prix est doté cette année de 12 millions de couronnes suédoises, pour le 125e anniversaire.",
+      "source": "Nobel Prize Outreach (annonce du prix de chimie 2026)",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/prize-announcement/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Quasi-usufruit",
-    "subtitle": "Droit civil · Article 587 du Code civil",
-    "defShort": "Usufruit portant sur des choses consomptibles (une somme d'argent, des denrées) : l'usufruitier peut en disposer, à charge de restituer à la fin de l'usufruit des choses de même quantité et qualité, ou leur valeur.",
+    "term": "Évocation",
+    "subtitle": "Procédure civile · Article 568 du Code de procédure civile",
+    "defShort": "Faculté pour la cour d'appel, lorsqu'elle infirme ou annule un jugement avant dire droit ou statuant sur une exception de procédure, de trancher elle-même le fond du litige au lieu de renvoyer l'affaire au premier juge.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'usufruit confère l'usage et les fruits d'un bien dont on ne doit pas altérer la substance. Or une somme d'argent ou une denrée se consomme par le premier usage : l'usufruitier ne pourrait ni la dépenser ni la rendre. Le quasi-usufruit organise ce paradoxe : il devient propriétaire de la chose et doit restituer son équivalent."
+        "body": "L'évocation est une dérogation à l'effet dévolutif de l'appel et au double degré de juridiction : la cour statue sur des points que le premier juge n'a pas tranchés. Elle ne se confond pas avec l'effet dévolutif, qui joue lorsque l'appel porte sur le fond : ici, le premier juge n'avait pas jugé le fond."
       },
       {
         "h": "Fondement",
-        "body": "L'article 587 du Code civil : si l'usufruit comprend des choses dont on ne peut faire usage sans les consommer, l'usufruitier a le droit de s'en servir, à la charge de rendre, à la fin de l'usufruit, soit des choses de même quantité et qualité, soit leur valeur estimée à la date de la restitution."
+        "body": "L'article 568 du Code de procédure civile la permet si la cour estime de bonne justice de donner à l'affaire une solution définitive, après avoir ordonné elle-même, le cas échéant, une mesure d'instruction. Elle suppose en outre que la cour soit juridiction d'appel de celle qui eût été compétente en première instance."
       },
       {
         "h": "Cas visés",
-        "body": "Somme d'argent léguée en usufruit, comptes et valeurs mobilières fongibles, stocks de marchandises, denrées. Le conjoint survivant, gratifié d'un usufruit portant sur les liquidités de la succession, en est l'exemple pratique le plus fréquent."
+        "body": "Elle concerne l'appel d'un jugement ordonnant une mesure d'instruction ou statuant sur une exception de procédure qui a mis fin à l'instance, et l'infirmation ou l'annulation d'un jugement. Elle suppose que l'affaire soit en état d'être jugée au fond et que les parties aient pu s'expliquer."
       },
       {
         "h": "Portée",
-        "body": "Le quasi-usufruitier est propriétaire des biens et supporte le risque de leur perte, mais il est débiteur d'une créance de restitution envers le nu-propriétaire, laquelle pèse sur sa succession et peut être déduite de l'actif successoral. C'est ce qui distingue le quasi-usufruit de l'usufruit ordinaire, où la propriété de la chose reste au nu-propriétaire."
+        "body": "L'évocation est une faculté et non une obligation : la cour apprécie souverainement l'opportunité d'y recourir. Elle accélère le règlement du litige, mais prive les parties d'un degré de juridiction, d'où le contrôle de ses conditions par la Cour de cassation."
       }
     ],
-    "seeAlso": "Voir aussi — usufruit (art. 578) · nu-propriétaire · choses fongibles et consomptibles · dette de restitution"
+    "seeAlso": "Voir aussi — effet dévolutif de l'appel (art. 561 et 562) · double degré de juridiction · jugement avant dire droit (art. 482)"
   },
-  "date": "2026-10-13",
-  "dateShort": "13 oct.",
-  "slot": "midi",
+  "date": "2026-10-14",
+  "dateShort": "14 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 47,
-    "title": "Deux mesures de la constante de Hubble, deux résultats",
-    "subtitle": "Pourquoi deux méthodes également sérieuses ne s'accordent pas sur le rythme de l'expansion",
-    "duration": "3 min",
+    "n": 48,
+    "title": "Ce que la constante de Hubble dit de l'âge de l'univers",
+    "subtitle": "Pourquoi le rythme de l'expansion donne une idée de la durée écoulée depuis le début",
+    "duration": "2 min",
     "sections": [
       {
-        "h": "Première méthode : l'échelle des distances",
-        "body": "On peut mesurer la constante de Hubble en suivant l'échelle des distances : des étoiles proches, dont on connaît la luminosité, servent à étalonner des supernovae lointaines, dont on compare la vitesse d'éloignement à la distance. Cette méthode part de l'univers proche, tel qu'il est aujourd'hui, et donne une valeur d'environ 73 kilomètres par seconde pour 3,3 millions d'années-lumière."
+        "h": "Remonter le film de l'expansion",
+        "body": "Si l'on sait à quelle vitesse les galaxies s'éloignent les unes des autres, on peut remonter le temps : à quel moment étaient-elles toutes au même endroit ? C'est le raisonnement d'un automobiliste qui, connaissant la distance parcourue et sa vitesse, déduit la durée du trajet. Pour l'univers, la constante de Hubble joue le rôle de la vitesse : plus l'expansion est rapide, moins il a fallu de temps pour arriver à la situation actuelle."
       },
       {
-        "h": "Seconde méthode : le rayonnement fossile",
-        "body": "L'autre méthode part de l'univers très jeune. Le rayonnement fossile, cette lumière émise lorsque l'univers est devenu transparent, porte l'empreinte de la matière présente à l'époque. À partir d'elle, on calcule, grâce aux lois physiques admises, le rythme de l'expansion aujourd'hui. On obtient environ 67 kilomètres par seconde pour la même distance."
+        "h": "Une estimation, pas un chronomètre",
+        "body": "Ce calcul n'est qu'une première approximation, car le rythme de l'expansion n'a pas été constant : il a varié au fil de l'histoire de l'univers, sous l'effet de la matière et de l'énergie noire. Les astrophysiciens en tiennent compte dans leur modèle, ce qui donne un âge de l'univers d'environ 13,8 milliards d'années, c'est-à-dire le temps écoulé depuis le début de l'expansion."
       },
       {
-        "h": "Un écart qui résiste",
-        "body": "La différence, de l'ordre de 8 %, est pourtant supérieure à ce que laissent attendre les incertitudes annoncées. On l'appelle la tension de Hubble. Soit l'une des mesures cache une erreur encore inconnue, soit le modèle qui relie l'univers jeune à l'univers actuel est incomplet. Le débat reste ouvert."
+        "h": "Le lien avec la tension de Hubble",
+        "body": "Cet âge dépend de la valeur retenue pour la constante de Hubble. Avec la valeur la plus élevée, issue de l'univers proche, l'univers serait plus jeune d'environ un milliard d'années. Cette conséquence est l'une des raisons pour lesquelles l'écart entre les deux mesures est pris au sérieux."
       }
     ],
     "keyTerms": [
       {
-        "term": "Tension de Hubble",
-        "def": "Désaccord entre la valeur de la constante de Hubble mesurée dans l'univers proche et celle déduite du rayonnement fossile, trop grand pour s'expliquer par les seules incertitudes de mesure."
+        "term": "Âge de l'univers",
+        "def": "Temps écoulé depuis le début de l'expansion de l'univers, estimé aujourd'hui à environ 13,8 milliards d'années."
       }
     ],
-    "recap": "Mesurée dans l'univers proche ou déduite de l'univers jeune, la constante de Hubble prend deux valeurs qui ne concordent pas : c'est la tension de Hubble.",
-    "next": "Demain — ce que la valeur de la constante de Hubble change à l'estimation de l'âge de l'univers."
+    "recap": "Plus l'expansion est rapide, plus l'univers est jeune : la valeur de la constante de Hubble et l'âge de l'univers sont liés.",
+    "next": "Demain — les explications envisagées pour résoudre la tension de Hubble."
   }
 }

@@ -1,0 +1,28 @@
+{
+  "n": 48,
+  "title": "Ce que la constante de Hubble dit de l'âge de l'univers",
+  "subtitle": "Pourquoi le rythme de l'expansion donne une idée de la durée écoulée depuis le début",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Remonter le film de l'expansion",
+      "body": "Si l'on sait à quelle vitesse les galaxies s'éloignent les unes des autres, on peut remonter le temps : à quel moment étaient-elles toutes au même endroit ? C'est le raisonnement d'un automobiliste qui, connaissant la distance parcourue et sa vitesse, déduit la durée du trajet. Pour l'univers, la constante de Hubble joue le rôle de la vitesse : plus l'expansion est rapide, moins il a fallu de temps pour arriver à la situation actuelle."
+    },
+    {
+      "h": "Une estimation, pas un chronomètre",
+      "body": "Ce calcul n'est qu'une première approximation, car le rythme de l'expansion n'a pas été constant : il a varié au fil de l'histoire de l'univers, sous l'effet de la matière et de l'énergie noire. Les astrophysiciens en tiennent compte dans leur modèle, ce qui donne un âge de l'univers d'environ 13,8 milliards d'années, c'est-à-dire le temps écoulé depuis le début de l'expansion."
+    },
+    {
+      "h": "Le lien avec la tension de Hubble",
+      "body": "Cet âge dépend de la valeur retenue pour la constante de Hubble. Avec la valeur la plus élevée, issue de l'univers proche, l'univers serait plus jeune d'environ un milliard d'années. Cette conséquence est l'une des raisons pour lesquelles l'écart entre les deux mesures est pris au sérieux."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Âge de l'univers",
+      "def": "Temps écoulé depuis le début de l'expansion de l'univers, estimé aujourd'hui à environ 13,8 milliards d'années."
+    }
+  ],
+  "recap": "Plus l'expansion est rapide, plus l'univers est jeune : la valeur de la constante de Hubble et l'âge de l'univers sont liés.",
+  "next": "Demain — les explications envisagées pour résoudre la tension de Hubble."
+}
