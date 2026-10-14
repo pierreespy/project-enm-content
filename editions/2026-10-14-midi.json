@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Société dissoute, liquidée et radiée : la chambre commerciale maintient l'engagement de la caution pour les dettes nées avant la dissolution",
+    "dek": "Parmi cinq arrêts publiés au Bulletin le 7 octobre 2026, la chambre commerciale juge que la dissolution de la société débitrice ne libère pas la caution des dettes nées avant cette dissolution, même après radiation. Les commentaires y voient une série qui renforce la protection des tiers et des créanciers face aux montages internes des sociétés.",
+    "source": "Cass. com., 7 oct. 2026, publié au Bulletin (commentaire Kohen Avocats, 14 oct. 2026)",
+    "url": "https://kohenavocats.fr/2026/10/14/cass-com-7-octobre-2026-cinq-arrets-protection-tiers-cession-caution-dirigeant/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Projet de loi de finances pour 2027 : l'Assemblée nationale a ouvert la discussion de la partie recettes sur le texte initial du gouvernement",
+      "summary": "La commission des finances a rejeté la partie recettes (31 voix contre, 3 pour, 2 abstentions), un rejet préalable est annoncé et le Premier ministre pourrait recourir au 49.3 ou aux ordonnances de l'article 47 si le Parlement ne se prononce pas dans les délais.",
+      "source": "LCP, Budget 2027 : le gouvernement sur un fil à la veille de l'ouverture des débats",
+      "url": "https://lcp.fr/actualites/budget-2027-le-gouvernement-sur-un-fil-a-la-veille-de-l-ouverture-des-debats-a-l",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Dirigeant assigné à titre personnel par un tiers : la chambre commerciale précise la faute séparable en cas de contrefaçon de marque et de refus de communiquer des pièces comptables",
+      "summary": "Dans l'un des cinq arrêts du 7 octobre 2026, un gérant voit sa responsabilité personnelle engagée pour contrefaçon de marque et pour avoir refusé d'exécuter une décision ordonnant la communication de pièces comptables.",
+      "source": "Cass. com., 7 oct. 2026 (Kohen Avocats)",
+      "url": "https://kohenavocats.fr/2026/10/09/dirigeant-assigne-personnellement-tiers-faute-separable-contrefacon-obstruction-arret-7-octobre-2026/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Péremption d'instance en appel : que faire quand toutes les charges avaient été accomplies, après la cassation du 1er octobre 2026",
+      "summary": "Le commentaire rappelle la ligne issue du revirement de 2024, selon laquelle la péremption ne court plus contre les parties qui ont accompli leurs charges, sauf calendrier ou injonction du conseiller de la mise en état, et en tire les voies de contestation.",
+      "source": "Kohen Avocats, commentaire de Cass. civ. 2e, 1er oct. 2026",
+      "url": "https://kohenavocats.com/peremption-instance-appel-charges-accomplies-contester-annulation-1er-octobre-2026/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "Prix Nobel de littérature 2026 : la Canadienne Anne Carson, helléniste de formation, récompensée pour une œuvre en dialogue avec la tradition classique",
+      "summary": "L'Académie suédoise distingue une œuvre audacieuse et inventive qui a créé de nouvelles formes pour la littérature contemporaine ; l'autrice, née en 1950, a soutenu en 1981 une thèse sur le poète grec Stésichore.",
+      "source": "Euronews, 8 oct. 2026 ; Fondation Nobel",
+      "url": "https://fr.euronews.com/2026/10/08/la-poetesse-canadienne-anne-carson-remporte-le-prix-nobel-de-litterature-2026",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Appel confirmé sans examen : la cassation du 1er octobre 2026 impose le débat contradictoire sur le moyen relevé d'office",
+      "summary": "Le juge qui soulève d'office un moyen doit en provoquer la discussion contradictoire, faute de quoi sa décision s'expose à la cassation, ce qui ouvre au plaideur une voie de recours à examiner avant l'expiration du délai.",
+      "source": "Cass. civ. 2e, 1er oct. 2026, pourvoi n° 24-19.327 (Kohen Avocats)",
+      "url": "https://kohenavocats.com/appel-dispositif-moyen-office-contradictoire-cassation-1er-octobre-2026/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Thon rappelé en octobre 2026 : que faire si la boîte a déjà été consommée",
+      "summary": "Le cabinet détaille les démarches pour le consommateur ayant mangé un produit rappelé : plainte, conservation des preuves et voies d'indemnisation.",
+      "source": "Kohen Avocats, octobre 2026",
+      "url": "https://kohenavocats.com/thon-rappele-octobre-2026-mange-plainte-preuves-indemnisation-paris/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Exception purement personnelle au débiteur",
+    "subtitle": "Droit des sûretés · Article 2313 du Code civil",
+    "defShort": "Moyen de défense que seul le débiteur principal peut invoquer contre le créancier et que la caution ne peut pas opposer, à la différence des exceptions inhérentes à la dette.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Le cautionnement est accessoire à la dette garantie : la caution peut en principe se prévaloir des moyens de défense du débiteur. La loi opère toutefois un tri. Les exceptions inhérentes à la dette (paiement, nullité du contrat, prescription de la créance) profitent à la caution ; les exceptions purement personnelles au débiteur lui sont fermées."
+      },
+      {
+        "h": "Fondement",
+        "body": "L'article 2313 du Code civil permet à la caution d'opposer au créancier toutes les exceptions qui appartiennent au débiteur principal et qui sont inhérentes à la dette, mais non celles qui lui sont purement personnelles. La distinction commande l'étendue réelle de l'accessoire."
+      },
+      {
+        "h": "Critère",
+        "body": "Une exception est personnelle lorsqu'elle tient à la situation propre du débiteur (par exemple une protection attachée à sa personne) et non à l'existence, au montant ou à l'exigibilité de la dette. La qualification relève de l'analyse du juge, au cas par cas."
+      },
+      {
+        "h": "Portée",
+        "body": "La question est classique dans les litiges où la société débitrice disparaît : la caution ne peut pas se prévaloir de sa seule dissolution pour échapper à une dette née avant celle-ci, ce que l'arrêt de la chambre commerciale du 7 octobre 2026 rappelle selon les commentaires publiés."
+      }
+    ],
+    "seeAlso": "Voir aussi — caractère accessoire du cautionnement (art. 2289) · bénéfice de discussion (art. 2298) · exceptions inhérentes à la dette"
+  },
+  "date": "2026-10-14",
+  "dateShort": "14 oct.",
+  "slot": "midi"
+}

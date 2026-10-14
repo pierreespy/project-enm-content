@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-14",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-14",
+      "slot": "midi",
+      "file": "editions/2026-10-14-midi.json",
+      "essentiel": "Société dissoute, liquidée et radiée : la chambre commerciale maintient l'engagement de la caution pour les dettes nées avant la dissolution",
+      "term": "Exception purement personnelle au débiteur",
+      "rubriques": [
+        "Projet de loi de finances pour 2027 : l'Assemblée nationale a ouvert la discussion de la partie recettes sur le texte initial du gouvernement",
+        "Dirigeant assigné à titre personnel par un tiers : la chambre commerciale précise la faute séparable en cas de contrefaçon de marque et de refus de communiquer des pièces comptables",
+        "Péremption d'instance en appel : que faire quand toutes les charges avaient été accomplies, après la cassation du 1er octobre 2026",
+        "Prix Nobel de littérature 2026 : la Canadienne Anne Carson, helléniste de formation, récompensée pour une œuvre en dialogue avec la tradition classique",
+        "Appel confirmé sans examen : la cassation du 1er octobre 2026 impose le débat contradictoire sur le moyen relevé d'office",
+        "Thon rappelé en octobre 2026 : que faire si la boîte a déjà été consommée"
+      ]
+    },
     {
       "date": "2026-10-14",
       "slot": "matin",

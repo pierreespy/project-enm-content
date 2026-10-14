@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Mis en examen incapable de se défendre : la chambre criminelle, en formation solennelle, abandonne le sursis au renvoi devant les assises",
-    "dek": "Par un arrêt du 7 octobre 2026 publié au Bulletin, la chambre criminelle opère un revirement : l'altération des facultés de la personne mise en examen, qui l'empêche de se défendre elle-même, ne suspend plus son renvoi devant la juridiction de jugement. Le contrôle de la capacité à être jugé se déplace vers la juridiction de jugement.",
-    "source": "Cass. crim., 7 oct. 2026, n° 26-84.139, formation solennelle (Kohen Avocats)",
-    "url": "https://kohenavocats.com/capacite-a-etre-juge-revirement-chambre-criminelle-7-octobre-2026-mise-en-accusation/"
+    "title": "Société dissoute, liquidée et radiée : la chambre commerciale maintient l'engagement de la caution pour les dettes nées avant la dissolution",
+    "dek": "Parmi cinq arrêts publiés au Bulletin le 7 octobre 2026, la chambre commerciale juge que la dissolution de la société débitrice ne libère pas la caution des dettes nées avant cette dissolution, même après radiation. Les commentaires y voient une série qui renforce la protection des tiers et des créanciers face aux montages internes des sociétés.",
+    "source": "Cass. com., 7 oct. 2026, publié au Bulletin (commentaire Kohen Avocats, 14 oct. 2026)",
+    "url": "https://kohenavocats.fr/2026/10/14/cass-com-7-octobre-2026-cinq-arrets-protection-tiers-cession-caution-dirigeant/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Décret n° 2026-936 du 8 octobre 2026 : les modalités de la taxe de répartition des coûts du mécanisme de capacité",
-      "summary": "Le texte précise la constatation, le paiement et le régime des acomptes de la taxe, et prévoit que, pour la première période de livraison (1er novembre 2026 – 31 mars 2027), seuls RTE et Enedis seront redevables du premier acompte.",
-      "source": "Décret n° 2026-936 du 8 oct. 2026, JORF n° 0236 du 9 oct. 2026 (Landot Avocats)",
-      "url": "https://blog.landot-avocats.net/2026/10/11/energie-publication-du-decret-sur-le-nouveau-regime-de-mecanisme-de-capacite/",
+      "title": "Projet de loi de finances pour 2027 : l'Assemblée nationale a ouvert la discussion de la partie recettes sur le texte initial du gouvernement",
+      "summary": "La commission des finances a rejeté la partie recettes (31 voix contre, 3 pour, 2 abstentions), un rejet préalable est annoncé et le Premier ministre pourrait recourir au 49.3 ou aux ordonnances de l'article 47 si le Parlement ne se prononce pas dans les délais.",
+      "source": "LCP, Budget 2027 : le gouvernement sur un fil à la veille de l'ouverture des débats",
+      "url": "https://lcp.fr/actualites/budget-2027-le-gouvernement-sur-un-fil-a-la-veille-de-l-ouverture-des-debats-a-l",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Fouille d'une cellule, examen d'un véhicule : la chambre criminelle trace la frontière avec la perquisition",
-      "summary": "Par deux arrêts publiés du 7 octobre 2026, elle rejette un pourvoi contestant une fouille menée par l'administration pénitentiaire et juge que l'examen d'un véhicule relève de l'article 54 du code de procédure pénale, non d'une perquisition.",
-      "source": "Cass. crim., 7 oct. 2026, n° 26-81.370 et n° 26-80.496 (Kohen Avocats)",
-      "url": "https://kohenavocats.com/fouille-cellule-vehicule-sans-perquisition-frontiere-domicile-cassation-7-octobre-2026/",
+      "title": "Dirigeant assigné à titre personnel par un tiers : la chambre commerciale précise la faute séparable en cas de contrefaçon de marque et de refus de communiquer des pièces comptables",
+      "summary": "Dans l'un des cinq arrêts du 7 octobre 2026, un gérant voit sa responsabilité personnelle engagée pour contrefaçon de marque et pour avoir refusé d'exécuter une décision ordonnant la communication de pièces comptables.",
+      "source": "Cass. com., 7 oct. 2026 (Kohen Avocats)",
+      "url": "https://kohenavocats.fr/2026/10/09/dirigeant-assigne-personnellement-tiers-faute-separable-contrefacon-obstruction-arret-7-octobre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Le double régime de la preuve en procédure pénale : loyauté exigée de l'autorité publique, liberté quasi absolue du particulier (2023-2026)",
-      "summary": "Une étude de la jurisprudence récente sur le stratagème d'une partie privée, que la chambre criminelle tolère alors qu'elle sanctionne celui de l'autorité publique.",
-      "source": "Kohen Avocats, étude de jurisprudence 2023-2026",
-      "url": "https://kohenavocats.com/loyaute-preuve-penale-stratageme-partie-privee-2023-2026/",
+      "title": "Péremption d'instance en appel : que faire quand toutes les charges avaient été accomplies, après la cassation du 1er octobre 2026",
+      "summary": "Le commentaire rappelle la ligne issue du revirement de 2024, selon laquelle la péremption ne court plus contre les parties qui ont accompli leurs charges, sauf calendrier ou injonction du conseiller de la mise en état, et en tire les voies de contestation.",
+      "source": "Kohen Avocats, commentaire de Cass. civ. 2e, 1er oct. 2026",
+      "url": "https://kohenavocats.com/peremption-instance-appel-charges-accomplies-contester-annulation-1er-octobre-2026/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "14 octobre 1066 : Guillaume le Conquérant bat le roi Harold II à Hastings",
-      "summary": "La victoire du duc de Normandie lui ouvre la couronne d'Angleterre, qu'il reçoit à Noël de la même année, et bouleverse durablement l'organisation du royaume.",
-      "source": "Wikipédia, « Bataille d'Hastings »",
-      "url": "https://fr.wikipedia.org/wiki/Bataille_d%27Hastings",
+      "title": "Prix Nobel de littérature 2026 : la Canadienne Anne Carson, helléniste de formation, récompensée pour une œuvre en dialogue avec la tradition classique",
+      "summary": "L'Académie suédoise distingue une œuvre audacieuse et inventive qui a créé de nouvelles formes pour la littérature contemporaine ; l'autrice, née en 1950, a soutenu en 1981 une thèse sur le poète grec Stésichore.",
+      "source": "Euronews, 8 oct. 2026 ; Fondation Nobel",
+      "url": "https://fr.euronews.com/2026/10/08/la-poetesse-canadienne-anne-carson-remporte-le-prix-nobel-de-litterature-2026",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Convention nationale des avocats 2026 : rendez-vous à Toulouse du 21 au 23 octobre, autour de l'intelligence artificielle et de l'accès au droit",
-      "summary": "Organisée par le Conseil national des barreaux avec les barreaux de Toulouse, d'Albi et de Montauban, la manifestation fait de l'intelligence artificielle et de l'accès au droit ses deux thèmes principaux.",
-      "source": "Le Monde du Droit (CNB)",
-      "url": "https://www.lemondedudroit.fr/institutions/105958-toulouse-accueille-la-convention-nationale-des-avocats-2026.html",
+      "title": "Appel confirmé sans examen : la cassation du 1er octobre 2026 impose le débat contradictoire sur le moyen relevé d'office",
+      "summary": "Le juge qui soulève d'office un moyen doit en provoquer la discussion contradictoire, faute de quoi sa décision s'expose à la cassation, ce qui ouvre au plaideur une voie de recours à examiner avant l'expiration du délai.",
+      "source": "Cass. civ. 2e, 1er oct. 2026, pourvoi n° 24-19.327 (Kohen Avocats)",
+      "url": "https://kohenavocats.com/appel-dispositif-moyen-office-contradictoire-cassation-1er-octobre-2026/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Prix Nobel de chimie 2026 : Henri B. Kagan et Kenso Soai distingués",
-      "summary": "Annoncé le 7 octobre, le prix couronne un chercheur français et un chercheur japonais ; chaque prix est doté cette année de 12 millions de couronnes suédoises, pour le 125e anniversaire.",
-      "source": "Nobel Prize Outreach (annonce du prix de chimie 2026)",
-      "url": "https://www.nobelprize.org/prizes/chemistry/2026/prize-announcement/",
+      "title": "Thon rappelé en octobre 2026 : que faire si la boîte a déjà été consommée",
+      "summary": "Le cabinet détaille les démarches pour le consommateur ayant mangé un produit rappelé : plainte, conservation des preuves et voies d'indemnisation.",
+      "source": "Kohen Avocats, octobre 2026",
+      "url": "https://kohenavocats.com/thon-rappele-octobre-2026-mange-plainte-preuves-indemnisation-paris/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Évocation",
-    "subtitle": "Procédure civile · Article 568 du Code de procédure civile",
-    "defShort": "Faculté pour la cour d'appel, lorsqu'elle infirme ou annule un jugement avant dire droit ou statuant sur une exception de procédure, de trancher elle-même le fond du litige au lieu de renvoyer l'affaire au premier juge.",
+    "term": "Exception purement personnelle au débiteur",
+    "subtitle": "Droit des sûretés · Article 2313 du Code civil",
+    "defShort": "Moyen de défense que seul le débiteur principal peut invoquer contre le créancier et que la caution ne peut pas opposer, à la différence des exceptions inhérentes à la dette.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'évocation est une dérogation à l'effet dévolutif de l'appel et au double degré de juridiction : la cour statue sur des points que le premier juge n'a pas tranchés. Elle ne se confond pas avec l'effet dévolutif, qui joue lorsque l'appel porte sur le fond : ici, le premier juge n'avait pas jugé le fond."
+        "body": "Le cautionnement est accessoire à la dette garantie : la caution peut en principe se prévaloir des moyens de défense du débiteur. La loi opère toutefois un tri. Les exceptions inhérentes à la dette (paiement, nullité du contrat, prescription de la créance) profitent à la caution ; les exceptions purement personnelles au débiteur lui sont fermées."
       },
       {
         "h": "Fondement",
-        "body": "L'article 568 du Code de procédure civile la permet si la cour estime de bonne justice de donner à l'affaire une solution définitive, après avoir ordonné elle-même, le cas échéant, une mesure d'instruction. Elle suppose en outre que la cour soit juridiction d'appel de celle qui eût été compétente en première instance."
+        "body": "L'article 2313 du Code civil permet à la caution d'opposer au créancier toutes les exceptions qui appartiennent au débiteur principal et qui sont inhérentes à la dette, mais non celles qui lui sont purement personnelles. La distinction commande l'étendue réelle de l'accessoire."
       },
       {
-        "h": "Cas visés",
-        "body": "Elle concerne l'appel d'un jugement ordonnant une mesure d'instruction ou statuant sur une exception de procédure qui a mis fin à l'instance, et l'infirmation ou l'annulation d'un jugement. Elle suppose que l'affaire soit en état d'être jugée au fond et que les parties aient pu s'expliquer."
+        "h": "Critère",
+        "body": "Une exception est personnelle lorsqu'elle tient à la situation propre du débiteur (par exemple une protection attachée à sa personne) et non à l'existence, au montant ou à l'exigibilité de la dette. La qualification relève de l'analyse du juge, au cas par cas."
       },
       {
         "h": "Portée",
-        "body": "L'évocation est une faculté et non une obligation : la cour apprécie souverainement l'opportunité d'y recourir. Elle accélère le règlement du litige, mais prive les parties d'un degré de juridiction, d'où le contrôle de ses conditions par la Cour de cassation."
+        "body": "La question est classique dans les litiges où la société débitrice disparaît : la caution ne peut pas se prévaloir de sa seule dissolution pour échapper à une dette née avant celle-ci, ce que l'arrêt de la chambre commerciale du 7 octobre 2026 rappelle selon les commentaires publiés."
       }
     ],
-    "seeAlso": "Voir aussi — effet dévolutif de l'appel (art. 561 et 562) · double degré de juridiction · jugement avant dire droit (art. 482)"
+    "seeAlso": "Voir aussi — caractère accessoire du cautionnement (art. 2289) · bénéfice de discussion (art. 2298) · exceptions inhérentes à la dette"
   },
   "date": "2026-10-14",
   "dateShort": "14 oct.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 48,
     "title": "Ce que la constante de Hubble dit de l'âge de l'univers",
