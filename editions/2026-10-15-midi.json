@@ -1,0 +1,93 @@
+{
+  "dateShort": "15 oct.",
+  "slot": "midi",
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Pourvoi dans l'affaire des assistants parlementaires du FN : les mémoires sont déposés ce 15 octobre, dernier jour du délai, avant la fixation d'une audience",
+    "dek": "Les avocats de la cheffe de file des députés RN et de ses coprévenus déposent leurs mémoires devant la Cour de cassation. La Cour fixera ensuite une audience, environ un mois avant de statuer, et la question de l'éligibilité à la présidentielle de 2027 reste suspendue à sa décision.",
+    "source": "Kohen Avocats, 15 oct. 2026",
+    "url": "https://kohenavocats.com/condamne-ineligibilite-candidat-presidentielle-2027-cassation-pourvoi/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Loi de financement de la sécurité sociale pour 2026 : le Conseil constitutionnel a examiné les QPC n° 2026-1230/1231 le 13 octobre et rendra des décisions le 16",
+      "summary": "Les deux questions prioritaires de constitutionnalité visant la loi de financement de la sécurité sociale pour 2026 ont été plaidées mardi ; le Conseil annonce des décisions vendredi 16 octobre 2026.",
+      "source": "Conseil constitutionnel, affaires en instance (oct. 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decisions/affaires-en-instances",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Municipales à Couëron : l'élection est annulée pour trois suffrages de trop sur les machines à voter, l'appel est ouvert",
+      "summary": "Le juge électoral a relevé un écart entre les émargements et les suffrages enregistrés par les machines à voter, suffisant pour annuler le scrutin ; la décision peut être portée devant le Conseil d'État.",
+      "source": "Tribunal administratif, contentieux des municipales à Couëron (Kohen Avocats)",
+      "url": "https://kohenavocats.com/coueron-election-axel-casenave-annulee-machines-a-voter-emargements-appel-conseil-etat/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Impôt sur le revenu depuis 2017 : l'étude du Conseil des prélèvements obligatoires sur l'impôt réellement payé selon les niveaux de revenus",
+      "summary": "La commission des finances de l'Assemblée a entendu le 30 septembre 2026 le vice-président du CPO sur l'évolution de l'impôt effectivement payé et des réductions et crédits d'impôt depuis 2017.",
+      "source": "Assemblée nationale, commission des finances (audition du 30 sept. 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/finances/actualites/l-evolution-depuis-2017-des-montants-reels-d-impot-sur-le-revenu-et-des-reductions-d-impots-et-credits-d-impots-en-fonction-des-differents-niveaux",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "15 octobre 1917 : Mata Hari est fusillée à Vincennes après sa condamnation pour espionnage",
+      "summary": "Condamnée à mort par un conseil de guerre, la danseuse refuse le bandeau devant le peloton ; la réalité de son rôle d'espionne reste discutée par les historiens.",
+      "source": "History.co.uk, « Mata Hari is executed »",
+      "url": "https://www.history.co.uk/this-day-in-history/15-october/mata-hari-is-executed",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Harcèlement téléphonique : ce que vos relevés d'appels et vos messages prouvent vraiment pour appuyer une plainte",
+      "summary": "Un avocat pénaliste détaille comment constituer la preuve (relevés, captures, messages) avant de déposer plainte pour harcèlement par téléphone.",
+      "source": "Kohen Avocats, 15 oct. 2026",
+      "url": "https://kohenavocats.com/harcelement-telephonique-releves-messages-preuve-plainte-2026/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Grève TCL du jeudi 15 octobre : une quarantaine de lignes de bus à l'arrêt à Lyon, métros et tramways normaux",
+      "summary": "Les bus des zones 1 et 2 sont fortement perturbés, tandis que métros, tramways, funiculaires et Rhônexpress circulent normalement.",
+      "source": "LyonMag",
+      "url": "https://www.lyonmag.com/article/154375/greve-tcl-jeudi-40-lignes-de-bus-a-l-arret-de-nombreuses-autres-fortement-perturbees-a-lyon",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Moyen mélangé de fait et de droit",
+    "subtitle": "Procédure civile et pénale · Pourvoi en cassation",
+    "defShort": "Moyen de cassation irrecevable parce qu'il oblige la Cour de cassation à examiner des éléments de fait que les juges du fond n'ont ni constatés ni appréciés, alors qu'elle ne juge que le droit.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "La Cour de cassation n'est pas un troisième degré de juridiction : elle contrôle l'application de la règle de droit, non l'appréciation des faits. Un moyen « mélangé de fait et de droit » prétend dénoncer une violation de la loi, mais ne peut être examiné qu'en revenant sur des faits que la décision attaquée n'a pas constatés."
+      },
+      {
+        "h": "Mécanisme",
+        "body": "Le demandeur reproche par exemple à la cour d'appel d'avoir mal qualifié une situation, mais l'argument suppose d'établir un fait (une date, une intention, une pièce) absent des constatations de l'arrêt. La Cour ne peut ni enquêter ni vérifier : le moyen est déclaré irrecevable, sans examen du fond."
+      },
+      {
+        "h": "Distinctions",
+        "body": "Il se distingue du moyen « nouveau », qui n'a pas été soutenu devant les juges du fond, et du grief de dénaturation, qui vise un écrit clair que le juge a mal lu. Le moyen nouveau mélangé de fait et de droit cumule les deux obstacles."
+      },
+      {
+        "h": "Portée pratique",
+        "body": "C'est l'une des premières causes d'échec des pourvois. Rédiger un moyen de cassation consiste à isoler une question de droit pure, en s'appuyant uniquement sur les constatations de la décision attaquée."
+      }
+    ],
+    "seeAlso": "Voir aussi — moyen nouveau · dénaturation · appréciation souveraine des juges du fond · non-admission du pourvoi (art. 1014 CPC)"
+  },
+  "date": "2026-10-15"
+}

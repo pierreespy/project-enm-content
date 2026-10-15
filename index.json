@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-15",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-15",
+      "slot": "midi",
+      "file": "editions/2026-10-15-midi.json",
+      "essentiel": "Pourvoi dans l'affaire des assistants parlementaires du FN : les mémoires sont déposés ce 15 octobre, dernier jour du délai, avant la fixation d'une audience",
+      "term": "Moyen mélangé de fait et de droit",
+      "rubriques": [
+        "Loi de financement de la sécurité sociale pour 2026 : le Conseil constitutionnel a examiné les QPC n° 2026-1230/1231 le 13 octobre et rendra des décisions le 16",
+        "Municipales à Couëron : l'élection est annulée pour trois suffrages de trop sur les machines à voter, l'appel est ouvert",
+        "Impôt sur le revenu depuis 2017 : l'étude du Conseil des prélèvements obligatoires sur l'impôt réellement payé selon les niveaux de revenus",
+        "15 octobre 1917 : Mata Hari est fusillée à Vincennes après sa condamnation pour espionnage",
+        "Harcèlement téléphonique : ce que vos relevés d'appels et vos messages prouvent vraiment pour appuyer une plainte",
+        "Grève TCL du jeudi 15 octobre : une quarantaine de lignes de bus à l'arrêt à Lyon, métros et tramways normaux"
+      ]
+    },
     {
       "date": "2026-10-15",
       "slot": "matin",

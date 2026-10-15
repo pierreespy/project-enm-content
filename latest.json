@@ -1,95 +1,95 @@
 {
+  "dateShort": "15 oct.",
+  "slot": "midi",
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Inapte après un arrêt maladie avec une RQTH : la chambre sociale exige que le salarié demande par écrit les aménagements avant le licenciement",
-    "dek": "Par un arrêt du 14 octobre 2026, la chambre sociale casse la décision d'appel qui avait annulé un licenciement pour inaptitude : la salariée n'avait ni sollicité la saisine de Cap emploi ni adressé à l'employeur de demande d'aménagement de son poste. L'arrêt applique la méthode de preuve en matière de discrimination fixée en 2024.",
-    "source": "Cass. soc., 14 oct. 2026, n° 25-13.602 (Kohen Avocats)",
-    "url": "https://kohenavocats.com/inapte-arret-maladie-rqth-demander-amenagements-avant-licenciement-cassation-14-octobre-2026/"
+    "title": "Pourvoi dans l'affaire des assistants parlementaires du FN : les mémoires sont déposés ce 15 octobre, dernier jour du délai, avant la fixation d'une audience",
+    "dek": "Les avocats de la cheffe de file des députés RN et de ses coprévenus déposent leurs mémoires devant la Cour de cassation. La Cour fixera ensuite une audience, environ un mois avant de statuer, et la question de l'éligibilité à la présidentielle de 2027 reste suspendue à sa décision.",
+    "source": "Kohen Avocats, 15 oct. 2026",
+    "url": "https://kohenavocats.com/condamne-ineligibilite-candidat-presidentielle-2027-cassation-pourvoi/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Reboisement : le décret n° 2026-937 du 8 octobre 2026 fixe de nouvelles conditions d'aide, après l'annulation du dispositif de 2025",
-      "summary": "Publié au Journal officiel du 10 octobre 2026, le texte remplace le décret de 2025 d'aide au renouvellement forestier, annulé par le juge administratif.",
-      "source": "Décret n° 2026-937 du 8 oct. 2026, JORF du 10 oct. 2026 (Le Monde du Droit)",
-      "url": "https://www.lemondedudroit.fr/public/284-environnement/106194-aides-au-reboisement-un-nouveau-decret.html",
+      "title": "Loi de financement de la sécurité sociale pour 2026 : le Conseil constitutionnel a examiné les QPC n° 2026-1230/1231 le 13 octobre et rendra des décisions le 16",
+      "summary": "Les deux questions prioritaires de constitutionnalité visant la loi de financement de la sécurité sociale pour 2026 ont été plaidées mardi ; le Conseil annonce des décisions vendredi 16 octobre 2026.",
+      "source": "Conseil constitutionnel, affaires en instance (oct. 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decisions/affaires-en-instances",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Vidéos clandestines tournées dans un élevage : la première chambre civile encadre le retrait des images et impose d'examiner le préjudice moral",
-      "summary": "Dans l'affaire L214, la Cour de cassation censure l'arrêt d'appel : le juge ne peut ordonner le retrait que si la mesure répond à des exigences précises, et doit apprécier le préjudice moral lié à la diffusion.",
-      "source": "Cass. civ. 1re, 14 oct. 2026, n° 25-16.277 et 25-16.349, FS-B (L'Officiel des métiers)",
-      "url": "https://www.lofficieldesmetiers.fr/violence-en-elevage-cassation-de-larret-favorable-a-l214/",
+      "title": "Municipales à Couëron : l'élection est annulée pour trois suffrages de trop sur les machines à voter, l'appel est ouvert",
+      "summary": "Le juge électoral a relevé un écart entre les émargements et les suffrages enregistrés par les machines à voter, suffisant pour annuler le scrutin ; la décision peut être portée devant le Conseil d'État.",
+      "source": "Tribunal administratif, contentieux des municipales à Couëron (Kohen Avocats)",
+      "url": "https://kohenavocats.com/coueron-election-axel-casenave-annulee-machines-a-voter-emargements-appel-conseil-etat/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Faute inexcusable : la Cour de cassation détache l'indemnisation complémentaire des décisions de la caisse",
-      "summary": "Un commentaire d'avocat analyse la solution selon laquelle l'indemnisation complémentaire de la victime ne dépend plus des décisions prises par la caisse de sécurité sociale.",
-      "source": "Village de la Justice, article de Noémie Le Bouard, avocate",
-      "url": "https://www.village-justice.com/articles/faute-inexcusable-cour-cassation-detache-indemnisation-complementaire-des,58953.html",
+      "title": "Impôt sur le revenu depuis 2017 : l'étude du Conseil des prélèvements obligatoires sur l'impôt réellement payé selon les niveaux de revenus",
+      "summary": "La commission des finances de l'Assemblée a entendu le 30 septembre 2026 le vice-président du CPO sur l'évolution de l'impôt effectivement payé et des réductions et crédits d'impôt depuis 2017.",
+      "source": "Assemblée nationale, commission des finances (audition du 30 sept. 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/finances/actualites/l-evolution-depuis-2017-des-montants-reels-d-impot-sur-le-revenu-et-des-reductions-d-impots-et-credits-d-impots-en-fonction-des-differents-niveaux",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "15 octobre 1783 : Pilâtre de Rozier réalise la première ascension humaine en ballon",
-      "summary": "Retenu par une corde, l'aéronaute s'élève dans la montgolfière du roi, première étape avant le vol libre de novembre 1783.",
-      "source": "Wikipédia, « Jean-François Pilâtre de Rozier »",
-      "url": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Pil%C3%A2tre_de_Rozier",
+      "title": "15 octobre 1917 : Mata Hari est fusillée à Vincennes après sa condamnation pour espionnage",
+      "summary": "Condamnée à mort par un conseil de guerre, la danseuse refuse le bandeau devant le peloton ; la réalité de son rôle d'espionne reste discutée par les historiens.",
+      "source": "History.co.uk, « Mata Hari is executed »",
+      "url": "https://www.history.co.uk/this-day-in-history/15-october/mata-hari-is-executed",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Délit de fuite après un accrochage mineur : ce que risque le conducteur qui repart et comment se défendre",
-      "summary": "Un guide pratique rappelle les éléments constitutifs de l'infraction, les peines encourues et les axes de défense, y compris pour un conducteur étranger.",
-      "source": "Kohen Avocats, guide pratique 2026",
-      "url": "https://kohenavocats.com/delit-fuite-accrochage-mineur-conducteur-belge-france-risques-defense-2026/",
+      "title": "Harcèlement téléphonique : ce que vos relevés d'appels et vos messages prouvent vraiment pour appuyer une plainte",
+      "summary": "Un avocat pénaliste détaille comment constituer la preuve (relevés, captures, messages) avant de déposer plainte pour harcèlement par téléphone.",
+      "source": "Kohen Avocats, 15 oct. 2026",
+      "url": "https://kohenavocats.com/harcelement-telephonique-releves-messages-preuve-plainte-2026/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "15 octobre : Journée internationale des femmes rurales",
-      "summary": "Les Nations unies mettent à l'honneur, chaque 15 octobre, le rôle des femmes rurales dans l'agriculture, la sécurité alimentaire et la lutte contre la pauvreté.",
-      "source": "Organisation des Nations unies",
-      "url": "https://www.un.org/fr/observances/rural-women-day",
+      "title": "Grève TCL du jeudi 15 octobre : une quarantaine de lignes de bus à l'arrêt à Lyon, métros et tramways normaux",
+      "summary": "Les bus des zones 1 et 2 sont fortement perturbés, tandis que métros, tramways, funiculaires et Rhônexpress circulent normalement.",
+      "source": "LyonMag",
+      "url": "https://www.lyonmag.com/article/154375/greve-tcl-jeudi-40-lignes-de-bus-a-l-arret-de-nombreuses-autres-fortement-perturbees-a-lyon",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Stellionat",
-    "subtitle": "Droit civil et pénal · Ancien article 2059 du Code civil ; escroquerie, art. 313-1 du Code pénal",
-    "defShort": "Fait de présenter comme libre ou comme sien un bien que l'on ne peut pas céder, ou que l'on a déjà vendu ou grevé, afin de tromper un cocontractant. Notion classique, aujourd'hui absorbée par l'escroquerie.",
+    "term": "Moyen mélangé de fait et de droit",
+    "subtitle": "Procédure civile et pénale · Pourvoi en cassation",
+    "defShort": "Moyen de cassation irrecevable parce qu'il oblige la Cour de cassation à examiner des éléments de fait que les juges du fond n'ont ni constatés ni appréciés, alors qu'elle ne juge que le droit.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Le stellionat désigne la tromperie d'un contractant sur la situation juridique d'un bien : vendre ou hypothéquer comme sien l'immeuble d'autrui, ou déclarer libre d'hypothèques un bien qui en est grevé. Le mot vient du latin stellio, le gecko, animal réputé changeant de couleur."
+        "body": "La Cour de cassation n'est pas un troisième degré de juridiction : elle contrôle l'application de la règle de droit, non l'appréciation des faits. Un moyen « mélangé de fait et de droit » prétend dénoncer une violation de la loi, mais ne peut être examiné qu'en revenant sur des faits que la décision attaquée n'a pas constatés."
       },
       {
-        "h": "Fondement",
-        "body": "L'ancien Code civil le sanctionnait par la contrainte par corps (ancien art. 2059), supprimée depuis. Le Code pénal de 1810 en faisait un délit autonome ; le Code pénal actuel ne le reprend plus sous ce nom, et les faits relèvent en principe de l'escroquerie (art. 313-1), au titre de la qualité fausse ou de la manœuvre frauduleuse."
+        "h": "Mécanisme",
+        "body": "Le demandeur reproche par exemple à la cour d'appel d'avoir mal qualifié une situation, mais l'argument suppose d'établir un fait (une date, une intention, une pièce) absent des constatations de l'arrêt. La Cour ne peut ni enquêter ni vérifier : le moyen est déclaré irrecevable, sans examen du fond."
       },
       {
-        "h": "Cas visés",
-        "body": "Double vente d'un même bien, hypothèque consentie sur un bien d'autrui, silence sur une sûreté déjà inscrite. À distinguer de la simple vente de la chose d'autrui, nulle en droit civil (art. 1599 du Code civil), qui ne suppose pas nécessairement l'intention de tromper."
+        "h": "Distinctions",
+        "body": "Il se distingue du moyen « nouveau », qui n'a pas été soutenu devant les juges du fond, et du grief de dénaturation, qui vise un écrit clair que le juge a mal lu. Le moyen nouveau mélangé de fait et de droit cumule les deux obstacles."
       },
       {
-        "h": "Portée",
-        "body": "Le terme n'est plus un chef de poursuite, mais il reste utile en doctrine et en pratique notariale pour qualifier la mauvaise foi du vendeur ou du constituant, et il éclaire les rapports entre nullité civile et répression pénale."
+        "h": "Portée pratique",
+        "body": "C'est l'une des premières causes d'échec des pourvois. Rédiger un moyen de cassation consiste à isoler une question de droit pure, en s'appuyant uniquement sur les constatations de la décision attaquée."
       }
     ],
-    "seeAlso": "Voir aussi — escroquerie (art. 313-1 C. pén.) · vente de la chose d'autrui (art. 1599 C. civ.) · publicité foncière"
+    "seeAlso": "Voir aussi — moyen nouveau · dénaturation · appréciation souveraine des juges du fond · non-admission du pourvoi (art. 1014 CPC)"
   },
   "date": "2026-10-15",
-  "dateShort": "15 oct.",
-  "slot": "matin",
   "astro": {
     "n": 49,
     "title": "Résoudre la tension de Hubble : deux familles d'explications",
