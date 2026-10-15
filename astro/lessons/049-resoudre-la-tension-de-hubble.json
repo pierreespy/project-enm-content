@@ -1,0 +1,28 @@
+{
+  "n": 49,
+  "title": "Résoudre la tension de Hubble : deux familles d'explications",
+  "subtitle": "Soit les mesures se trompent, soit c'est notre description de l'univers qui est incomplète",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Première piste : une erreur de mesure",
+      "body": "Lorsque deux mesures d'une même grandeur divergent, la première hypothèse est qu'au moins l'une d'elles est faussée. Les astrophysiciens parlent d'erreur systématique : un défaut qui décale tous les résultats dans le même sens, sans que la répétition des observations ne le fasse disparaître. Dans l'échelle des distances, un étalonnage légèrement erroné suffirait à déplacer la valeur de la constante de Hubble."
+    },
+    {
+      "h": "Pourquoi cette piste résiste mal",
+      "body": "Les équipes ont multiplié les vérifications, avec des instruments et des méthodes indépendants, notamment les observations du télescope spatial James Webb. L'écart persiste, alors même que chaque camp a mesuré avec soin. Une erreur unique et oubliée devient de moins en moins plausible."
+    },
+    {
+      "h": "Seconde piste : une physique incomplète",
+      "body": "Si les deux mesures sont justes, c'est le modèle qui relie l'univers primitif à l'univers actuel qui doit être corrigé. Il faudrait alors un ingrédient supplémentaire, par exemple une forme d'énergie ayant agi dans les premiers temps, ou une énergie noire dont le comportement varie. Ces propositions existent, mais aucune ne fait consensus : chacune règle l'écart en en créant d'autres."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Erreur systématique",
+      "def": "Défaut d'une méthode de mesure qui décale tous les résultats dans le même sens et que la répétition des observations ne corrige pas."
+    }
+  ],
+  "recap": "Deux issues sont envisagées pour la tension de Hubble : une erreur de mesure encore cachée, ou un modèle de l'univers à compléter.",
+  "next": "Demain — les ondes gravitationnelles, une nouvelle façon d’observer l’univers."
+}

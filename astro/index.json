@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14",
-  "count": 48,
+  "updated": "2026-10-15",
+  "count": 49,
   "lessons": [
     {
       "n": 1,
@@ -417,6 +417,14 @@
       "title": "Ce que la constante de Hubble dit de l'âge de l'univers",
       "terms": [
         "Âge de l'univers"
+      ]
+    },
+    {
+      "n": 49,
+      "file": "astro/lessons/049-resoudre-la-tension-de-hubble.json",
+      "title": "Résoudre la tension de Hubble : deux familles d'explications",
+      "terms": [
+        "Erreur systématique"
       ]
     }
   ]

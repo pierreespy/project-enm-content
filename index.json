@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-14",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-10-15",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-15",
+      "slot": "matin",
+      "file": "editions/2026-10-15-matin.json",
+      "essentiel": "Inapte après un arrêt maladie avec une RQTH : la chambre sociale exige que le salarié demande par écrit les aménagements avant le licenciement",
+      "term": "Stellionat",
+      "rubriques": [
+        "Reboisement : le décret n° 2026-937 du 8 octobre 2026 fixe de nouvelles conditions d'aide, après l'annulation du dispositif de 2025",
+        "Vidéos clandestines tournées dans un élevage : la première chambre civile encadre le retrait des images et impose d'examiner le préjudice moral",
+        "Faute inexcusable : la Cour de cassation détache l'indemnisation complémentaire des décisions de la caisse",
+        "15 octobre 1783 : Pilâtre de Rozier réalise la première ascension humaine en ballon",
+        "Délit de fuite après un accrochage mineur : ce que risque le conducteur qui repart et comment se défendre",
+        "15 octobre : Journée internationale des femmes rurales"
+      ]
+    },
     {
       "date": "2026-10-14",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "Octobre Rose : la tour Eiffel s'illumine en rose pour lancer la campagne de sensibilisation au cancer du sein",
         "Retenue sur salaire après une grève : vérifier le bulletin de paie d'octobre",
         "Météo : une douceur exceptionnelle pour la saison sur l'Ouest ce mercredi"
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "slot": "midi",
-      "file": "editions/2026-09-29-midi.json",
-      "essentiel": "Sénatoriales 2026 : la droite conserve sa majorité, le Rassemblement national constitue pour la première fois un groupe au Sénat",
-      "term": "Rescision pour lésion",
-      "rubriques": [
-        "Maladies professionnelles : deux décrets du 24 septembre 2026 précisent les modalités d'établissement du diagnostic",
-        "Michael Lonsdale : le tribunal correctionnel de Paris rend son jugement contre le couple jugé pour abus de faiblesse",
-        "La doctrine comme objet d'étude : un colloque à l'université de Picardie Jules Verne",
-        "29 septembre 1954 : la convention du CERN entre en vigueur",
-        "Heures supplémentaires : un décompte imparfait suffit à ouvrir le débat probatoire",
-        "Le pape Léon XIV à Metz pour le dernier jour de sa visite en France"
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "slot": "matin",
-      "file": "editions/2026-09-29-matin.json",
-      "essentiel": "Témoignage anonyme des agents des services spécialisés : le Conseil constitutionnel valide la procédure de déposition sans révélation d'identité",
-      "term": "Interversion de prescription",
-      "rubriques": [
-        "Détention provisoire : le Conseil constitutionnel saisi d'une QPC sur l'article 145-5 du code de procédure pénale",
-        "Produits défectueux : la première chambre civile fixe le point de départ de la prescription à la connaissance du dommage, non à sa consolidation",
-        "Sanction disciplinaire et liberté d'expression du salarié : le juge doit contrôler nécessité, adéquation et proportionnalité",
-        "29 septembre 1898 : Samory Touré est capturé par le capitaine Gouraud",
-        "Élections du CNB 2026 : les candidatures doivent être déposées au plus tard le 30 septembre",
-        "Grève dans la fonction publique ce mardi : huit syndicats mobilisés contre le gel du point d'indice"
       ]
     }
   ]
