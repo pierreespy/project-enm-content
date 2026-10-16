@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Licenciement nul pour harcèlement moral : le salarié parti à la retraite ne peut plus être réintégré, mais il est indemnisé jusqu'à son départ",
-    "dek": "Par un arrêt du 7 octobre 2026, la chambre sociale censure la cour d'appel de Paris qui avait ordonné la réintégration d'un professeur alors qu'il avait fait valoir ses droits à la retraite. La réintégration étant devenue impossible, l'indemnité est limitée à la rémunération perdue entre le licenciement et le départ, sous déduction des revenus de remplacement.",
-    "source": "Cass. soc., 7 oct. 2026, n° 25-22.243, FS-B (Le Monde du Droit)",
-    "url": "https://www.lemondedudroit.fr/social/285-sante-et-securite-au-travail/106187-licenciement-nul-pour-harcelement-moral-quelle-indemnisation-en-cas-de-depart-a-la-retraite.html"
+    "title": "Cession de parts de SARL à un tiers : sans notification du projet à la société et aux associés, la cession est nulle, même si l'agrément a été donné à l'unanimité",
+    "dek": "Selon les commentaires publiés par des cabinets, la chambre commerciale a annulé le 7 octobre 2026 une cession de parts de SARL au motif que le projet n'avait pas été notifié à la société et à chacun des associés. Le formalisme de l'article L. 223-14 du code de commerce est d'ordre public : l'accord de tous les associés ne le remplace pas. Le pourvoi cité est le n° 24-10.131 (à vérifier sur le texte de l'arrêt).",
+    "source": "Cass. com., 7 oct. 2026, n° 24-10.131 (Gazette du Palais ; commentaire Kohen Avocats)",
+    "url": "https://www.labase-lextenso.fr/gazette-du-palais/GPL426q6"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Journal officiel du 15 octobre 2026 : un décret du 14 octobre organise un dispositif de prévention et de traitement des atteintes aux élèves et aux personnels dans les écoles",
-      "summary": "Le décret n° 2026-954 du 14 octobre 2026 figure au sommaire du JORF n° 0241 du 15 octobre 2026.",
-      "source": "Décret n° 2026-954 du 14 oct. 2026, JORF n° 0241 du 15 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/15/0241",
+      "title": "Journal officiel du 16 octobre 2026 : arrêtés sur les places aux concours militaires de 2027 et sur les spécialités pharmaceutiques remboursables",
+      "summary": "Le JORF n° 0242 du 16 octobre 2026 publie des arrêtés du 14 octobre fixant les effectifs de recrutement 2027 de corps militaires et des arrêtés du 12 octobre modifiant les listes de médicaments remboursables.",
+      "source": "JORF n° 0242 du 16 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/16/0242",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Prévention du harcèlement moral : la chambre sociale distingue l'obligation de prévention de l'interdiction du harcèlement, et censure une cour d'appel sur la prescription",
-      "summary": "La Cour de cassation casse l'arrêt qui avait jugé l'action non prescrite, en retenant que l'obligation de prévention des risques professionnels est distincte de la prohibition des agissements de harcèlement moral.",
-      "source": "Cass. soc., 7 oct. 2026, n° 25-11.362 (Le Monde du Droit)",
-      "url": "https://www.lemondedudroit.fr/social/285-sante-et-securite-au-travail/106209-obligation-de-prevention-du-harcelement-moral-quel-delai-pour-agir.html",
+      "title": "Intérêts au double du taux légal : la deuxième chambre civile rejette un pourvoi sur leur capitalisation dans un arrêt publié au Bulletin",
+      "summary": "L'arrêt du 8 octobre 2026, publié au Bulletin, rejette le pourvoi par une décision non spécialement motivée sur la question de la capitalisation des intérêts majorés.",
+      "source": "Cass. 2e civ., 8 oct. 2026, n° 24-22.158, publié au Bulletin",
+      "url": "https://justice.pappers.fr/decision/9b02aebbb543eb9df5ce0e4b74ca856cc76ea0cb",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Fiscalité du patrimoine : la Cour des comptes veut restaurer la progressivité au sommet",
-      "summary": "La note de synthèse de la Cour, publiée en septembre 2026 avant l'examen du budget 2027, formule seize recommandations sans valeur contraignante, dont une imposition plancher des plus hauts patrimoines.",
-      "source": "Actu-Juridique, rubrique fiscalité",
-      "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/fiscalite-du-patrimoine-la-cour-des-comptes-veut-restaurer-la-progressivite-au-sommet/",
+      "title": "L'office du juge dans l'interprétation des conventions collectives : la méthode unifiée de la chambre sociale (2023-2026)",
+      "summary": "Une étude retrace la manière dont la chambre sociale unifie sa méthode d'interprétation des conventions collectives et le rôle qu'elle assigne au juge du fond.",
+      "source": "Kohen Avocats, étude de jurisprudence 2023-2026",
+      "url": "https://kohenavocats.com/interpretation-conventions-collectives-office-juge-chambre-sociale-2026/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "16 octobre 1793 : Marie-Antoinette est guillotinée place de la Révolution",
-      "summary": "Condamnée pour haute trahison le matin même par le Tribunal révolutionnaire après un procès de deux jours, l'ancienne reine est exécutée en fin de matinée, dix mois après Louis XVI.",
-      "source": "Hérodote.net",
-      "url": "https://www.herodote.net/histoire10160.htm",
+      "title": "16 octobre 1978 : Karol Wojtyła est élu pape sous le nom de Jean-Paul II",
+      "summary": "Il est le premier pape non italien depuis 1522, élu à l'issue d'un conclave qui a rompu avec une très longue tradition.",
+      "source": "Hérodote.net, almanach du 16 octobre",
+      "url": "https://www.herodote.net/16_octobre-almanach-1016.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Marchés publics : la revue de la semaine du 9 au 15 octobre 2026, dont les règles sur les offres anormalement basses",
-      "summary": "La Gazette des communes propose un récapitulatif hebdomadaire des décisions et textes utiles aux acheteurs et aux entreprises soumissionnaires.",
-      "source": "La Gazette des communes, « Votre actu juridique du 9 au 15 octobre 2026 »",
-      "url": "https://www.lagazettedescommunes.com/club-techni-cites/juridique-techni-cites/votre-actu-juridique-du-9-au-15-octobre-2026.ZFVGKI7YCFBHZLTCD7WXJY5JHM.html",
+      "title": "Injonction de payer : depuis le 1er septembre 2026, l'ordonnance doit être signifiée dans les trois mois sous peine d'être non avenue",
+      "summary": "Pour les ordonnances rendues à compter du 1er septembre 2026, le délai de signification passe de six à trois mois (décret n° 2026-96 du 16 février 2026), faute de quoi le créancier doit déposer une nouvelle requête.",
+      "source": "Service-public.fr (entreprendre) ; Kohen Avocats, 15 oct. 2026",
+      "url": "https://kohenavocats.fr/2026/10/15/injonction-payer-obtenue-signifier-trois-mois-opposition-prescription-2026/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "16 octobre : Journée mondiale de l'alimentation, sous le thème « Innover aujourd'hui pour nourrir demain »",
-      "summary": "La FAO tient sa cérémonie mondiale en format hybride à Rome, avec des événements organisés dans près de 150 pays.",
-      "source": "FAO",
-      "url": "https://www.fao.org/worldfoodday-campaign/home/fr/",
+      "title": "Budget de l'Union européenne : les dirigeants n'ont pas trouvé d'accord, Emmanuel Macron juge que le temps presse",
+      "summary": "Selon la revue de presse du 16 octobre, aucun accord n'a été trouvé sur le budget de l'UE et le président français estime qu'attendre 2027 rendrait la négociation plus difficile.",
+      "source": "franceinfo, Les informés du matin, 16 oct. 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-16-octobre-2026_8219002.html",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Expromission",
-    "subtitle": "Droit des obligations · Novation par changement de débiteur, art. 1329 et s. du Code civil (art. 1332)",
-    "defShort": "Novation par substitution de débiteur réalisée sans le concours du débiteur d'origine : un tiers s'engage envers le créancier, qui le prend pour débiteur à la place de l'ancien, lequel est libéré.",
+    "term": "Interversion de la prescription",
+    "subtitle": "Droit civil · Prescription extinctive, art. 2219 et s. du Code civil ; art. L. 111-4 du CPCE",
+    "defShort": "Remplacement du délai de prescription d'une créance par un autre, généralement plus long, lorsqu'un acte ou un jugement change la nature ou le fondement du droit du créancier.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'expromission est la variante de la novation par changement de débiteur dans laquelle le nouveau débiteur s'oblige envers le créancier de sa propre initiative, sans que le débiteur initial ait à intervenir. La dette ancienne s'éteint, une dette nouvelle naît à la charge du tiers."
+        "body": "Une créance se prescrit selon un délai propre (cinq ans en droit commun). L'interversion désigne le phénomène par lequel, sans simple interruption, ce délai est remplacé par un autre : la créance n'est plus soumise au délai d'origine mais à celui attaché à son nouveau fondement."
       },
       {
-        "h": "Fondement",
-        "body": "Le Code civil issu de l'ordonnance du 10 février 2016 prévoit que la novation par substitution de débiteur peut s'opérer sans le concours du premier débiteur (art. 1332). Elle suppose l'accord du créancier et du tiers. Comme toute novation, elle ne se présume pas : la volonté de l'opérer doit résulter clairement de l'acte (art. 1330)."
+        "h": "Mécanisme",
+        "body": "Le cas typique est celui de la créance reconnue par un jugement devenu titre exécutoire : l'exécution de ce titre peut être poursuivie pendant dix ans (art. L. 111-4 du code des procédures civiles d'exécution), alors que la créance sous-jacente se prescrivait par un délai plus court. À distinguer de l'interruption, qui fait seulement courir un nouveau délai de même durée que l'ancien (art. 2231 du code civil)."
       },
       {
-        "h": "Cas visés",
-        "body": "On la distingue de la délégation, où le débiteur d'origine est partie à l'opération en désignant lui-même le tiers, et de la simple reprise cumulative ou de l'engagement de payer la dette d'autrui, où le débiteur initial reste tenu. Elle intéresse la reprise de dette lors d'une cession d'entreprise ou d'un rachat d'engagements."
+        "h": "Limites",
+        "body": "L'interversion ne joue pas pour toute décision : il faut que le jugement ou l'acte consacre la créance et la rende exécutoire. Elle ne vaut qu'à l'égard de la créance concernée et ne s'étend pas aux accessoires périodiques, comme les intérêts, qui restent soumis à leur propre délai."
       },
       {
-        "h": "Portée",
-        "body": "L'enjeu pratique est l'effet libératoire : le créancier perd son ancien débiteur et assume le risque d'insolvabilité du nouveau. La clarté de l'acte est décisive, car, en cas de doute, le juge écarte la novation au profit d'un simple engagement cumulatif, plus favorable au créancier."
+        "h": "Portée pratique",
+        "body": "Pour un créancier, l'obtention d'un titre exécutoire n'est pas seulement un moyen d'exécuter : elle allonge la durée utile de sa créance. Pour le débiteur, le délai à surveiller n'est plus celui de la créance d'origine."
       }
     ],
-    "seeAlso": "Voir aussi — délégation (art. 1336 et s.) · novation (art. 1329) · cession de dette (art. 1327)"
+    "seeAlso": "Voir aussi — interruption de la prescription (art. 2240 et s.) · suspension · titre exécutoire (art. L. 111-3 CPCE) · reconnaissance de dette"
   },
   "date": "2026-10-16",
   "dateShort": "16 oct.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 50,
     "title": "Un trou noir au centre de la Voie lactée",

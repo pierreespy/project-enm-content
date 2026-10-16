@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-16",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-10-16",
+      "slot": "midi",
+      "file": "editions/2026-10-16-midi.json",
+      "essentiel": "Cession de parts de SARL à un tiers : sans notification du projet à la société et aux associés, la cession est nulle, même si l'agrément a été donné à l'unanimité",
+      "term": "Interversion de la prescription",
+      "rubriques": [
+        "Journal officiel du 16 octobre 2026 : arrêtés sur les places aux concours militaires de 2027 et sur les spécialités pharmaceutiques remboursables",
+        "Intérêts au double du taux légal : la deuxième chambre civile rejette un pourvoi sur leur capitalisation dans un arrêt publié au Bulletin",
+        "L'office du juge dans l'interprétation des conventions collectives : la méthode unifiée de la chambre sociale (2023-2026)",
+        "16 octobre 1978 : Karol Wojtyła est élu pape sous le nom de Jean-Paul II",
+        "Injonction de payer : depuis le 1er septembre 2026, l'ordonnance doit être signifiée dans les trois mois sous peine d'être non avenue",
+        "Budget de l'Union européenne : les dirigeants n'ont pas trouvé d'accord, Emmanuel Macron juge que le temps presse"
+      ]
+    },
     {
       "date": "2026-10-16",
       "slot": "matin",
