@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15",
-  "count": 49,
+  "updated": "2026-10-16",
+  "count": 50,
   "lessons": [
     {
       "n": 1,
@@ -425,6 +425,14 @@
       "title": "Résoudre la tension de Hubble : deux familles d'explications",
       "terms": [
         "Erreur systématique"
+      ]
+    },
+    {
+      "n": 50,
+      "file": "astro/lessons/050-un-trou-noir-au-centre-de-la-voie-lactee.json",
+      "title": "Un trou noir au centre de la Voie lactée",
+      "terms": [
+        "Trou noir supermassif"
       ]
     }
   ]

@@ -1,0 +1,28 @@
+{
+  "n": 50,
+  "title": "Un trou noir au centre de la Voie lactée",
+  "subtitle": "On ne voit pas le trou noir lui-même : on le déduit du mouvement des étoiles qui l'entourent",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Des étoiles qui tournent autour de rien de visible",
+      "body": "Au centre de la Voie lactée (jour 24), à environ 26 000 années-lumière (jour 4) de nous, des astronomes suivent depuis les années 1990 le mouvement d'étoiles très proches du centre. Ces étoiles parcourent leur orbite (jour 9) en quelques années seulement, à des vitesses de plusieurs milliers de kilomètres par seconde. Or la gravité (jour 8) ne peut produire de telles vitesses que si une masse considérable se trouve au point autour duquel elles tournent. Il faut pour cela observer longtemps et avec précision : une étoile qui accomplit un tour en une quinzaine d'années ne se laisse suivre qu'au prix de plusieurs décennies de mesures patientes, dans une région du ciel masquée à la lumière visible par d'épais nuages de poussière, ce qui impose d'observer dans l'infrarouge."
+    },
+    {
+      "h": "Une masse énorme dans un volume minuscule",
+      "body": "En appliquant la règle de la gravitation, on déduit que cette masse équivaut à environ quatre millions de Soleils, concentrés dans une région plus petite que l'orbite d'Uranus. Aucun amas d'étoiles ne tiendrait dans un volume aussi réduit sans s'effondrer. Le seul objet connu compatible est un trou noir (jour 23), ici dit supermassif : un trou noir dont la masse atteint des millions, voire des milliards de fois celle du Soleil. Celui de notre galaxie s'appelle Sagittarius A*."
+    },
+    {
+      "h": "Une preuve indirecte, puis une image",
+      "body": "Ce raisonnement est une inférence : on ne voit pas le trou noir, on voit ce qu'il fait faire aux étoiles voisines. Cette démonstration, menée par deux équipes indépendantes, a valu le prix Nobel de physique 2020 à Reinhard Genzel et Andrea Ghez, avec Roger Penrose pour un autre volet. En 2022, un réseau de télescopes (jour 31) répartis sur la planète a de plus obtenu une image de la lueur du gaz qui entoure l'objet : son centre sombre correspond à l'ombre de l'horizon des événements (jour 23). La preuve est donc double, par le mouvement des étoiles puis par l'image."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Trou noir supermassif",
+      "def": "Trou noir dont la masse vaut des millions, voire des milliards de fois celle du Soleil, que l'on trouve au centre de la plupart des grandes galaxies."
+    }
+  ],
+  "recap": "Le mouvement rapide des étoiles proches du centre de la Voie lactée révèle une masse de quatre millions de Soleils dans un volume minuscule : un trou noir supermassif.",
+  "next": "Demain — comment on estime la masse d'un astre à partir de son orbite."
+}

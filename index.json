@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-15",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-10-16",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-16",
+      "slot": "matin",
+      "file": "editions/2026-10-16-matin.json",
+      "essentiel": "Licenciement nul pour harcèlement moral : le salarié parti à la retraite ne peut plus être réintégré, mais il est indemnisé jusqu'à son départ",
+      "term": "Expromission",
+      "rubriques": [
+        "Journal officiel du 15 octobre 2026 : un décret du 14 octobre organise un dispositif de prévention et de traitement des atteintes aux élèves et aux personnels dans les écoles",
+        "Prévention du harcèlement moral : la chambre sociale distingue l'obligation de prévention de l'interdiction du harcèlement, et censure une cour d'appel sur la prescription",
+        "Fiscalité du patrimoine : la Cour des comptes veut restaurer la progressivité au sommet",
+        "16 octobre 1793 : Marie-Antoinette est guillotinée place de la Révolution",
+        "Marchés publics : la revue de la semaine du 9 au 15 octobre 2026, dont les règles sur les offres anormalement basses",
+        "16 octobre : Journée mondiale de l'alimentation, sous le thème « Innover aujourd'hui pour nourrir demain »"
+      ]
+    },
     {
       "date": "2026-10-15",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "Prix Nobel 2026 : le calendrier des six annonces s'ouvre lundi 5 octobre avec la médecine",
         "Fermage agricole : à quelle échéance payer, à qui verser après la vente et comment prouver le règlement",
         "Météo : un début d'octobre très doux, jusqu'à 22 °C attendus à Paris ce jeudi"
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "slot": "midi",
-      "file": "editions/2026-09-30-midi.json",
-      "essentiel": "Budget 2027 : le projet de loi de finances est présenté en Conseil des ministres et déposé à l'Assemblée nationale ce 30 septembre",
-      "term": "Le criminel tient le civil en l'état",
-      "rubriques": [
-        "Services de prévention et de santé au travail interentreprises : l'arrêté fixant le coût moyen national des services paraît au Journal officiel",
-        "Avion repeint en vert : liberté d'expression contre condamnation, le débat de l'audience d'appel avant l'arrêt attendu ce 30 septembre",
-        "La question de la représentation de l'enfant : conférence à la Cour de cassation ce 30 septembre",
-        "30 septembre 1938 : les accords de Munich, signés par la France, le Royaume-Uni, l'Allemagne et l'Italie",
-        "Assignations : la mention d'avertissement au défendeur à actualiser dès le 1er octobre 2026, sous peine de nullité",
-        "Météo : pluies et orages sur le Sud-Est, l'Hérault et le Gard placés en vigilance rouge pluie-inondation ce mercredi"
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "slot": "matin",
-      "file": "editions/2026-09-30-matin.json",
-      "essentiel": "Refus de marier une Française et un Algérien sous OQTF : Robert Ménard face au tribunal de Montpellier",
-      "term": "Astreinte comminatoire",
-      "rubriques": [
-        "Décret n° 2026-903 du 28 septembre 2026 : modification du décret du 4 janvier 2002 sur la situation administrative et financière de personnels",
-        "Avion Air France repeint en vert : la cour d'appel de Paris rend sa décision sur les neuf militants de Greenpeace",
-        "Grève du 29 septembre 2026 : quelles conséquences en droit du travail pour les salariés grévistes ?",
-        "Octobre Rose : la tour Eiffel s'illumine en rose pour lancer la campagne de sensibilisation au cancer du sein",
-        "Retenue sur salaire après une grève : vérifier le bulletin de paie d'octobre",
-        "Météo : une douceur exceptionnelle pour la saison sur l'Ouest ce mercredi"
       ]
     }
   ]

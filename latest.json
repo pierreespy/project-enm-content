@@ -1,121 +1,121 @@
 {
-  "dateShort": "15 oct.",
-  "slot": "midi",
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Pourvoi dans l'affaire des assistants parlementaires du FN : les mémoires sont déposés ce 15 octobre, dernier jour du délai, avant la fixation d'une audience",
-    "dek": "Les avocats de la cheffe de file des députés RN et de ses coprévenus déposent leurs mémoires devant la Cour de cassation. La Cour fixera ensuite une audience, environ un mois avant de statuer, et la question de l'éligibilité à la présidentielle de 2027 reste suspendue à sa décision.",
-    "source": "Kohen Avocats, 15 oct. 2026",
-    "url": "https://kohenavocats.com/condamne-ineligibilite-candidat-presidentielle-2027-cassation-pourvoi/"
+    "title": "Licenciement nul pour harcèlement moral : le salarié parti à la retraite ne peut plus être réintégré, mais il est indemnisé jusqu'à son départ",
+    "dek": "Par un arrêt du 7 octobre 2026, la chambre sociale censure la cour d'appel de Paris qui avait ordonné la réintégration d'un professeur alors qu'il avait fait valoir ses droits à la retraite. La réintégration étant devenue impossible, l'indemnité est limitée à la rémunération perdue entre le licenciement et le départ, sous déduction des revenus de remplacement.",
+    "source": "Cass. soc., 7 oct. 2026, n° 25-22.243, FS-B (Le Monde du Droit)",
+    "url": "https://www.lemondedudroit.fr/social/285-sante-et-securite-au-travail/106187-licenciement-nul-pour-harcelement-moral-quelle-indemnisation-en-cas-de-depart-a-la-retraite.html"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Loi de financement de la sécurité sociale pour 2026 : le Conseil constitutionnel a examiné les QPC n° 2026-1230/1231 le 13 octobre et rendra des décisions le 16",
-      "summary": "Les deux questions prioritaires de constitutionnalité visant la loi de financement de la sécurité sociale pour 2026 ont été plaidées mardi ; le Conseil annonce des décisions vendredi 16 octobre 2026.",
-      "source": "Conseil constitutionnel, affaires en instance (oct. 2026)",
-      "url": "https://www.conseil-constitutionnel.fr/decisions/affaires-en-instances",
+      "title": "Journal officiel du 15 octobre 2026 : un décret du 14 octobre organise un dispositif de prévention et de traitement des atteintes aux élèves et aux personnels dans les écoles",
+      "summary": "Le décret n° 2026-954 du 14 octobre 2026 figure au sommaire du JORF n° 0241 du 15 octobre 2026.",
+      "source": "Décret n° 2026-954 du 14 oct. 2026, JORF n° 0241 du 15 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/15/0241",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Municipales à Couëron : l'élection est annulée pour trois suffrages de trop sur les machines à voter, l'appel est ouvert",
-      "summary": "Le juge électoral a relevé un écart entre les émargements et les suffrages enregistrés par les machines à voter, suffisant pour annuler le scrutin ; la décision peut être portée devant le Conseil d'État.",
-      "source": "Tribunal administratif, contentieux des municipales à Couëron (Kohen Avocats)",
-      "url": "https://kohenavocats.com/coueron-election-axel-casenave-annulee-machines-a-voter-emargements-appel-conseil-etat/",
+      "title": "Prévention du harcèlement moral : la chambre sociale distingue l'obligation de prévention de l'interdiction du harcèlement, et censure une cour d'appel sur la prescription",
+      "summary": "La Cour de cassation casse l'arrêt qui avait jugé l'action non prescrite, en retenant que l'obligation de prévention des risques professionnels est distincte de la prohibition des agissements de harcèlement moral.",
+      "source": "Cass. soc., 7 oct. 2026, n° 25-11.362 (Le Monde du Droit)",
+      "url": "https://www.lemondedudroit.fr/social/285-sante-et-securite-au-travail/106209-obligation-de-prevention-du-harcelement-moral-quel-delai-pour-agir.html",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Impôt sur le revenu depuis 2017 : l'étude du Conseil des prélèvements obligatoires sur l'impôt réellement payé selon les niveaux de revenus",
-      "summary": "La commission des finances de l'Assemblée a entendu le 30 septembre 2026 le vice-président du CPO sur l'évolution de l'impôt effectivement payé et des réductions et crédits d'impôt depuis 2017.",
-      "source": "Assemblée nationale, commission des finances (audition du 30 sept. 2026)",
-      "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/finances/actualites/l-evolution-depuis-2017-des-montants-reels-d-impot-sur-le-revenu-et-des-reductions-d-impots-et-credits-d-impots-en-fonction-des-differents-niveaux",
+      "title": "Fiscalité du patrimoine : la Cour des comptes veut restaurer la progressivité au sommet",
+      "summary": "La note de synthèse de la Cour, publiée en septembre 2026 avant l'examen du budget 2027, formule seize recommandations sans valeur contraignante, dont une imposition plancher des plus hauts patrimoines.",
+      "source": "Actu-Juridique, rubrique fiscalité",
+      "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/fiscalite-du-patrimoine-la-cour-des-comptes-veut-restaurer-la-progressivite-au-sommet/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "15 octobre 1917 : Mata Hari est fusillée à Vincennes après sa condamnation pour espionnage",
-      "summary": "Condamnée à mort par un conseil de guerre, la danseuse refuse le bandeau devant le peloton ; la réalité de son rôle d'espionne reste discutée par les historiens.",
-      "source": "History.co.uk, « Mata Hari is executed »",
-      "url": "https://www.history.co.uk/this-day-in-history/15-october/mata-hari-is-executed",
+      "title": "16 octobre 1793 : Marie-Antoinette est guillotinée place de la Révolution",
+      "summary": "Condamnée pour haute trahison le matin même par le Tribunal révolutionnaire après un procès de deux jours, l'ancienne reine est exécutée en fin de matinée, dix mois après Louis XVI.",
+      "source": "Hérodote.net",
+      "url": "https://www.herodote.net/histoire10160.htm",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Harcèlement téléphonique : ce que vos relevés d'appels et vos messages prouvent vraiment pour appuyer une plainte",
-      "summary": "Un avocat pénaliste détaille comment constituer la preuve (relevés, captures, messages) avant de déposer plainte pour harcèlement par téléphone.",
-      "source": "Kohen Avocats, 15 oct. 2026",
-      "url": "https://kohenavocats.com/harcelement-telephonique-releves-messages-preuve-plainte-2026/",
+      "title": "Marchés publics : la revue de la semaine du 9 au 15 octobre 2026, dont les règles sur les offres anormalement basses",
+      "summary": "La Gazette des communes propose un récapitulatif hebdomadaire des décisions et textes utiles aux acheteurs et aux entreprises soumissionnaires.",
+      "source": "La Gazette des communes, « Votre actu juridique du 9 au 15 octobre 2026 »",
+      "url": "https://www.lagazettedescommunes.com/club-techni-cites/juridique-techni-cites/votre-actu-juridique-du-9-au-15-octobre-2026.ZFVGKI7YCFBHZLTCD7WXJY5JHM.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Grève TCL du jeudi 15 octobre : une quarantaine de lignes de bus à l'arrêt à Lyon, métros et tramways normaux",
-      "summary": "Les bus des zones 1 et 2 sont fortement perturbés, tandis que métros, tramways, funiculaires et Rhônexpress circulent normalement.",
-      "source": "LyonMag",
-      "url": "https://www.lyonmag.com/article/154375/greve-tcl-jeudi-40-lignes-de-bus-a-l-arret-de-nombreuses-autres-fortement-perturbees-a-lyon",
+      "title": "16 octobre : Journée mondiale de l'alimentation, sous le thème « Innover aujourd'hui pour nourrir demain »",
+      "summary": "La FAO tient sa cérémonie mondiale en format hybride à Rome, avec des événements organisés dans près de 150 pays.",
+      "source": "FAO",
+      "url": "https://www.fao.org/worldfoodday-campaign/home/fr/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Moyen mélangé de fait et de droit",
-    "subtitle": "Procédure civile et pénale · Pourvoi en cassation",
-    "defShort": "Moyen de cassation irrecevable parce qu'il oblige la Cour de cassation à examiner des éléments de fait que les juges du fond n'ont ni constatés ni appréciés, alors qu'elle ne juge que le droit.",
+    "term": "Expromission",
+    "subtitle": "Droit des obligations · Novation par changement de débiteur, art. 1329 et s. du Code civil (art. 1332)",
+    "defShort": "Novation par substitution de débiteur réalisée sans le concours du débiteur d'origine : un tiers s'engage envers le créancier, qui le prend pour débiteur à la place de l'ancien, lequel est libéré.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "La Cour de cassation n'est pas un troisième degré de juridiction : elle contrôle l'application de la règle de droit, non l'appréciation des faits. Un moyen « mélangé de fait et de droit » prétend dénoncer une violation de la loi, mais ne peut être examiné qu'en revenant sur des faits que la décision attaquée n'a pas constatés."
+        "body": "L'expromission est la variante de la novation par changement de débiteur dans laquelle le nouveau débiteur s'oblige envers le créancier de sa propre initiative, sans que le débiteur initial ait à intervenir. La dette ancienne s'éteint, une dette nouvelle naît à la charge du tiers."
       },
       {
-        "h": "Mécanisme",
-        "body": "Le demandeur reproche par exemple à la cour d'appel d'avoir mal qualifié une situation, mais l'argument suppose d'établir un fait (une date, une intention, une pièce) absent des constatations de l'arrêt. La Cour ne peut ni enquêter ni vérifier : le moyen est déclaré irrecevable, sans examen du fond."
+        "h": "Fondement",
+        "body": "Le Code civil issu de l'ordonnance du 10 février 2016 prévoit que la novation par substitution de débiteur peut s'opérer sans le concours du premier débiteur (art. 1332). Elle suppose l'accord du créancier et du tiers. Comme toute novation, elle ne se présume pas : la volonté de l'opérer doit résulter clairement de l'acte (art. 1330)."
       },
       {
-        "h": "Distinctions",
-        "body": "Il se distingue du moyen « nouveau », qui n'a pas été soutenu devant les juges du fond, et du grief de dénaturation, qui vise un écrit clair que le juge a mal lu. Le moyen nouveau mélangé de fait et de droit cumule les deux obstacles."
+        "h": "Cas visés",
+        "body": "On la distingue de la délégation, où le débiteur d'origine est partie à l'opération en désignant lui-même le tiers, et de la simple reprise cumulative ou de l'engagement de payer la dette d'autrui, où le débiteur initial reste tenu. Elle intéresse la reprise de dette lors d'une cession d'entreprise ou d'un rachat d'engagements."
       },
       {
-        "h": "Portée pratique",
-        "body": "C'est l'une des premières causes d'échec des pourvois. Rédiger un moyen de cassation consiste à isoler une question de droit pure, en s'appuyant uniquement sur les constatations de la décision attaquée."
+        "h": "Portée",
+        "body": "L'enjeu pratique est l'effet libératoire : le créancier perd son ancien débiteur et assume le risque d'insolvabilité du nouveau. La clarté de l'acte est décisive, car, en cas de doute, le juge écarte la novation au profit d'un simple engagement cumulatif, plus favorable au créancier."
       }
     ],
-    "seeAlso": "Voir aussi — moyen nouveau · dénaturation · appréciation souveraine des juges du fond · non-admission du pourvoi (art. 1014 CPC)"
+    "seeAlso": "Voir aussi — délégation (art. 1336 et s.) · novation (art. 1329) · cession de dette (art. 1327)"
   },
-  "date": "2026-10-15",
+  "date": "2026-10-16",
+  "dateShort": "16 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 49,
-    "title": "Résoudre la tension de Hubble : deux familles d'explications",
-    "subtitle": "Soit les mesures se trompent, soit c'est notre description de l'univers qui est incomplète",
+    "n": 50,
+    "title": "Un trou noir au centre de la Voie lactée",
+    "subtitle": "On ne voit pas le trou noir lui-même : on le déduit du mouvement des étoiles qui l'entourent",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Première piste : une erreur de mesure",
-        "body": "Lorsque deux mesures d'une même grandeur divergent, la première hypothèse est qu'au moins l'une d'elles est faussée. Les astrophysiciens parlent d'erreur systématique : un défaut qui décale tous les résultats dans le même sens, sans que la répétition des observations ne le fasse disparaître. Dans l'échelle des distances, un étalonnage légèrement erroné suffirait à déplacer la valeur de la constante de Hubble."
+        "h": "Des étoiles qui tournent autour de rien de visible",
+        "body": "Au centre de la Voie lactée (jour 24), à environ 26 000 années-lumière (jour 4) de nous, des astronomes suivent depuis les années 1990 le mouvement d'étoiles très proches du centre. Ces étoiles parcourent leur orbite (jour 9) en quelques années seulement, à des vitesses de plusieurs milliers de kilomètres par seconde. Or la gravité (jour 8) ne peut produire de telles vitesses que si une masse considérable se trouve au point autour duquel elles tournent. Il faut pour cela observer longtemps et avec précision : une étoile qui accomplit un tour en une quinzaine d'années ne se laisse suivre qu'au prix de plusieurs décennies de mesures patientes, dans une région du ciel masquée à la lumière visible par d'épais nuages de poussière, ce qui impose d'observer dans l'infrarouge."
       },
       {
-        "h": "Pourquoi cette piste résiste mal",
-        "body": "Les équipes ont multiplié les vérifications, avec des instruments et des méthodes indépendants, notamment les observations du télescope spatial James Webb. L'écart persiste, alors même que chaque camp a mesuré avec soin. Une erreur unique et oubliée devient de moins en moins plausible."
+        "h": "Une masse énorme dans un volume minuscule",
+        "body": "En appliquant la règle de la gravitation, on déduit que cette masse équivaut à environ quatre millions de Soleils, concentrés dans une région plus petite que l'orbite d'Uranus. Aucun amas d'étoiles ne tiendrait dans un volume aussi réduit sans s'effondrer. Le seul objet connu compatible est un trou noir (jour 23), ici dit supermassif : un trou noir dont la masse atteint des millions, voire des milliards de fois celle du Soleil. Celui de notre galaxie s'appelle Sagittarius A*."
       },
       {
-        "h": "Seconde piste : une physique incomplète",
-        "body": "Si les deux mesures sont justes, c'est le modèle qui relie l'univers primitif à l'univers actuel qui doit être corrigé. Il faudrait alors un ingrédient supplémentaire, par exemple une forme d'énergie ayant agi dans les premiers temps, ou une énergie noire dont le comportement varie. Ces propositions existent, mais aucune ne fait consensus : chacune règle l'écart en en créant d'autres."
+        "h": "Une preuve indirecte, puis une image",
+        "body": "Ce raisonnement est une inférence : on ne voit pas le trou noir, on voit ce qu'il fait faire aux étoiles voisines. Cette démonstration, menée par deux équipes indépendantes, a valu le prix Nobel de physique 2020 à Reinhard Genzel et Andrea Ghez, avec Roger Penrose pour un autre volet. En 2022, un réseau de télescopes (jour 31) répartis sur la planète a de plus obtenu une image de la lueur du gaz qui entoure l'objet : son centre sombre correspond à l'ombre de l'horizon des événements (jour 23). La preuve est donc double, par le mouvement des étoiles puis par l'image."
       }
     ],
     "keyTerms": [
       {
-        "term": "Erreur systématique",
-        "def": "Défaut d'une méthode de mesure qui décale tous les résultats dans le même sens et que la répétition des observations ne corrige pas."
+        "term": "Trou noir supermassif",
+        "def": "Trou noir dont la masse vaut des millions, voire des milliards de fois celle du Soleil, que l'on trouve au centre de la plupart des grandes galaxies."
       }
     ],
-    "recap": "Deux issues sont envisagées pour la tension de Hubble : une erreur de mesure encore cachée, ou un modèle de l'univers à compléter.",
-    "next": "Demain — les ondes gravitationnelles, une nouvelle façon d’observer l’univers."
+    "recap": "Le mouvement rapide des étoiles proches du centre de la Voie lactée révèle une masse de quatre millions de Soleils dans un volume minuscule : un trou noir supermassif.",
+    "next": "Demain — comment on estime la masse d'un astre à partir de son orbite."
   }
 }
