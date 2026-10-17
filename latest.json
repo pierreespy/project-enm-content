@@ -1,94 +1,94 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Cession de parts de SARL à un tiers : sans notification du projet à la société et aux associés, la cession est nulle, même si l'agrément a été donné à l'unanimité",
-    "dek": "Selon les commentaires publiés par des cabinets, la chambre commerciale a annulé le 7 octobre 2026 une cession de parts de SARL au motif que le projet n'avait pas été notifié à la société et à chacun des associés. Le formalisme de l'article L. 223-14 du code de commerce est d'ordre public : l'accord de tous les associés ne le remplace pas. Le pourvoi cité est le n° 24-10.131 (à vérifier sur le texte de l'arrêt).",
-    "source": "Cass. com., 7 oct. 2026, n° 24-10.131 (Gazette du Palais ; commentaire Kohen Avocats)",
-    "url": "https://www.labase-lextenso.fr/gazette-du-palais/GPL426q6"
+    "title": "Dettes fiscales d'une société liquidée : l'administration peut mettre en cause le dirigeant sur le fondement de l'article L. 267 du LPF, même sans action en insuffisance d'actif",
+    "dek": "Selon les commentaires publiés, la chambre commerciale a censuré le 7 octobre 2026 une cour d'appel qui exigeait des poursuites préalables contre le gérant : l'absence d'action en responsabilité pour insuffisance d'actif (art. L. 651-2 du code de commerce) ne fait pas obstacle à la responsabilité solidaire fiscale. Le pourvoi cité est le n° 25-17.146 (à vérifier sur le texte de l'arrêt).",
+    "source": "Cass. com., 7 oct. 2026, n° 25-17.146 (Le Mag Juridique ; commentaire Le Bouard Avocats)",
+    "url": "https://www.lemag-juridique.com/articles/fiscal-dettes-fiscales-societe-dirigeant-peut-etre-poursuivi-meme-sans-action-responsabilite-pour-insuffisance-actif-12089.htm"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Journal officiel du 16 octobre 2026 : arrêtés sur les places aux concours militaires de 2027 et sur les spécialités pharmaceutiques remboursables",
-      "summary": "Le JORF n° 0242 du 16 octobre 2026 publie des arrêtés du 14 octobre fixant les effectifs de recrutement 2027 de corps militaires et des arrêtés du 12 octobre modifiant les listes de médicaments remboursables.",
-      "source": "JORF n° 0242 du 16 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/16/0242",
+      "title": "Journal officiel du 17 octobre 2026 : trois décisions du Conseil constitutionnel du 16 octobre, dont la décision n° 2026-1225 QPC",
+      "summary": "Le JORF n° 0243 du 17 octobre 2026 publie trois décisions du Conseil constitutionnel datées du 16 octobre, parmi lesquelles la décision n° 2026-1225 QPC, ainsi que des mesures nominatives.",
+      "source": "JORF n° 0243 du 17 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/17/0243",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Intérêts au double du taux légal : la deuxième chambre civile rejette un pourvoi sur leur capitalisation dans un arrêt publié au Bulletin",
-      "summary": "L'arrêt du 8 octobre 2026, publié au Bulletin, rejette le pourvoi par une décision non spécialement motivée sur la question de la capitalisation des intérêts majorés.",
-      "source": "Cass. 2e civ., 8 oct. 2026, n° 24-22.158, publié au Bulletin",
-      "url": "https://justice.pappers.fr/decision/9b02aebbb543eb9df5ce0e4b74ca856cc76ea0cb",
+      "title": "Chambre commerciale du 7 octobre 2026 : cinq arrêts publiés sur la protection des tiers, de la cession à la caution et au dirigeant",
+      "summary": "Un commentaire de cabinet recense cinq arrêts publiés au Bulletin le même jour, touchant la cession de parts, le cautionnement et la responsabilité du dirigeant.",
+      "source": "Kohen Avocats, 14 oct. 2026 (Cass. com., 7 oct. 2026)",
+      "url": "https://kohenavocats.fr/2026/10/14/cass-com-7-octobre-2026-cinq-arrets-protection-tiers-cession-caution-dirigeant/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "L'office du juge dans l'interprétation des conventions collectives : la méthode unifiée de la chambre sociale (2023-2026)",
-      "summary": "Une étude retrace la manière dont la chambre sociale unifie sa méthode d'interprétation des conventions collectives et le rôle qu'elle assigne au juge du fond.",
-      "source": "Kohen Avocats, étude de jurisprudence 2023-2026",
-      "url": "https://kohenavocats.com/interpretation-conventions-collectives-office-juge-chambre-sociale-2026/",
+      "title": "Responsabilité fiscale du dirigeant après liquidation judiciaire : la liquidation ne met pas son patrimoine personnel à l'abri",
+      "summary": "Un billet d'avocat rappelle les conditions de l'article L. 267 du LPF (direction effective, manœuvres frauduleuses ou inobservations graves et répétées, impossibilité de recouvrer) à la lumière de l'arrêt du 7 octobre 2026.",
+      "source": "Le Bouard Avocats, 14 oct. 2026",
+      "url": "https://www.lebouard-avocats.fr/post/responsabilite-fiscale-dirigeant-liquidation-judiciaire-2026/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "16 octobre 1978 : Karol Wojtyła est élu pape sous le nom de Jean-Paul II",
-      "summary": "Il est le premier pape non italien depuis 1522, élu à l'issue d'un conclave qui a rompu avec une très longue tradition.",
-      "source": "Hérodote.net, almanach du 16 octobre",
-      "url": "https://www.herodote.net/16_octobre-almanach-1016.php",
+      "title": "17 octobre 1722 : on brûle les billets de banque de John Law place de l'Hôtel de Ville",
+      "summary": "Cette cérémonie marque la fin de la première expérience française de papier-monnaie, après la faillite du système de Law.",
+      "source": "Hérodote.net, almanach du 17 octobre",
+      "url": "https://www.herodote.net/almanach-jour-1017.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Injonction de payer : depuis le 1er septembre 2026, l'ordonnance doit être signifiée dans les trois mois sous peine d'être non avenue",
-      "summary": "Pour les ordonnances rendues à compter du 1er septembre 2026, le délai de signification passe de six à trois mois (décret n° 2026-96 du 16 février 2026), faute de quoi le créancier doit déposer une nouvelle requête.",
-      "source": "Service-public.fr (entreprendre) ; Kohen Avocats, 15 oct. 2026",
-      "url": "https://kohenavocats.fr/2026/10/15/injonction-payer-obtenue-signifier-trois-mois-opposition-prescription-2026/",
+      "title": "Arrêt maladie : ce qui change au 15 octobre 2026 pour l'indemnisation",
+      "summary": "Le décret n° 2026-866 réduit de trois ans à un an la durée maximale de versement des indemnités journalières pour certaines affections, à compter du 15 octobre 2026.",
+      "source": "Code du travail numérique, actualité",
+      "url": "https://code.travail.gouv.fr/actualite/indemnisation-arret-maladie-ce-qui-change-au-15-octobre-2026",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Budget de l'Union européenne : les dirigeants n'ont pas trouvé d'accord, Emmanuel Macron juge que le temps presse",
-      "summary": "Selon la revue de presse du 16 octobre, aucun accord n'a été trouvé sur le budget de l'UE et le président français estime qu'attendre 2027 rendrait la négociation plus difficile.",
-      "source": "franceinfo, Les informés du matin, 16 oct. 2026",
-      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-16-octobre-2026_8219002.html",
+      "title": "Grève nationale des personnels navigants du 17 au 21 octobre 2026 : Air France, Transavia et Corsair exposées",
+      "summary": "Un préavis intersyndical couvre pilotes et personnels de cabine ; aucune annulation n'était encore annoncée par les compagnies selon les sources consultées.",
+      "source": "Ulysse, alerte voyageurs",
+      "url": "https://ulysse.com/news/alerte-voyageurs-une-greve-nationale-menace-les-vols-en-france-du-17-au-21-octobre-2026",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Interversion de la prescription",
-    "subtitle": "Droit civil · Prescription extinctive, art. 2219 et s. du Code civil ; art. L. 111-4 du CPCE",
-    "defShort": "Remplacement du délai de prescription d'une créance par un autre, généralement plus long, lorsqu'un acte ou un jugement change la nature ou le fondement du droit du créancier.",
+    "term": "Délégation imparfaite",
+    "subtitle": "Droit des obligations · Articles 1336 à 1340 du Code civil",
+    "defShort": "Délégation dans laquelle le délégataire n'a pas déchargé le délégant : il conserve alors deux débiteurs, le délégant et le délégué, sans novation.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Une créance se prescrit selon un délai propre (cinq ans en droit commun). L'interversion désigne le phénomène par lequel, sans simple interruption, ce délai est remplacé par un autre : la créance n'est plus soumise au délai d'origine mais à celui attaché à son nouveau fondement."
+        "body": "Dans une délégation, le délégant demande à un tiers, le délégué, de s'obliger envers le délégataire, créancier. Si le délégataire décharge expressément le délégant, la délégation est parfaite et opère novation par changement de débiteur. À défaut de décharge, elle est imparfaite."
       },
       {
-        "h": "Mécanisme",
-        "body": "Le cas typique est celui de la créance reconnue par un jugement devenu titre exécutoire : l'exécution de ce titre peut être poursuivie pendant dix ans (art. L. 111-4 du code des procédures civiles d'exécution), alors que la créance sous-jacente se prescrivait par un délai plus court. À distinguer de l'interruption, qui fait seulement courir un nouveau délai de même durée que l'ancien (art. 2231 du code civil)."
+        "h": "Fondement",
+        "body": "Le régime figure aux articles 1336 à 1340 du Code civil, issus de l'ordonnance du 10 février 2016. La décharge du délégant ne se présume pas : elle doit être expresse."
       },
       {
-        "h": "Limites",
-        "body": "L'interversion ne joue pas pour toute décision : il faut que le jugement ou l'acte consacre la créance et la rende exécutoire. Elle ne vaut qu'à l'égard de la créance concernée et ne s'étend pas aux accessoires périodiques, comme les intérêts, qui restent soumis à leur propre délai."
+        "h": "Effets",
+        "body": "Le délégataire cumule deux débiteurs : le délégant, tenu de sa dette d'origine, et le délégué, tenu d'un engagement nouveau et en principe détaché des rapports entre délégant et délégué. Le délégataire dispose ainsi d'une garantie supplémentaire."
       },
       {
-        "h": "Portée pratique",
-        "body": "Pour un créancier, l'obtention d'un titre exécutoire n'est pas seulement un moyen d'exécuter : elle allonge la durée utile de sa créance. Pour le débiteur, le délai à surveiller n'est plus celui de la créance d'origine."
+        "h": "Portée",
+        "body": "La délégation imparfaite se distingue de la délégation parfaite par la persistance de l'obligation du délégant. Elle est à rapprocher, sans s'y confondre, de la cession de dette et de l'expromission."
       }
     ],
-    "seeAlso": "Voir aussi — interruption de la prescription (art. 2240 et s.) · suspension · titre exécutoire (art. L. 111-3 CPCE) · reconnaissance de dette"
+    "seeAlso": "Voir aussi — délégation parfaite · novation par changement de débiteur · expromission · inopposabilité des exceptions (art. 1336 et s.)"
   },
-  "date": "2026-10-16",
-  "dateShort": "16 oct.",
+  "date": "2026-10-17",
+  "dateShort": "17 oct.",
   "slot": "midi",
   "astro": {
     "n": 50,

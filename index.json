@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "updatedSlot": "midi",
-  "count": 32,
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-17",
+      "slot": "midi",
+      "file": "editions/2026-10-17-midi.json",
+      "essentiel": "Dettes fiscales d'une société liquidée : l'administration peut mettre en cause le dirigeant sur le fondement de l'article L. 267 du LPF, même sans action en insuffisance d'actif",
+      "term": "Délégation imparfaite",
+      "rubriques": [
+        "Journal officiel du 17 octobre 2026 : trois décisions du Conseil constitutionnel du 16 octobre, dont la décision n° 2026-1225 QPC",
+        "Chambre commerciale du 7 octobre 2026 : cinq arrêts publiés sur la protection des tiers, de la cession à la caution et au dirigeant",
+        "Responsabilité fiscale du dirigeant après liquidation judiciaire : la liquidation ne met pas son patrimoine personnel à l'abri",
+        "17 octobre 1722 : on brûle les billets de banque de John Law place de l'Hôtel de Ville",
+        "Arrêt maladie : ce qui change au 15 octobre 2026 pour l'indemnisation",
+        "Grève nationale des personnels navigants du 17 au 21 octobre 2026 : Air France, Transavia et Corsair exposées"
+      ]
+    },
     {
       "date": "2026-10-16",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "2 octobre 1967 : Thurgood Marshall prête serment comme premier juge afro-américain de la Cour suprême des États-Unis",
         "Avis de vérification de comptabilité reçu : répondre, délais, contester et obtenir le sursis de paiement",
         "Météo : une journée calme et assez ensoleillée, de 20 à 24 °C sur la moitié nord et de 23 à 28 °C dans le Sud"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "slot": "midi",
-      "file": "editions/2026-10-01-midi.json",
-      "essentiel": "Loi intégrale contre les violences sexuelles et sexistes : l'Assemblée nationale entame l'examen du texte ce jeudi 1er octobre",
-      "term": "Acquiescement à jugement",
-      "rubriques": [
-        "Décret n° 2026-915 du 30 septembre 2026 : l'organisation des services déconcentrés de la direction générale des douanes modifiée",
-        "Préemption Pinel : la prescription de l'action en nullité court dès que le locataire connaît la vente, sans attendre la copie de l'acte",
-        "Revue de jurisprudence en matière de risque, responsabilité civile et assurance : le bilan du premier semestre 2026",
-        "1er octobre 1946 : le tribunal militaire international de Nuremberg rend son jugement",
-        "Baux d'habitation : de nouveaux modèles de contrat de location entrent en vigueur au 1er octobre 2026",
-        "Gaz : le prix repère grimpe de 6,3 % au 1er octobre, à 182,88 euros le mégawattheure"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "slot": "matin",
-      "file": "editions/2026-10-01-matin.json",
-      "essentiel": "Exécution provisoire : la chambre criminelle juge que ni l'emprisonnement ni l'amende ne peuvent courir malgré l'appel",
-      "term": "Promesse de porte-fort",
-      "rubriques": [
-        "Procédure civile : les dispositions du décret n° 2026-683 du 27 juillet 2026 entrent en vigueur ce 1er octobre",
-        "Essais cliniques « sauvages » dans une abbaye près de Poitiers : jugement attendu ce 1er octobre contre les professeurs Fourtillan et Joyeux",
-        "Plan communal de sauvegarde et vigilance inondation : les obligations du maire après l'alerte du 30 septembre 2026",
-        "Prix Nobel 2026 : le calendrier des six annonces s'ouvre lundi 5 octobre avec la médecine",
-        "Fermage agricole : à quelle échéance payer, à qui verser après la vente et comment prouver le règlement",
-        "Météo : un début d'octobre très doux, jusqu'à 22 °C attendus à Paris ce jeudi"
       ]
     }
   ]
