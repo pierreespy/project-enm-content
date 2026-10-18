@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Procès de Rohan Rane : 20 ans de réclusion criminelle, première condamnation en France pour des actes de torture et de barbarie imposés à distance",
+    "dek": "La cour d'assises de Paris a condamné le 9 octobre 2026 le fondateur présumé du groupe CVLT, né sur Discord, pour extorsion en bande organisée aggravée par des actes de torture et de barbarie, notamment sur des mineures. Le parquet avait requis 30 ans ; selon le Club des juristes, c'est la première condamnation française pour des tortures infligées par écran interposé.",
+    "source": "Le Club des Juristes · Procès de Rohan Rane (Cour d'assises de Paris, 9 oct. 2026)",
+    "url": "https://www.leclubdesjuristes.com/en-bref/proces-de-rohan-rane-condamnation-a-20-ans-de-reclusion-criminelle-17834/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Un Conseil national de la commande publique remplace l'observatoire économique de la commande publique",
+      "summary": "Un décret du 14 août 2026, publié au Journal officiel du 15 août, crée le CNCP en lieu et place de l'observatoire économique de la commande publique.",
+      "source": "Le Monde du Droit · décret du 14 août 2026 (JO du 15 août 2026)",
+      "url": "https://www.lemondedudroit.fr/public/281-contrats-publics/105468-creation-du-conseil-national-de-la-commande-publique-cncp.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Salarié protégé : le transfert organisé par une convention tripartite exige l'autorisation préalable de l'inspection du travail",
+      "summary": "Dans un arrêt du 7 octobre 2026, la chambre sociale juge que le transfert d'un salarié protégé par convention tripartite ne peut intervenir sans autorisation préalable de l'inspecteur du travail.",
+      "source": "Cass. soc., 7 oct. 2026, n° 24-13.821",
+      "url": "https://mimoun-avocat.com/jurisprudence.html",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "« Quid Juris » : le président du Conseil constitutionnel répond sur l'État de droit menacé",
+      "summary": "Le podcast du Club des Juristes donne la parole au président du Conseil constitutionnel sur les menaces pesant sur l'État de droit.",
+      "source": "Le Club des Juristes · podcast Quid Juris",
+      "url": "https://www.leclubdesjuristes.com/les-podcasts/quid-juris-letat-de-droit-menace-le-president-du-conseil-constitutionnel-repond-2-17734/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "18 octobre 1685 : Louis XIV signe l'édit de Fontainebleau et révoque l'édit de Nantes",
+      "summary": "L'édit met fin à l'existence légale du protestantisme en France, hors Alsace, ordonne la démolition des temples et le départ des pasteurs.",
+      "source": "Hérodote.net · 18 octobre 1685",
+      "url": "https://www.herodote.net/18_octobre_1685-evenement-16851018.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Affaire Jubilar : le procès en appel est renvoyé au premier semestre 2027",
+      "summary": "La présidente de la cour d'assises de la Haute-Garonne a ordonné, le 21 juillet, le renvoi du procès en appel initialement fixé au 21 septembre 2026.",
+      "source": "Le Club des Juristes · en bref",
+      "url": "https://www.leclubdesjuristes.com/en-bref/affaire-jubilar-le-proces-en-appel-reporte-au-premier-semestre-2027-17086/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Météo : une goutte froide sur la France ce dimanche, de fortes pluies attendues lundi",
+      "summary": "Après une fin de semaine très douce, l'air froid fait chuter les températures et une goutte froide, lente, doit glisser vers l'ouest lundi 19 octobre avec un risque de phénomènes violents.",
+      "source": "Météo Paris",
+      "url": "https://www.meteo-paris.com/actualites/goutte-froide-un-risque-de-phenomenes-violents-dimanche-et-lundi",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Concours idéal d'infractions",
+    "subtitle": "Droit pénal général · Articles 132-2 et 132-3 du Code pénal",
+    "defShort": "Situation où un fait unique tombe sous plusieurs qualifications pénales à la fois, par opposition au concours réel, où plusieurs faits distincts constituent chacun une infraction.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Un même comportement peut être appréhendé par plusieurs textes : on parle alors de concours idéal, ou de cumul de qualifications. Le concours réel suppose au contraire des faits matériellement distincts. La distinction commande la question du cumul des poursuites et des peines."
+      },
+      {
+        "h": "Fondement",
+        "body": "Le Code pénal ne définit que le concours d'infractions (art. 132-2) et en règle les effets (art. 132-3) : à l'occasion d'une même procédure, chaque peine encourue peut être prononcée, mais une seule peine de même nature, dans la limite du maximum légal le plus élevé. Le concours idéal est une construction de la doctrine et de la jurisprudence."
+      },
+      {
+        "h": "Enjeu",
+        "body": "La question est de savoir si le juge peut retenir plusieurs qualifications pour un fait unique. La jurisprudence l'admet en principe lorsque les incriminations protègent des valeurs sociales distinctes, et l'écarte quand l'une est absorbée par l'autre, par exemple une qualification simple englobée par une qualification aggravée."
+      },
+      {
+        "h": "Portée",
+        "body": "Le concours idéal ne multiplie pas mécaniquement les peines : la règle du non-cumul de l'article 132-3 limite la sanction au maximum le plus élevé parmi les peines de même nature. Il pèse surtout sur la rédaction de l'accusation et des questions posées à la cour d'assises."
+      }
+    ],
+    "seeAlso": "Voir aussi — concours réel (art. 132-2) · confusion des peines (art. 132-4) · non bis in idem · qualification complexe"
+  },
+  "date": "2026-10-18",
+  "dateShort": "18 oct.",
+  "slot": "midi"
+}

@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-18",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-18",
+      "slot": "midi",
+      "file": "editions/2026-10-18-midi.json",
+      "essentiel": "Procès de Rohan Rane : 20 ans de réclusion criminelle, première condamnation en France pour des actes de torture et de barbarie imposés à distance",
+      "term": "Concours idéal d'infractions",
+      "rubriques": [
+        "Un Conseil national de la commande publique remplace l'observatoire économique de la commande publique",
+        "Salarié protégé : le transfert organisé par une convention tripartite exige l'autorisation préalable de l'inspection du travail",
+        "« Quid Juris » : le président du Conseil constitutionnel répond sur l'État de droit menacé",
+        "18 octobre 1685 : Louis XIV signe l'édit de Fontainebleau et révoque l'édit de Nantes",
+        "Affaire Jubilar : le procès en appel est renvoyé au premier semestre 2027",
+        "Météo : une goutte froide sur la France ce dimanche, de fortes pluies attendues lundi"
+      ]
+    },
     {
       "date": "2026-10-18",
       "slot": "matin",

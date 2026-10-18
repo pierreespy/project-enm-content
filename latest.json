@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Justice criminelle : la loi du 23 juillet 2026 étend la compétence des cours criminelles départementales aux crimes commis en récidive légale",
-    "dek": "Les cours criminelles départementales, composées de magistrats professionnels sans jury, deviennent compétentes pour les crimes commis en état de récidive légale. Cette extension est applicable dès le lendemain de la publication de la loi, tandis que l'ouverture aux avocats honoraires attend le 1er janvier 2027.",
-    "source": "CNB · Tout savoir sur la loi justice criminelle (loi n° 2026-651 du 23 juill. 2026)",
-    "url": "https://cnb.avocat.fr/actualite/tout-savoir-sur-la-loi-justice-criminelle"
+    "title": "Procès de Rohan Rane : 20 ans de réclusion criminelle, première condamnation en France pour des actes de torture et de barbarie imposés à distance",
+    "dek": "La cour d'assises de Paris a condamné le 9 octobre 2026 le fondateur présumé du groupe CVLT, né sur Discord, pour extorsion en bande organisée aggravée par des actes de torture et de barbarie, notamment sur des mineures. Le parquet avait requis 30 ans ; selon le Club des juristes, c'est la première condamnation française pour des tortures infligées par écran interposé.",
+    "source": "Le Club des Juristes · Procès de Rohan Rane (Cour d'assises de Paris, 9 oct. 2026)",
+    "url": "https://www.leclubdesjuristes.com/en-bref/proces-de-rohan-rane-condamnation-a-20-ans-de-reclusion-criminelle-17834/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Loi organique du 23 juillet 2026 : avocats honoraires juges des juridictions criminelles et formation aux violences intrafamiliales",
-      "summary": "La loi organique n° 2026-650, publiée au Journal officiel du 24 juillet 2026, encadre le statut d'avocat honoraire exerçant des fonctions juridictionnelles et impose une formation sur les violences intrafamiliales et sexistes.",
-      "source": "Lextenso · JO du 24 juill. 2026",
-      "url": "https://www.labase-lextenso.fr/breves/jo-justice-criminelle-et-respect-des-victimes-publication-de-la-loi-et-de-la-loi-organique-BREVEBO513",
+      "title": "Un Conseil national de la commande publique remplace l'observatoire économique de la commande publique",
+      "summary": "Un décret du 14 août 2026, publié au Journal officiel du 15 août, crée le CNCP en lieu et place de l'observatoire économique de la commande publique.",
+      "source": "Le Monde du Droit · décret du 14 août 2026 (JO du 15 août 2026)",
+      "url": "https://www.lemondedudroit.fr/public/281-contrats-publics/105468-creation-du-conseil-national-de-la-commande-publique-cncp.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Conseil constitutionnel, 16 octobre 2026 : la QPC n° 2026-1226 sur l'article L. 231, 5°, du code électoral",
-      "summary": "Transmise par le Conseil d'État le 22 juillet 2026 et examinée à l'audience du 6 octobre, la question porte sur un cas d'inéligibilité du code électoral et a été tranchée le 16 octobre.",
-      "source": "Cons. const., déc. n° 2026-1226 QPC du 16 oct. 2026",
-      "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261226QPC.htm",
+      "title": "Salarié protégé : le transfert organisé par une convention tripartite exige l'autorisation préalable de l'inspection du travail",
+      "summary": "Dans un arrêt du 7 octobre 2026, la chambre sociale juge que le transfert d'un salarié protégé par convention tripartite ne peut intervenir sans autorisation préalable de l'inspecteur du travail.",
+      "source": "Cass. soc., 7 oct. 2026, n° 24-13.821",
+      "url": "https://mimoun-avocat.com/jurisprudence.html",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Justice criminelle : la loi validée pour l'essentiel et publiée",
-      "summary": "La Gazette du Palais revient sur la décision du Conseil constitutionnel, qui a validé la composition, la compétence et la procédure de la cour criminelle départementale avec une censure limitée et quelques réserves d'interprétation.",
-      "source": "Gazette du Palais, 2026, n° 25",
-      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n25/justice-criminelle-la-loi-validee-pour-l-essentiel-et-publiee-GPL493p5",
+      "title": "« Quid Juris » : le président du Conseil constitutionnel répond sur l'État de droit menacé",
+      "summary": "Le podcast du Club des Juristes donne la parole au président du Conseil constitutionnel sur les menaces pesant sur l'État de droit.",
+      "source": "Le Club des Juristes · podcast Quid Juris",
+      "url": "https://www.leclubdesjuristes.com/les-podcasts/quid-juris-letat-de-droit-menace-le-president-du-conseil-constitutionnel-repond-2-17734/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "18 octobre 1867 : les États-Unis prennent possession de l'Alaska",
-      "summary": "Acheté à la Russie pour 7,2 millions de dollars, le territoire est effectivement transféré ce jour-là, date aujourd'hui célébrée comme l'Alaska Day.",
-      "source": "timeanddate.com · 18 octobre",
-      "url": "https://www.timeanddate.com/on-this-day/october/18",
+      "title": "18 octobre 1685 : Louis XIV signe l'édit de Fontainebleau et révoque l'édit de Nantes",
+      "summary": "L'édit met fin à l'existence légale du protestantisme en France, hors Alsace, ordonne la démolition des temples et le départ des pasteurs.",
+      "source": "Hérodote.net · 18 octobre 1685",
+      "url": "https://www.herodote.net/18_octobre_1685-evenement-16851018.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Grève et retenue sur salaire : l'employeur ne peut retenir que les jours de repos situés entre deux jours de grève",
-      "summary": "Le tribunal administratif de Versailles a jugé le 30 janvier 2025 qu'un jour de repos ne peut entrer dans le décompte des jours de grève que s'il se trouve entre deux jours de grève.",
-      "source": "Weka · TA Versailles, 30 janv. 2025",
-      "url": "https://www.weka.fr/actualite/remuneration/breve_juridique/greve-et-retenue-abusive-sur-salaire-194431/",
+      "title": "Affaire Jubilar : le procès en appel est renvoyé au premier semestre 2027",
+      "summary": "La présidente de la cour d'assises de la Haute-Garonne a ordonné, le 21 juillet, le renvoi du procès en appel initialement fixé au 21 septembre 2026.",
+      "source": "Le Club des Juristes · en bref",
+      "url": "https://www.leclubdesjuristes.com/en-bref/affaire-jubilar-le-proces-en-appel-reporte-au-premier-semestre-2027-17086/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Manifestations du 17 octobre : syndicats, étudiants et associations appellent à une mobilisation générale",
-      "summary": "Les organisations appellent à converger contre la politique du gouvernement, la CGT annonçant que la mobilisation continuera tant que ses revendications resteront sans réponse.",
-      "source": "Sud Radio · 17 octobre 2026",
-      "url": "https://www.sudradio.fr/sud-radio/manifestations-du-17-octobre-vers-une-convergence-des-luttes-massive-et-une-mobilisation-generale",
+      "title": "Météo : une goutte froide sur la France ce dimanche, de fortes pluies attendues lundi",
+      "summary": "Après une fin de semaine très douce, l'air froid fait chuter les températures et une goutte froide, lente, doit glisser vers l'ouest lundi 19 octobre avec un risque de phénomènes violents.",
+      "source": "Météo Paris",
+      "url": "https://www.meteo-paris.com/actualites/goutte-froide-un-risque-de-phenomenes-violents-dimanche-et-lundi",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Rescision pour lésion",
-    "subtitle": "Droit civil · Articles 1674 et suivants du Code civil",
-    "defShort": "Action permettant au vendeur d'un immeuble de demander l'annulation de la vente lorsqu'il a été lésé de plus des sept douzièmes du prix, sans avoir à prouver le moindre vice du consentement.",
+    "term": "Concours idéal d'infractions",
+    "subtitle": "Droit pénal général · Articles 132-2 et 132-3 du Code pénal",
+    "defShort": "Situation où un fait unique tombe sous plusieurs qualifications pénales à la fois, par opposition au concours réel, où plusieurs faits distincts constituent chacun une infraction.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "La rescision pour lésion permet de remettre en cause une vente d'immeuble en raison du seul déséquilibre du prix, indépendamment de toute erreur, dol ou violence. C'est l'une des rares hypothèses où le droit français sanctionne un prix objectivement injuste."
+        "body": "Un même comportement peut être appréhendé par plusieurs textes : on parle alors de concours idéal, ou de cumul de qualifications. Le concours réel suppose au contraire des faits matériellement distincts. La distinction commande la question du cumul des poursuites et des peines."
       },
       {
-        "h": "Fondement et conditions",
-        "body": "Le vendeur d'un immeuble lésé de plus des sept douzièmes de la valeur peut demander la rescision (art. 1674 C. civ.). La lésion s'apprécie à la date de la vente, d'après l'état et la valeur de l'immeuble à ce moment. L'action se prescrit par deux ans à compter de la vente (art. 1676)."
+        "h": "Fondement",
+        "body": "Le Code pénal ne définit que le concours d'infractions (art. 132-2) et en règle les effets (art. 132-3) : à l'occasion d'une même procédure, chaque peine encourue peut être prononcée, mais une seule peine de même nature, dans la limite du maximum légal le plus élevé. Le concours idéal est une construction de la doctrine et de la jurisprudence."
       },
       {
-        "h": "Cas exclus",
-        "body": "L'action est réservée au vendeur et aux seuls immeubles : l'acheteur ne peut s'en prévaloir. Elle est écartée pour les ventes aléatoires, les ventes faites par autorité de justice et les ventes de meubles, et le vendeur ne peut y renoncer par avance dans l'acte."
+        "h": "Enjeu",
+        "body": "La question est de savoir si le juge peut retenir plusieurs qualifications pour un fait unique. La jurisprudence l'admet en principe lorsque les incriminations protègent des valeurs sociales distinctes, et l'écarte quand l'une est absorbée par l'autre, par exemple une qualification simple englobée par une qualification aggravée."
       },
       {
         "h": "Portée",
-        "body": "Si la rescision est prononcée, l'acquéreur peut garder le bien en payant un complément du juste prix, sous déduction du dixième, ou le restituer contre remboursement du prix (art. 1681). Elle se distingue de la lésion de l'article 1168, indifférente en principe aux contrats commutatifs."
+        "body": "Le concours idéal ne multiplie pas mécaniquement les peines : la règle du non-cumul de l'article 132-3 limite la sanction au maximum le plus élevé parmi les peines de même nature. Il pèse surtout sur la rédaction de l'accusation et des questions posées à la cour d'assises."
       }
     ],
-    "seeAlso": "Voir aussi — lésion (art. 1168) · dol (art. 1137) · action en complément de prix · prescription biennale (art. 1676)"
+    "seeAlso": "Voir aussi — concours réel (art. 132-2) · confusion des peines (art. 132-4) · non bis in idem · qualification complexe"
   },
   "date": "2026-10-18",
   "dateShort": "18 oct.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 51,
     "title": "Peser un astre grâce à l'orbite de ses voisins",
