@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17",
-  "count": 50,
+  "updated": "2026-10-18",
+  "count": 51,
   "lessons": [
     {
       "n": 1,
@@ -433,6 +433,14 @@
       "title": "Un trou noir au centre de la Voie lactée",
       "terms": [
         "Trou noir supermassif"
+      ]
+    },
+    {
+      "n": 51,
+      "file": "astro/lessons/051-la-masse-d-un-astre-par-son-orbite.json",
+      "title": "Peser un astre grâce à l'orbite de ses voisins",
+      "terms": [
+        "Masse par l'orbite"
       ]
     }
   ]

@@ -1,0 +1,28 @@
+{
+  "n": 51,
+  "title": "Peser un astre grâce à l'orbite de ses voisins",
+  "subtitle": "Comment la durée d'une orbite et sa taille donnent la masse de l'astre central",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Une balance sans contact",
+      "body": "Personne n'a posé le Soleil sur une balance. On connaît pourtant sa masse (jour 8), parce que la gravité (jour 8) relie le mouvement d'un astre en orbite (jour 9) à la masse de celui qui l'attire. Plus l'astre central est massif, plus il attire fort, et plus un corps doit aller vite pour rester en orbite à une distance donnée. Il suffit donc de mesurer deux choses : la taille de l'orbite et le temps qu'il faut pour en faire le tour."
+    },
+    {
+      "h": "Deux mesures suffisent",
+      "body": "La Terre fait un tour du Soleil en un an, à une distance d'une unité astronomique (jour 7). Ces deux nombres, associés à la règle de la gravitation, donnent la masse du Soleil. Le même raisonnement s'applique à la Lune autour de la Terre, aux satellites de Jupiter, aux étoiles autour du trou noir de la Voie lactée (jour 50), ou à deux étoiles qui tournent l'une autour de l'autre. Pour une même durée de tour, une orbite plus vaste trahit une masse centrale plus grande."
+    },
+    {
+      "h": "Ce que cela suppose",
+      "body": "La méthode ne vaut que si l'on voit effectivement l'orbite : il faut des objets assez proches pour les suivre et assez de temps pour observer un tour. Elle ne donne que la masse totale du système, sans dire de quoi elle est faite. C'est ce qui rendra la suite intéressante : quand la masse ainsi déduite dépasse celle que l'on voit, une partie reste à expliquer."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Masse par l'orbite",
+      "def": "Méthode qui déduit la masse d'un astre central de la taille et de la durée de l'orbite d'un corps qui tourne autour de lui."
+    }
+  ],
+  "recap": "La taille d'une orbite et le temps d'un tour suffisent à déduire la masse de l'astre qui attire, sans jamais le toucher.",
+  "next": "Demain — comment la masse « manquante » des galaxies révèle que la matière visible ne suffit pas."
+}
