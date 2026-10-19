@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18",
-  "count": 51,
+  "updated": "2026-10-19",
+  "count": 52,
   "lessons": [
     {
       "n": 1,
@@ -441,6 +441,14 @@
       "title": "Peser un astre grâce à l'orbite de ses voisins",
       "terms": [
         "Masse par l'orbite"
+      ]
+    },
+    {
+      "n": 52,
+      "file": "astro/lessons/052-les-galaxies-tournent-trop-vite.json",
+      "title": "Les galaxies tournent trop vite pour la matière visible",
+      "terms": [
+        "Courbe de rotation"
       ]
     }
   ]

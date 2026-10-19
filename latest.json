@@ -1,121 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Procès de Rohan Rane : 20 ans de réclusion criminelle, première condamnation en France pour des actes de torture et de barbarie imposés à distance",
-    "dek": "La cour d'assises de Paris a condamné le 9 octobre 2026 le fondateur présumé du groupe CVLT, né sur Discord, pour extorsion en bande organisée aggravée par des actes de torture et de barbarie, notamment sur des mineures. Le parquet avait requis 30 ans ; selon le Club des juristes, c'est la première condamnation française pour des tortures infligées par écran interposé.",
-    "source": "Le Club des Juristes · Procès de Rohan Rane (Cour d'assises de Paris, 9 oct. 2026)",
-    "url": "https://www.leclubdesjuristes.com/en-bref/proces-de-rohan-rane-condamnation-a-20-ans-de-reclusion-criminelle-17834/"
+    "title": "Contrôle des lieux de privation de liberté : l'Élysée propose Pierre Coppey, ancien patron de Vinci Autoroutes, pour succéder à Dominique Simonnet",
+    "dek": "La nomination, proposée le 14 octobre 2026, doit être soumise à l'avis des commissions des lois des deux assemblées en application de l'article 13 de la Constitution. Le poste de contrôleur général est inhabituel : la fonction est confiée à une personnalité indépendante, non révocable, pour un mandat de six ans non renouvelable.",
+    "source": "Acteurs publics · 15 oct. 2026",
+    "url": "https://acteurspublics.fr/nomination/lex-president-de-vinci-autoroutes-choisi-pour-devenir-controleur-general-des-lieux-de-privation-de-liberte/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Un Conseil national de la commande publique remplace l'observatoire économique de la commande publique",
-      "summary": "Un décret du 14 août 2026, publié au Journal officiel du 15 août, crée le CNCP en lieu et place de l'observatoire économique de la commande publique.",
-      "source": "Le Monde du Droit · décret du 14 août 2026 (JO du 15 août 2026)",
-      "url": "https://www.lemondedudroit.fr/public/281-contrats-publics/105468-creation-du-conseil-national-de-la-commande-publique-cncp.html",
+      "title": "École nationale de la magistrature : un arrêté du 13 octobre 2026 approuve son règlement intérieur",
+      "summary": "L'arrêté, publié au Journal officiel du 17 octobre 2026, approuve le règlement intérieur de l'École nationale de la magistrature.",
+      "source": "JORF n° 0243 du 17 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/17/0243",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Salarié protégé : le transfert organisé par une convention tripartite exige l'autorisation préalable de l'inspection du travail",
-      "summary": "Dans un arrêt du 7 octobre 2026, la chambre sociale juge que le transfert d'un salarié protégé par convention tripartite ne peut intervenir sans autorisation préalable de l'inspecteur du travail.",
-      "source": "Cass. soc., 7 oct. 2026, n° 24-13.821",
-      "url": "https://mimoun-avocat.com/jurisprudence.html",
+      "title": "Conseil d'État : la dissolution de La Jeune Garde est jugée adaptée, nécessaire et proportionnée",
+      "summary": "Le Conseil d'État rappelle qu'une dissolution porte une atteinte grave à la liberté d'association et n'est possible, sur le fondement de l'article L. 212-1 du code de la sécurité intérieure, que pour prévenir des troubles graves à l'ordre public ; il rejette le recours contre le décret du 12 juin 2025.",
+      "source": "CE, communiqué du 30 avr. 2026",
+      "url": "https://conseil-etat.fr/actualites/le-conseil-d-etat-rejette-le-recours-forme-par-la-jeune-garde-contre-le-decret-qui-prononcait-sa-dissolution",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "« Quid Juris » : le président du Conseil constitutionnel répond sur l'État de droit menacé",
-      "summary": "Le podcast du Club des Juristes donne la parole au président du Conseil constitutionnel sur les menaces pesant sur l'État de droit.",
-      "source": "Le Club des Juristes · podcast Quid Juris",
-      "url": "https://www.leclubdesjuristes.com/les-podcasts/quid-juris-letat-de-droit-menace-le-president-du-conseil-constitutionnel-repond-2-17734/",
+      "title": "La grille d'évaluation du contrôle coercitif",
+      "summary": "Deux avocats proposent aux praticiens une grille pour repérer les mécanismes de domination qui privent progressivement les victimes de leurs libertés.",
+      "source": "Gazette du Palais, 2026, n° 17 (2 juin 2026)",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n17/la-grille-d-evaluation-du-controle-coercitif-GPL491d4",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "18 octobre 1685 : Louis XIV signe l'édit de Fontainebleau et révoque l'édit de Nantes",
-      "summary": "L'édit met fin à l'existence légale du protestantisme en France, hors Alsace, ordonne la démolition des temples et le départ des pasteurs.",
-      "source": "Hérodote.net · 18 octobre 1685",
-      "url": "https://www.herodote.net/18_octobre_1685-evenement-16851018.php",
+      "title": "19 octobre 1812 : l'armée française entame son repli hors de Moscou",
+      "summary": "Napoléon quitte Moscou ce jour-là, début d'une retraite qui marque un tournant de la campagne de Russie.",
+      "source": "Napoleon-empire.org · Éphéméride d'octobre",
+      "url": "https://www.napoleon-empire.org/en/ephemeris/october.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Affaire Jubilar : le procès en appel est renvoyé au premier semestre 2027",
-      "summary": "La présidente de la cour d'assises de la Haute-Garonne a ordonné, le 21 juillet, le renvoi du procès en appel initialement fixé au 21 septembre 2026.",
-      "source": "Le Club des Juristes · en bref",
-      "url": "https://www.leclubdesjuristes.com/en-bref/affaire-jubilar-le-proces-en-appel-reporte-au-premier-semestre-2027-17086/",
+      "title": "Clause résolutoire et exception d'inexécution : le juge doit examiner la défense du locataire, même saisi tardivement",
+      "summary": "Dans un arrêt publié au Bulletin, la troisième chambre civile juge que l'exception d'inexécution invoquée par le preneur doit être examinée par le juge, même si celui-ci n'a pas été saisi dans le mois suivant le commandement de payer.",
+      "source": "Cass. 3e civ., 5 mars 2026, n° 24-15.820",
+      "url": "https://consultation.avocat.fr/blog/florence-iung/article-2979811-clause-resolutoire-et-exception-d-inexecution-un-rappel-important-de-la-cour-de-cassation.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Météo : une goutte froide sur la France ce dimanche, de fortes pluies attendues lundi",
-      "summary": "Après une fin de semaine très douce, l'air froid fait chuter les températures et une goutte froide, lente, doit glisser vers l'ouest lundi 19 octobre avec un risque de phénomènes violents.",
-      "source": "Météo Paris",
-      "url": "https://www.meteo-paris.com/actualites/goutte-froide-un-risque-de-phenomenes-violents-dimanche-et-lundi",
+      "title": "Casse du Louvre : un an après, la couronne de l'impératrice Eugénie est le seul bijou retrouvé",
+      "summary": "Les joyaux dérobés le 19 octobre 2025 restent introuvables, tandis que l'enquête se poursuit et que le musée annonce 100 caméras aux abords d'ici fin 2026.",
+      "source": "Euronews · 13 juill. 2026",
+      "url": "https://fr.euronews.com/culture/2026/07/13/cerveau-du-casse-du-louvre-on-aurait-pu-prendre-plus-selon-les-suspects",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Concours idéal d'infractions",
-    "subtitle": "Droit pénal général · Articles 132-2 et 132-3 du Code pénal",
-    "defShort": "Situation où un fait unique tombe sous plusieurs qualifications pénales à la fois, par opposition au concours réel, où plusieurs faits distincts constituent chacun une infraction.",
+    "term": "Retrait litigieux",
+    "subtitle": "Droit civil · Articles 1699 à 1701 du Code civil",
+    "defShort": "Faculté offerte au débiteur d'un droit contesté en justice, lorsque ce droit a été cédé, de s'en libérer en remboursant au cessionnaire le prix réel de la cession, frais et intérêts compris.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Un même comportement peut être appréhendé par plusieurs textes : on parle alors de concours idéal, ou de cumul de qualifications. Le concours réel suppose au contraire des faits matériellement distincts. La distinction commande la question du cumul des poursuites et des peines."
+        "body": "Lorsqu'un droit litigieux est cédé, la personne contre qui il est exercé peut « racheter » la cession : elle se fait tenir quitte en remboursant au cessionnaire ce que celui-ci a réellement payé, et non le montant nominal du droit. Le mécanisme vise à décourager la spéculation sur les procès d'autrui."
       },
       {
         "h": "Fondement",
-        "body": "Le Code pénal ne définit que le concours d'infractions (art. 132-2) et en règle les effets (art. 132-3) : à l'occasion d'une même procédure, chaque peine encourue peut être prononcée, mais une seule peine de même nature, dans la limite du maximum légal le plus élevé. Le concours idéal est une construction de la doctrine et de la jurisprudence."
+        "body": "Article 1699 du Code civil : celui contre lequel on a cédé un droit litigieux peut s'en faire tenir quitte par le cessionnaire en lui remboursant le prix réel de la cession avec les frais et loyaux coûts, et avec les intérêts à compter du jour où le cessionnaire a payé le prix. L'article 1700 précise qu'une chose est censée litigieuse dès qu'il y a procès et contestation sur le fond du droit."
       },
       {
-        "h": "Enjeu",
-        "body": "La question est de savoir si le juge peut retenir plusieurs qualifications pour un fait unique. La jurisprudence l'admet en principe lorsque les incriminations protègent des valeurs sociales distinctes, et l'écarte quand l'une est absorbée par l'autre, par exemple une qualification simple englobée par une qualification aggravée."
+        "h": "Cas exclus",
+        "body": "L'article 1701 écarte le retrait lorsque la cession est faite à un cohéritier ou à un copropriétaire du droit cédé, à un créancier en paiement de ce qui lui est dû, ou au possesseur de l'héritage sujet au droit litigieux."
       },
       {
         "h": "Portée",
-        "body": "Le concours idéal ne multiplie pas mécaniquement les peines : la règle du non-cumul de l'article 132-3 limite la sanction au maximum le plus élevé parmi les peines de même nature. Il pèse surtout sur la rédaction de l'accusation et des questions posées à la cour d'assises."
+        "body": "Le retrait litigieux ne se confond ni avec le retrait successoral ni avec le droit de préemption : il suppose un droit déjà contesté devant un juge, et il opère au profit du seul débiteur cédé. Son intérêt pratique est de neutraliser le bénéfice d'un rachat de créance à prix décoté, par exemple en matière de créances douteuses."
       }
     ],
-    "seeAlso": "Voir aussi — concours réel (art. 132-2) · confusion des peines (art. 132-4) · non bis in idem · qualification complexe"
+    "seeAlso": "Voir aussi — cession de créance (art. 1321 et s.) · retrait successoral (art. 889) · garantie de la solvabilité du débiteur cédé (art. 1694 et s.)"
   },
-  "date": "2026-10-18",
-  "dateShort": "18 oct.",
-  "slot": "midi",
+  "date": "2026-10-19",
+  "dateShort": "19 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 51,
-    "title": "Peser un astre grâce à l'orbite de ses voisins",
-    "subtitle": "Comment la durée d'une orbite et sa taille donnent la masse de l'astre central",
+    "n": 52,
+    "title": "Les galaxies tournent trop vite pour la matière visible",
+    "subtitle": "Pourquoi la vitesse des étoiles en périphérie révèle une masse que l'on ne voit pas",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Une balance sans contact",
-        "body": "Personne n'a posé le Soleil sur une balance. On connaît pourtant sa masse (jour 8), parce que la gravité (jour 8) relie le mouvement d'un astre en orbite (jour 9) à la masse de celui qui l'attire. Plus l'astre central est massif, plus il attire fort, et plus un corps doit aller vite pour rester en orbite à une distance donnée. Il suffit donc de mesurer deux choses : la taille de l'orbite et le temps qu'il faut pour en faire le tour."
+        "h": "Ce que prévoit la règle de la gravité",
+        "body": "Dans le système solaire, presque toute la masse est dans le Soleil (jour 8). Plus une planète est loin, plus elle est faiblement attirée, et plus elle va lentement sur son orbite (jour 9) : Mercure file bien plus vite que Neptune. On devrait attendre la même chose d'une galaxie (jour 24), dont la lumière est concentrée au centre : les étoiles de la périphérie devraient tourner plus lentement que celles du cœur."
       },
       {
-        "h": "Deux mesures suffisent",
-        "body": "La Terre fait un tour du Soleil en un an, à une distance d'une unité astronomique (jour 7). Ces deux nombres, associés à la règle de la gravitation, donnent la masse du Soleil. Le même raisonnement s'applique à la Lune autour de la Terre, aux satellites de Jupiter, aux étoiles autour du trou noir de la Voie lactée (jour 50), ou à deux étoiles qui tournent l'une autour de l'autre. Pour une même durée de tour, une orbite plus vaste trahit une masse centrale plus grande."
+        "h": "Ce que l'on observe",
+        "body": "La courbe de rotation d'une galaxie est le graphique qui donne la vitesse de ses étoiles selon leur distance au centre. On la mesure par l'effet Doppler (jour 16). Or, pour la plupart des galaxies spirales, cette courbe ne descend pas : au-delà de la zone lumineuse, les étoiles et le gaz continuent de tourner à peu près aussi vite. Les astronomes l'ont établi au milieu des années 1970, notamment grâce aux travaux de Vera Rubin."
       },
       {
-        "h": "Ce que cela suppose",
-        "body": "La méthode ne vaut que si l'on voit effectivement l'orbite : il faut des objets assez proches pour les suivre et assez de temps pour observer un tour. Elle ne donne que la masse totale du système, sans dire de quoi elle est faite. C'est ce qui rendra la suite intéressante : quand la masse ainsi déduite dépasse celle que l'on voit, une partie reste à expliquer."
+        "h": "La conclusion qui s'impose",
+        "body": "Une orbite rapide à grande distance exige beaucoup de masse à l'intérieur (jour 51). Les galaxies contiennent donc bien plus de masse que celle des étoiles et du gaz visibles, répartie jusqu'à de grandes distances. C'est l'indice qui mène à la matière noire (jour 25) : non une certitude sur sa nature, mais la preuve qu'une masse invisible agit par la gravité."
       }
     ],
     "keyTerms": [
       {
-        "term": "Masse par l'orbite",
-        "def": "Méthode qui déduit la masse d'un astre central de la taille et de la durée de l'orbite d'un corps qui tourne autour de lui."
+        "term": "Courbe de rotation",
+        "def": "Graphique donnant la vitesse des étoiles d'une galaxie en fonction de leur distance au centre."
       }
     ],
-    "recap": "La taille d'une orbite et le temps d'un tour suffisent à déduire la masse de l'astre qui attire, sans jamais le toucher.",
-    "next": "Demain — comment la masse « manquante » des galaxies révèle que la matière visible ne suffit pas."
+    "recap": "Les étoiles en périphérie des galaxies tournent trop vite pour la seule masse visible : la gravité y révèle de la masse invisible.",
+    "next": "Demain — une autre manière de voir cette masse invisible : elle courbe la lumière, sans qu'on la voie."
   }
 }

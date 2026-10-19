@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Contrôle des lieux de privation de liberté : l'Élysée propose Pierre Coppey, ancien patron de Vinci Autoroutes, pour succéder à Dominique Simonnet",
+    "dek": "La nomination, proposée le 14 octobre 2026, doit être soumise à l'avis des commissions des lois des deux assemblées en application de l'article 13 de la Constitution. Le poste de contrôleur général est inhabituel : la fonction est confiée à une personnalité indépendante, non révocable, pour un mandat de six ans non renouvelable.",
+    "source": "Acteurs publics · 15 oct. 2026",
+    "url": "https://acteurspublics.fr/nomination/lex-president-de-vinci-autoroutes-choisi-pour-devenir-controleur-general-des-lieux-de-privation-de-liberte/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "École nationale de la magistrature : un arrêté du 13 octobre 2026 approuve son règlement intérieur",
+      "summary": "L'arrêté, publié au Journal officiel du 17 octobre 2026, approuve le règlement intérieur de l'École nationale de la magistrature.",
+      "source": "JORF n° 0243 du 17 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/17/0243",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Conseil d'État : la dissolution de La Jeune Garde est jugée adaptée, nécessaire et proportionnée",
+      "summary": "Le Conseil d'État rappelle qu'une dissolution porte une atteinte grave à la liberté d'association et n'est possible, sur le fondement de l'article L. 212-1 du code de la sécurité intérieure, que pour prévenir des troubles graves à l'ordre public ; il rejette le recours contre le décret du 12 juin 2025.",
+      "source": "CE, communiqué du 30 avr. 2026",
+      "url": "https://conseil-etat.fr/actualites/le-conseil-d-etat-rejette-le-recours-forme-par-la-jeune-garde-contre-le-decret-qui-prononcait-sa-dissolution",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "La grille d'évaluation du contrôle coercitif",
+      "summary": "Deux avocats proposent aux praticiens une grille pour repérer les mécanismes de domination qui privent progressivement les victimes de leurs libertés.",
+      "source": "Gazette du Palais, 2026, n° 17 (2 juin 2026)",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n17/la-grille-d-evaluation-du-controle-coercitif-GPL491d4",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "19 octobre 1812 : l'armée française entame son repli hors de Moscou",
+      "summary": "Napoléon quitte Moscou ce jour-là, début d'une retraite qui marque un tournant de la campagne de Russie.",
+      "source": "Napoleon-empire.org · Éphéméride d'octobre",
+      "url": "https://www.napoleon-empire.org/en/ephemeris/october.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Clause résolutoire et exception d'inexécution : le juge doit examiner la défense du locataire, même saisi tardivement",
+      "summary": "Dans un arrêt publié au Bulletin, la troisième chambre civile juge que l'exception d'inexécution invoquée par le preneur doit être examinée par le juge, même si celui-ci n'a pas été saisi dans le mois suivant le commandement de payer.",
+      "source": "Cass. 3e civ., 5 mars 2026, n° 24-15.820",
+      "url": "https://consultation.avocat.fr/blog/florence-iung/article-2979811-clause-resolutoire-et-exception-d-inexecution-un-rappel-important-de-la-cour-de-cassation.html",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Casse du Louvre : un an après, la couronne de l'impératrice Eugénie est le seul bijou retrouvé",
+      "summary": "Les joyaux dérobés le 19 octobre 2025 restent introuvables, tandis que l'enquête se poursuit et que le musée annonce 100 caméras aux abords d'ici fin 2026.",
+      "source": "Euronews · 13 juill. 2026",
+      "url": "https://fr.euronews.com/culture/2026/07/13/cerveau-du-casse-du-louvre-on-aurait-pu-prendre-plus-selon-les-suspects",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Retrait litigieux",
+    "subtitle": "Droit civil · Articles 1699 à 1701 du Code civil",
+    "defShort": "Faculté offerte au débiteur d'un droit contesté en justice, lorsque ce droit a été cédé, de s'en libérer en remboursant au cessionnaire le prix réel de la cession, frais et intérêts compris.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Lorsqu'un droit litigieux est cédé, la personne contre qui il est exercé peut « racheter » la cession : elle se fait tenir quitte en remboursant au cessionnaire ce que celui-ci a réellement payé, et non le montant nominal du droit. Le mécanisme vise à décourager la spéculation sur les procès d'autrui."
+      },
+      {
+        "h": "Fondement",
+        "body": "Article 1699 du Code civil : celui contre lequel on a cédé un droit litigieux peut s'en faire tenir quitte par le cessionnaire en lui remboursant le prix réel de la cession avec les frais et loyaux coûts, et avec les intérêts à compter du jour où le cessionnaire a payé le prix. L'article 1700 précise qu'une chose est censée litigieuse dès qu'il y a procès et contestation sur le fond du droit."
+      },
+      {
+        "h": "Cas exclus",
+        "body": "L'article 1701 écarte le retrait lorsque la cession est faite à un cohéritier ou à un copropriétaire du droit cédé, à un créancier en paiement de ce qui lui est dû, ou au possesseur de l'héritage sujet au droit litigieux."
+      },
+      {
+        "h": "Portée",
+        "body": "Le retrait litigieux ne se confond ni avec le retrait successoral ni avec le droit de préemption : il suppose un droit déjà contesté devant un juge, et il opère au profit du seul débiteur cédé. Son intérêt pratique est de neutraliser le bénéfice d'un rachat de créance à prix décoté, par exemple en matière de créances douteuses."
+      }
+    ],
+    "seeAlso": "Voir aussi — cession de créance (art. 1321 et s.) · retrait successoral (art. 889) · garantie de la solvabilité du débiteur cédé (art. 1694 et s.)"
+  },
+  "date": "2026-10-19",
+  "dateShort": "19 oct.",
+  "slot": "matin"
+}

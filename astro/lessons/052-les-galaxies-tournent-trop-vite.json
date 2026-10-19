@@ -1,0 +1,28 @@
+{
+  "n": 52,
+  "title": "Les galaxies tournent trop vite pour la matière visible",
+  "subtitle": "Pourquoi la vitesse des étoiles en périphérie révèle une masse que l'on ne voit pas",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Ce que prévoit la règle de la gravité",
+      "body": "Dans le système solaire, presque toute la masse est dans le Soleil (jour 8). Plus une planète est loin, plus elle est faiblement attirée, et plus elle va lentement sur son orbite (jour 9) : Mercure file bien plus vite que Neptune. On devrait attendre la même chose d'une galaxie (jour 24), dont la lumière est concentrée au centre : les étoiles de la périphérie devraient tourner plus lentement que celles du cœur."
+    },
+    {
+      "h": "Ce que l'on observe",
+      "body": "La courbe de rotation d'une galaxie est le graphique qui donne la vitesse de ses étoiles selon leur distance au centre. On la mesure par l'effet Doppler (jour 16). Or, pour la plupart des galaxies spirales, cette courbe ne descend pas : au-delà de la zone lumineuse, les étoiles et le gaz continuent de tourner à peu près aussi vite. Les astronomes l'ont établi au milieu des années 1970, notamment grâce aux travaux de Vera Rubin."
+    },
+    {
+      "h": "La conclusion qui s'impose",
+      "body": "Une orbite rapide à grande distance exige beaucoup de masse à l'intérieur (jour 51). Les galaxies contiennent donc bien plus de masse que celle des étoiles et du gaz visibles, répartie jusqu'à de grandes distances. C'est l'indice qui mène à la matière noire (jour 25) : non une certitude sur sa nature, mais la preuve qu'une masse invisible agit par la gravité."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Courbe de rotation",
+      "def": "Graphique donnant la vitesse des étoiles d'une galaxie en fonction de leur distance au centre."
+    }
+  ],
+  "recap": "Les étoiles en périphérie des galaxies tournent trop vite pour la seule masse visible : la gravité y révèle de la masse invisible.",
+  "next": "Demain — une autre manière de voir cette masse invisible : elle courbe la lumière, sans qu'on la voie."
+}

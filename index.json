@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-18",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-10-19",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-19",
+      "slot": "matin",
+      "file": "editions/2026-10-19-matin.json",
+      "essentiel": "Contrôle des lieux de privation de liberté : l'Élysée propose Pierre Coppey, ancien patron de Vinci Autoroutes, pour succéder à Dominique Simonnet",
+      "term": "Retrait litigieux",
+      "rubriques": [
+        "École nationale de la magistrature : un arrêté du 13 octobre 2026 approuve son règlement intérieur",
+        "Conseil d'État : la dissolution de La Jeune Garde est jugée adaptée, nécessaire et proportionnée",
+        "La grille d'évaluation du contrôle coercitif",
+        "19 octobre 1812 : l'armée française entame son repli hors de Moscou",
+        "Clause résolutoire et exception d'inexécution : le juge doit examiner la défense du locataire, même saisi tardivement",
+        "Casse du Louvre : un an après, la couronne de l'impératrice Eugénie est le seul bijou retrouvé"
+      ]
+    },
     {
       "date": "2026-10-18",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "4 octobre 1957 : l'URSS lance Spoutnik 1, premier satellite artificiel, et ouvre l'ère spatiale",
         "Inondation : déclarer le sinistre, contester un assureur qui refuse ou paie trop peu",
         "Mobilisation lycéenne : 400 lycées fermés et plus de 2 000 interpellations, les organisations appellent à poursuivre"
-      ]
-    },
-    {
-      "date": "2026-10-03",
-      "slot": "midi",
-      "file": "editions/2026-10-03-midi.json",
-      "essentiel": "Bébé secoué de Calenzana : quinze ans de prison pour le père, cinq ans pour la mère",
-      "term": "Commission par omission",
-      "rubriques": [
-        "Démarchage à domicile : acompte interdit pendant sept jours et rétractation de quatorze jours, ce que prévoit le code de la consommation",
-        "Incendie de Saint-Laurent-de-la-Salanque : trois accusés devant la cour d'assises des Pyrénées-Orientales pour incendie volontaire ayant entraîné la mort",
-        "Procès de l'incendie de Saint-Laurent-de-la-Salanque : qualifications criminelles, complicité et droits des victimes",
-        "3 octobre 1967 : William Knight porte le X-15 à Mach 6,7, record de vitesse pour un avion piloté",
-        "Permis de construire attaqué par un voisin : annulation partielle, sursis à statuer et régularisation pour sauver le projet",
-        "Week-end des 3 et 4 octobre : faut-il rallumer le chauffage ? Le calcul simple pour décider"
-      ]
-    },
-    {
-      "date": "2026-10-03",
-      "slot": "matin",
-      "file": "editions/2026-10-03-matin.json",
-      "essentiel": "PSE d'Auchan : le Conseil d'État valide le plan de 2 400 suppressions de postes et censure les juges du fond",
-      "term": "Appel-nullité",
-      "rubriques": [
-        "Décret n° 2026-918 du 1er octobre 2026 : les dispositions applicables aux mineurs pour la généralisation du travail d'intérêt général dans les entreprises de l'ESS",
-        "Plan de sauvegarde de l'emploi et groupe : le Conseil d'État définit le périmètre du secteur d'activité à examiner pour apprécier le motif économique",
-        "PSE Auchan invalidé en appel : consultation du CSE et accord majoritaire, les enseignements de l'arrêt de Douai",
-        "3 octobre 1990 : la réunification allemande, devenue Jour de l'Unité allemande",
-        "Condamnation annulée par la Cour de révision et de réexamen : effacer le casier, les fichiers de police et obtenir réparation",
-        "Météo : anticyclone et soleil sur la moitié nord, vigilance jaune orages dans les Bouches-du-Rhône ce samedi"
       ]
     }
   ]
