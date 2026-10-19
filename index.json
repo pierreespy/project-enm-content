@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-19",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-19",
+      "slot": "midi",
+      "file": "editions/2026-10-19-midi.json",
+      "essentiel": "Narcotrafic : s'ouvre à Aix-en-Provence le procès des assassins présumés de Brahim Chabane, frère d'Amine Kessaci",
+      "term": "Fongibilité asymétrique",
+      "rubriques": [
+        "Indemnité carburant : un décret du 15 octobre 2026 la reconduit à 100 euros jusqu'à fin décembre et élargit le nombre de bénéficiaires",
+        "Bail commercial : la troisième chambre civile précise le délai de deux mois laissé au bailleur face à une déspécialisation, lorsque les propriétaires sont indivis",
+        "Le juge qui refuse d'interroger la CJUE : quand l'État doit-il réparer le préjudice du justiciable ?",
+        "19 octobre 1781 : Cornwallis capitule à Yorktown devant les forces franco-américaines",
+        "Procès de Rima Hassan pour apologie du terrorisme : audience fixée aux 19 et 20 octobre, avec une QPC envisagée par la défense",
+        "Pluie-inondation : le Gard et l'Hérault en vigilance orange ce lundi, treize départements concernés mardi"
+      ]
+    },
     {
       "date": "2026-10-19",
       "slot": "matin",

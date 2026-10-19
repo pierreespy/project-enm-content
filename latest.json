@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Contrôle des lieux de privation de liberté : l'Élysée propose Pierre Coppey, ancien patron de Vinci Autoroutes, pour succéder à Dominique Simonnet",
-    "dek": "La nomination, proposée le 14 octobre 2026, doit être soumise à l'avis des commissions des lois des deux assemblées en application de l'article 13 de la Constitution. Le poste de contrôleur général est inhabituel : la fonction est confiée à une personnalité indépendante, non révocable, pour un mandat de six ans non renouvelable.",
-    "source": "Acteurs publics · 15 oct. 2026",
-    "url": "https://acteurspublics.fr/nomination/lex-president-de-vinci-autoroutes-choisi-pour-devenir-controleur-general-des-lieux-de-privation-de-liberte/"
+    "title": "Narcotrafic : s'ouvre à Aix-en-Provence le procès des assassins présumés de Brahim Chabane, frère d'Amine Kessaci",
+    "dek": "Cinq hommes comparaissent pour un triple assassinat lié au narcotrafic, devant une juridiction placée sous très haute protection. Les débats sont prévus jusqu'au 6 novembre : aucun verdict ne peut donc intervenir avant cette date.",
+    "source": "L'Avenir · 19 oct. 2026",
+    "url": "https://www.lavenir.net/actu/societe/faitsdivers/2026/10/19/snipers-et-helicoptere-au-dessus-du-palais-de-justice-policiers-cagoules-debut-du-proces-des-tueurs-presumes-du-grand-frere-damine-kessaci-ZPRUVRQJGRCH5PJJS6FNIVTIA4/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "École nationale de la magistrature : un arrêté du 13 octobre 2026 approuve son règlement intérieur",
-      "summary": "L'arrêté, publié au Journal officiel du 17 octobre 2026, approuve le règlement intérieur de l'École nationale de la magistrature.",
-      "source": "JORF n° 0243 du 17 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/17/0243",
+      "title": "Indemnité carburant : un décret du 15 octobre 2026 la reconduit à 100 euros jusqu'à fin décembre et élargit le nombre de bénéficiaires",
+      "summary": "Le décret n° 2026-959 du 15 octobre 2026, publié au Journal officiel du 16 octobre, fixe les conditions et modalités de versement de l'aide, sous condition de ressources, aux actifs utilisant un véhicule à des fins professionnelles.",
+      "source": "JORF n° 0242 du 16 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/16/0242",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Conseil d'État : la dissolution de La Jeune Garde est jugée adaptée, nécessaire et proportionnée",
-      "summary": "Le Conseil d'État rappelle qu'une dissolution porte une atteinte grave à la liberté d'association et n'est possible, sur le fondement de l'article L. 212-1 du code de la sécurité intérieure, que pour prévenir des troubles graves à l'ordre public ; il rejette le recours contre le décret du 12 juin 2025.",
-      "source": "CE, communiqué du 30 avr. 2026",
-      "url": "https://conseil-etat.fr/actualites/le-conseil-d-etat-rejette-le-recours-forme-par-la-jeune-garde-contre-le-decret-qui-prononcait-sa-dissolution",
+      "title": "Bail commercial : la troisième chambre civile précise le délai de deux mois laissé au bailleur face à une déspécialisation, lorsque les propriétaires sont indivis",
+      "summary": "L'arrêt du 15 octobre 2026 (pourvoi n° 25-11.964), signalé parmi les dernières décisions aux Bulletins, porte sur le délai de l'article L. 145-51 du code de commerce lorsque le bail a été consenti par des propriétaires indivis.",
+      "source": "Cass. 3e civ., 15 oct. 2026, n° 25-11.964",
+      "url": "https://www.courdecassation.fr/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "La grille d'évaluation du contrôle coercitif",
-      "summary": "Deux avocats proposent aux praticiens une grille pour repérer les mécanismes de domination qui privent progressivement les victimes de leurs libertés.",
-      "source": "Gazette du Palais, 2026, n° 17 (2 juin 2026)",
-      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n17/la-grille-d-evaluation-du-controle-coercitif-GPL491d4",
+      "title": "Le juge qui refuse d'interroger la CJUE : quand l'État doit-il réparer le préjudice du justiciable ?",
+      "summary": "Un avocat pénaliste commente la décision de la Cour de justice du 8 septembre 2026 sur la responsabilité de l'État lorsqu'une juridiction refuse de poser une question préjudicielle.",
+      "source": "Maître Hassan Kohen · CJUE, 8 sept. 2026",
+      "url": "https://kohenavocats.com/juge-refuse-question-prejudicielle-cjue-responsabilite-etat-reparation-septembre-2026",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "19 octobre 1812 : l'armée française entame son repli hors de Moscou",
-      "summary": "Napoléon quitte Moscou ce jour-là, début d'une retraite qui marque un tournant de la campagne de Russie.",
-      "source": "Napoleon-empire.org · Éphéméride d'octobre",
-      "url": "https://www.napoleon-empire.org/en/ephemeris/october.php",
+      "title": "19 octobre 1781 : Cornwallis capitule à Yorktown devant les forces franco-américaines",
+      "summary": "Environ 8 000 soldats britanniques se rendent à Washington, après un siège où la flotte française de l'amiral de Grasse contrôlait l'accès à la baie de Chesapeake.",
+      "source": "National Museum of the U.S. Army · Yorktown, 1781",
+      "url": "https://www.thenmusa.org/army-trail/founding-the-nation/yorktown-the-final-victory-july-october-1781/cornwallis-and-washington-negotiate-terms-of-surrender/",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Clause résolutoire et exception d'inexécution : le juge doit examiner la défense du locataire, même saisi tardivement",
-      "summary": "Dans un arrêt publié au Bulletin, la troisième chambre civile juge que l'exception d'inexécution invoquée par le preneur doit être examinée par le juge, même si celui-ci n'a pas été saisi dans le mois suivant le commandement de payer.",
-      "source": "Cass. 3e civ., 5 mars 2026, n° 24-15.820",
-      "url": "https://consultation.avocat.fr/blog/florence-iung/article-2979811-clause-resolutoire-et-exception-d-inexecution-un-rappel-important-de-la-cour-de-cassation.html",
+      "title": "Procès de Rima Hassan pour apologie du terrorisme : audience fixée aux 19 et 20 octobre, avec une QPC envisagée par la défense",
+      "summary": "Renvoyé le 7 juillet à la demande de la défense, le procès devant la 10e chambre correctionnelle de Paris porte sur un message publié sur X ; son avocat envisageait de déposer une question prioritaire de constitutionnalité.",
+      "source": "Politis · juill. 2026",
+      "url": "https://www.politis.fr/articles/2026/07/justice-pour-garantir-la-serenite-des-debats-le-proces-de-rima-hassan-pour-apologie-du-terrorisme-renvoye/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Casse du Louvre : un an après, la couronne de l'impératrice Eugénie est le seul bijou retrouvé",
-      "summary": "Les joyaux dérobés le 19 octobre 2025 restent introuvables, tandis que l'enquête se poursuit et que le musée annonce 100 caméras aux abords d'ici fin 2026.",
-      "source": "Euronews · 13 juill. 2026",
-      "url": "https://fr.euronews.com/culture/2026/07/13/cerveau-du-casse-du-louvre-on-aurait-pu-prendre-plus-selon-les-suspects",
+      "title": "Pluie-inondation : le Gard et l'Hérault en vigilance orange ce lundi, treize départements concernés mardi",
+      "summary": "Des cumuls de 40 à 70 millimètres en moins d'une heure, de la grêle et des rafales jusqu'à 80 km/h sont possibles dans le Sud, l'épisode se poursuivant le 20 octobre.",
+      "source": "CNews · Météo-France, 18 oct. 2026",
+      "url": "https://www.cnews.fr/france/2026-10-18/pluie-inondation-voici-les-7-departements-places-en-vigilance-jaune-ce-lundi",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Retrait litigieux",
-    "subtitle": "Droit civil · Articles 1699 à 1701 du Code civil",
-    "defShort": "Faculté offerte au débiteur d'un droit contesté en justice, lorsque ce droit a été cédé, de s'en libérer en remboursant au cessionnaire le prix réel de la cession, frais et intérêts compris.",
+    "term": "Fongibilité asymétrique",
+    "subtitle": "Finances publiques · Article 7 de la loi organique du 1er août 2001 (LOLF)",
+    "defShort": "Règle budgétaire selon laquelle, au sein d'un programme de l'État, les crédits peuvent être redéployés d'un titre de dépenses à un autre, sauf vers les dépenses de personnel : celles-ci peuvent alimenter les autres titres, mais ne peuvent être abondées par eux.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Lorsqu'un droit litigieux est cédé, la personne contre qui il est exercé peut « racheter » la cession : elle se fait tenir quitte en remboursant au cessionnaire ce que celui-ci a réellement payé, et non le montant nominal du droit. Le mécanisme vise à décourager la spéculation sur les procès d'autrui."
+        "body": "Dans un programme, le gestionnaire dispose d'une marge de manœuvre : il peut déplacer des crédits entre catégories de dépenses (personnel, fonctionnement, investissement, intervention). Cette souplesse, appelée fongibilité, n'est pas symétrique : le sens du déplacement détermine s'il est permis."
       },
       {
         "h": "Fondement",
-        "body": "Article 1699 du Code civil : celui contre lequel on a cédé un droit litigieux peut s'en faire tenir quitte par le cessionnaire en lui remboursant le prix réel de la cession avec les frais et loyaux coûts, et avec les intérêts à compter du jour où le cessionnaire a payé le prix. L'article 1700 précise qu'une chose est censée litigieuse dès qu'il y a procès et contestation sur le fond du droit."
+        "body": "L'article 7 de la LOLF (loi organique n° 2001-692 du 1er août 2001) répartit les crédits de chaque programme en titres et organise leur fongibilité à l'intérieur du programme. Les crédits du titre des dépenses de personnel sont, eux, enserrés dans un plafond d'autorisations d'emplois."
       },
       {
-        "h": "Cas exclus",
-        "body": "L'article 1701 écarte le retrait lorsque la cession est faite à un cohéritier ou à un copropriétaire du droit cédé, à un créancier en paiement de ce qui lui est dû, ou au possesseur de l'héritage sujet au droit litigieux."
+        "h": "Mécanisme",
+        "body": "Les crédits de personnel peuvent être utilisés pour d'autres dépenses (par exemple de fonctionnement) si les emplois prévus ne sont pas tous pourvus. L'inverse est exclu : un excédent de crédits de fonctionnement ne peut pas financer des recrutements ou des rémunérations supplémentaires."
       },
       {
         "h": "Portée",
-        "body": "Le retrait litigieux ne se confond ni avec le retrait successoral ni avec le droit de préemption : il suppose un droit déjà contesté devant un juge, et il opère au profit du seul débiteur cédé. Son intérêt pratique est de neutraliser le bénéfice d'un rachat de créance à prix décoté, par exemple en matière de créances douteuses."
+        "body": "La règle verrouille la masse salariale : l'exécutif ne peut pas contourner l'autorisation donnée par le Parlement en matière d'emplois et de rémunérations en reventilant des crédits d'un autre titre. Elle ne vaut qu'à l'intérieur d'un programme ; le passage d'un programme à un autre relève des virements et transferts, soumis à des règles distinctes."
       }
     ],
-    "seeAlso": "Voir aussi — cession de créance (art. 1321 et s.) · retrait successoral (art. 889) · garantie de la solvabilité du débiteur cédé (art. 1694 et s.)"
+    "seeAlso": "Voir aussi — virement et transfert de crédits · plafond d'autorisations d'emplois · programme et mission (LOLF) · fongibilité des crédits"
   },
   "date": "2026-10-19",
   "dateShort": "19 oct.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 52,
     "title": "Les galaxies tournent trop vite pour la matière visible",

@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Narcotrafic : s'ouvre à Aix-en-Provence le procès des assassins présumés de Brahim Chabane, frère d'Amine Kessaci",
+    "dek": "Cinq hommes comparaissent pour un triple assassinat lié au narcotrafic, devant une juridiction placée sous très haute protection. Les débats sont prévus jusqu'au 6 novembre : aucun verdict ne peut donc intervenir avant cette date.",
+    "source": "L'Avenir · 19 oct. 2026",
+    "url": "https://www.lavenir.net/actu/societe/faitsdivers/2026/10/19/snipers-et-helicoptere-au-dessus-du-palais-de-justice-policiers-cagoules-debut-du-proces-des-tueurs-presumes-du-grand-frere-damine-kessaci-ZPRUVRQJGRCH5PJJS6FNIVTIA4/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Indemnité carburant : un décret du 15 octobre 2026 la reconduit à 100 euros jusqu'à fin décembre et élargit le nombre de bénéficiaires",
+      "summary": "Le décret n° 2026-959 du 15 octobre 2026, publié au Journal officiel du 16 octobre, fixe les conditions et modalités de versement de l'aide, sous condition de ressources, aux actifs utilisant un véhicule à des fins professionnelles.",
+      "source": "JORF n° 0242 du 16 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/16/0242",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Bail commercial : la troisième chambre civile précise le délai de deux mois laissé au bailleur face à une déspécialisation, lorsque les propriétaires sont indivis",
+      "summary": "L'arrêt du 15 octobre 2026 (pourvoi n° 25-11.964), signalé parmi les dernières décisions aux Bulletins, porte sur le délai de l'article L. 145-51 du code de commerce lorsque le bail a été consenti par des propriétaires indivis.",
+      "source": "Cass. 3e civ., 15 oct. 2026, n° 25-11.964",
+      "url": "https://www.courdecassation.fr/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Le juge qui refuse d'interroger la CJUE : quand l'État doit-il réparer le préjudice du justiciable ?",
+      "summary": "Un avocat pénaliste commente la décision de la Cour de justice du 8 septembre 2026 sur la responsabilité de l'État lorsqu'une juridiction refuse de poser une question préjudicielle.",
+      "source": "Maître Hassan Kohen · CJUE, 8 sept. 2026",
+      "url": "https://kohenavocats.com/juge-refuse-question-prejudicielle-cjue-responsabilite-etat-reparation-septembre-2026",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "19 octobre 1781 : Cornwallis capitule à Yorktown devant les forces franco-américaines",
+      "summary": "Environ 8 000 soldats britanniques se rendent à Washington, après un siège où la flotte française de l'amiral de Grasse contrôlait l'accès à la baie de Chesapeake.",
+      "source": "National Museum of the U.S. Army · Yorktown, 1781",
+      "url": "https://www.thenmusa.org/army-trail/founding-the-nation/yorktown-the-final-victory-july-october-1781/cornwallis-and-washington-negotiate-terms-of-surrender/",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Procès de Rima Hassan pour apologie du terrorisme : audience fixée aux 19 et 20 octobre, avec une QPC envisagée par la défense",
+      "summary": "Renvoyé le 7 juillet à la demande de la défense, le procès devant la 10e chambre correctionnelle de Paris porte sur un message publié sur X ; son avocat envisageait de déposer une question prioritaire de constitutionnalité.",
+      "source": "Politis · juill. 2026",
+      "url": "https://www.politis.fr/articles/2026/07/justice-pour-garantir-la-serenite-des-debats-le-proces-de-rima-hassan-pour-apologie-du-terrorisme-renvoye/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Pluie-inondation : le Gard et l'Hérault en vigilance orange ce lundi, treize départements concernés mardi",
+      "summary": "Des cumuls de 40 à 70 millimètres en moins d'une heure, de la grêle et des rafales jusqu'à 80 km/h sont possibles dans le Sud, l'épisode se poursuivant le 20 octobre.",
+      "source": "CNews · Météo-France, 18 oct. 2026",
+      "url": "https://www.cnews.fr/france/2026-10-18/pluie-inondation-voici-les-7-departements-places-en-vigilance-jaune-ce-lundi",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Fongibilité asymétrique",
+    "subtitle": "Finances publiques · Article 7 de la loi organique du 1er août 2001 (LOLF)",
+    "defShort": "Règle budgétaire selon laquelle, au sein d'un programme de l'État, les crédits peuvent être redéployés d'un titre de dépenses à un autre, sauf vers les dépenses de personnel : celles-ci peuvent alimenter les autres titres, mais ne peuvent être abondées par eux.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Dans un programme, le gestionnaire dispose d'une marge de manœuvre : il peut déplacer des crédits entre catégories de dépenses (personnel, fonctionnement, investissement, intervention). Cette souplesse, appelée fongibilité, n'est pas symétrique : le sens du déplacement détermine s'il est permis."
+      },
+      {
+        "h": "Fondement",
+        "body": "L'article 7 de la LOLF (loi organique n° 2001-692 du 1er août 2001) répartit les crédits de chaque programme en titres et organise leur fongibilité à l'intérieur du programme. Les crédits du titre des dépenses de personnel sont, eux, enserrés dans un plafond d'autorisations d'emplois."
+      },
+      {
+        "h": "Mécanisme",
+        "body": "Les crédits de personnel peuvent être utilisés pour d'autres dépenses (par exemple de fonctionnement) si les emplois prévus ne sont pas tous pourvus. L'inverse est exclu : un excédent de crédits de fonctionnement ne peut pas financer des recrutements ou des rémunérations supplémentaires."
+      },
+      {
+        "h": "Portée",
+        "body": "La règle verrouille la masse salariale : l'exécutif ne peut pas contourner l'autorisation donnée par le Parlement en matière d'emplois et de rémunérations en reventilant des crédits d'un autre titre. Elle ne vaut qu'à l'intérieur d'un programme ; le passage d'un programme à un autre relève des virements et transferts, soumis à des règles distinctes."
+      }
+    ],
+    "seeAlso": "Voir aussi — virement et transfert de crédits · plafond d'autorisations d'emplois · programme et mission (LOLF) · fongibilité des crédits"
+  },
+  "date": "2026-10-19",
+  "dateShort": "19 oct.",
+  "slot": "midi"
+}
