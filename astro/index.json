@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19",
-  "count": 52,
+  "updated": "2026-10-20",
+  "count": 53,
   "lessons": [
     {
       "n": 1,
@@ -449,6 +449,14 @@
       "title": "Les galaxies tournent trop vite pour la matière visible",
       "terms": [
         "Courbe de rotation"
+      ]
+    },
+    {
+      "n": 53,
+      "file": "astro/lessons/053-la-matiere-noire-vue-par-les-lentilles.json",
+      "title": "La matière noire révélée par la lumière déviée",
+      "terms": [
+        "Lentille gravitationnelle faible"
       ]
     }
   ]

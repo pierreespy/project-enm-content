@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Policier entendu par une commission parlementaire sans avoir prévenu sa hiérarchie : le Conseil d'État refuse de valider l'avertissement et le blâme",
+    "dek": "Dans une décision du 16 octobre 2026, le Conseil d'État rejette le recours du ministre de l'Intérieur contre l'annulation des sanctions infligées à un brigadier-chef affecté au dépôt du tribunal de Paris, entendu par une commission parlementaire sans en avoir informé sa hiérarchie. Les sanctions ne pouvaient être justifiées par des éléments objectifs étrangers aux propos tenus, qui relevaient d'une alerte.",
+    "source": "CE, 16 oct. 2026 (commentaire Kohen Avocats)",
+    "url": "https://kohenavocats.com/audition-parlementaire-agent-public-policier-hierarchie-sanction-contester-recours/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Décret n° 2026-683 du 27 juillet 2026 : ce que change la nouvelle réforme de la procédure civile depuis le 1er octobre",
+      "summary": "Applicable depuis le 1er octobre 2026, le décret impose une mention actualisée dans les assignations sous peine de nullité, prévoit une procédure rapide à l'encontre du défendeur qui ne comparaît pas (art. 472 CPC) et exige l'exécution dans les trois mois des mesures ordonnées sur le fondement de l'article 145 du code de procédure civile.",
+      "source": "Décret n° 2026-683 du 27 juil. 2026 · Village de la Justice",
+      "url": "https://www.village-justice.com/articles/assignations-faut-modifier-1er-octobre-2026-sous-peine-nullite,59238.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Défaut de prévention du harcèlement moral : l'action se prescrit par deux ans, et non par cinq",
+      "summary": "Dans un arrêt publié au Bulletin, la chambre sociale juge que l'action fondée sur le manquement de l'employeur à son obligation de prévention porte sur l'exécution du contrat de travail et relève de l'article L. 1471-1 du code du travail ; l'affaire est renvoyée devant la cour d'appel d'Amiens.",
+      "source": "Cass. soc., 7 oct. 2026, n° 25-11.362, FS-B",
+      "url": "https://kohenavocats.com/prescription-deux-ans-action-defaut-prevention-harcelement-moral-arret-7-octobre-2026/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Plaidoyer en faveur de l'introduction de la catégorie des dommages immatériels en droit commun de la responsabilité civile",
+      "summary": "Une étude publiée à La Semaine juridique propose de consacrer en droit commun une catégorie de dommages immatériels dans la réforme de la responsabilité civile.",
+      "source": "JCP G, n° 42, 16 oct. 2026",
+      "url": "https://www.lexiskiosque.com/catalog/jcp-g",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "20 octobre 1854 : naissance d'Arthur Rimbaud à Charleville",
+      "summary": "Le poète naît le 20 octobre 1854 ; il cesse d'écrire avant ses vingt ans et meurt en 1891.",
+      "source": "Wikipédia · 20 octobre",
+      "url": "https://en.wikipedia.org/wiki/20_October",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Avocats : le CNB propose une nouvelle réforme de la procédure disciplinaire",
+      "summary": "Le projet renforce la place de l'auteur de la réclamation, instaure un régime de prescription de l'action disciplinaire et clarifie plusieurs étapes procédurales.",
+      "source": "CNB · 13 oct. 2026",
+      "url": "https://cnb.avocat.fr/actualite/le-cnb-propose-une-nouvelle-reforme-de-la-procedure-disciplinaire-des-avocats",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Épisode méditerranéen : neuf départements du Sud en vigilance orange ce mardi",
+      "summary": "Météo-France place l'Aveyron, les Bouches-du-Rhône, le Gard, le Var, le Vaucluse, l'Hérault, la Lozère, l'Ardèche et la Haute-Corse en vigilance orange pluie-inondation, orages ou crues.",
+      "source": "franceinfo · Météo-France, 19-20 oct. 2026",
+      "url": "https://www.franceinfo.fr/environnement/meteo/la-lozere-bascule-en-vigilance-orange-pluie-inondation-rejoignant-le-gard-et-l-herault-egalement-en-alerte-pour-des-risques-de-crues-et-d-orages-violents_8243632.html",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Ordre public de direction",
+    "subtitle": "Droit civil · Théorie générale du contrat · Articles 6 et 1102 du Code civil",
+    "defShort": "Ensemble de règles impératives qui imposent une politique économique ou sociale d'ensemble à l'État, par opposition à l'ordre public de protection qui défend une partie jugée faible.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Distinction doctrinale (Savatier, Carbonnier) : l'ordre public de direction sert l'intérêt général et l'organisation de l'économie ; l'ordre public de protection préserve une catégorie de contractants (salarié, consommateur, locataire)."
+      },
+      {
+        "h": "Fondement",
+        "body": "Article 6 du code civil (interdiction de déroger par des conventions particulières aux lois qui intéressent l'ordre public) et article 1102 (liberté contractuelle dans les limites de l'ordre public)."
+      },
+      {
+        "h": "Intérêt pratique",
+        "body": "La distinction commande le régime de la nullité : en principe absolue pour l'ordre public de direction (tout intéressé peut agir, prescription trentenaire jadis, aujourd'hui régime de l'article 1179), relative pour l'ordre public de protection (seule la partie protégée peut agir et peut renoncer après la naissance du droit)."
+      },
+      {
+        "h": "Portée",
+        "body": "La frontière est discutée : certaines règles combinent les deux finalités, et le juge qualifie au cas par cas. L'ordre public de direction englobe notamment le droit de la concurrence et la réglementation des prix."
+      }
+    ],
+    "seeAlso": "Voir aussi — ordre public de protection · nullité absolue et nullité relative (art. 1179) · lois de police · ordre public économique"
+  },
+  "date": "2026-10-20",
+  "dateShort": "20 oct.",
+  "slot": "matin"
+}

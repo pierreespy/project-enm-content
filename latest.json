@@ -1,121 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Narcotrafic : s'ouvre à Aix-en-Provence le procès des assassins présumés de Brahim Chabane, frère d'Amine Kessaci",
-    "dek": "Cinq hommes comparaissent pour un triple assassinat lié au narcotrafic, devant une juridiction placée sous très haute protection. Les débats sont prévus jusqu'au 6 novembre : aucun verdict ne peut donc intervenir avant cette date.",
-    "source": "L'Avenir · 19 oct. 2026",
-    "url": "https://www.lavenir.net/actu/societe/faitsdivers/2026/10/19/snipers-et-helicoptere-au-dessus-du-palais-de-justice-policiers-cagoules-debut-du-proces-des-tueurs-presumes-du-grand-frere-damine-kessaci-ZPRUVRQJGRCH5PJJS6FNIVTIA4/"
+    "title": "Policier entendu par une commission parlementaire sans avoir prévenu sa hiérarchie : le Conseil d'État refuse de valider l'avertissement et le blâme",
+    "dek": "Dans une décision du 16 octobre 2026, le Conseil d'État rejette le recours du ministre de l'Intérieur contre l'annulation des sanctions infligées à un brigadier-chef affecté au dépôt du tribunal de Paris, entendu par une commission parlementaire sans en avoir informé sa hiérarchie. Les sanctions ne pouvaient être justifiées par des éléments objectifs étrangers aux propos tenus, qui relevaient d'une alerte.",
+    "source": "CE, 16 oct. 2026 (commentaire Kohen Avocats)",
+    "url": "https://kohenavocats.com/audition-parlementaire-agent-public-policier-hierarchie-sanction-contester-recours/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Indemnité carburant : un décret du 15 octobre 2026 la reconduit à 100 euros jusqu'à fin décembre et élargit le nombre de bénéficiaires",
-      "summary": "Le décret n° 2026-959 du 15 octobre 2026, publié au Journal officiel du 16 octobre, fixe les conditions et modalités de versement de l'aide, sous condition de ressources, aux actifs utilisant un véhicule à des fins professionnelles.",
-      "source": "JORF n° 0242 du 16 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/16/0242",
+      "title": "Décret n° 2026-683 du 27 juillet 2026 : ce que change la nouvelle réforme de la procédure civile depuis le 1er octobre",
+      "summary": "Applicable depuis le 1er octobre 2026, le décret impose une mention actualisée dans les assignations sous peine de nullité, prévoit une procédure rapide à l'encontre du défendeur qui ne comparaît pas (art. 472 CPC) et exige l'exécution dans les trois mois des mesures ordonnées sur le fondement de l'article 145 du code de procédure civile.",
+      "source": "Décret n° 2026-683 du 27 juil. 2026 · Village de la Justice",
+      "url": "https://www.village-justice.com/articles/assignations-faut-modifier-1er-octobre-2026-sous-peine-nullite,59238.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Bail commercial : la troisième chambre civile précise le délai de deux mois laissé au bailleur face à une déspécialisation, lorsque les propriétaires sont indivis",
-      "summary": "L'arrêt du 15 octobre 2026 (pourvoi n° 25-11.964), signalé parmi les dernières décisions aux Bulletins, porte sur le délai de l'article L. 145-51 du code de commerce lorsque le bail a été consenti par des propriétaires indivis.",
-      "source": "Cass. 3e civ., 15 oct. 2026, n° 25-11.964",
-      "url": "https://www.courdecassation.fr/",
+      "title": "Défaut de prévention du harcèlement moral : l'action se prescrit par deux ans, et non par cinq",
+      "summary": "Dans un arrêt publié au Bulletin, la chambre sociale juge que l'action fondée sur le manquement de l'employeur à son obligation de prévention porte sur l'exécution du contrat de travail et relève de l'article L. 1471-1 du code du travail ; l'affaire est renvoyée devant la cour d'appel d'Amiens.",
+      "source": "Cass. soc., 7 oct. 2026, n° 25-11.362, FS-B",
+      "url": "https://kohenavocats.com/prescription-deux-ans-action-defaut-prevention-harcelement-moral-arret-7-octobre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Le juge qui refuse d'interroger la CJUE : quand l'État doit-il réparer le préjudice du justiciable ?",
-      "summary": "Un avocat pénaliste commente la décision de la Cour de justice du 8 septembre 2026 sur la responsabilité de l'État lorsqu'une juridiction refuse de poser une question préjudicielle.",
-      "source": "Maître Hassan Kohen · CJUE, 8 sept. 2026",
-      "url": "https://kohenavocats.com/juge-refuse-question-prejudicielle-cjue-responsabilite-etat-reparation-septembre-2026",
+      "title": "Plaidoyer en faveur de l'introduction de la catégorie des dommages immatériels en droit commun de la responsabilité civile",
+      "summary": "Une étude publiée à La Semaine juridique propose de consacrer en droit commun une catégorie de dommages immatériels dans la réforme de la responsabilité civile.",
+      "source": "JCP G, n° 42, 16 oct. 2026",
+      "url": "https://www.lexiskiosque.com/catalog/jcp-g",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "19 octobre 1781 : Cornwallis capitule à Yorktown devant les forces franco-américaines",
-      "summary": "Environ 8 000 soldats britanniques se rendent à Washington, après un siège où la flotte française de l'amiral de Grasse contrôlait l'accès à la baie de Chesapeake.",
-      "source": "National Museum of the U.S. Army · Yorktown, 1781",
-      "url": "https://www.thenmusa.org/army-trail/founding-the-nation/yorktown-the-final-victory-july-october-1781/cornwallis-and-washington-negotiate-terms-of-surrender/",
+      "title": "20 octobre 1854 : naissance d'Arthur Rimbaud à Charleville",
+      "summary": "Le poète naît le 20 octobre 1854 ; il cesse d'écrire avant ses vingt ans et meurt en 1891.",
+      "source": "Wikipédia · 20 octobre",
+      "url": "https://en.wikipedia.org/wiki/20_October",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Procès de Rima Hassan pour apologie du terrorisme : audience fixée aux 19 et 20 octobre, avec une QPC envisagée par la défense",
-      "summary": "Renvoyé le 7 juillet à la demande de la défense, le procès devant la 10e chambre correctionnelle de Paris porte sur un message publié sur X ; son avocat envisageait de déposer une question prioritaire de constitutionnalité.",
-      "source": "Politis · juill. 2026",
-      "url": "https://www.politis.fr/articles/2026/07/justice-pour-garantir-la-serenite-des-debats-le-proces-de-rima-hassan-pour-apologie-du-terrorisme-renvoye/",
+      "title": "Avocats : le CNB propose une nouvelle réforme de la procédure disciplinaire",
+      "summary": "Le projet renforce la place de l'auteur de la réclamation, instaure un régime de prescription de l'action disciplinaire et clarifie plusieurs étapes procédurales.",
+      "source": "CNB · 13 oct. 2026",
+      "url": "https://cnb.avocat.fr/actualite/le-cnb-propose-une-nouvelle-reforme-de-la-procedure-disciplinaire-des-avocats",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Pluie-inondation : le Gard et l'Hérault en vigilance orange ce lundi, treize départements concernés mardi",
-      "summary": "Des cumuls de 40 à 70 millimètres en moins d'une heure, de la grêle et des rafales jusqu'à 80 km/h sont possibles dans le Sud, l'épisode se poursuivant le 20 octobre.",
-      "source": "CNews · Météo-France, 18 oct. 2026",
-      "url": "https://www.cnews.fr/france/2026-10-18/pluie-inondation-voici-les-7-departements-places-en-vigilance-jaune-ce-lundi",
+      "title": "Épisode méditerranéen : neuf départements du Sud en vigilance orange ce mardi",
+      "summary": "Météo-France place l'Aveyron, les Bouches-du-Rhône, le Gard, le Var, le Vaucluse, l'Hérault, la Lozère, l'Ardèche et la Haute-Corse en vigilance orange pluie-inondation, orages ou crues.",
+      "source": "franceinfo · Météo-France, 19-20 oct. 2026",
+      "url": "https://www.franceinfo.fr/environnement/meteo/la-lozere-bascule-en-vigilance-orange-pluie-inondation-rejoignant-le-gard-et-l-herault-egalement-en-alerte-pour-des-risques-de-crues-et-d-orages-violents_8243632.html",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Fongibilité asymétrique",
-    "subtitle": "Finances publiques · Article 7 de la loi organique du 1er août 2001 (LOLF)",
-    "defShort": "Règle budgétaire selon laquelle, au sein d'un programme de l'État, les crédits peuvent être redéployés d'un titre de dépenses à un autre, sauf vers les dépenses de personnel : celles-ci peuvent alimenter les autres titres, mais ne peuvent être abondées par eux.",
+    "term": "Ordre public de direction",
+    "subtitle": "Droit civil · Théorie générale du contrat · Articles 6 et 1102 du Code civil",
+    "defShort": "Ensemble de règles impératives qui imposent une politique économique ou sociale d'ensemble à l'État, par opposition à l'ordre public de protection qui défend une partie jugée faible.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Dans un programme, le gestionnaire dispose d'une marge de manœuvre : il peut déplacer des crédits entre catégories de dépenses (personnel, fonctionnement, investissement, intervention). Cette souplesse, appelée fongibilité, n'est pas symétrique : le sens du déplacement détermine s'il est permis."
+        "body": "Distinction doctrinale (Savatier, Carbonnier) : l'ordre public de direction sert l'intérêt général et l'organisation de l'économie ; l'ordre public de protection préserve une catégorie de contractants (salarié, consommateur, locataire)."
       },
       {
         "h": "Fondement",
-        "body": "L'article 7 de la LOLF (loi organique n° 2001-692 du 1er août 2001) répartit les crédits de chaque programme en titres et organise leur fongibilité à l'intérieur du programme. Les crédits du titre des dépenses de personnel sont, eux, enserrés dans un plafond d'autorisations d'emplois."
+        "body": "Article 6 du code civil (interdiction de déroger par des conventions particulières aux lois qui intéressent l'ordre public) et article 1102 (liberté contractuelle dans les limites de l'ordre public)."
       },
       {
-        "h": "Mécanisme",
-        "body": "Les crédits de personnel peuvent être utilisés pour d'autres dépenses (par exemple de fonctionnement) si les emplois prévus ne sont pas tous pourvus. L'inverse est exclu : un excédent de crédits de fonctionnement ne peut pas financer des recrutements ou des rémunérations supplémentaires."
+        "h": "Intérêt pratique",
+        "body": "La distinction commande le régime de la nullité : en principe absolue pour l'ordre public de direction (tout intéressé peut agir, prescription trentenaire jadis, aujourd'hui régime de l'article 1179), relative pour l'ordre public de protection (seule la partie protégée peut agir et peut renoncer après la naissance du droit)."
       },
       {
         "h": "Portée",
-        "body": "La règle verrouille la masse salariale : l'exécutif ne peut pas contourner l'autorisation donnée par le Parlement en matière d'emplois et de rémunérations en reventilant des crédits d'un autre titre. Elle ne vaut qu'à l'intérieur d'un programme ; le passage d'un programme à un autre relève des virements et transferts, soumis à des règles distinctes."
+        "body": "La frontière est discutée : certaines règles combinent les deux finalités, et le juge qualifie au cas par cas. L'ordre public de direction englobe notamment le droit de la concurrence et la réglementation des prix."
       }
     ],
-    "seeAlso": "Voir aussi — virement et transfert de crédits · plafond d'autorisations d'emplois · programme et mission (LOLF) · fongibilité des crédits"
+    "seeAlso": "Voir aussi — ordre public de protection · nullité absolue et nullité relative (art. 1179) · lois de police · ordre public économique"
   },
-  "date": "2026-10-19",
-  "dateShort": "19 oct.",
-  "slot": "midi",
+  "date": "2026-10-20",
+  "dateShort": "20 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 52,
-    "title": "Les galaxies tournent trop vite pour la matière visible",
-    "subtitle": "Pourquoi la vitesse des étoiles en périphérie révèle une masse que l'on ne voit pas",
+    "n": 53,
+    "title": "La matière noire révélée par la lumière déviée",
+    "subtitle": "Une masse invisible se détecte aussi à la façon dont elle courbe la lumière des astres situés derrière elle",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Ce que prévoit la règle de la gravité",
-        "body": "Dans le système solaire, presque toute la masse est dans le Soleil (jour 8). Plus une planète est loin, plus elle est faiblement attirée, et plus elle va lentement sur son orbite (jour 9) : Mercure file bien plus vite que Neptune. On devrait attendre la même chose d'une galaxie (jour 24), dont la lumière est concentrée au centre : les étoiles de la périphérie devraient tourner plus lentement que celles du cœur."
+        "h": "Une autre manière de peser",
+        "body": "Les leçons précédentes ont montré que l'on pèse un astre par l'orbite de ses voisins (jour 51) et que les galaxies tournent trop vite pour la seule masse visible (jour 52). Il existe un second moyen, indépendant du premier : toute masse dévie la lumière qui passe près d'elle (jour 38). La déviation dépend de la masse totale, qu'elle brille ou non."
       },
       {
-        "h": "Ce que l'on observe",
-        "body": "La courbe de rotation d'une galaxie est le graphique qui donne la vitesse de ses étoiles selon leur distance au centre. On la mesure par l'effet Doppler (jour 16). Or, pour la plupart des galaxies spirales, cette courbe ne descend pas : au-delà de la zone lumineuse, les étoiles et le gaz continuent de tourner à peu près aussi vite. Les astronomes l'ont établi au milieu des années 1970, notamment grâce aux travaux de Vera Rubin."
+        "h": "Ce que montrent les amas de galaxies",
+        "body": "Un amas de galaxies agit comme une lentille gravitationnelle (jour 38) : il déforme en arcs l'image des galaxies lointaines placées derrière lui. En mesurant l'ampleur de ces déformations, les astronomes calculent la masse de l'amas. Résultat : elle dépasse largement celle de ses étoiles et de son gaz visibles, et le surplus est réparti d'une façon qui rappelle la matière noire (jour 25)."
       },
       {
-        "h": "La conclusion qui s'impose",
-        "body": "Une orbite rapide à grande distance exige beaucoup de masse à l'intérieur (jour 51). Les galaxies contiennent donc bien plus de masse que celle des étoiles et du gaz visibles, répartie jusqu'à de grandes distances. C'est l'indice qui mène à la matière noire (jour 25) : non une certitude sur sa nature, mais la preuve qu'une masse invisible agit par la gravité."
+        "h": "Pourquoi cela compte",
+        "body": "Deux méthodes différentes, l'une fondée sur le mouvement et l'autre sur la lumière, aboutissent à la même conclusion : il y a plus de masse que ce que l'on voit. Cette convergence est un argument plus solide que chacune des mesures prise isolément, sans pour autant dire ce qu'est cette masse."
       }
     ],
     "keyTerms": [
       {
-        "term": "Courbe de rotation",
-        "def": "Graphique donnant la vitesse des étoiles d'une galaxie en fonction de leur distance au centre."
+        "term": "Lentille gravitationnelle faible",
+        "def": "Faible déformation des images de galaxies lointaines par une masse placée devant elles, qui permet de mesurer cette masse."
       }
     ],
-    "recap": "Les étoiles en périphérie des galaxies tournent trop vite pour la seule masse visible : la gravité y révèle de la masse invisible.",
-    "next": "Demain — une autre manière de voir cette masse invisible : elle courbe la lumière, sans qu'on la voie."
+    "recap": "La déviation de la lumière par les amas de galaxies confirme, par une méthode indépendante des mouvements, l'existence d'une masse que l'on ne voit pas.",
+    "next": "Demain — un cas où cette masse invisible semble séparée de la matière visible."
   }
 }

@@ -1,0 +1,28 @@
+{
+  "n": 53,
+  "title": "La matière noire révélée par la lumière déviée",
+  "subtitle": "Une masse invisible se détecte aussi à la façon dont elle courbe la lumière des astres situés derrière elle",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Une autre manière de peser",
+      "body": "Les leçons précédentes ont montré que l'on pèse un astre par l'orbite de ses voisins (jour 51) et que les galaxies tournent trop vite pour la seule masse visible (jour 52). Il existe un second moyen, indépendant du premier : toute masse dévie la lumière qui passe près d'elle (jour 38). La déviation dépend de la masse totale, qu'elle brille ou non."
+    },
+    {
+      "h": "Ce que montrent les amas de galaxies",
+      "body": "Un amas de galaxies agit comme une lentille gravitationnelle (jour 38) : il déforme en arcs l'image des galaxies lointaines placées derrière lui. En mesurant l'ampleur de ces déformations, les astronomes calculent la masse de l'amas. Résultat : elle dépasse largement celle de ses étoiles et de son gaz visibles, et le surplus est réparti d'une façon qui rappelle la matière noire (jour 25)."
+    },
+    {
+      "h": "Pourquoi cela compte",
+      "body": "Deux méthodes différentes, l'une fondée sur le mouvement et l'autre sur la lumière, aboutissent à la même conclusion : il y a plus de masse que ce que l'on voit. Cette convergence est un argument plus solide que chacune des mesures prise isolément, sans pour autant dire ce qu'est cette masse."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Lentille gravitationnelle faible",
+      "def": "Faible déformation des images de galaxies lointaines par une masse placée devant elles, qui permet de mesurer cette masse."
+    }
+  ],
+  "recap": "La déviation de la lumière par les amas de galaxies confirme, par une méthode indépendante des mouvements, l'existence d'une masse que l'on ne voit pas.",
+  "next": "Demain — un cas où cette masse invisible semble séparée de la matière visible."
+}

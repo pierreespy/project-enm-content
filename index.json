@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-19",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-10-20",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-20",
+      "slot": "matin",
+      "file": "editions/2026-10-20-matin.json",
+      "essentiel": "Policier entendu par une commission parlementaire sans avoir prévenu sa hiérarchie : le Conseil d'État refuse de valider l'avertissement et le blâme",
+      "term": "Ordre public de direction",
+      "rubriques": [
+        "Décret n° 2026-683 du 27 juillet 2026 : ce que change la nouvelle réforme de la procédure civile depuis le 1er octobre",
+        "Défaut de prévention du harcèlement moral : l'action se prescrit par deux ans, et non par cinq",
+        "Plaidoyer en faveur de l'introduction de la catégorie des dommages immatériels en droit commun de la responsabilité civile",
+        "20 octobre 1854 : naissance d'Arthur Rimbaud à Charleville",
+        "Avocats : le CNB propose une nouvelle réforme de la procédure disciplinaire",
+        "Épisode méditerranéen : neuf départements du Sud en vigilance orange ce mardi"
+      ]
+    },
     {
       "date": "2026-10-19",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "5 octobre 1789 : la marche des femmes sur Versailles et le retour de la famille royale à Paris",
         "Salaire d'octobre non versé ou versé en retard : mise en demeure, référé prud'homal et garantie AGS",
         "Ligue des nations : la France reçoit la Belgique au Stade de France"
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "slot": "midi",
-      "file": "editions/2026-10-04-midi.json",
-      "essentiel": "Émeutes de 2024 en Nouvelle-Calédonie : l'État condamné à indemniser deux armureries sans avoir commis de faute",
-      "term": "Charge spéciale et anormale",
-      "rubriques": [
-        "Code de la sécurité intérieure : le cadre de la responsabilité de l'État en cas de dommages causés par des attroupements",
-        "Maintien de l'ordre pendant les émeutes de mai-juin 2024 : le tribunal administratif de Nouvelle-Calédonie précise les responsabilités de l'État",
-        "Rupture brutale et groupe de sociétés : commentaire critique d'un arrêt de la cour d'appel de Paris",
-        "4 octobre 1958 : la Constitution de la Ve République est promulguée",
-        "Acquéreur évincé par une préemption : annuler la décision de la mairie et récupérer le bien",
-        "Papeete se mobilise pour sauver le ʻao, héron endémique menacé d'extinction"
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "slot": "matin",
-      "file": "editions/2026-10-04-matin.json",
-      "essentiel": "Inondations dans le Narbonnais : la garantie catastrophes naturelles ne joue qu'après un arrêté interministériel, et les délais courent déjà",
-      "term": "Quae temporalia ad agendum, perpetua ad excipiendum",
-      "rubriques": [
-        "JORF n° 0231 du 3 octobre 2026 : arrêtés relatifs aux concours et postes d'examen 2027 et décision de délégation de signature",
-        "GPA réalisée à l'étranger : l'Assemblée plénière fait de l'exequatur la voie d'accueil du jugement étranger de filiation",
-        "Exequatur des décisions étrangères établissant la filiation d'enfants nés par GPA : l'assemblée plénière « persiste sans convaincre »",
-        "4 octobre 1957 : l'URSS lance Spoutnik 1, premier satellite artificiel, et ouvre l'ère spatiale",
-        "Inondation : déclarer le sinistre, contester un assureur qui refuse ou paie trop peu",
-        "Mobilisation lycéenne : 400 lycées fermés et plus de 2 000 interpellations, les organisations appellent à poursuivre"
       ]
     }
   ]
