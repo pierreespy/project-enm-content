@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-20",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-20",
+      "slot": "midi",
+      "file": "editions/2026-10-20-midi.json",
+      "essentiel": "Procès de Rima Hassan pour apologie du terrorisme : un procès ouvert sur fond d'incidents d'audience, prévu les 19 et 20 octobre",
+      "term": "Tierce opposition",
+      "rubriques": [
+        "Conseil constitutionnel : audience publique ce mardi 20 octobre sur la QPC n° 2026-1232 relative au code de la justice pénale des mineurs",
+        "Protection des consommateurs : la première chambre civile, en formation de section, rend un arrêt publié le 7 octobre 2026",
+        "Gouvernance du CNB : les avocats honoraires au cœur d'une nouvelle fracture entre Paris et la province",
+        "21 octobre 1805 : Trafalgar, la défaite navale qui ruine le projet de débarquement en Angleterre",
+        "Convention nationale des avocats : rendez-vous à Toulouse du 21 au 23 octobre, et date limite des professions de foi du CNB fixée au 23 octobre",
+        "Météo : un mois de septembre 2026 « sans conteste le plus sec jamais observé en France »"
+      ]
+    },
     {
       "date": "2026-10-20",
       "slot": "matin",

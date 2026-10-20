@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Procès de Rima Hassan pour apologie du terrorisme : un procès ouvert sur fond d'incidents d'audience, prévu les 19 et 20 octobre",
+    "dek": "Renvoyé en juillet à la demande de la défense, le procès de l'eurodéputée devant le tribunal correctionnel de Paris s'est ouvert le 19 octobre avec plusieurs suspensions d'audience. Elle est poursuivie pour un message supprimé sur X évoquant l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv ; elle a dénoncé une « tentative d'intimidation » et exercé son droit de se taire.",
+    "source": "France 24 · 19 oct. 2026",
+    "url": "https://www.france24.com/fr/france/20261019-ouverture-du-proc%C3%A8s-de-l-eurod%C3%A9put%C3%A9e-insoumise-rima-hassan-pour-apologie-du-terrorisme"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Conseil constitutionnel : audience publique ce mardi 20 octobre sur la QPC n° 2026-1232 relative au code de la justice pénale des mineurs",
+      "summary": "Le Conseil examine à 10h30 une question prioritaire de constitutionnalité portant sur une disposition du code de la justice pénale des mineurs ; la décision sera rendue dans les semaines suivantes.",
+      "source": "Conseil constitutionnel · affaires en instance",
+      "url": "https://www.conseil-constitutionnel.fr/decisions/affaires-en-instances",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Protection des consommateurs : la première chambre civile, en formation de section, rend un arrêt publié le 7 octobre 2026",
+      "summary": "Classé « publié au Bulletin », l'arrêt n° 25-11.954 intéresse la portée de la protection du consommateur lorsque les parties sont libres de leurs stipulations ; à lire dans le texte avant toute citation.",
+      "source": "Cass. 1re civ., 7 oct. 2026, n° 25-11.954",
+      "url": "https://www.alertejustice.fr/protection-des-consommateurs-si-les-parties-sont-libres-cour-de-cassation-premiere-chambre-civile-2026-10-07/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Gouvernance du CNB : les avocats honoraires au cœur d'une nouvelle fracture entre Paris et la province",
+      "summary": "La Gazette du Palais analyse la décision du CNB de maintenir les avocats honoraires dans l'effectif servant à répartir les sièges, source possible de contentieux autour des élections de novembre 2026.",
+      "source": "Gazette du Palais, 2026, n° 18",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n18/gouvernance-les-avocats-honoraires-au-coeur-d-une-nouvelle-fracture-entre-paris-et-la-province-GPL491m1",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "21 octobre 1805 : Trafalgar, la défaite navale qui ruine le projet de débarquement en Angleterre",
+      "summary": "À la veille de son anniversaire, retour sur la bataille où Nelson est mortellement blessé et où la flotte franco-espagnole perd 23 vaisseaux.",
+      "source": "Hérodote.net · 21 octobre 1805",
+      "url": "https://www.herodote.net/21_octobre_1805-evenement-18051021.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Convention nationale des avocats : rendez-vous à Toulouse du 21 au 23 octobre, et date limite des professions de foi du CNB fixée au 23 octobre",
+      "summary": "La convention, organisée avec les barreaux de Toulouse, Albi et Montauban, aura pour thème l'intelligence artificielle et l'avocat « durable » ; les élections au CNB 2027-2029 se tiennent le 24 novembre.",
+      "source": "CNB · Le Monde du droit",
+      "url": "https://www.lemondedudroit.fr/institutions/105958-toulouse-accueille-la-convention-nationale-des-avocats-2026.html",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Météo : un mois de septembre 2026 « sans conteste le plus sec jamais observé en France »",
+      "summary": "Le constat, relayé par la presse agricole, ouvre un mois d'octobre d'abord anticyclonique avant une tendance plus incertaine.",
+      "source": "Pleinchamp · chronique météo d'octobre 2026",
+      "url": "https://www.pleinchamp.com/actualite/meteo-quelles-sont-les-previsions-pour-octobre-2026-la-chronique-de-nicolas-le-friant-expert-meteo",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Tierce opposition",
+    "subtitle": "Procédure civile · Articles 582 et suivants du Code de procédure civile",
+    "defShort": "Voie de recours extraordinaire permettant à un tiers, qui n'était ni partie ni représenté à l'instance, de faire rétracter ou réformer un jugement qui lui préjudicie.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "La tierce opposition vise à faire rétracter ou réformer un jugement au profit de celui qui l'attaque. Elle est ouverte à toute personne qui y a intérêt, à la condition de n'avoir été ni partie ni représentée au jugement (art. 582 et 583 CPC)."
+      },
+      {
+        "h": "Fondement",
+        "body": "Le jugement n'a en principe d'effet qu'entre les parties, mais il peut préjudicier à un tiers, par exemple en le privant d'un droit. La tierce opposition protège ce tiers contre une décision rendue sans lui."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Les créanciers et ayants cause d'une partie ne peuvent l'exercer, en principe, que pour fraude à leurs droits ou pour faire valoir des moyens qui leur sont propres. Elle est portée devant la juridiction qui a rendu le jugement attaqué, ou, à titre incident, devant celle saisie du litige où le jugement est invoqué."
+      },
+      {
+        "h": "Portée",
+        "body": "Le délai de droit commun est de trente ans à compter du jugement, sauf disposition contraire (art. 586). Le jugement rendu sur tierce opposition ne rétracte ou ne réforme le jugement attaqué que sur les chefs préjudiciables au tiers opposant : la décision reste intacte entre les parties pour le surplus."
+      }
+    ],
+    "seeAlso": "Voir aussi — opposition (art. 571) · appel-nullité · recours en révision (art. 593) · autorité relative de chose jugée (art. 1355 C. civ.)"
+  },
+  "date": "2026-10-20",
+  "dateShort": "20 oct.",
+  "slot": "midi"
+}
