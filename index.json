@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-20",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-10-21",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-21",
+      "slot": "matin",
+      "file": "editions/2026-10-21-matin.json",
+      "essentiel": "Moyen relevé d'office sans débat contradictoire : la Cour de cassation casse deux arrêts d'appel rendus les 1er et 8 octobre 2026",
+      "term": "Péremption d'instance",
+      "rubriques": [
+        "Absence de DUERP : une amende administrative pouvant atteindre 4 000 euros par salarié depuis le 27 juin 2026",
+        "Licenciement économique et Covid : une baisse du chiffre d'affaires sur la période légale ne suffit pas, le juge doit en apprécier l'importance",
+        "Commande publique : l'offre anormalement basse et la charge de la démonstration pesant sur l'acheteur",
+        "21 octobre 1879 : Edison obtient à Menlo Park un premier essai concluant de lampe à filament de carbone",
+        "Interdictions commerciales de stade : toujours pas de plafond de durée ni de procédure contradictoire",
+        "Météo : un risque de pluies orageuses prolongé sur les régions méditerranéennes jusqu'à ce mercredi 21 octobre"
+      ]
+    },
     {
       "date": "2026-10-20",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "6 octobre 1973 : l'Égypte et la Syrie attaquent Israël le jour de Yom Kippour, début de la guerre du Kippour",
         "Victime d'un accident de train : blessures involontaires, procès pénal et indemnisation",
         "Prix Nobel de médecine 2026 : Karl Deisseroth, Peter Hegemann et Georg Nagel récompensés pour l'optogénétique"
-      ]
-    },
-    {
-      "date": "2026-10-05",
-      "slot": "midi",
-      "file": "editions/2026-10-05-midi.json",
-      "essentiel": "Château de la Buzine : Benoît Payan et cinq de ses adjoints devant la 17e chambre à Paris pour diffamation et injures envers le petit-fils de Marcel Pagnol",
-      "term": "Offre de preuve",
-      "rubriques": [
-        "Décret n° 2026-683 du 27 juillet 2026 (« Magicobus III ») : la simplification de la procédure civile entrée en vigueur le 1er octobre",
-        "Erreur matérielle affectant un arrêt rendu en formation collégiale : seule une juridiction collégiale peut la rectifier",
-        "Le décret « Magicobus III » : commentaire des mesures de simplification de la procédure civile",
-        "La Nuit du droit 2026 : le Conseil d'État, la cour administrative d'appel, le tribunal administratif et le barreau de Paris ouvrent leurs portes ce 5 octobre",
-        "Notification des mémoires devant le juge des loyers commerciaux : fin de la LRAR après la saisine",
-        "Journée mondiale des enseignants : l'UNESCO plaide pour mieux protéger et valoriser la profession"
-      ]
-    },
-    {
-      "date": "2026-10-05",
-      "slot": "matin",
-      "file": "editions/2026-10-05-matin.json",
-      "essentiel": "Saint-Martin : Louis Mussington, président de la collectivité, jugé à Marigot pour prise illégale d'intérêts dès ce lundi",
-      "term": "Intérêt quelconque",
-      "rubriques": [
-        "Décisions de déclassement du 1er octobre 2026 : le Conseil constitutionnel statue sur la nature de dispositions des codes de la consommation, de l'action sociale et de la défense",
-        "Témoin entendu sans serment aux assises : le Conseil constitutionnel valide l'article 310 du Code de procédure pénale",
-        "Analyses de jurisprudence du Conseil d'État du 16 juillet au 31 août 2026",
-        "5 octobre 1789 : la marche des femmes sur Versailles et le retour de la famille royale à Paris",
-        "Salaire d'octobre non versé ou versé en retard : mise en demeure, référé prud'homal et garantie AGS",
-        "Ligue des nations : la France reçoit la Belgique au Stade de France"
       ]
     }
   ]

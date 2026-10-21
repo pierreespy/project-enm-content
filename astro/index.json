@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20",
-  "count": 53,
+  "updated": "2026-10-21",
+  "count": 54,
   "lessons": [
     {
       "n": 1,
@@ -457,6 +457,14 @@
       "title": "La matière noire révélée par la lumière déviée",
       "terms": [
         "Lentille gravitationnelle faible"
+      ]
+    },
+    {
+      "n": 54,
+      "file": "astro/lessons/054-l-amas-du-boulet.json",
+      "title": "L'amas du Boulet : la masse invisible séparée de la matière visible",
+      "terms": [
+        "Amas de galaxies"
       ]
     }
   ]

@@ -1,0 +1,28 @@
+{
+  "n": 54,
+  "title": "L'amas du Boulet : la masse invisible séparée de la matière visible",
+  "subtitle": "Une collision d'amas de galaxies où la masse mesurée ne se trouve pas là où est la matière visible",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Une collision entre deux amas",
+      "body": "Un amas de galaxies est un ensemble de centaines ou de milliers de galaxies liées par la gravité (jour 8), baignant dans un gaz très chaud. L'amas du Boulet est en réalité deux amas qui se sont traversés. Pendant la collision, les galaxies, très espacées, ont presque toutes poursuivi leur route sans se heurter. Le gaz, lui, a été freiné par frottement et est resté près du centre de la collision."
+    },
+    {
+      "h": "Où se trouve la masse ?",
+      "body": "Le gaz chaud est de loin la principale part de la matière visible de l'amas : on le repère grâce à la lumière qu'il émet. Par la déviation de la lumière des galaxies situées derrière (jour 53), on mesure ensuite où se trouve réellement la masse. Résultat : elle suit les galaxies, de part et d'autre, et non le gaz resté au centre."
+    },
+    {
+      "h": "Ce que cela suggère",
+      "body": "Si la masse manquante n'était qu'une erreur sur la règle de la gravité, elle devrait suivre la matière visible, donc le gaz. Or elle s'en est séparée. Cela soutient l'idée d'une matière noire (jour 25) qui traverse les collisions sans être freinée, à la différence du gaz. L'argument est fort, mais il ne dit pas de quoi cette matière est faite."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Amas de galaxies",
+      "def": "Ensemble de centaines ou de milliers de galaxies liées par la gravité et baignant dans un gaz très chaud."
+    }
+  ],
+  "recap": "Dans l'amas du Boulet, la masse mesurée par la déviation de la lumière est séparée du gaz visible, ce qui plaide pour une matière noire distincte de la matière ordinaire.",
+  "next": "Demain — ce que l'on sait, et ce que l'on ignore, de la nature de la matière noire."
+}

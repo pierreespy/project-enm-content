@@ -1,121 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Procès de Rima Hassan pour apologie du terrorisme : un procès ouvert sur fond d'incidents d'audience, prévu les 19 et 20 octobre",
-    "dek": "Renvoyé en juillet à la demande de la défense, le procès de l'eurodéputée devant le tribunal correctionnel de Paris s'est ouvert le 19 octobre avec plusieurs suspensions d'audience. Elle est poursuivie pour un message supprimé sur X évoquant l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv ; elle a dénoncé une « tentative d'intimidation » et exercé son droit de se taire.",
-    "source": "France 24 · 19 oct. 2026",
-    "url": "https://www.france24.com/fr/france/20261019-ouverture-du-proc%C3%A8s-de-l-eurod%C3%A9put%C3%A9e-insoumise-rima-hassan-pour-apologie-du-terrorisme"
+    "title": "Moyen relevé d'office sans débat contradictoire : la Cour de cassation casse deux arrêts d'appel rendus les 1er et 8 octobre 2026",
+    "dek": "Dans deux arrêts de la deuxième chambre civile, la Cour de cassation sanctionne des juges d'appel qui ont fondé leur décision sur un moyen qu'ils avaient soulevé eux-mêmes, sans inviter les parties à présenter leurs observations. Un rappel pratique pour la rédaction des conclusions et le contrôle du respect du contradictoire.",
+    "source": "Cass. 2e civ., 1er oct. et 8 oct. 2026 (commentaire Kohen Avocats)",
+    "url": "https://kohenavocats.fr/2026/10/20/juge-appel-moyen-releve-office-note-delibere-cassation-octobre-2026/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Conseil constitutionnel : audience publique ce mardi 20 octobre sur la QPC n° 2026-1232 relative au code de la justice pénale des mineurs",
-      "summary": "Le Conseil examine à 10h30 une question prioritaire de constitutionnalité portant sur une disposition du code de la justice pénale des mineurs ; la décision sera rendue dans les semaines suivantes.",
-      "source": "Conseil constitutionnel · affaires en instance",
-      "url": "https://www.conseil-constitutionnel.fr/decisions/affaires-en-instances",
+      "title": "Absence de DUERP : une amende administrative pouvant atteindre 4 000 euros par salarié depuis le 27 juin 2026",
+      "summary": "Issue de la loi n° 2026-534 du 25 juin 2026 et codifiée à l'article L. 8115-1, 6° du code du travail, la sanction est prononcée par la DREETS sur rapport de l'inspecteur du travail, sans saisine du juge, et ne peut se cumuler avec des poursuites pénales.",
+      "source": "Loi n° 2026-534 du 25 juin 2026 · Legisocial",
+      "url": "https://www.legisocial.fr/actualites-sociales/8010-absence-duerp-mise-jour-amende-administrative-4-000-salarie-desormais-applicable.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Protection des consommateurs : la première chambre civile, en formation de section, rend un arrêt publié le 7 octobre 2026",
-      "summary": "Classé « publié au Bulletin », l'arrêt n° 25-11.954 intéresse la portée de la protection du consommateur lorsque les parties sont libres de leurs stipulations ; à lire dans le texte avant toute citation.",
-      "source": "Cass. 1re civ., 7 oct. 2026, n° 25-11.954",
-      "url": "https://www.alertejustice.fr/protection-des-consommateurs-si-les-parties-sont-libres-cour-de-cassation-premiere-chambre-civile-2026-10-07/",
+      "title": "Licenciement économique et Covid : une baisse du chiffre d'affaires sur la période légale ne suffit pas, le juge doit en apprécier l'importance",
+      "summary": "Dans des arrêts du 7 octobre 2026, la chambre sociale juge que, même lorsque la baisse de l'indicateur économique est établie sur la durée fixée par la loi, le juge doit vérifier qu'elle est suffisamment significative pour justifier le licenciement.",
+      "source": "Cass. soc., 7 oct. 2026, nos 25-10.107, 25-10.108, 25-11.252 et 25-11.253",
+      "url": "https://kohenavocats.com/licenciement-economique-covid-baisse-chiffre-affaires-difficultes-durables-cassation-7-octobre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Gouvernance du CNB : les avocats honoraires au cœur d'une nouvelle fracture entre Paris et la province",
-      "summary": "La Gazette du Palais analyse la décision du CNB de maintenir les avocats honoraires dans l'effectif servant à répartir les sièges, source possible de contentieux autour des élections de novembre 2026.",
-      "source": "Gazette du Palais, 2026, n° 18",
-      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n18/gouvernance-les-avocats-honoraires-au-coeur-d-une-nouvelle-fracture-entre-paris-et-la-province-GPL491m1",
+      "title": "Commande publique : l'offre anormalement basse et la charge de la démonstration pesant sur l'acheteur",
+      "summary": "Un article publié le 20 octobre 2026 par le Village de la justice revient sur la manière dont l'acheteur public doit démontrer le caractère anormalement bas d'une offre avant de l'écarter.",
+      "source": "Village de la justice, 20 oct. 2026",
+      "url": "https://www.village-justice.com/articles/blog-juristes-avocats-notaires,361",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "21 octobre 1805 : Trafalgar, la défaite navale qui ruine le projet de débarquement en Angleterre",
-      "summary": "À la veille de son anniversaire, retour sur la bataille où Nelson est mortellement blessé et où la flotte franco-espagnole perd 23 vaisseaux.",
-      "source": "Hérodote.net · 21 octobre 1805",
-      "url": "https://www.herodote.net/21_octobre_1805-evenement-18051021.php",
+      "title": "21 octobre 1879 : Edison obtient à Menlo Park un premier essai concluant de lampe à filament de carbone",
+      "summary": "L'inventeur américain fait briller plusieurs heures une lampe à filament carbonisé ; le brevet sera déposé en janvier 1880 et la présentation publique aura lieu le 31 décembre 1879.",
+      "source": "Les As de l'info · éphéméride du 21 octobre",
+      "url": "https://lesasdelinfo.com/ephemerides/85/21-octobre-1879-invention-de-l-ampoule-electrique",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Convention nationale des avocats : rendez-vous à Toulouse du 21 au 23 octobre, et date limite des professions de foi du CNB fixée au 23 octobre",
-      "summary": "La convention, organisée avec les barreaux de Toulouse, Albi et Montauban, aura pour thème l'intelligence artificielle et l'avocat « durable » ; les élections au CNB 2027-2029 se tiennent le 24 novembre.",
-      "source": "CNB · Le Monde du droit",
-      "url": "https://www.lemondedudroit.fr/institutions/105958-toulouse-accueille-la-convention-nationale-des-avocats-2026.html",
+      "title": "Interdictions commerciales de stade : toujours pas de plafond de durée ni de procédure contradictoire",
+      "summary": "Des amendements déposés en juin 2026 (plafond de neuf ou six mois) ont été rejetés ou non soutenus, de sorte que ces mesures, pouvant implicitement atteindre dix-huit mois, restent prononcées sans contradictoire préalable ni véritable voie de recours.",
+      "source": "Assemblée nationale, amendement CL218, projet de loi n° 2850",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2850/CION_LOIS/CL218.pdf",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Météo : un mois de septembre 2026 « sans conteste le plus sec jamais observé en France »",
-      "summary": "Le constat, relayé par la presse agricole, ouvre un mois d'octobre d'abord anticyclonique avant une tendance plus incertaine.",
-      "source": "Pleinchamp · chronique météo d'octobre 2026",
-      "url": "https://www.pleinchamp.com/actualite/meteo-quelles-sont-les-previsions-pour-octobre-2026-la-chronique-de-nicolas-le-friant-expert-meteo",
+      "title": "Météo : un risque de pluies orageuses prolongé sur les régions méditerranéennes jusqu'à ce mercredi 21 octobre",
+      "summary": "Après les épisodes de vigilance orange de lundi et mardi dans le Sud-Est, certaines prévisions maintiennent des pluies orageuses jusqu'à mercredi ; la vigilance officielle est à consulter sur vigilance.meteofrance.fr.",
+      "source": "Météo Paris · prévisions",
+      "url": "https://www.meteo-paris.com/actualites/pluies-intenses-plusieurs-regions-menacees-ce-week-end-et-lundi",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Tierce opposition",
-    "subtitle": "Procédure civile · Articles 582 et suivants du Code de procédure civile",
-    "defShort": "Voie de recours extraordinaire permettant à un tiers, qui n'était ni partie ni représenté à l'instance, de faire rétracter ou réformer un jugement qui lui préjudicie.",
+    "term": "Péremption d'instance",
+    "subtitle": "Procédure civile · Articles 386 à 393 du code de procédure civile",
+    "defShort": "Extinction de l'instance, et non du droit d'agir, encourue lorsque les parties n'ont accompli aucune diligence pendant deux ans.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "La tierce opposition vise à faire rétracter ou réformer un jugement au profit de celui qui l'attaque. Elle est ouverte à toute personne qui y a intérêt, à la condition de n'avoir été ni partie ni représentée au jugement (art. 582 et 583 CPC)."
+        "body": "L'instance s'éteint par péremption lorsqu'aucune des parties n'accomplit de diligence pendant deux ans (art. 386 CPC). Elle sanctionne l'inertie des plaideurs et se distingue de la prescription : elle éteint la procédure en cours, pas le droit lui-même."
       },
       {
         "h": "Fondement",
-        "body": "Le jugement n'a en principe d'effet qu'entre les parties, mais il peut préjudicier à un tiers, par exemple en le privant d'un droit. La tierce opposition protège ce tiers contre une décision rendue sans lui."
+        "body": "Articles 386 et suivants du code de procédure civile. Le délai court à compter de la dernière diligence. Seules les diligences manifestant la volonté d'avancer l'affaire, et non de simples échanges de courtoisie, interrompent le délai ; en pratique, les juges apprécient leur caractère interruptif au cas par cas."
       },
       {
-        "h": "Cas visés",
-        "body": "Les créanciers et ayants cause d'une partie ne peuvent l'exercer, en principe, que pour fraude à leurs droits ou pour faire valoir des moyens qui leur sont propres. Elle est portée devant la juridiction qui a rendu le jugement attaqué, ou, à titre incident, devant celle saisie du litige où le jugement est invoqué."
+        "h": "Mécanisme",
+        "body": "La péremption n'opère pas de plein droit : elle doit être demandée par une partie, par voie d'exception avant tout autre moyen, ou constatée d'office par le juge (art. 388 CPC). Elle est invoquée par la partie qui y a intérêt et ne peut l'être si la partie adverse a accompli une diligence avant la demande."
       },
       {
         "h": "Portée",
-        "body": "Le délai de droit commun est de trente ans à compter du jugement, sauf disposition contraire (art. 586). Le jugement rendu sur tierce opposition ne rétracte ou ne réforme le jugement attaqué que sur les chefs préjudiciables au tiers opposant : la décision reste intacte entre les parties pour le surplus."
+        "body": "Elle éteint l'instance sans dessaisir la juridiction de l'action : le demandeur peut, sauf prescription acquise, saisir de nouveau le juge. Mais l'interruption de la prescription attachée à la demande en justice est alors réputée non avenue (art. 2243 du code civil), ce qui rend l'effet de la péremption potentiellement définitif."
       }
     ],
-    "seeAlso": "Voir aussi — opposition (art. 571) · appel-nullité · recours en révision (art. 593) · autorité relative de chose jugée (art. 1355 C. civ.)"
+    "seeAlso": "Voir aussi — désistement d'instance (art. 394 CPC) · caducité de la citation · interruption de la prescription (art. 2241 et 2243 C. civ.)"
   },
-  "date": "2026-10-20",
-  "dateShort": "20 oct.",
-  "slot": "midi",
+  "date": "2026-10-21",
+  "dateShort": "21 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 53,
-    "title": "La matière noire révélée par la lumière déviée",
-    "subtitle": "Une masse invisible se détecte aussi à la façon dont elle courbe la lumière des astres situés derrière elle",
+    "n": 54,
+    "title": "L'amas du Boulet : la masse invisible séparée de la matière visible",
+    "subtitle": "Une collision d'amas de galaxies où la masse mesurée ne se trouve pas là où est la matière visible",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Une autre manière de peser",
-        "body": "Les leçons précédentes ont montré que l'on pèse un astre par l'orbite de ses voisins (jour 51) et que les galaxies tournent trop vite pour la seule masse visible (jour 52). Il existe un second moyen, indépendant du premier : toute masse dévie la lumière qui passe près d'elle (jour 38). La déviation dépend de la masse totale, qu'elle brille ou non."
+        "h": "Une collision entre deux amas",
+        "body": "Un amas de galaxies est un ensemble de centaines ou de milliers de galaxies liées par la gravité (jour 8), baignant dans un gaz très chaud. L'amas du Boulet est en réalité deux amas qui se sont traversés. Pendant la collision, les galaxies, très espacées, ont presque toutes poursuivi leur route sans se heurter. Le gaz, lui, a été freiné par frottement et est resté près du centre de la collision."
       },
       {
-        "h": "Ce que montrent les amas de galaxies",
-        "body": "Un amas de galaxies agit comme une lentille gravitationnelle (jour 38) : il déforme en arcs l'image des galaxies lointaines placées derrière lui. En mesurant l'ampleur de ces déformations, les astronomes calculent la masse de l'amas. Résultat : elle dépasse largement celle de ses étoiles et de son gaz visibles, et le surplus est réparti d'une façon qui rappelle la matière noire (jour 25)."
+        "h": "Où se trouve la masse ?",
+        "body": "Le gaz chaud est de loin la principale part de la matière visible de l'amas : on le repère grâce à la lumière qu'il émet. Par la déviation de la lumière des galaxies situées derrière (jour 53), on mesure ensuite où se trouve réellement la masse. Résultat : elle suit les galaxies, de part et d'autre, et non le gaz resté au centre."
       },
       {
-        "h": "Pourquoi cela compte",
-        "body": "Deux méthodes différentes, l'une fondée sur le mouvement et l'autre sur la lumière, aboutissent à la même conclusion : il y a plus de masse que ce que l'on voit. Cette convergence est un argument plus solide que chacune des mesures prise isolément, sans pour autant dire ce qu'est cette masse."
+        "h": "Ce que cela suggère",
+        "body": "Si la masse manquante n'était qu'une erreur sur la règle de la gravité, elle devrait suivre la matière visible, donc le gaz. Or elle s'en est séparée. Cela soutient l'idée d'une matière noire (jour 25) qui traverse les collisions sans être freinée, à la différence du gaz. L'argument est fort, mais il ne dit pas de quoi cette matière est faite."
       }
     ],
     "keyTerms": [
       {
-        "term": "Lentille gravitationnelle faible",
-        "def": "Faible déformation des images de galaxies lointaines par une masse placée devant elles, qui permet de mesurer cette masse."
+        "term": "Amas de galaxies",
+        "def": "Ensemble de centaines ou de milliers de galaxies liées par la gravité et baignant dans un gaz très chaud."
       }
     ],
-    "recap": "La déviation de la lumière par les amas de galaxies confirme, par une méthode indépendante des mouvements, l'existence d'une masse que l'on ne voit pas.",
-    "next": "Demain — un cas où cette masse invisible semble séparée de la matière visible."
+    "recap": "Dans l'amas du Boulet, la masse mesurée par la déviation de la lumière est séparée du gaz visible, ce qui plaide pour une matière noire distincte de la matière ordinaire.",
+    "next": "Demain — ce que l'on sait, et ce que l'on ignore, de la nature de la matière noire."
   }
 }

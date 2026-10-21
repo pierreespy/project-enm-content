@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Moyen relevé d'office sans débat contradictoire : la Cour de cassation casse deux arrêts d'appel rendus les 1er et 8 octobre 2026",
+    "dek": "Dans deux arrêts de la deuxième chambre civile, la Cour de cassation sanctionne des juges d'appel qui ont fondé leur décision sur un moyen qu'ils avaient soulevé eux-mêmes, sans inviter les parties à présenter leurs observations. Un rappel pratique pour la rédaction des conclusions et le contrôle du respect du contradictoire.",
+    "source": "Cass. 2e civ., 1er oct. et 8 oct. 2026 (commentaire Kohen Avocats)",
+    "url": "https://kohenavocats.fr/2026/10/20/juge-appel-moyen-releve-office-note-delibere-cassation-octobre-2026/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Absence de DUERP : une amende administrative pouvant atteindre 4 000 euros par salarié depuis le 27 juin 2026",
+      "summary": "Issue de la loi n° 2026-534 du 25 juin 2026 et codifiée à l'article L. 8115-1, 6° du code du travail, la sanction est prononcée par la DREETS sur rapport de l'inspecteur du travail, sans saisine du juge, et ne peut se cumuler avec des poursuites pénales.",
+      "source": "Loi n° 2026-534 du 25 juin 2026 · Legisocial",
+      "url": "https://www.legisocial.fr/actualites-sociales/8010-absence-duerp-mise-jour-amende-administrative-4-000-salarie-desormais-applicable.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Licenciement économique et Covid : une baisse du chiffre d'affaires sur la période légale ne suffit pas, le juge doit en apprécier l'importance",
+      "summary": "Dans des arrêts du 7 octobre 2026, la chambre sociale juge que, même lorsque la baisse de l'indicateur économique est établie sur la durée fixée par la loi, le juge doit vérifier qu'elle est suffisamment significative pour justifier le licenciement.",
+      "source": "Cass. soc., 7 oct. 2026, nos 25-10.107, 25-10.108, 25-11.252 et 25-11.253",
+      "url": "https://kohenavocats.com/licenciement-economique-covid-baisse-chiffre-affaires-difficultes-durables-cassation-7-octobre-2026/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Commande publique : l'offre anormalement basse et la charge de la démonstration pesant sur l'acheteur",
+      "summary": "Un article publié le 20 octobre 2026 par le Village de la justice revient sur la manière dont l'acheteur public doit démontrer le caractère anormalement bas d'une offre avant de l'écarter.",
+      "source": "Village de la justice, 20 oct. 2026",
+      "url": "https://www.village-justice.com/articles/blog-juristes-avocats-notaires,361",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "21 octobre 1879 : Edison obtient à Menlo Park un premier essai concluant de lampe à filament de carbone",
+      "summary": "L'inventeur américain fait briller plusieurs heures une lampe à filament carbonisé ; le brevet sera déposé en janvier 1880 et la présentation publique aura lieu le 31 décembre 1879.",
+      "source": "Les As de l'info · éphéméride du 21 octobre",
+      "url": "https://lesasdelinfo.com/ephemerides/85/21-octobre-1879-invention-de-l-ampoule-electrique",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Interdictions commerciales de stade : toujours pas de plafond de durée ni de procédure contradictoire",
+      "summary": "Des amendements déposés en juin 2026 (plafond de neuf ou six mois) ont été rejetés ou non soutenus, de sorte que ces mesures, pouvant implicitement atteindre dix-huit mois, restent prononcées sans contradictoire préalable ni véritable voie de recours.",
+      "source": "Assemblée nationale, amendement CL218, projet de loi n° 2850",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2850/CION_LOIS/CL218.pdf",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Météo : un risque de pluies orageuses prolongé sur les régions méditerranéennes jusqu'à ce mercredi 21 octobre",
+      "summary": "Après les épisodes de vigilance orange de lundi et mardi dans le Sud-Est, certaines prévisions maintiennent des pluies orageuses jusqu'à mercredi ; la vigilance officielle est à consulter sur vigilance.meteofrance.fr.",
+      "source": "Météo Paris · prévisions",
+      "url": "https://www.meteo-paris.com/actualites/pluies-intenses-plusieurs-regions-menacees-ce-week-end-et-lundi",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Péremption d'instance",
+    "subtitle": "Procédure civile · Articles 386 à 393 du code de procédure civile",
+    "defShort": "Extinction de l'instance, et non du droit d'agir, encourue lorsque les parties n'ont accompli aucune diligence pendant deux ans.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "L'instance s'éteint par péremption lorsqu'aucune des parties n'accomplit de diligence pendant deux ans (art. 386 CPC). Elle sanctionne l'inertie des plaideurs et se distingue de la prescription : elle éteint la procédure en cours, pas le droit lui-même."
+      },
+      {
+        "h": "Fondement",
+        "body": "Articles 386 et suivants du code de procédure civile. Le délai court à compter de la dernière diligence. Seules les diligences manifestant la volonté d'avancer l'affaire, et non de simples échanges de courtoisie, interrompent le délai ; en pratique, les juges apprécient leur caractère interruptif au cas par cas."
+      },
+      {
+        "h": "Mécanisme",
+        "body": "La péremption n'opère pas de plein droit : elle doit être demandée par une partie, par voie d'exception avant tout autre moyen, ou constatée d'office par le juge (art. 388 CPC). Elle est invoquée par la partie qui y a intérêt et ne peut l'être si la partie adverse a accompli une diligence avant la demande."
+      },
+      {
+        "h": "Portée",
+        "body": "Elle éteint l'instance sans dessaisir la juridiction de l'action : le demandeur peut, sauf prescription acquise, saisir de nouveau le juge. Mais l'interruption de la prescription attachée à la demande en justice est alors réputée non avenue (art. 2243 du code civil), ce qui rend l'effet de la péremption potentiellement définitif."
+      }
+    ],
+    "seeAlso": "Voir aussi — désistement d'instance (art. 394 CPC) · caducité de la citation · interruption de la prescription (art. 2241 et 2243 C. civ.)"
+  },
+  "date": "2026-10-21",
+  "dateShort": "21 oct.",
+  "slot": "matin"
+}
