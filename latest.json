@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Moyen relevé d'office sans débat contradictoire : la Cour de cassation casse deux arrêts d'appel rendus les 1er et 8 octobre 2026",
-    "dek": "Dans deux arrêts de la deuxième chambre civile, la Cour de cassation sanctionne des juges d'appel qui ont fondé leur décision sur un moyen qu'ils avaient soulevé eux-mêmes, sans inviter les parties à présenter leurs observations. Un rappel pratique pour la rédaction des conclusions et le contrôle du respect du contradictoire.",
-    "source": "Cass. 2e civ., 1er oct. et 8 oct. 2026 (commentaire Kohen Avocats)",
-    "url": "https://kohenavocats.fr/2026/10/20/juge-appel-moyen-releve-office-note-delibere-cassation-octobre-2026/"
+    "title": "Fraude bancaire : la CJUE juge qu'une négligence grave, même établie, ne dispense pas la banque de rembourser immédiatement son client",
+    "dek": "Dans l'affaire C-70/25, rendue le 15 octobre 2026, la Cour de justice de l'Union européenne retient que la banque doit d'abord rembourser l'opération non autorisée, sauf soupçons sérieux de fraude du client qu'elle communique par écrit à l'autorité nationale compétente. La question de la négligence grave du client se règle ensuite, à ses risques.",
+    "source": "CJUE, 15 oct. 2026, aff. C-70/25 (commentaire Le Monde du Droit)",
+    "url": "https://www.lemondedudroit.fr/banque-finance/303-banque/106271-cjue-la-banque-doit-dans-un-premier-temps-rembourser-son-client-negligent.html"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Absence de DUERP : une amende administrative pouvant atteindre 4 000 euros par salarié depuis le 27 juin 2026",
-      "summary": "Issue de la loi n° 2026-534 du 25 juin 2026 et codifiée à l'article L. 8115-1, 6° du code du travail, la sanction est prononcée par la DREETS sur rapport de l'inspecteur du travail, sans saisine du juge, et ne peut se cumuler avec des poursuites pénales.",
-      "source": "Loi n° 2026-534 du 25 juin 2026 · Legisocial",
-      "url": "https://www.legisocial.fr/actualites-sociales/8010-absence-duerp-mise-jour-amende-administrative-4-000-salarie-desormais-applicable.html",
+      "title": "Crédit à la consommation : les nouvelles obligations du décret n° 2026-105 s'appliqueront à compter du 20 novembre 2026",
+      "summary": "Le décret du 19 février 2026, précisé par un décret n° 2026-643 du 21 juillet 2026, impose notamment une évaluation systématique de la solvabilité, la consultation du FICP avant tout nouveau dossier et l'affichage du coût réel du crédit, y compris pour les paiements fractionnés.",
+      "source": "Décret n° 2026-105 du 19 févr. 2026 et décret n° 2026-643 du 21 juill. 2026 · Lexis Veille",
+      "url": "https://lexisveille.fr/credit-la-consommation-date-dentree-en-vigueur-des-dispositions-relevant-du-domaine-reglementaire",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Licenciement économique et Covid : une baisse du chiffre d'affaires sur la période légale ne suffit pas, le juge doit en apprécier l'importance",
-      "summary": "Dans des arrêts du 7 octobre 2026, la chambre sociale juge que, même lorsque la baisse de l'indicateur économique est établie sur la durée fixée par la loi, le juge doit vérifier qu'elle est suffisamment significative pour justifier le licenciement.",
-      "source": "Cass. soc., 7 oct. 2026, nos 25-10.107, 25-10.108, 25-11.252 et 25-11.253",
-      "url": "https://kohenavocats.com/licenciement-economique-covid-baisse-chiffre-affaires-difficultes-durables-cassation-7-octobre-2026/",
+      "title": "Opérations de paiement non autorisées : un arrêt de la Cour de cassation du 8 octobre 2026 à lire avec la décision de la CJUE",
+      "summary": "L'arrêt n° 25-17.510 (FS-B), rendu une semaine avant la décision européenne, est commenté conjointement avec elle comme retirant aux banques un argument de défense qu'elles invoquaient couramment.",
+      "source": "Cass., 8 oct. 2026, n° 25-17.510, FS-B · Village de la justice, 21 oct. 2026",
+      "url": "https://www.village-justice.com/articles/fraude-bancaire-huit-jours-cjue-cour-cassation-ont-retire-aux-banques-leur,59573.html",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Commande publique : l'offre anormalement basse et la charge de la démonstration pesant sur l'acheteur",
-      "summary": "Un article publié le 20 octobre 2026 par le Village de la justice revient sur la manière dont l'acheteur public doit démontrer le caractère anormalement bas d'une offre avant de l'écarter.",
-      "source": "Village de la justice, 20 oct. 2026",
-      "url": "https://www.village-justice.com/articles/blog-juristes-avocats-notaires,361",
+      "title": "Chronique de jurisprudence de droit bancaire : la preuve de l'authentification, ligne de partage des responsabilités",
+      "summary": "La Gazette du Palais fait le point sur une jurisprudence qui exige de la banque qu'elle établisse que l'opération a été authentifiée, enregistrée et comptabilisée, sans déficience technique, avant d'opposer la faute du client.",
+      "source": "Gazette du Palais, 2026, n° 28, chronique de jurisprudence de droit bancaire",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n28/chronique-de-jurisprudence-de-droit-bancaire-GPL494a3/PDF-revue",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "21 octobre 1879 : Edison obtient à Menlo Park un premier essai concluant de lampe à filament de carbone",
-      "summary": "L'inventeur américain fait briller plusieurs heures une lampe à filament carbonisé ; le brevet sera déposé en janvier 1880 et la présentation publique aura lieu le 31 décembre 1879.",
-      "source": "Les As de l'info · éphéméride du 21 octobre",
-      "url": "https://lesasdelinfo.com/ephemerides/85/21-octobre-1879-invention-de-l-ampoule-electrique",
+      "title": "21 octobre 1945 : les Françaises votent pour la première fois, lors de l'élection de la seconde Assemblée constituante",
+      "summary": "Le même jour, les électeurs répondent par référendum à deux questions sur le rôle constituant de l'Assemblée ; la première obtient 96,4 % de « oui » en métropole, avec une participation de 79,8 %.",
+      "source": "Wikipedia · 1945 French legislative election",
+      "url": "https://en.wikipedia.org/wiki/1945_French_legislative_election",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Interdictions commerciales de stade : toujours pas de plafond de durée ni de procédure contradictoire",
-      "summary": "Des amendements déposés en juin 2026 (plafond de neuf ou six mois) ont été rejetés ou non soutenus, de sorte que ces mesures, pouvant implicitement atteindre dix-huit mois, restent prononcées sans contradictoire préalable ni véritable voie de recours.",
-      "source": "Assemblée nationale, amendement CL218, projet de loi n° 2850",
-      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2850/CION_LOIS/CL218.pdf",
+      "title": "Tribunal de Paris : les comparutions immédiates sous tension après l'afflux de prévenus interpellés le 17 octobre",
+      "summary": "Des avocats en robe ont protesté devant magistrats et procureurs, dénonçant selon StreetPress une justice qui ne doit pas devenir « le bras armé de la répression », alors que les audiences se multiplient.",
+      "source": "Citoyens.com et StreetPress, 21 oct. 2026",
+      "url": "https://citoyens.com/2026/le-tribunal-de-paris-sous-tension-apres-lafflux-de-prevenus-interpelles-le-17-octobre,21-10-2026.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Météo : un risque de pluies orageuses prolongé sur les régions méditerranéennes jusqu'à ce mercredi 21 octobre",
-      "summary": "Après les épisodes de vigilance orange de lundi et mardi dans le Sud-Est, certaines prévisions maintiennent des pluies orageuses jusqu'à mercredi ; la vigilance officielle est à consulter sur vigilance.meteofrance.fr.",
-      "source": "Météo Paris · prévisions",
-      "url": "https://www.meteo-paris.com/actualites/pluies-intenses-plusieurs-regions-menacees-ce-week-end-et-lundi",
+      "title": "Vigilance orange pluie-inondation dans le Var et les Alpes-Maritimes ce mercredi",
+      "summary": "Selon Météo-France, le système pluvio-orageux évolue très lentement et peut donner environ 80 mm en moins de trois heures, la vigilance orange étant attendue surtout en début de nuit avant un retour au jaune.",
+      "source": "CNews d'après Météo-France, 20 oct. 2026",
+      "url": "https://www.cnews.fr/france/2026-10-20/pluie-inondation-voici-les-2-departements-places-en-vigilance-orange-ce-mercredi",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Péremption d'instance",
-    "subtitle": "Procédure civile · Articles 386 à 393 du code de procédure civile",
-    "defShort": "Extinction de l'instance, et non du droit d'agir, encourue lorsque les parties n'ont accompli aucune diligence pendant deux ans.",
+    "term": "Obligation in solidum",
+    "subtitle": "Droit civil · Responsabilité et obligations plurales",
+    "defShort": "Situation où plusieurs débiteurs sont chacun tenus de la totalité de la même dette, sans qu'existe entre eux de lien de solidarité : ils sont débiteurs de la même dette, mais pour des causes distinctes.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'instance s'éteint par péremption lorsqu'aucune des parties n'accomplit de diligence pendant deux ans (art. 386 CPC). Elle sanctionne l'inertie des plaideurs et se distingue de la prescription : elle éteint la procédure en cours, pas le droit lui-même."
+        "body": "Quand plusieurs fautes distinctes ont concouru à un même dommage, chaque responsable peut être condamné à réparer l'intégralité du préjudice envers la victime. C'est le mécanisme de l'obligation in solidum, que l'on distingue de la solidarité, laquelle suppose un texte ou une convention."
       },
       {
-        "h": "Fondement",
-        "body": "Articles 386 et suivants du code de procédure civile. Le délai court à compter de la dernière diligence. Seules les diligences manifestant la volonté d'avancer l'affaire, et non de simples échanges de courtoisie, interrompent le délai ; en pratique, les juges apprécient leur caractère interruptif au cas par cas."
+        "h": "Différence avec la solidarité",
+        "body": "La solidarité passive est un lien de représentation mutuelle : en principe, la mise en demeure ou l'interruption de la prescription à l'égard d'un codébiteur vaut pour les autres. L'obligation in solidum n'a pas cet effet de représentation : chaque débiteur a une dette autonome, de sorte que les actes de procédure et les causes d'extinction ne se propagent pas de l'un à l'autre, sauf exception."
       },
       {
-        "h": "Mécanisme",
-        "body": "La péremption n'a pas lieu de plein droit : elle doit être demandée ou opposée par une partie, à peine d'irrecevabilité, avant tout autre moyen (art. 388 CPC). Le juge ne la relève pas d'office. Elle suppose donc une initiative du défendeur."
+        "h": "Contribution entre débiteurs",
+        "body": "Le débiteur qui a payé au-delà de sa part dispose d'un recours contre les autres, fondé sur la subrogation ou sur l'action personnelle. Le juge répartit alors la charge finale en fonction de la gravité des fautes, ou à parts égales à défaut de pouvoir les départager."
       },
       {
         "h": "Portée",
-        "body": "Elle éteint l'instance sans dessaisir la juridiction de l'action : le demandeur peut, sauf prescription acquise, saisir de nouveau le juge. Mais l'interruption de la prescription attachée à la demande en justice est alors réputée non avenue (art. 2243 du code civil), ce qui rend l'effet de la péremption potentiellement définitif."
+        "body": "Le mécanisme garantit la victime contre l'insolvabilité de l'un des responsables, sans exiger qu'elle prouve une part contributive de chacun. Il est omniprésent en responsabilité délictuelle et en matière de construction, où maître d'œuvre et entrepreneur sont fréquemment condamnés in solidum."
       }
     ],
-    "seeAlso": "Voir aussi — désistement d'instance (art. 394 CPC) · caducité de la citation · interruption de la prescription (art. 2241 et 2243 C. civ.)"
+    "seeAlso": "Voir aussi — solidarité passive · contribution à la dette · subrogation légale"
   },
   "date": "2026-10-21",
   "dateShort": "21 oct.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 54,
     "title": "L'amas du Boulet : la masse invisible séparée de la matière visible",

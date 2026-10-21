@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-21",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-21",
+      "slot": "midi",
+      "file": "editions/2026-10-21-midi.json",
+      "essentiel": "Fraude bancaire : la CJUE juge qu'une négligence grave, même établie, ne dispense pas la banque de rembourser immédiatement son client",
+      "term": "Obligation in solidum",
+      "rubriques": [
+        "Crédit à la consommation : les nouvelles obligations du décret n° 2026-105 s'appliqueront à compter du 20 novembre 2026",
+        "Opérations de paiement non autorisées : un arrêt de la Cour de cassation du 8 octobre 2026 à lire avec la décision de la CJUE",
+        "Chronique de jurisprudence de droit bancaire : la preuve de l'authentification, ligne de partage des responsabilités",
+        "21 octobre 1945 : les Françaises votent pour la première fois, lors de l'élection de la seconde Assemblée constituante",
+        "Tribunal de Paris : les comparutions immédiates sous tension après l'afflux de prévenus interpellés le 17 octobre",
+        "Vigilance orange pluie-inondation dans le Var et les Alpes-Maritimes ce mercredi"
+      ]
+    },
     {
       "date": "2026-10-21",
       "slot": "matin",
