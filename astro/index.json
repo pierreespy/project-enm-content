@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21",
-  "count": 54,
+  "updated": "2026-10-22",
+  "count": 55,
   "lessons": [
     {
       "n": 1,
@@ -465,6 +465,14 @@
       "title": "L'amas du Boulet : la masse invisible séparée de la matière visible",
       "terms": [
         "Amas de galaxies"
+      ]
+    },
+    {
+      "n": 55,
+      "file": "astro/lessons/055-la-nature-de-la-matiere-noire.json",
+      "title": "La matière noire : ce que l'on sait de sa nature, et ce que l'on ignore",
+      "terms": [
+        "Détection directe"
       ]
     }
   ]

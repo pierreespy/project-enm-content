@@ -1,0 +1,28 @@
+{
+  "n": 55,
+  "title": "La matière noire : ce que l'on sait de sa nature, et ce que l'on ignore",
+  "subtitle": "Ce que les observations imposent à la matière noire, sans dire de quoi elle est faite",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Ce que les observations imposent",
+      "body": "Les mesures des leçons précédentes (courbes de rotation, lentilles, amas du Boulet) convergent : il existe de la masse qui ne rayonne pas de lumière visible. Elles imposent aussi des traits précis à la matière noire (jour 25) : elle exerce la gravité, elle est bien plus abondante que la matière ordinaire, et elle traverse les collisions sans être freinée. En revanche, aucune de ces mesures ne dit de quelles particules ou de quels objets elle serait composée."
+    },
+    {
+      "h": "Des candidats écartés, d'autres non",
+      "body": "On a d'abord pensé à de la matière ordinaire trop sombre pour être vue, comme des étoiles éteintes ou des planètes errantes. Les relevés n'en trouvent pas assez pour expliquer les masses mesurées. L'hypothèse dominante est celle d'une particule encore jamais détectée, qui interagirait très peu avec la matière ordinaire. Des détecteurs enterrés profondément la cherchent, pour l'instant sans résultat concluant."
+    },
+    {
+      "h": "Une question ouverte",
+      "body": "Une autre piste modifierait la règle de la gravité elle-même, mais elle peine à rendre compte de l'amas du Boulet. L'état du savoir est donc celui d'une question ouverte (jour 34) : l'effet est mesuré avec solidité, sa cause reste une hypothèse. Dire « on ne sait pas » est ici un énoncé exact, pas un aveu d'échec."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Détection directe",
+      "def": "Tentative d'observer une particule de matière noire en repérant son très rare choc avec la matière d'un instrument."
+    }
+  ],
+  "recap": "Les observations établissent que la matière noire existe comme effet gravitationnel, mais sa nature reste une question ouverte.",
+  "next": "Demain — comment un astre se reconnaît à son rythme : les pulsars."
+}

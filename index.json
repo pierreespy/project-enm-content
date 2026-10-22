@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-21",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-10-22",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-22",
+      "slot": "matin",
+      "file": "editions/2026-10-22-matin.json",
+      "essentiel": "Belgique : la Cour de cassation rejette le pourvoi de Paolo Falzone, condamné à 27 ans, et écarte la demande de dessaisissement dans le procès Ullens",
+      "term": "Acquiescement à jugement",
+      "rubriques": [
+        "Concession de mines de Beauvoir (lithium, étain, tantale, niobium) : un décret du 20 octobre 2026 figure au sommaire du JO du 21 octobre",
+        "Harcèlement sexuel « d'ambiance » : la chambre sociale admet qu'un salarié en soit victime même si les propos visaient d'autres personnes",
+        "Harcèlement environnemental au travail : la convergence des chambres criminelle et sociale, 2024-2026",
+        "22 octobre 1797 : André-Jacques Garnerin réalise au-dessus du parc Monceau le premier saut en parachute enregistré",
+        "Procès de Cédric Jubillar : le renvoi au premier semestre 2027 après de nouveaux aveux, un cas d'école du renvoi d'assises",
+        "Vigilance météo : des cartes plus fines, par secteur, mises à jour au moins deux fois par jour depuis le 1er septembre 2026"
+      ]
+    },
     {
       "date": "2026-10-21",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "7 octobre 1571 : la bataille de Lépante, plus grand affrontement naval depuis l'Antiquité",
         "Après un verdict d'assises : l'appel dans les dix jours et les droits de la famille de la victime",
         "Prix Nobel de physique 2026 : Francis Halzen récompensé pour l'observatoire de neutrinos IceCube"
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "slot": "midi",
-      "file": "editions/2026-10-06-midi.json",
-      "essentiel": "Nullités en procédure pénale : à compter du 23 octobre, le délai pour les soulever passe de six à quatre mois",
-      "term": "Contra non valentem agere non currit praescriptio",
-      "rubriques": [
-        "Loi n° 2026-651 du 23 juillet 2026 sur la justice criminelle et le respect des victimes : un texte à entrées en vigueur échelonnées",
-        "Ourse Caramelles : l'affaire de la chasse en Ariège rejugée en appel à Toulouse",
-        "Le respect « à moindres frais » des victimes dans la loi du 23 juillet 2026 sur la justice criminelle",
-        "6 octobre 1927 : « Le Chanteur de jazz » sort à New York, premier long métrage parlant d'Hollywood",
-        "Grève du 6 octobre 2026 : retenue sur salaire et protection du gréviste, ce que dit le droit",
-        "Prix Nobel de physique 2026 : l'annonce du lauréat à Stockholm ce mardi"
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "slot": "matin",
-      "file": "editions/2026-10-06-matin.json",
-      "essentiel": "Accident ferroviaire de Denguin : la SNCF jugée à Pau douze ans après la collision entre un TER et un TGV",
-      "term": "Faute caractérisée",
-      "rubriques": [
-        "Décret n° 2026-924 du 2 octobre 2026 : le statut de collaborateur occasionnel du service public pour les médecins assurant la régulation de l'accès aux soins ambulatoires",
-        "Ordonnance de clôture et sursis à statuer : un sursis qui ne lève pas expressément la clôture laisse subsister l'irrecevabilité des conclusions",
-        "Perquisitions pénales sans recours et correspondance avocat-client : lecture critique des décisions QPC du Conseil constitutionnel",
-        "6 octobre 1973 : l'Égypte et la Syrie attaquent Israël le jour de Yom Kippour, début de la guerre du Kippour",
-        "Victime d'un accident de train : blessures involontaires, procès pénal et indemnisation",
-        "Prix Nobel de médecine 2026 : Karl Deisseroth, Peter Hegemann et Georg Nagel récompensés pour l'optogénétique"
       ]
     }
   ]

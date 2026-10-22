@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Belgique : la Cour de cassation rejette le pourvoi de Paolo Falzone, condamné à 27 ans, et écarte la demande de dessaisissement dans le procès Ullens",
+    "dek": "La Cour de cassation belge a rendu ses décisions le 21 octobre 2026 : la peine de 27 ans prononcée contre Paolo Falzone pour les faits de Strépy-Bracquenies devient définitive, et la récusation visant le président de la cour d'assises du Brabant wallon est rejetée, de sorte que le procès Ullens reprendra le 4 novembre avec les mêmes juges.",
+    "source": "L'Avenir, 21 oct. 2026 · Cass. belge",
+    "url": "https://www.lavenir.net/actu/belgique/2026/10/21/proces-ullens-et-falzone-la-cour-de-cassation-a-rendu-ses-decisions-KBYIHPTB3FC4VC4IH5FSZSV3JI/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Concession de mines de Beauvoir (lithium, étain, tantale, niobium) : un décret du 20 octobre 2026 figure au sommaire du JO du 21 octobre",
+      "summary": "Le décret n° 2026-969 du 20 octobre 2026 apparaît au sommaire du Journal officiel du 21 octobre ; il intéresse le projet de mine de lithium d'Imerys dans l'Allier, déjà reconnu d'intérêt national majeur en juillet (le détail du texte est à vérifier sur Légifrance).",
+      "source": "JORF n° 0246 du 21 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/21/0246",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Harcèlement sexuel « d'ambiance » : la chambre sociale admet qu'un salarié en soit victime même si les propos visaient d'autres personnes",
+      "summary": "Dans un arrêt du 28 mai 2026, la Cour de cassation casse la décision qui écartait le harcèlement faute de fait visant personnellement la salariée, alors que celle-ci avait été exposée à des comportements répétés dirigés contre ses collègues.",
+      "source": "Cass. soc., 28 mai 2026, n° 24-22.754",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-05/24-22-754-CC-28052026-24_22754",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Harcèlement environnemental au travail : la convergence des chambres criminelle et sociale, 2024-2026",
+      "summary": "Une étude du cabinet Kohen retrace comment les deux chambres de la Cour de cassation rapprochent leur appréhension du harcèlement subi par ricochet ou dans un climat collectif.",
+      "source": "Cabinet Kohen Avocats, étude",
+      "url": "https://kohenavocats.com/harcelement-environnemental-travail-convergence-chambres-criminelle-sociale-2024-2026/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "22 octobre 1797 : André-Jacques Garnerin réalise au-dessus du parc Monceau le premier saut en parachute enregistré",
+      "summary": "Parti d'un ballon à plusieurs centaines de mètres d'altitude, l'aéronaute français atterrit sain et sauf, ouvrant l'histoire du parachute moderne.",
+      "source": "Hérodote · almanach du 22 octobre",
+      "url": "https://www.herodote.net/almanach-jour-1022.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Procès de Cédric Jubillar : le renvoi au premier semestre 2027 après de nouveaux aveux, un cas d'école du renvoi d'assises",
+      "summary": "La présidente de la cour d'assises de la Haute-Garonne a renvoyé le procès prévu en septembre 2026 pour permettre la poursuite de l'enquête après les nouveaux aveux de l'accusé.",
+      "source": "Paris Match Belgique, 21 juill. 2026",
+      "url": "https://www.parismatch.be/actualites/monde/2026/07/21/france-le-proces-de-cedric-jubillar-prevu-en-septembre-renvoye-au-premier-semestre-2027-BCNYJMGRMFCG5C2KR4BZPAV6SQ/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Vigilance météo : des cartes plus fines, par secteur, mises à jour au moins deux fois par jour depuis le 1er septembre 2026",
+      "summary": "Les cartes de vigilance de Météo-France peuvent désormais distinguer des secteurs à risque au sein d'un même département et sont actualisées à 6 h et 16 h, ce qui change la lecture des alertes de ces derniers jours dans le Sud-Est.",
+      "source": "Service-Public.gouv.fr · Météo-France",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19058",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Acquiescement à jugement",
+    "subtitle": "Procédure civile · Articles 408 à 411 du code de procédure civile",
+    "defShort": "Acte par lequel une partie reconnaît le bien-fondé d'un jugement et renonce, de ce fait, aux voies de recours qui lui étaient ouvertes ; il peut être exprès ou implicite, total ou partiel.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "L'acquiescement à jugement est la soumission volontaire d'une partie à la décision rendue contre elle. À ne pas confondre avec l'acquiescement à la demande (reconnaissance des prétentions adverses en cours d'instance) : ici, la décision existe déjà et c'est la voie de recours qui se ferme."
+      },
+      {
+        "h": "Fondement",
+        "body": "Il est régi par les articles 408 et suivants du code de procédure civile. Il emporte soumission aux chefs du jugement et renonciation aux voies de recours, et peut être total ou partiel, c'est-à-dire limité à certains chefs seulement."
+      },
+      {
+        "h": "Cas visés",
+        "body": "L'acquiescement peut être exprès, par une déclaration claire, ou implicite, déduit d'un comportement. Le piège classique est l'exécution : celle d'un jugement exécutoire à titre provisoire ne vaut pas acquiescement, tandis que l'exécution sans réserve d'un jugement qui ne l'est pas peut le caractériser. Le juge exige que la volonté de se soumettre soit certaine et non équivoque, et l'acquiescement n'est pas admis dans les matières où les parties ne disposent pas de leurs droits."
+      },
+      {
+        "h": "Portée",
+        "body": "Une fois l'acquiescement établi, l'appel (ou le pourvoi) est irrecevable, fin de non-recevoir qui peut être soulevée par la partie adverse. En pratique, tout paiement ou exécution doit donc être accompagné de réserves expresses lorsque le client entend conserver son droit d'appel."
+      }
+    ],
+    "seeAlso": "Voir aussi — désistement d'appel · fin de non-recevoir · exécution provisoire · acquiescement à la demande"
+  },
+  "date": "2026-10-22",
+  "dateShort": "22 oct.",
+  "slot": "matin"
+}
