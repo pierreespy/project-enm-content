@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Prisons : à la veille des élections professionnelles, FO Justice alerte sur une densité de 176,1 % dans les maisons d'arrêt",
+    "dek": "Dans sa déclaration liminaire au comité social d'administration de l'administration pénitentiaire du 22 octobre 2026, le syndicat FO Justice affirme que la France comptait 90 900 personnes détenues au 1er octobre pour 63 348 places opérationnelles, soit un taux d'occupation des maisons d'arrêt de 176,1 %. Ces chiffres sont ceux du syndicat : ils restent à rapprocher de la statistique mensuelle officielle du ministère de la Justice.",
+    "source": "FO Justice, déclaration liminaire CSA-DGAP, 22 oct. 2026",
+    "url": "https://fojustice.fr/web/csa-dgap-du-22-octobre-2026-declaration-liminaire/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Établissements et services sociaux et médico-sociaux expérimentaux : une loi du 21 octobre 2026 assouplit la procédure d'autorisation",
+      "summary": "Le Journal officiel du 22 octobre publie la loi n° 2026-975 du 21 octobre 2026, qui modifie l'article L. 313-7 du code de l'action sociale et des familles ; selon le texte examiné au Parlement, l'autorisation à titre expérimental pourrait être renouvelée sur évaluation positive, dans la limite de dix ans, avant un passage au régime d'autorisation de droit commun (à vérifier sur le texte promulgué).",
+      "source": "JORF n° 0247 du 22 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/22/0247",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Chambre sociale : dix-sept pourvois joints rejetés par un seul arrêt contre une décision de la cour d'appel de Paris",
+      "summary": "L'arrêt du 15 avril 2026 (n° 24-21.678 et seize autres) illustre la technique de la jonction, la Cour de cassation statuant en une fois sur des pourvois dirigés contre des arrêts parisiens de même série ; la motivation est à lire dans l'arrêt.",
+      "source": "Cass. soc., 15 avr. 2026, n° 24-21.678",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-04/24-21-678-CC-15042026-24_21678",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Vers une forme de régulation carcérale",
+      "summary": "La Gazette du Palais (n° 17 de 2026) examine les pistes de régulation de la population pénale, au moment où le garde des Sceaux défend un plafond d'occupation par établissement.",
+      "source": "Gazette du Palais, 2026, n° 17",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n17/vers-une-forme-de-regulation-carcerale-GPL490x5",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "22 octobre 1938 : Chester Carlson réalise à Astoria la première copie xérographique",
+      "summary": "L'inventeur américain reproduit sur papier la mention « 10-22-38 Astoria », première image obtenue par le procédé électrostatique qui donnera naissance à la photocopieuse.",
+      "source": "Wikipédia · Chester Carlson",
+      "url": "https://fr.wikipedia.org/wiki/Chester_Carlson",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Élections de personnels : un arrêté du 22 octobre fixe les modalités du vote électronique par internet",
+      "summary": "Le sommaire du Journal officiel du jour comprend un arrêté relatif à l'organisation du vote électronique pour certaines élections professionnelles, utile aux administrations et organisations syndicales à l'approche des scrutins.",
+      "source": "JORF n° 0247 du 22 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/22/0247",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Sébastien Lecornu reçoit les partis politiques, en présence de Gérald Darmanin et de Laurent Nuñez",
+      "summary": "Le Premier ministre mène ce jeudi une série d'échanges avec les formations politiques, en présence du garde des Sceaux et du ministre de l'Intérieur.",
+      "source": "TRT Français, Les infos du jour, 22 oct. 2026",
+      "url": "https://www.trtfrancais.com/audio/f09efcba3f70",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Recours en révision",
+    "subtitle": "Procédure civile · Articles 593 à 603 du code de procédure civile",
+    "defShort": "Voie de recours extraordinaire qui tend à faire rétracter une décision passée en force de chose jugée, pour que l'affaire soit de nouveau jugée en fait et en droit, mais seulement dans quatre cas limitativement énumérés.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Le recours en révision remet en cause une décision définitive, que les voies de recours ordinaires ne permettent plus d'attaquer. Il ne vise pas à corriger une erreur de droit : il sanctionne une décision obtenue sur une base faussée. Il est porté devant la juridiction qui a rendu la décision attaquée."
+      },
+      {
+        "h": "Fondement",
+        "body": "L'article 593 du code de procédure civile en donne l'objet ; l'article 595 énumère les causes d'ouverture : fraude de la partie qui a gagné, pièces décisives recouvrées après coup parce qu'une autre partie les retenait, décision fondée sur des pièces reconnues ou déclarées fausses depuis, ou sur des attestations, témoignages ou serments judiciairement déclarés faux."
+      },
+      {
+        "h": "Délai et effets",
+        "body": "Le recours doit être formé dans un délai de deux mois à compter du jour où la partie a eu connaissance de la cause de révision (art. 596). Si le recours est accueilli, la décision est rétractée et l'affaire rejugée ; il est sans effet suspensif de l'exécution, sauf décision contraire du juge."
+      },
+      {
+        "h": "Ne pas confondre",
+        "body": "La tierce opposition est ouverte à qui n'était pas partie au jugement ; la révision, à ceux qui l'étaient. Le pourvoi en cassation critique le droit, la révision, les faits ayant vicié la décision. En matière pénale, la révision d'une condamnation relève d'un régime distinct (art. 622 et s. du code de procédure pénale)."
+      }
+    ],
+    "seeAlso": "Voir aussi — tierce opposition (art. 582) · fraude paulienne · recours en rétractation · révision en matière pénale (art. 622 CPP)"
+  },
+  "date": "2026-10-22",
+  "dateShort": "22 oct.",
+  "slot": "midi"
+}

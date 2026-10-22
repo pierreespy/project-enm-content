@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-22",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-22",
+      "slot": "midi",
+      "file": "editions/2026-10-22-midi.json",
+      "essentiel": "Prisons : à la veille des élections professionnelles, FO Justice alerte sur une densité de 176,1 % dans les maisons d'arrêt",
+      "term": "Recours en révision",
+      "rubriques": [
+        "Établissements et services sociaux et médico-sociaux expérimentaux : une loi du 21 octobre 2026 assouplit la procédure d'autorisation",
+        "Chambre sociale : dix-sept pourvois joints rejetés par un seul arrêt contre une décision de la cour d'appel de Paris",
+        "Vers une forme de régulation carcérale",
+        "22 octobre 1938 : Chester Carlson réalise à Astoria la première copie xérographique",
+        "Élections de personnels : un arrêté du 22 octobre fixe les modalités du vote électronique par internet",
+        "Sébastien Lecornu reçoit les partis politiques, en présence de Gérald Darmanin et de Laurent Nuñez"
+      ]
+    },
     {
       "date": "2026-10-22",
       "slot": "matin",
