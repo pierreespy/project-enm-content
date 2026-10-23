@@ -1,121 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Prisons : à la veille des élections professionnelles, FO Justice alerte sur une densité de 176,1 % dans les maisons d'arrêt",
-    "dek": "Dans sa déclaration liminaire au comité social d'administration de l'administration pénitentiaire du 22 octobre 2026, le syndicat FO Justice affirme que la France comptait 90 900 personnes détenues au 1er octobre pour 63 348 places opérationnelles, soit un taux d'occupation des maisons d'arrêt de 176,1 %. Ces chiffres sont ceux du syndicat : ils restent à rapprocher de la statistique mensuelle officielle du ministère de la Justice.",
-    "source": "FO Justice, déclaration liminaire CSA-DGAP, 22 oct. 2026",
-    "url": "https://fojustice.fr/web/csa-dgap-du-22-octobre-2026-declaration-liminaire/"
+    "title": "Créances commerciales incontestées : le décret du 20 octobre 2026 met en route la procédure simplifiée de recouvrement par commissaire de justice",
+    "dek": "Prévue par la loi du 23 avril 2026, la procédure permet à un commissaire de justice de recouvrer, sur demande du créancier, une créance certaine, liquide et exigible née entre commerçants, sans passer d'emblée par le juge ; le décret n° 2026-967, paru au JO du 21 octobre, en fixe les modalités pratiques.",
+    "source": "JORF n° 0246 du 21 oct. 2026 · Décret n° 2026-967 du 20 oct. 2026",
+    "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/21/0246"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Établissements et services sociaux et médico-sociaux expérimentaux : une loi du 21 octobre 2026 assouplit la procédure d'autorisation",
-      "summary": "Le Journal officiel du 22 octobre publie la loi n° 2026-975 du 21 octobre 2026, qui modifie l'article L. 313-7 du code de l'action sociale et des familles ; selon le texte examiné au Parlement, l'autorisation à titre expérimental pourrait être renouvelée sur évaluation positive, dans la limite de dix ans, avant un passage au régime d'autorisation de droit commun (à vérifier sur le texte promulgué).",
-      "source": "JORF n° 0247 du 22 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/22/0247",
+      "title": "Partage judiciaire : le décret du 18 octobre 2026 réorganise l'intervention du juge et du notaire",
+      "summary": "Le décret n° 2026-964, publié au JO du 20 octobre, réforme la procédure de partage judiciaire et de liquidation des indivisions et des intérêts patrimoniaux des époux, partenaires et concubins (le détail du texte est à vérifier sur Légifrance).",
+      "source": "JORF n° 0245 du 20 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/20/0245",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Chambre sociale : dix-sept pourvois joints rejetés par un seul arrêt contre une décision de la cour d'appel de Paris",
-      "summary": "L'arrêt du 15 avril 2026 (n° 24-21.678 et seize autres) illustre la technique de la jonction, la Cour de cassation statuant en une fois sur des pourvois dirigés contre des arrêts parisiens de même série ; la motivation est à lire dans l'arrêt.",
-      "source": "Cass. soc., 15 avr. 2026, n° 24-21.678",
-      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-04/24-21-678-CC-15042026-24_21678",
+      "title": "Détention provisoire : huis clos ou audience publique devant la chambre de l'instruction, un arrêt de la chambre criminelle du 20 octobre 2026",
+      "summary": "La chambre criminelle valide, dans une affaire comportant des charges de livraison d'informations à une puissance étrangère, un débat tenu à huis clos devant la chambre de l'instruction (analyse à confirmer sur le texte de l'arrêt).",
+      "source": "Cass. crim., 20 oct. 2026, n° 26-85.107",
+      "url": "https://kohenavocats.com/detention-provisoire-huis-clos-publicite-debats-incarceration-4-jours-arrets-octobre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Vers une forme de régulation carcérale",
-      "summary": "La Gazette du Palais (n° 17 de 2026) examine les pistes de régulation de la population pénale, au moment où le garde des Sceaux défend un plafond d'occupation par établissement.",
-      "source": "Gazette du Palais, 2026, n° 17",
-      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n17/vers-une-forme-de-regulation-carcerale-GPL490x5",
+      "title": "Motivation de la détention provisoire et contrôle de proportionnalité : la ligne de la chambre criminelle, 2023-2026",
+      "summary": "Une étude du cabinet Kohen rassemble les arrêts récents exigeant de la chambre de l'instruction une motivation concrète de la nécessité du maintien en détention et une réponse aux articulations essentielles des mémoires.",
+      "source": "Cabinet Kohen Avocats, étude",
+      "url": "https://kohenavocats.com/motivation-detention-provisoire-controle-proportionnalite-chambre-criminelle-2023-2026/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "22 octobre 1938 : Chester Carlson réalise à Astoria la première copie xérographique",
-      "summary": "L'inventeur américain reproduit sur papier la mention « 10-22-38 Astoria », première image obtenue par le procédé électrostatique qui donnera naissance à la photocopieuse.",
-      "source": "Wikipédia · Chester Carlson",
-      "url": "https://fr.wikipedia.org/wiki/Chester_Carlson",
+      "title": "23 octobre 1873 : le comte de Chambord rejette le drapeau tricolore et ruine les espoirs des monarchistes",
+      "summary": "En refusant de renoncer au drapeau blanc, le prétendant au trône ferme la voie à une restauration monarchique et prépare, sans le vouloir, l'installation durable de la République.",
+      "source": "Hérodote, Ça s'est passé un 23 octobre",
+      "url": "https://www.herodote.net/almanach-jour-1023.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Élections de personnels : un arrêté du 22 octobre fixe les modalités du vote électronique par internet",
-      "summary": "Le sommaire du Journal officiel du jour comprend un arrêté relatif à l'organisation du vote électronique pour certaines élections professionnelles, utile aux administrations et organisations syndicales à l'approche des scrutins.",
-      "source": "JORF n° 0247 du 22 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/22/0247",
+      "title": "Réforme du partage judiciaire : ce que prévoyait le projet soumis au CNB, avec un ministère d'avocat à tous les stades",
+      "summary": "Le CNB décrivait un projet de procédure unique, sans phase amiable préalable obligatoire, imposant l'avocat y compris devant le notaire commis, avec une entrée en vigueur envisagée au 1er janvier 2027 (à rapprocher du décret définitif).",
+      "source": "Conseil national des barreaux",
+      "url": "https://cnb.avocat.fr/actionsinfluence/actualites/partage-judiciaire-une-proposition-de-reforme-pour-simplifier-et-securiser-la-procedure-dans-l-interet-des-justiciables",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Sébastien Lecornu reçoit les partis politiques, en présence de Gérald Darmanin et de Laurent Nuñez",
-      "summary": "Le Premier ministre mène ce jeudi une série d'échanges avec les formations politiques, en présence du garde des Sceaux et du ministre de l'Intérieur.",
-      "source": "TRT Français, Les infos du jour, 22 oct. 2026",
-      "url": "https://www.trtfrancais.com/audio/f09efcba3f70",
+      "title": "Radio : l'Arcom abroge des autorisations par une décision du 14 octobre 2026 publiée au Journal officiel du 22 octobre",
+      "summary": "La décision n° 2026-532 de l'Autorité de régulation de la communication audiovisuelle et numérique figure au sommaire du JO du 22 octobre.",
+      "source": "JORF n° 0247 du 22 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/22/0247",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Recours en révision",
-    "subtitle": "Procédure civile · Articles 593 à 603 du code de procédure civile",
-    "defShort": "Voie de recours extraordinaire qui tend à faire rétracter une décision passée en force de chose jugée, pour que l'affaire soit de nouveau jugée en fait et en droit, mais seulement dans quatre cas limitativement énumérés.",
+    "term": "Rapport en moins prenant",
+    "subtitle": "Droit des successions · Articles 843 et suivants du Code civil",
+    "defShort": "Mode de rapport d'une libéralité à la succession : le gratifié ne restitue pas le bien lui-même, mais en impute la valeur sur sa part, qui s'en trouve diminuée d'autant.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Le recours en révision remet en cause une décision définitive, que les voies de recours ordinaires ne permettent plus d'attaquer. Il ne vise pas à corriger une erreur de droit : il sanctionne une décision obtenue sur une base faussée. Il est porté devant la juridiction qui a rendu la décision attaquée."
+        "body": "Lorsqu'un héritier a reçu une libéralité rapportable de son vivant, il doit en tenir compte au partage. Le rapport en moins prenant consiste à prélever, sur la masse à partager, une valeur égale à celle du bien donné, avant que l'héritier ne reçoive sa part : il est ainsi « moins prenant » d'autant. Il se distingue du rapport en nature, où le bien est effectivement remis dans la masse."
       },
       {
         "h": "Fondement",
-        "body": "L'article 593 du code de procédure civile en donne l'objet ; l'article 595 énumère les causes d'ouverture : fraude de la partie qui a gagné, pièces décisives recouvrées après coup parce qu'une autre partie les retenait, décision fondée sur des pièces reconnues ou déclarées fausses depuis, ou sur des attestations, témoignages ou serments judiciairement déclarés faux."
+        "body": "Les articles 858 et suivants du Code civil, dans leur rédaction issue de la loi du 23 juin 2006, font du rapport en valeur la règle : le rapport se fait en moins prenant, le rapport en nature n'étant plus qu'une exception. Le texte vise à protéger l'égalité entre héritiers tout en respectant la stabilité des dons consentis."
       },
       {
-        "h": "Délai et effets",
-        "body": "Le recours doit être formé dans un délai de deux mois à compter du jour où la partie a eu connaissance de la cause de révision (art. 596). Si le recours est accueilli, la décision est rétractée et l'affaire rejugée ; il est sans effet suspensif de l'exécution, sauf décision contraire du juge."
+        "h": "Valeur retenue",
+        "body": "Le rapport est dû de la valeur du bien à l'époque du partage, d'après son état au jour de la donation. Si le bien a été aliéné avant le partage, c'est la valeur au jour de l'aliénation qui est retenue, et, si un nouveau bien a été subrogé, la valeur de ce dernier au jour du partage. La valeur se calcule donc sur deux dates distinctes : l'état du bien et le moment de l'évaluation."
       },
       {
-        "h": "Ne pas confondre",
-        "body": "La tierce opposition est ouverte à qui n'était pas partie au jugement ; la révision, à ceux qui l'étaient. Le pourvoi en cassation critique le droit, la révision, les faits ayant vicié la décision. En matière pénale, la révision d'une condamnation relève d'un régime distinct (art. 622 et s. du code de procédure pénale)."
+        "h": "Portée",
+        "body": "Le mécanisme permet de ne pas recourir à une restitution matérielle, souvent impraticable. Il ne joue que si la donation est rapportable : le disposant peut la dispenser de rapport, auquel cas elle s'impute sur la quotité disponible. À ne pas confondre avec la réduction, qui sanctionne l'atteinte à la réserve héréditaire."
       }
     ],
-    "seeAlso": "Voir aussi — tierce opposition (art. 582) · fraude paulienne · recours en rétractation · révision en matière pénale (art. 622 CPP)"
+    "seeAlso": "Voir aussi — rapport en nature (art. 859) · dispense de rapport (art. 843) · réduction des libéralités excessives (art. 920) · indivision successorale"
   },
-  "date": "2026-10-22",
-  "dateShort": "22 oct.",
-  "slot": "midi",
+  "date": "2026-10-23",
+  "dateShort": "23 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 55,
-    "title": "La matière noire : ce que l'on sait de sa nature, et ce que l'on ignore",
-    "subtitle": "Ce que les observations imposent à la matière noire, sans dire de quoi elle est faite",
+    "n": 56,
+    "title": "Les pulsars : un astre qui se reconnaît à son rythme",
+    "subtitle": "Comment une étoile à neutrons devient un phare cosmique d'une régularité remarquable",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Ce que les observations imposent",
-        "body": "Les mesures des leçons précédentes (courbes de rotation, lentilles, amas du Boulet) convergent : il existe de la masse qui ne rayonne pas de lumière visible. Elles imposent aussi des traits précis à la matière noire (jour 25) : elle exerce la gravité, elle est bien plus abondante que la matière ordinaire, et elle traverse les collisions sans être freinée. En revanche, aucune de ces mesures ne dit de quelles particules ou de quels objets elle serait composée."
+        "h": "Un phare qui tourne",
+        "body": "Une étoile à neutrons (jour 22) est le reste d'un cœur effondré (jour 20). Or, en se contractant, ce cœur a conservé sa rotation et l'a fortement accélérée, comme une patineuse qui ramène ses bras contre elle : certaines étoiles à neutrons tournent plusieurs fois par seconde. Elles possèdent en outre un champ magnétique, c'est-à-dire une zone d'influence autour de l'astre, comparable à celle d'un aimant, mais extraordinairement intense. Ce champ canalise de la lumière (jour 2) en deux faisceaux étroits, émis depuis les deux pôles de l'astre."
       },
       {
-        "h": "Des candidats écartés, d'autres non",
-        "body": "On a d'abord pensé à de la matière ordinaire trop sombre pour être vue, comme des étoiles éteintes ou des planètes errantes. Les relevés n'en trouvent pas assez pour expliquer les masses mesurées. L'hypothèse dominante est celle d'une particule encore jamais détectée, qui interagirait très peu avec la matière ordinaire. Des détecteurs enterrés profondément la cherchent, pour l'instant sans résultat concluant."
+        "h": "Un clignotement parfaitement régulier",
+        "body": "Ces faisceaux ne sont pas alignés avec l'axe de rotation : ils balaient l'espace comme le faisceau d'un phare. Si l'un d'eux croise la direction de la Terre, nous recevons une brève impulsion à chaque tour, séparée de la suivante par un intervalle presque identique. Un astre dont on capte ainsi les impulsions régulières s'appelle un pulsar. La première détection, en 1967, était si régulière que ses découvreurs ont d'abord soupçonné un signal artificiel, avant de comprendre qu'il s'agissait d'une étoile qui tourne."
       },
       {
-        "h": "Une question ouverte",
-        "body": "Une autre piste modifierait la règle de la gravité elle-même, mais elle peine à rendre compte de l'amas du Boulet. L'état du savoir est donc celui d'une question ouverte (jour 34) : l'effet est mesuré avec solidité, sa cause reste une hypothèse. Dire « on ne sait pas » est ici un énoncé exact, pas un aveu d'échec."
+        "h": "Pourquoi cette régularité compte",
+        "body": "La rotation d'un astre aussi massif change très peu d'un tour à l'autre. Les pulsars comptent donc parmi les horloges naturelles les plus stables que l'on connaisse. Cette stabilité permet de détecter des perturbations minuscules : un retard ou une avance d'une impulsion trahit un mouvement, une présence voisine, ou le passage de déformations de l'espace-temps (jour 37). Le rythme devient ainsi un instrument de mesure."
       }
     ],
     "keyTerms": [
       {
-        "term": "Détection directe",
-        "def": "Tentative d'observer une particule de matière noire en repérant son très rare choc avec la matière d'un instrument."
+        "term": "Pulsar",
+        "def": "Étoile à neutrons en rotation rapide dont les faisceaux de lumière, balayant l'espace, nous parviennent sous forme d'impulsions très régulières."
+      },
+      {
+        "term": "Champ magnétique",
+        "def": "Zone d'influence autour d'un astre ou d'un aimant, qui guide les particules chargées et la lumière émise."
       }
     ],
-    "recap": "Les observations établissent que la matière noire existe comme effet gravitationnel, mais sa nature reste une question ouverte.",
-    "next": "Demain — comment un astre se reconnaît à son rythme : les pulsars."
+    "recap": "Un pulsar est une étoile à neutrons qui tourne vite et dont les faisceaux balaient la Terre, produisant des impulsions si régulières qu'elles servent d'horloge.",
+    "next": "Demain — des pulsars comme instruments de mesure : lire l'espace-temps dans leur rythme."
   }
 }

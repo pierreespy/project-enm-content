@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22",
-  "count": 55,
+  "updated": "2026-10-23",
+  "count": 56,
   "lessons": [
     {
       "n": 1,
@@ -473,6 +473,15 @@
       "title": "La matière noire : ce que l'on sait de sa nature, et ce que l'on ignore",
       "terms": [
         "Détection directe"
+      ]
+    },
+    {
+      "n": 56,
+      "file": "astro/lessons/056-les-pulsars.json",
+      "title": "Les pulsars : un astre qui se reconnaît à son rythme",
+      "terms": [
+        "Pulsar",
+        "Champ magnétique"
       ]
     }
   ]

@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Créances commerciales incontestées : le décret du 20 octobre 2026 met en route la procédure simplifiée de recouvrement par commissaire de justice",
+    "dek": "Prévue par la loi du 23 avril 2026, la procédure permet à un commissaire de justice de recouvrer, sur demande du créancier, une créance certaine, liquide et exigible née entre commerçants, sans passer d'emblée par le juge ; le décret n° 2026-967, paru au JO du 21 octobre, en fixe les modalités pratiques.",
+    "source": "JORF n° 0246 du 21 oct. 2026 · Décret n° 2026-967 du 20 oct. 2026",
+    "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/21/0246"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Partage judiciaire : le décret du 18 octobre 2026 réorganise l'intervention du juge et du notaire",
+      "summary": "Le décret n° 2026-964, publié au JO du 20 octobre, réforme la procédure de partage judiciaire et de liquidation des indivisions et des intérêts patrimoniaux des époux, partenaires et concubins (le détail du texte est à vérifier sur Légifrance).",
+      "source": "JORF n° 0245 du 20 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/20/0245",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Détention provisoire : huis clos ou audience publique devant la chambre de l'instruction, un arrêt de la chambre criminelle du 20 octobre 2026",
+      "summary": "La chambre criminelle valide, dans une affaire comportant des charges de livraison d'informations à une puissance étrangère, un débat tenu à huis clos devant la chambre de l'instruction (analyse à confirmer sur le texte de l'arrêt).",
+      "source": "Cass. crim., 20 oct. 2026, n° 26-85.107",
+      "url": "https://kohenavocats.com/detention-provisoire-huis-clos-publicite-debats-incarceration-4-jours-arrets-octobre-2026/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Motivation de la détention provisoire et contrôle de proportionnalité : la ligne de la chambre criminelle, 2023-2026",
+      "summary": "Une étude du cabinet Kohen rassemble les arrêts récents exigeant de la chambre de l'instruction une motivation concrète de la nécessité du maintien en détention et une réponse aux articulations essentielles des mémoires.",
+      "source": "Cabinet Kohen Avocats, étude",
+      "url": "https://kohenavocats.com/motivation-detention-provisoire-controle-proportionnalite-chambre-criminelle-2023-2026/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "23 octobre 1873 : le comte de Chambord rejette le drapeau tricolore et ruine les espoirs des monarchistes",
+      "summary": "En refusant de renoncer au drapeau blanc, le prétendant au trône ferme la voie à une restauration monarchique et prépare, sans le vouloir, l'installation durable de la République.",
+      "source": "Hérodote, Ça s'est passé un 23 octobre",
+      "url": "https://www.herodote.net/almanach-jour-1023.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Réforme du partage judiciaire : ce que prévoyait le projet soumis au CNB, avec un ministère d'avocat à tous les stades",
+      "summary": "Le CNB décrivait un projet de procédure unique, sans phase amiable préalable obligatoire, imposant l'avocat y compris devant le notaire commis, avec une entrée en vigueur envisagée au 1er janvier 2027 (à rapprocher du décret définitif).",
+      "source": "Conseil national des barreaux",
+      "url": "https://cnb.avocat.fr/actionsinfluence/actualites/partage-judiciaire-une-proposition-de-reforme-pour-simplifier-et-securiser-la-procedure-dans-l-interet-des-justiciables",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Radio : l'Arcom abroge des autorisations par une décision du 14 octobre 2026 publiée au Journal officiel du 22 octobre",
+      "summary": "La décision n° 2026-532 de l'Autorité de régulation de la communication audiovisuelle et numérique figure au sommaire du JO du 22 octobre.",
+      "source": "JORF n° 0247 du 22 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/22/0247",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Rapport en moins prenant",
+    "subtitle": "Droit des successions · Articles 843 et suivants du Code civil",
+    "defShort": "Mode de rapport d'une libéralité à la succession : le gratifié ne restitue pas le bien lui-même, mais en impute la valeur sur sa part, qui s'en trouve diminuée d'autant.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Lorsqu'un héritier a reçu une libéralité rapportable de son vivant, il doit en tenir compte au partage. Le rapport en moins prenant consiste à prélever, sur la masse à partager, une valeur égale à celle du bien donné, avant que l'héritier ne reçoive sa part : il est ainsi « moins prenant » d'autant. Il se distingue du rapport en nature, où le bien est effectivement remis dans la masse."
+      },
+      {
+        "h": "Fondement",
+        "body": "Les articles 858 et suivants du Code civil, dans leur rédaction issue de la loi du 23 juin 2006, font du rapport en valeur la règle : le rapport se fait en moins prenant, le rapport en nature n'étant plus qu'une exception. Le texte vise à protéger l'égalité entre héritiers tout en respectant la stabilité des dons consentis."
+      },
+      {
+        "h": "Valeur retenue",
+        "body": "Le rapport est dû de la valeur du bien à l'époque du partage, d'après son état au jour de la donation. Si le bien a été aliéné avant le partage, c'est la valeur au jour de l'aliénation qui est retenue, et, si un nouveau bien a été subrogé, la valeur de ce dernier au jour du partage. La valeur se calcule donc sur deux dates distinctes : l'état du bien et le moment de l'évaluation."
+      },
+      {
+        "h": "Portée",
+        "body": "Le mécanisme permet de ne pas recourir à une restitution matérielle, souvent impraticable. Il ne joue que si la donation est rapportable : le disposant peut la dispenser de rapport, auquel cas elle s'impute sur la quotité disponible. À ne pas confondre avec la réduction, qui sanctionne l'atteinte à la réserve héréditaire."
+      }
+    ],
+    "seeAlso": "Voir aussi — rapport en nature (art. 859) · dispense de rapport (art. 843) · réduction des libéralités excessives (art. 920) · indivision successorale"
+  },
+  "date": "2026-10-23",
+  "dateShort": "23 oct.",
+  "slot": "matin"
+}

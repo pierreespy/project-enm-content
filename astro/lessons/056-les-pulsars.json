@@ -1,0 +1,32 @@
+{
+  "n": 56,
+  "title": "Les pulsars : un astre qui se reconnaît à son rythme",
+  "subtitle": "Comment une étoile à neutrons devient un phare cosmique d'une régularité remarquable",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un phare qui tourne",
+      "body": "Une étoile à neutrons (jour 22) est le reste d'un cœur effondré (jour 20). Or, en se contractant, ce cœur a conservé sa rotation et l'a fortement accélérée, comme une patineuse qui ramène ses bras contre elle : certaines étoiles à neutrons tournent plusieurs fois par seconde. Elles possèdent en outre un champ magnétique, c'est-à-dire une zone d'influence autour de l'astre, comparable à celle d'un aimant, mais extraordinairement intense. Ce champ canalise de la lumière (jour 2) en deux faisceaux étroits, émis depuis les deux pôles de l'astre."
+    },
+    {
+      "h": "Un clignotement parfaitement régulier",
+      "body": "Ces faisceaux ne sont pas alignés avec l'axe de rotation : ils balaient l'espace comme le faisceau d'un phare. Si l'un d'eux croise la direction de la Terre, nous recevons une brève impulsion à chaque tour, séparée de la suivante par un intervalle presque identique. Un astre dont on capte ainsi les impulsions régulières s'appelle un pulsar. La première détection, en 1967, était si régulière que ses découvreurs ont d'abord soupçonné un signal artificiel, avant de comprendre qu'il s'agissait d'une étoile qui tourne."
+    },
+    {
+      "h": "Pourquoi cette régularité compte",
+      "body": "La rotation d'un astre aussi massif change très peu d'un tour à l'autre. Les pulsars comptent donc parmi les horloges naturelles les plus stables que l'on connaisse. Cette stabilité permet de détecter des perturbations minuscules : un retard ou une avance d'une impulsion trahit un mouvement, une présence voisine, ou le passage de déformations de l'espace-temps (jour 37). Le rythme devient ainsi un instrument de mesure."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Pulsar",
+      "def": "Étoile à neutrons en rotation rapide dont les faisceaux de lumière, balayant l'espace, nous parviennent sous forme d'impulsions très régulières."
+    },
+    {
+      "term": "Champ magnétique",
+      "def": "Zone d'influence autour d'un astre ou d'un aimant, qui guide les particules chargées et la lumière émise."
+    }
+  ],
+  "recap": "Un pulsar est une étoile à neutrons qui tourne vite et dont les faisceaux balaient la Terre, produisant des impulsions si régulières qu'elles servent d'horloge.",
+  "next": "Demain — des pulsars comme instruments de mesure : lire l'espace-temps dans leur rythme."
+}

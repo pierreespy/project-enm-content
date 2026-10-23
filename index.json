@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-22",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-10-23",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-23",
+      "slot": "matin",
+      "file": "editions/2026-10-23-matin.json",
+      "essentiel": "Créances commerciales incontestées : le décret du 20 octobre 2026 met en route la procédure simplifiée de recouvrement par commissaire de justice",
+      "term": "Rapport en moins prenant",
+      "rubriques": [
+        "Partage judiciaire : le décret du 18 octobre 2026 réorganise l'intervention du juge et du notaire",
+        "Détention provisoire : huis clos ou audience publique devant la chambre de l'instruction, un arrêt de la chambre criminelle du 20 octobre 2026",
+        "Motivation de la détention provisoire et contrôle de proportionnalité : la ligne de la chambre criminelle, 2023-2026",
+        "23 octobre 1873 : le comte de Chambord rejette le drapeau tricolore et ruine les espoirs des monarchistes",
+        "Réforme du partage judiciaire : ce que prévoyait le projet soumis au CNB, avec un ministère d'avocat à tous les stades",
+        "Radio : l'Arcom abroge des autorisations par une décision du 14 octobre 2026 publiée au Journal officiel du 22 octobre"
+      ]
+    },
     {
       "date": "2026-10-22",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "8 octobre 1517 : François Ier signe la charte de fondation du port du Havre",
         "Condamné par le tribunal correctionnel : faire appel en dix jours, effet suspensif et audience devant la cour d'appel",
         "Prix Nobel de chimie 2026 : le Français Henri Kagan et le Japonais Kenso Soai distingués"
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "slot": "midi",
-      "file": "editions/2026-10-07-midi.json",
-      "essentiel": "Istres : le maire François Bernardini jugé à Paris pour détournement de fonds publics",
-      "term": "Gestion de fait",
-      "rubriques": [
-        "Budget 2027 : l'Assemblée nationale devrait entamer l'examen du projet de loi de finances le 13 octobre",
-        "Chambre criminelle, 10 juin 2026 : un arrêt publié au Bulletin en matière de détention",
-        "Annulation des actes subséquents : l'obligation d'inventaire précis et la règle du « support nécessaire » (art. 174 et 385 CPP)",
-        "7 octobre 1959 : la sonde soviétique Luna 3 photographie pour la première fois la face cachée de la Lune",
-        "Détournement de fonds publics : quelques rappels utiles sur l'incrimination",
-        "Prix Nobel de littérature : l'Académie suédoise annoncera son lauréat jeudi 8 octobre"
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "slot": "matin",
-      "file": "editions/2026-10-07-matin.json",
-      "essentiel": "Saint-Leu : Justin Baleinier condamné à 25 ans de réclusion criminelle pour le meurtre de son ex-compagne Kamla Beechook",
-      "term": "Ultra petita",
-      "rubriques": [
-        "Décision n° 2026-332 L du 1er octobre 2026 : le Conseil constitutionnel reconnaît un caractère réglementaire à des termes de l'article L. 120-1 du code du service national",
-        "Appel déclaré caduc : le relevé de caducité par simple courriel adressé au greffe est validé par la Cour de cassation",
-        "Appel limité de l'accusé et inégalité avec le prévenu : la QPC n° 2026-1209 devant le Conseil constitutionnel",
-        "7 octobre 1571 : la bataille de Lépante, plus grand affrontement naval depuis l'Antiquité",
-        "Après un verdict d'assises : l'appel dans les dix jours et les droits de la famille de la victime",
-        "Prix Nobel de physique 2026 : Francis Halzen récompensé pour l'observatoire de neutrinos IceCube"
       ]
     }
   ]
