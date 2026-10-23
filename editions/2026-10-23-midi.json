@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "IR-PME : le décret du 20 octobre 2026 fixe au 22 octobre l'entrée en vigueur de la réforme de la réduction d'impôt pour souscription au capital de PME",
+    "dek": "Publié au JO du 21 octobre, le décret n° 2026-968 rend applicables, dès le lendemain de sa publication, les dispositions des articles 22, 23 et 26 de la loi de finances pour 2026 relatives à l'article 199 terdecies-0 A du CGI ; le contenu précis des modifications reste à vérifier sur le texte.",
+    "source": "Décret n° 2026-968 du 20 oct. 2026 · JORF du 21 oct. 2026",
+    "url": "https://www.lemondedudroit.fr/fiscal/277-fiscalite-des-personnes/106330-reduction-d-impot-pour-souscription-en-numeraire-au-capital-des-pme-entree-en-vigueur.html"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "IR-PME : le décret n° 2026-968 fixe au 22 octobre 2026 l'entrée en vigueur des nouvelles règles de la réduction d'impôt pour souscription au capital de PME",
+      "summary": "Publié au JO du 21 octobre, le décret fixe l'entrée en vigueur au lendemain de sa publication des dispositions issues des articles 22, 23 et 26 de la loi de finances pour 2026 (art. 199 terdecies-0 A du CGI) ; le détail du texte est à vérifier sur Légifrance.",
+      "source": "Décret n° 2026-968 du 20 oct. 2026 · JORF du 21 oct. 2026",
+      "url": "https://www.lemondedudroit.fr/fiscal/277-fiscalite-des-personnes/106330-reduction-d-impot-pour-souscription-en-numeraire-au-capital-des-pme-entree-en-vigueur.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Paiement à un créancier apparent : l'usurpateur de l'identité du créancier n'en est pas un, juge la chambre commerciale",
+      "summary": "Par un arrêt du 17 juin 2026 publié au Bulletin (n° 24-13.306, FP-B), la Cour de cassation distingue le paiement de bonne foi à un créancier apparent, valable, du paiement à un tiers qui usurpe l'identité du créancier, qui ne l'est pas.",
+      "source": "Cass. com., 17 juin 2026, n° 24-13.306",
+      "url": "https://www.labase-lextenso.fr/nouveautes/revue-des-revues-affaires-juillet-aout-2026-539",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Revue des revues de droit des affaires, juillet-août 2026 : un panorama de la doctrine de l'été",
+      "summary": "La Base Lextenso publie sa livraison de juillet-août 2026, qui recense les articles parus dans les revues de droit des affaires.",
+      "source": "La Base Lextenso · Revue des revues affaires, juill.-août 2026",
+      "url": "https://www.labase-lextenso.fr/nouveautes/revue-des-revues-affaires-juillet-aout-2026-539",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "23 octobre 1956 : l'insurrection de Budapest éclate contre le régime communiste hongrois",
+      "summary": "Une manifestation d'étudiants dans la capitale hongroise tourne à l'insurrection, que l'armée soviétique écrasera quelques semaines plus tard.",
+      "source": "Wikipédia · Insurrection de Budapest",
+      "url": "https://fr.wikipedia.org/wiki/Insurrection_de_Budapest",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Loi JCRV : le calendrier d'entrée en vigueur des dispositions pénales, dont le délai de 4 mois pour les requêtes en nullité",
+      "summary": "Le ministère de la Justice publie un tableau d'entrée en vigueur ; le nouveau délai de dépôt des requêtes en nullité, porté à quatre mois, s'appliquera trois mois après la promulgation, soit le 23 octobre 2027.",
+      "source": "Ministère de la Justice · Annexe 1, tableau d'entrée en vigueur des dispositions pénales de la loi JCRV",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2026-07/Annexe%201%20-%20Tableau%20entr%C3%A9e%20en%20vigueur%20des%20dispositions%20p%C3%A9nales%20de%20la%20loi%20JCRV.pdf",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Météo : un net renforcement du vent attendu sur le nord-ouest, avec un épisode plus marqué ce vendredi 23 octobre",
+      "summary": "Selon le bulletin de Météo-France du 20 octobre, les départements bordant la Manche sont les plus exposés ; une vigilance orange pour vents violents restait possible, et les prévisions étaient susceptibles d'évoluer.",
+      "source": "Météo-France · bulletin du 20 oct. 2026",
+      "url": "https://labomaison.com/maison/tempete-23-octobre-2026-regions-vent-violent/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Paiement au créancier apparent",
+    "subtitle": "Droit des obligations · Article 1342-3 du Code civil",
+    "defShort": "Paiement fait de bonne foi à une personne qui, aux yeux de tous, paraissait être le créancier : il est valable et libère le débiteur, même si elle n'avait en réalité aucun droit à le recevoir.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "En principe, le débiteur ne se libère qu'en payant le créancier véritable ou son représentant. Par exception, le paiement fait de bonne foi à celui qui avait toutes les apparences de la qualité de créancier est valable. Le véritable créancier n'a alors de recours que contre l'accipiens, celui qui a reçu à tort."
+      },
+      {
+        "h": "Fondement",
+        "body": "L'article 1342-3 du Code civil dispose que le paiement fait de bonne foi à un créancier apparent est valable. Il consacre la théorie de l'apparence, qui protège la confiance légitime d'un tiers dans une situation qui n'est pas conforme à la réalité."
+      },
+      {
+        "h": "Conditions",
+        "body": "Deux éléments sont requis : une apparence suffisamment crédible, que le débiteur n'avait pas de raison de remettre en cause, et sa bonne foi. Le débiteur qui a des doutes sérieux ou qui néglige des vérifications élémentaires ne peut pas s'en prévaloir."
+      },
+      {
+        "h": "Portée",
+        "body": "Dans un arrêt du 17 juin 2026 publié au Bulletin, la chambre commerciale rappelle que le tiers qui usurpe l'identité du créancier n'est pas un créancier apparent : le texte ne couvre pas la fraude pure et simple, faute d'apparence imputable à la situation du véritable créancier."
+      }
+    ],
+    "seeAlso": "Voir aussi — paiement à un incapable (art. 1342-2) · ratification du paiement (art. 1342-3) · théorie de l'apparence · répétition de l'indu (art. 1302 et s.)"
+  },
+  "date": "2026-10-23",
+  "dateShort": "23 oct.",
+  "slot": "midi"
+}
