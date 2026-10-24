@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Extradition : la Cour de cassation annule un avis favorable parce que l'audience de la chambre de l'instruction n'a pas commencé par l'interrogatoire de la personne réclamée",
+    "dek": "Dans un arrêt du 7 octobre 2026 relatif à une demande du Brésil, la chambre criminelle rappelle que la personne réclamée doit être entendue en ouverture d'audience, et non seulement invitée à parler en dernier ; à défaut, l'avis favorable à l'extradition est annulé (analyse tirée d'un commentaire de cabinet, à confirmer sur le texte de l'arrêt).",
+    "source": "Cass. crim., 7 oct. 2026, n° 26-80.171",
+    "url": "https://kohenavocats.com/reclame-extradition-avis-favorable-annule-sans-interrogatoire-ouverture-cassation-octobre-2026/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Extradition : la France autorise un nouveau traité avec la Colombie, publié au Journal officiel du 20 octobre 2026",
+      "summary": "La loi autorisant la convention d'extradition franco-colombienne, adoptée par l'Assemblée nationale le 12 octobre, a été publiée au JO du 20 octobre (le détail des dates est à vérifier sur Légifrance).",
+      "source": "JORF du 20 oct. 2026 · Kohen Avocats",
+      "url": "https://kohenavocats.com/en/france-colombia-extradition-treaty-2026-surrender-test-paris-bogota/",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Agent sportif sans licence : la chambre criminelle rappelle que le mandat signé avec un intermédiaire non titulaire de la carte est nul",
+      "summary": "Rejetant le pourvoi contre une condamnation à six mois avec sursis et 15 000 euros d'amende, la chambre criminelle confirme l'exigence de licence pour l'exercice de l'activité d'agent sportif.",
+      "source": "Cass. crim., 13 oct. 2026, n° 24-87.210",
+      "url": "https://kohenavocats.com/footballeur-agent-sportif-sans-licence-mandat-annuler-commission-recuperer-2026/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Reconnaissance faciale et fichier TAJ : habilitation des enquêteurs, nullités et effacement devant la chambre criminelle",
+      "summary": "Une étude passe en revue les articles 15-5, 55-1 et 230-6 à 230-11 du code de procédure pénale et les arrêts récents sur la consultation du fichier de traitement des antécédents judiciaires.",
+      "source": "Kohen Avocats, étude",
+      "url": "https://kohenavocats.com/reconnaissance-faciale-fichier-taj-nullites-effacement-articles-230-6-230-11-cpp-chambre-criminelle/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "24 octobre 1648 : la signature des traités de Westphalie met fin à la guerre de Trente Ans",
+      "summary": "Les traités de Münster et d'Osnabrück consacrent la souveraineté des États du Saint-Empire et passent pour l'acte fondateur du droit international moderne.",
+      "source": "Hérodote, Ça s'est passé un 24 octobre",
+      "url": "https://www.herodote.net/almanach-jour-1024.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Demande de mise en liberté : ce que change le débat contradictoire obligatoire applicable depuis le 23 octobre 2026",
+      "summary": "Un cabinet détaille, pour la personne placée en détention provisoire, les conséquences pratiques de la généralisation du débat contradictoire sur la demande de mise en liberté (à confirmer sur le texte de la loi JCRV).",
+      "source": "Kohen Avocats, fiche pratique",
+      "url": "https://kohenavocats.com/demande-mise-liberte-detention-provisoire-debat-contradictoire-23-octobre-2026/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Manifestation du 24 octobre à Paris : un parcours Bastille-Nation et des interdictions dans plusieurs villes",
+      "summary": "Le parcours est annoncé entre Bastille et Nation, tandis que plusieurs préfectures ont pris des arrêtés d'interdiction, notamment à Marseille et à Grenoble.",
+      "source": "Kohen Avocats, point d'actualité",
+      "url": "https://kohenavocats.com/manifestation-24-octobre-2026-parcours-interdiction-nasse-garde-vue-recours/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Principe de spécialité (en matière d'extradition)",
+    "subtitle": "Droit pénal international · Convention européenne d'extradition, art. 14 ; art. 696-6 et s. du Code de procédure pénale",
+    "defShort": "Règle selon laquelle la personne extradée ne peut être poursuivie, jugée ou détenue par l'État requérant que pour les faits ayant motivé l'extradition, et non pour des infractions antérieures distinctes.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "L'État qui obtient une extradition s'engage implicitement, et souvent expressément, à ne juger la personne que pour les faits visés dans la demande. Elle garantit à l'État requis que l'extradition ne sert pas de prétexte à des poursuites qu'il aurait refusées."
+      },
+      {
+        "h": "Fondement",
+        "body": "Principe coutumier repris par les conventions bilatérales et par l'article 14 de la Convention européenne d'extradition de 1957. En droit interne français, il se retrouve dans le code de procédure pénale (art. 696-6 et suivants), qui réserve le sort des faits antérieurs non couverts par la décision d'extradition."
+      },
+      {
+        "h": "Limites",
+        "body": "L'État requis peut consentir à une extension (demande complémentaire) ; la personne peut aussi renoncer à la protection, ou la perdre si elle reste sur le territoire de l'État requérant après avoir pu le quitter."
+      },
+      {
+        "h": "Portée",
+        "body": "Ne pas confondre avec la double incrimination, qui exige que les faits soient punissables dans les deux États, ni avec la règle ne bis in idem. La spécialité protège d'abord l'État requis, mais l'individu peut s'en prévaloir devant les juridictions."
+      }
+    ],
+    "seeAlso": "Voir aussi — double incrimination · remise différée · extradition simplifiée · ne bis in idem"
+  },
+  "date": "2026-10-24",
+  "dateShort": "24 oct.",
+  "slot": "matin"
+}

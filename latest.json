@@ -1,125 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "IR-PME : le décret du 20 octobre 2026 fixe au 22 octobre l'entrée en vigueur de la réforme de la réduction d'impôt pour souscription au capital de PME",
-    "dek": "Publié au JO du 21 octobre, le décret n° 2026-968 rend applicables, dès le lendemain de sa publication, les dispositions des articles 22, 23 et 26 de la loi de finances pour 2026 relatives à l'article 199 terdecies-0 A du CGI ; le contenu précis des modifications reste à vérifier sur le texte.",
-    "source": "Décret n° 2026-968 du 20 oct. 2026 · JORF du 21 oct. 2026",
-    "url": "https://www.lemondedudroit.fr/fiscal/277-fiscalite-des-personnes/106330-reduction-d-impot-pour-souscription-en-numeraire-au-capital-des-pme-entree-en-vigueur.html"
+    "title": "Extradition : la Cour de cassation annule un avis favorable parce que l'audience de la chambre de l'instruction n'a pas commencé par l'interrogatoire de la personne réclamée",
+    "dek": "Dans un arrêt du 7 octobre 2026 relatif à une demande du Brésil, la chambre criminelle rappelle que la personne réclamée doit être entendue en ouverture d'audience, et non seulement invitée à parler en dernier ; à défaut, l'avis favorable à l'extradition est annulé (analyse tirée d'un commentaire de cabinet, à confirmer sur le texte de l'arrêt).",
+    "source": "Cass. crim., 7 oct. 2026, n° 26-80.171",
+    "url": "https://kohenavocats.com/reclame-extradition-avis-favorable-annule-sans-interrogatoire-ouverture-cassation-octobre-2026/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "IR-PME : le décret n° 2026-968 fixe au 22 octobre 2026 l'entrée en vigueur des nouvelles règles de la réduction d'impôt pour souscription au capital de PME",
-      "summary": "Publié au JO du 21 octobre, le décret fixe l'entrée en vigueur au lendemain de sa publication des dispositions issues des articles 22, 23 et 26 de la loi de finances pour 2026 (art. 199 terdecies-0 A du CGI) ; le détail du texte est à vérifier sur Légifrance.",
-      "source": "Décret n° 2026-968 du 20 oct. 2026 · JORF du 21 oct. 2026",
-      "url": "https://www.lemondedudroit.fr/fiscal/277-fiscalite-des-personnes/106330-reduction-d-impot-pour-souscription-en-numeraire-au-capital-des-pme-entree-en-vigueur.html",
+      "title": "Extradition : la France autorise un nouveau traité avec la Colombie, publié au Journal officiel du 20 octobre 2026",
+      "summary": "La loi autorisant la convention d'extradition franco-colombienne, adoptée par l'Assemblée nationale le 12 octobre, a été publiée au JO du 20 octobre (le détail des dates est à vérifier sur Légifrance).",
+      "source": "JORF du 20 oct. 2026 · Kohen Avocats",
+      "url": "https://kohenavocats.com/en/france-colombia-extradition-treaty-2026-surrender-test-paris-bogota/",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Paiement à un créancier apparent : l'usurpateur de l'identité du créancier n'en est pas un, juge la chambre commerciale",
-      "summary": "Par un arrêt du 17 juin 2026 publié au Bulletin (n° 24-13.306, FP-B), la Cour de cassation distingue le paiement de bonne foi à un créancier apparent, valable, du paiement à un tiers qui usurpe l'identité du créancier, qui ne l'est pas.",
-      "source": "Cass. com., 17 juin 2026, n° 24-13.306",
-      "url": "https://www.labase-lextenso.fr/nouveautes/revue-des-revues-affaires-juillet-aout-2026-539",
+      "title": "Agent sportif sans licence : la chambre criminelle rappelle que le mandat signé avec un intermédiaire non titulaire de la carte est nul",
+      "summary": "Rejetant le pourvoi contre une condamnation à six mois avec sursis et 15 000 euros d'amende, la chambre criminelle confirme l'exigence de licence pour l'exercice de l'activité d'agent sportif.",
+      "source": "Cass. crim., 13 oct. 2026, n° 24-87.210",
+      "url": "https://kohenavocats.com/footballeur-agent-sportif-sans-licence-mandat-annuler-commission-recuperer-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Revue des revues de droit des affaires, juillet-août 2026 : un panorama de la doctrine de l'été",
-      "summary": "La Base Lextenso publie sa livraison de juillet-août 2026, qui recense les articles parus dans les revues de droit des affaires.",
-      "source": "La Base Lextenso · Revue des revues affaires, juill.-août 2026",
-      "url": "https://www.labase-lextenso.fr/nouveautes/revue-des-revues-affaires-juillet-aout-2026-539",
+      "title": "Reconnaissance faciale et fichier TAJ : habilitation des enquêteurs, nullités et effacement devant la chambre criminelle",
+      "summary": "Une étude passe en revue les articles 15-5, 55-1 et 230-6 à 230-11 du code de procédure pénale et les arrêts récents sur la consultation du fichier de traitement des antécédents judiciaires.",
+      "source": "Kohen Avocats, étude",
+      "url": "https://kohenavocats.com/reconnaissance-faciale-fichier-taj-nullites-effacement-articles-230-6-230-11-cpp-chambre-criminelle/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "23 octobre 1956 : l'insurrection de Budapest éclate contre le régime communiste hongrois",
-      "summary": "Une manifestation d'étudiants dans la capitale hongroise tourne à l'insurrection, que l'armée soviétique écrasera quelques semaines plus tard.",
-      "source": "Wikipédia · Insurrection de Budapest",
-      "url": "https://fr.wikipedia.org/wiki/Insurrection_de_Budapest",
+      "title": "24 octobre 1648 : la signature des traités de Westphalie met fin à la guerre de Trente Ans",
+      "summary": "Les traités de Münster et d'Osnabrück consacrent la souveraineté des États du Saint-Empire et passent pour l'acte fondateur du droit international moderne.",
+      "source": "Hérodote, Ça s'est passé un 24 octobre",
+      "url": "https://www.herodote.net/almanach-jour-1024.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Loi JCRV : le calendrier d'entrée en vigueur des dispositions pénales, dont le délai de 4 mois pour les requêtes en nullité",
-      "summary": "Le ministère de la Justice publie un tableau d'entrée en vigueur ; le nouveau délai de dépôt des requêtes en nullité, porté à quatre mois, s'appliquera trois mois après la promulgation, soit le 23 octobre 2027.",
-      "source": "Ministère de la Justice · Annexe 1, tableau d'entrée en vigueur des dispositions pénales de la loi JCRV",
-      "url": "https://www.justice.gouv.fr/sites/default/files/2026-07/Annexe%201%20-%20Tableau%20entr%C3%A9e%20en%20vigueur%20des%20dispositions%20p%C3%A9nales%20de%20la%20loi%20JCRV.pdf",
+      "title": "Demande de mise en liberté : ce que change le débat contradictoire obligatoire applicable depuis le 23 octobre 2026",
+      "summary": "Un cabinet détaille, pour la personne placée en détention provisoire, les conséquences pratiques de la généralisation du débat contradictoire sur la demande de mise en liberté (à confirmer sur le texte de la loi JCRV).",
+      "source": "Kohen Avocats, fiche pratique",
+      "url": "https://kohenavocats.com/demande-mise-liberte-detention-provisoire-debat-contradictoire-23-octobre-2026/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Météo : un net renforcement du vent attendu sur le nord-ouest, avec un épisode plus marqué ce vendredi 23 octobre",
-      "summary": "Selon le bulletin de Météo-France du 20 octobre, les départements bordant la Manche sont les plus exposés ; une vigilance orange pour vents violents restait possible, et les prévisions étaient susceptibles d'évoluer.",
-      "source": "Météo-France · bulletin du 20 oct. 2026",
-      "url": "https://labomaison.com/maison/tempete-23-octobre-2026-regions-vent-violent/",
+      "title": "Manifestation du 24 octobre à Paris : un parcours Bastille-Nation et des interdictions dans plusieurs villes",
+      "summary": "Le parcours est annoncé entre Bastille et Nation, tandis que plusieurs préfectures ont pris des arrêtés d'interdiction, notamment à Marseille et à Grenoble.",
+      "source": "Kohen Avocats, point d'actualité",
+      "url": "https://kohenavocats.com/manifestation-24-octobre-2026-parcours-interdiction-nasse-garde-vue-recours/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Paiement au créancier apparent",
-    "subtitle": "Droit des obligations · Article 1342-3 du Code civil",
-    "defShort": "Paiement fait de bonne foi à une personne qui, aux yeux de tous, paraissait être le créancier : il est valable et libère le débiteur, même si elle n'avait en réalité aucun droit à le recevoir.",
+    "term": "Principe de spécialité (en matière d'extradition)",
+    "subtitle": "Droit pénal international · Convention européenne d'extradition, art. 14 ; art. 696-6 et s. du Code de procédure pénale",
+    "defShort": "Règle selon laquelle la personne extradée ne peut être poursuivie, jugée ou détenue par l'État requérant que pour les faits ayant motivé l'extradition, et non pour des infractions antérieures distinctes.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "En principe, le débiteur ne se libère qu'en payant le créancier véritable ou son représentant. Par exception, le paiement fait de bonne foi à celui qui avait toutes les apparences de la qualité de créancier est valable. Le véritable créancier n'a alors de recours que contre l'accipiens, celui qui a reçu à tort."
+        "body": "L'État qui obtient une extradition s'engage implicitement, et souvent expressément, à ne juger la personne que pour les faits visés dans la demande. Elle garantit à l'État requis que l'extradition ne sert pas de prétexte à des poursuites qu'il aurait refusées."
       },
       {
         "h": "Fondement",
-        "body": "L'article 1342-3 du Code civil dispose que le paiement fait de bonne foi à un créancier apparent est valable. Il consacre la théorie de l'apparence, qui protège la confiance légitime d'un tiers dans une situation qui n'est pas conforme à la réalité."
+        "body": "Principe coutumier repris par les conventions bilatérales et par l'article 14 de la Convention européenne d'extradition de 1957. En droit interne français, il se retrouve dans le code de procédure pénale (art. 696-6 et suivants), qui réserve le sort des faits antérieurs non couverts par la décision d'extradition."
       },
       {
-        "h": "Conditions",
-        "body": "Deux éléments sont requis : une apparence suffisamment crédible, que le débiteur n'avait pas de raison de remettre en cause, et sa bonne foi. Le débiteur qui a des doutes sérieux ou qui néglige des vérifications élémentaires ne peut pas s'en prévaloir."
+        "h": "Limites",
+        "body": "L'État requis peut consentir à une extension (demande complémentaire) ; la personne peut aussi renoncer à la protection, ou la perdre si elle reste sur le territoire de l'État requérant après avoir pu le quitter."
       },
       {
         "h": "Portée",
-        "body": "Dans un arrêt du 17 juin 2026 publié au Bulletin, la chambre commerciale rappelle que le tiers qui usurpe l'identité du créancier n'est pas un créancier apparent : le texte ne couvre pas la fraude pure et simple, faute d'apparence imputable à la situation du véritable créancier."
+        "body": "Ne pas confondre avec la double incrimination, qui exige que les faits soient punissables dans les deux États, ni avec la règle ne bis in idem. La spécialité protège d'abord l'État requis, mais l'individu peut s'en prévaloir devant les juridictions."
       }
     ],
-    "seeAlso": "Voir aussi — paiement à un incapable (art. 1342-2) · ratification du paiement (art. 1342-3) · théorie de l'apparence · répétition de l'indu (art. 1302 et s.)"
+    "seeAlso": "Voir aussi — double incrimination · remise différée · extradition simplifiée · ne bis in idem"
   },
-  "date": "2026-10-23",
-  "dateShort": "23 oct.",
-  "slot": "midi",
+  "date": "2026-10-24",
+  "dateShort": "24 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 56,
-    "title": "Les pulsars : un astre qui se reconnaît à son rythme",
-    "subtitle": "Comment une étoile à neutrons devient un phare cosmique d'une régularité remarquable",
+    "n": 57,
+    "title": "Les pulsars, des horloges pour mesurer l'invisible",
+    "subtitle": "Comment la régularité d'un pulsar révèle ce qui perturbe sa lumière en chemin",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Un phare qui tourne",
-        "body": "Une étoile à neutrons (jour 22) est le reste d'un cœur effondré (jour 20). Or, en se contractant, ce cœur a conservé sa rotation et l'a fortement accélérée, comme une patineuse qui ramène ses bras contre elle : certaines étoiles à neutrons tournent plusieurs fois par seconde. Elles possèdent en outre un champ magnétique, c'est-à-dire une zone d'influence autour de l'astre, comparable à celle d'un aimant, mais extraordinairement intense. Ce champ canalise de la lumière (jour 2) en deux faisceaux étroits, émis depuis les deux pôles de l'astre."
+        "h": "Mesurer un retard minuscule",
+        "body": "Un pulsar (jour 56) émet une impulsion à intervalles presque parfaitement réguliers. On peut donc prédire à quel instant précis la prochaine impulsion devrait nous parvenir. Si elle arrive un peu plus tôt ou un peu plus tard que prévu, quelque chose a changé sur son trajet ou autour de l'astre. Ce décalage, l'écart entre l'instant attendu et l'instant observé, est appelé résidu de chronométrage : c'est la mesure brute dont se servent les astronomes."
       },
       {
-        "h": "Un clignotement parfaitement régulier",
-        "body": "Ces faisceaux ne sont pas alignés avec l'axe de rotation : ils balaient l'espace comme le faisceau d'un phare. Si l'un d'eux croise la direction de la Terre, nous recevons une brève impulsion à chaque tour, séparée de la suivante par un intervalle presque identique. Un astre dont on capte ainsi les impulsions régulières s'appelle un pulsar. La première détection, en 1967, était si régulière que ses découvreurs ont d'abord soupçonné un signal artificiel, avant de comprendre qu'il s'agissait d'une étoile qui tourne."
-      },
-      {
-        "h": "Pourquoi cette régularité compte",
-        "body": "La rotation d'un astre aussi massif change très peu d'un tour à l'autre. Les pulsars comptent donc parmi les horloges naturelles les plus stables que l'on connaisse. Cette stabilité permet de détecter des perturbations minuscules : un retard ou une avance d'une impulsion trahit un mouvement, une présence voisine, ou le passage de déformations de l'espace-temps (jour 37). Le rythme devient ainsi un instrument de mesure."
+        "h": "Ce que le rythme peut révéler",
+        "body": "Les causes possibles sont variées. Un astre compagnon qui tourne autour du pulsar (jour 51) le fait osciller et décale ses impulsions de façon périodique : on déduit sa présence, et sa masse, sans jamais l'avoir vu. De même, quand les ondes gravitationnelles (jour 32) traversent l'espace entre le pulsar et la Terre, elles déforment légèrement l'espace-temps (jour 37) et modifient les temps d'arrivée. Une seule horloge ne suffit pas à l'affirmer, mais un réseau de pulsars dont les retards évoluent ensemble devient un détecteur à l'échelle de la galaxie."
       }
     ],
     "keyTerms": [
       {
-        "term": "Pulsar",
-        "def": "Étoile à neutrons en rotation rapide dont les faisceaux de lumière, balayant l'espace, nous parviennent sous forme d'impulsions très régulières."
+        "term": "Résidu de chronométrage",
+        "def": "Écart entre l'instant d'arrivée prévu d'une impulsion de pulsar et l'instant réellement observé."
       },
       {
-        "term": "Champ magnétique",
-        "def": "Zone d'influence autour d'un astre ou d'un aimant, qui guide les particules chargées et la lumière émise."
+        "term": "Réseau de pulsars",
+        "def": "Ensemble de pulsars surveillés simultanément, dont on compare les retards pour détecter une perturbation commune."
       }
     ],
-    "recap": "Un pulsar est une étoile à neutrons qui tourne vite et dont les faisceaux balaient la Terre, produisant des impulsions si régulières qu'elles servent d'horloge.",
-    "next": "Demain — des pulsars comme instruments de mesure : lire l'espace-temps dans leur rythme."
+    "recap": "La régularité d'un pulsar fait de lui une horloge : tout écart d'une impulsion trahit un compagnon invisible ou le passage d'ondes gravitationnelles.",
+    "next": "Demain — comment on mesure la masse d'un pulsar et pourquoi elle borne la taille des étoiles à neutrons."
   }
 }

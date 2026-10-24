@@ -1,0 +1,28 @@
+{
+  "n": 57,
+  "title": "Les pulsars, des horloges pour mesurer l'invisible",
+  "subtitle": "Comment la régularité d'un pulsar révèle ce qui perturbe sa lumière en chemin",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Mesurer un retard minuscule",
+      "body": "Un pulsar (jour 56) émet une impulsion à intervalles presque parfaitement réguliers. On peut donc prédire à quel instant précis la prochaine impulsion devrait nous parvenir. Si elle arrive un peu plus tôt ou un peu plus tard que prévu, quelque chose a changé sur son trajet ou autour de l'astre. Ce décalage, l'écart entre l'instant attendu et l'instant observé, est appelé résidu de chronométrage : c'est la mesure brute dont se servent les astronomes."
+    },
+    {
+      "h": "Ce que le rythme peut révéler",
+      "body": "Les causes possibles sont variées. Un astre compagnon qui tourne autour du pulsar (jour 51) le fait osciller et décale ses impulsions de façon périodique : on déduit sa présence, et sa masse, sans jamais l'avoir vu. De même, quand les ondes gravitationnelles (jour 32) traversent l'espace entre le pulsar et la Terre, elles déforment légèrement l'espace-temps (jour 37) et modifient les temps d'arrivée. Une seule horloge ne suffit pas à l'affirmer, mais un réseau de pulsars dont les retards évoluent ensemble devient un détecteur à l'échelle de la galaxie."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Résidu de chronométrage",
+      "def": "Écart entre l'instant d'arrivée prévu d'une impulsion de pulsar et l'instant réellement observé."
+    },
+    {
+      "term": "Réseau de pulsars",
+      "def": "Ensemble de pulsars surveillés simultanément, dont on compare les retards pour détecter une perturbation commune."
+    }
+  ],
+  "recap": "La régularité d'un pulsar fait de lui une horloge : tout écart d'une impulsion trahit un compagnon invisible ou le passage d'ondes gravitationnelles.",
+  "next": "Demain — comment on mesure la masse d'un pulsar et pourquoi elle borne la taille des étoiles à neutrons."
+}

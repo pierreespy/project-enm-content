@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23",
-  "count": 56,
+  "updated": "2026-10-24",
+  "count": 57,
   "lessons": [
     {
       "n": 1,
@@ -482,6 +482,15 @@
       "terms": [
         "Pulsar",
         "Champ magnétique"
+      ]
+    },
+    {
+      "n": 57,
+      "file": "astro/lessons/057-les-pulsars-comme-horloges.json",
+      "title": "Les pulsars, des horloges pour mesurer l'invisible",
+      "terms": [
+        "Résidu de chronométrage",
+        "Réseau de pulsars"
       ]
     }
   ]

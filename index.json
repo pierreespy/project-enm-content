@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-23",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-10-24",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-24",
+      "slot": "matin",
+      "file": "editions/2026-10-24-matin.json",
+      "essentiel": "Extradition : la Cour de cassation annule un avis favorable parce que l'audience de la chambre de l'instruction n'a pas commencé par l'interrogatoire de la personne réclamée",
+      "term": "Principe de spécialité (en matière d'extradition)",
+      "rubriques": [
+        "Extradition : la France autorise un nouveau traité avec la Colombie, publié au Journal officiel du 20 octobre 2026",
+        "Agent sportif sans licence : la chambre criminelle rappelle que le mandat signé avec un intermédiaire non titulaire de la carte est nul",
+        "Reconnaissance faciale et fichier TAJ : habilitation des enquêteurs, nullités et effacement devant la chambre criminelle",
+        "24 octobre 1648 : la signature des traités de Westphalie met fin à la guerre de Trente Ans",
+        "Demande de mise en liberté : ce que change le débat contradictoire obligatoire applicable depuis le 23 octobre 2026",
+        "Manifestation du 24 octobre à Paris : un parcours Bastille-Nation et des interdictions dans plusieurs villes"
+      ]
+    },
     {
       "date": "2026-10-23",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "9 octobre 1981 : la France abolit la peine de mort, sous l'impulsion de Robert Badinter",
         "Contrôle positif à l'alcool : éthylomètre contesté, marge d'erreur, vérification et défense du permis",
         "Prix Nobel de la paix 2026 : le comité d'Oslo dévoile son lauréat ce vendredi à 11 h"
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "slot": "midi",
-      "file": "editions/2026-10-08-midi.json",
-      "essentiel": "Black-out de 2024 en Guadeloupe : le tribunal de Pointe-à-Pitre rend sa décision à l'égard de 14 agents d'EDF-PEI",
-      "term": "Exception de recours parallèle",
-      "rubriques": [
-        "Loi organique n° 2026-650 du 23 juillet 2026 : les avocats honoraires pérennisés comme assesseurs des cours criminelles départementales",
-        "Cass. com., 17 juin 2026, n° 24-20.640 : cassation partielle d'un arrêt de la cour d'appel de Paris dans un litige opposant un particulier à la Société générale",
-        "« Tout savoir sur la loi Justice criminelle » : le guide du Conseil national des barreaux à l'attention des avocats",
-        "8 octobre 1799 : Bonaparte débarque à Fréjus au retour d'Égypte",
-        "Loi JCRV : le tableau d'entrée en vigueur des dispositions pénales, publié par la Chancellerie",
-        "Croissance 2026 : l'Insee abaisse sa prévision à 0,4 %"
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "slot": "matin",
-      "file": "editions/2026-10-08-matin.json",
-      "essentiel": "Décharges sauvages dans les Vosges : la cour d'appel de Nancy ordonne que Nestlé Waters soit rejugée",
-      "term": "Saisine in rem",
-      "rubriques": [
-        "Décret n° 2026-910 du 30 septembre 2026 : un dispositif de prise en charge des femmes victimes de violences dans chaque département",
-        "Conseil d'État, 20 juillet 2026, n° 505938 : le régime indemnitaire des conseillers pénitentiaires d'insertion et de probation",
-        "Nullités de procédure pénale : fichiers de police, géolocalisation et qualité pour agir devant la chambre criminelle (2023-2026)",
-        "8 octobre 1517 : François Ier signe la charte de fondation du port du Havre",
-        "Condamné par le tribunal correctionnel : faire appel en dix jours, effet suspensif et audience devant la cour d'appel",
-        "Prix Nobel de chimie 2026 : le Français Henri Kagan et le Japonais Kenso Soai distingués"
       ]
     }
   ]
