@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Extradition : la Cour de cassation annule un avis favorable parce que l'audience de la chambre de l'instruction n'a pas commencé par l'interrogatoire de la personne réclamée",
-    "dek": "Dans un arrêt du 7 octobre 2026 relatif à une demande du Brésil, la chambre criminelle rappelle que la personne réclamée doit être entendue en ouverture d'audience, et non seulement invitée à parler en dernier ; à défaut, l'avis favorable à l'extradition est annulé (analyse tirée d'un commentaire de cabinet, à confirmer sur le texte de l'arrêt).",
-    "source": "Cass. crim., 7 oct. 2026, n° 26-80.171",
-    "url": "https://kohenavocats.com/reclame-extradition-avis-favorable-annule-sans-interrogatoire-ouverture-cassation-octobre-2026/"
+    "title": "Gel des cotisations des complémentaires santé : le Conseil constitutionnel censure la mesure, jugée disproportionnée au regard de la liberté d'entreprendre",
+    "dek": "Par sa décision n° 2026-1230/1231 QPC du 23 octobre 2026, le Conseil constitutionnel juge que l'interdiction de toute hausse en 2026, quelle qu'en soit la cause, porte une atteinte disproportionnée à la liberté d'entreprendre et à la liberté contractuelle ; la phrase du gel est abrogée, le reste de l'article 13 demeure (analyse issue de comptes rendus de presse et de cabinet, à confirmer sur le texte de la décision).",
+    "source": "Cons. const., 23 oct. 2026, n° 2026-1230/1231 QPC",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261230_1231QPC.htm"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Extradition : la France autorise un nouveau traité avec la Colombie, publié au Journal officiel du 20 octobre 2026",
-      "summary": "La loi autorisant la convention d'extradition franco-colombienne, adoptée par l'Assemblée nationale le 12 octobre, a été publiée au JO du 20 octobre (le détail des dates est à vérifier sur Légifrance).",
-      "source": "JORF du 20 oct. 2026 · Kohen Avocats",
-      "url": "https://kohenavocats.com/en/france-colombia-extradition-treaty-2026-surrender-test-paris-bogota/",
+      "title": "Rétention administrative : un décret n° 2026-977 du 22 octobre 2026 figure au Journal officiel du 23 octobre",
+      "summary": "Le sommaire du JORF n° 0248 mentionne un décret modifiant le code de l'entrée et du séjour des étrangers et du droit d'asile en matière de rétention administrative (contenu précis à vérifier sur Légifrance).",
+      "source": "JORF n° 0248 du 23 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/23/0248",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Agent sportif sans licence : la chambre criminelle rappelle que le mandat signé avec un intermédiaire non titulaire de la carte est nul",
-      "summary": "Rejetant le pourvoi contre une condamnation à six mois avec sursis et 15 000 euros d'amende, la chambre criminelle confirme l'exigence de licence pour l'exercice de l'activité d'agent sportif.",
-      "source": "Cass. crim., 13 oct. 2026, n° 24-87.210",
-      "url": "https://kohenavocats.com/footballeur-agent-sportif-sans-licence-mandat-annuler-commission-recuperer-2026/",
+      "title": "Interdiction de manifester : le juge des référés du Conseil d'État rejette les recours dirigés contre les propos du chef de l'État",
+      "summary": "Selon la presse, le juge des référés relève que ces propos ne révèlent ni interdiction générale ni instruction aux préfets, chacun devant apprécier au cas par cas le risque de troubles à l'ordre public.",
+      "source": "CE, ord. réf., 23 oct. 2026 · Orange / L'Express",
+      "url": "https://actu.orange.fr/politique/interdiction-de-manifester-le-conseil-d-etat-rejette-les-recours-apres-les-declarations-d-emmanuel-macron-l-express-via-6medias-CNT000002tmrXh.html",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Reconnaissance faciale et fichier TAJ : habilitation des enquêteurs, nullités et effacement devant la chambre criminelle",
-      "summary": "Une étude passe en revue les articles 15-5, 55-1 et 230-6 à 230-11 du code de procédure pénale et les arrêts récents sur la consultation du fichier de traitement des antécédents judiciaires.",
-      "source": "Kohen Avocats, étude",
-      "url": "https://kohenavocats.com/reconnaissance-faciale-fichier-taj-nullites-effacement-articles-230-6-230-11-cpp-chambre-criminelle/",
+      "title": "Association de malfaiteurs : ce que le juge doit prouver, la peine encourue et les moyens de contestation",
+      "summary": "Un commentaire de cabinet s'appuie sur un arrêt de la chambre criminelle du 20 octobre 2026 pour détailler les éléments constitutifs de l'infraction.",
+      "source": "Kohen Avocats, commentaire",
+      "url": "https://kohenavocats.com/association-malfaiteurs-peine-contester-arret-20-octobre-2026/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "24 octobre 1648 : la signature des traités de Westphalie met fin à la guerre de Trente Ans",
-      "summary": "Les traités de Münster et d'Osnabrück consacrent la souveraineté des États du Saint-Empire et passent pour l'acte fondateur du droit international moderne.",
-      "source": "Hérodote, Ça s'est passé un 24 octobre",
-      "url": "https://www.herodote.net/almanach-jour-1024.php",
+      "title": "24 octobre 1945 : la Charte des Nations unies entre en vigueur",
+      "summary": "Signée à San Francisco le 26 juin 1945, la Charte prend effet après ratification par la majorité des signataires, dont les membres permanents du Conseil de sécurité ; la date est devenue la Journée des Nations unies.",
+      "source": "Journée des Nations unies",
+      "url": "https://burkina24.com/?p=231834",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Demande de mise en liberté : ce que change le débat contradictoire obligatoire applicable depuis le 23 octobre 2026",
-      "summary": "Un cabinet détaille, pour la personne placée en détention provisoire, les conséquences pratiques de la généralisation du débat contradictoire sur la demande de mise en liberté (à confirmer sur le texte de la loi JCRV).",
-      "source": "Kohen Avocats, fiche pratique",
-      "url": "https://kohenavocats.com/demande-mise-liberte-detention-provisoire-debat-contradictoire-23-octobre-2026/",
+      "title": "Aide juridictionnelle demandée, audience tenue sans avocat : obtenir le renvoi et faire censurer l'arrêt",
+      "summary": "Un cabinet détaille, à partir d'un arrêt de la chambre criminelle du 7 octobre 2026, les diligences utiles lorsque le juge refuse sans motif le renvoi alors que la désignation d'un avocat est attendue.",
+      "source": "Cass. crim., 7 oct. 2026 · Kohen Avocats",
+      "url": "https://kohenavocats.com/aide-juridictionnelle-demandee-audience-sans-avocat-renvoi-censure-cassation-7-octobre-2026/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Manifestation du 24 octobre à Paris : un parcours Bastille-Nation et des interdictions dans plusieurs villes",
-      "summary": "Le parcours est annoncé entre Bastille et Nation, tandis que plusieurs préfectures ont pris des arrêtés d'interdiction, notamment à Marseille et à Grenoble.",
-      "source": "Kohen Avocats, point d'actualité",
-      "url": "https://kohenavocats.com/manifestation-24-octobre-2026-parcours-interdiction-nasse-garde-vue-recours/",
+      "title": "Passage à l'heure d'hiver dans la nuit de ce samedi à dimanche : à 3 heures, il sera 2 heures",
+      "summary": "Le changement d'heure intervient le 25 octobre, date exceptionnellement précoce puisqu'il tombe sur le dernier dimanche du mois ; le retour à l'heure d'été est prévu le 28 mars 2027.",
+      "source": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15263?successfulShare=true",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Principe de spécialité (en matière d'extradition)",
-    "subtitle": "Droit pénal international · Convention européenne d'extradition, art. 14 ; art. 696-6 et s. du Code de procédure pénale",
-    "defShort": "Règle selon laquelle la personne extradée ne peut être poursuivie, jugée ou détenue par l'État requérant que pour les faits ayant motivé l'extradition, et non pour des infractions antérieures distinctes.",
+    "term": "Incompétence négative",
+    "subtitle": "Droit constitutionnel · Article 34 de la Constitution",
+    "defShort": "Vice dont est entachée une loi lorsque le législateur n'a pas exercé pleinement la compétence que l'article 34 lui réserve, en renvoyant à tort au pouvoir réglementaire ou à d'autres autorités le soin de fixer des règles qui relevaient de lui.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'État qui obtient une extradition s'engage implicitement, et souvent expressément, à ne juger la personne que pour les faits visés dans la demande. Elle garantit à l'État requis que l'extradition ne sert pas de prétexte à des poursuites qu'il aurait refusées."
+        "body": "Le législateur « méconnaît l'étendue de sa compétence » lorsqu'il laisse un autre auteur, par imprécision ou par renvoi, déterminer ce que la Constitution lui impose de fixer lui-même. On parle de compétence « négative » parce que le reproche tient à ce que la loi ne fait pas, et non à ce qu'elle fait en empiétant sur autrui (incompétence positive)."
       },
       {
         "h": "Fondement",
-        "body": "Principe coutumier repris par les conventions bilatérales et par l'article 14 de la Convention européenne d'extradition de 1957. En droit interne français, il se retrouve dans le code de procédure pénale (art. 696-6 et suivants), qui réserve le sort des faits antérieurs non couverts par la décision d'extradition."
+        "body": "Article 34 de la Constitution, qui énumère les matières où la loi « fixe les règles » ou « détermine les principes fondamentaux ». Le Conseil constitutionnel en tire un grief autonome contre les lois, notamment lorsqu'elles sont trop imprécises ou renvoient sans encadrement au pouvoir réglementaire."
       },
       {
-        "h": "Limites",
-        "body": "L'État requis peut consentir à une extension (demande complémentaire) ; la personne peut aussi renoncer à la protection, ou la perdre si elle reste sur le territoire de l'État requérant après avoir pu le quitter."
+        "h": "Régime en QPC",
+        "body": "Depuis la décision n° 2010-5 QPC du 18 juin 2010, le grief ne peut être invoqué dans une question prioritaire de constitutionnalité que s'il affecte par lui-même un droit ou une liberté que la Constitution garantit : l'incompétence négative isolée ne suffit pas."
       },
       {
         "h": "Portée",
-        "body": "Ne pas confondre avec la double incrimination, qui exige que les faits soient punissables dans les deux États, ni avec la règle ne bis in idem. La spécialité protège d'abord l'État requis, mais l'individu peut s'en prévaloir devant les juridictions."
+        "body": "C'est un moyen fréquent mais délicat : il suppose d'identifier la matière réservée à la loi, puis de démontrer que le texte critiqué ne l'épuise pas. Il se distingue du moyen tiré de l'atteinte disproportionnée à une liberté, qui porte sur le contenu de la règle et non sur l'auteur de la règle."
       }
     ],
-    "seeAlso": "Voir aussi — double incrimination · remise différée · extradition simplifiée · ne bis in idem"
+    "seeAlso": "Voir aussi — domaine de la loi (art. 34) · pouvoir réglementaire autonome (art. 37) · QPC (art. 61-1) · proportionnalité"
   },
   "date": "2026-10-24",
   "dateShort": "24 oct.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 57,
     "title": "Les pulsars, des horloges pour mesurer l'invisible",

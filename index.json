@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-24",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-24",
+      "slot": "midi",
+      "file": "editions/2026-10-24-midi.json",
+      "essentiel": "Gel des cotisations des complémentaires santé : le Conseil constitutionnel censure la mesure, jugée disproportionnée au regard de la liberté d'entreprendre",
+      "term": "Incompétence négative",
+      "rubriques": [
+        "Rétention administrative : un décret n° 2026-977 du 22 octobre 2026 figure au Journal officiel du 23 octobre",
+        "Interdiction de manifester : le juge des référés du Conseil d'État rejette les recours dirigés contre les propos du chef de l'État",
+        "Association de malfaiteurs : ce que le juge doit prouver, la peine encourue et les moyens de contestation",
+        "24 octobre 1945 : la Charte des Nations unies entre en vigueur",
+        "Aide juridictionnelle demandée, audience tenue sans avocat : obtenir le renvoi et faire censurer l'arrêt",
+        "Passage à l'heure d'hiver dans la nuit de ce samedi à dimanche : à 3 heures, il sera 2 heures"
+      ]
+    },
     {
       "date": "2026-10-24",
       "slot": "matin",

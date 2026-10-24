@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Gel des cotisations des complémentaires santé : le Conseil constitutionnel censure la mesure, jugée disproportionnée au regard de la liberté d'entreprendre",
+    "dek": "Par sa décision n° 2026-1230/1231 QPC du 23 octobre 2026, le Conseil constitutionnel juge que l'interdiction de toute hausse en 2026, quelle qu'en soit la cause, porte une atteinte disproportionnée à la liberté d'entreprendre et à la liberté contractuelle ; la phrase du gel est abrogée, le reste de l'article 13 demeure (analyse issue de comptes rendus de presse et de cabinet, à confirmer sur le texte de la décision).",
+    "source": "Cons. const., 23 oct. 2026, n° 2026-1230/1231 QPC",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261230_1231QPC.htm"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Rétention administrative : un décret n° 2026-977 du 22 octobre 2026 figure au Journal officiel du 23 octobre",
+      "summary": "Le sommaire du JORF n° 0248 mentionne un décret modifiant le code de l'entrée et du séjour des étrangers et du droit d'asile en matière de rétention administrative (contenu précis à vérifier sur Légifrance).",
+      "source": "JORF n° 0248 du 23 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/23/0248",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Interdiction de manifester : le juge des référés du Conseil d'État rejette les recours dirigés contre les propos du chef de l'État",
+      "summary": "Selon la presse, le juge des référés relève que ces propos ne révèlent ni interdiction générale ni instruction aux préfets, chacun devant apprécier au cas par cas le risque de troubles à l'ordre public.",
+      "source": "CE, ord. réf., 23 oct. 2026 · Orange / L'Express",
+      "url": "https://actu.orange.fr/politique/interdiction-de-manifester-le-conseil-d-etat-rejette-les-recours-apres-les-declarations-d-emmanuel-macron-l-express-via-6medias-CNT000002tmrXh.html",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Association de malfaiteurs : ce que le juge doit prouver, la peine encourue et les moyens de contestation",
+      "summary": "Un commentaire de cabinet s'appuie sur un arrêt de la chambre criminelle du 20 octobre 2026 pour détailler les éléments constitutifs de l'infraction.",
+      "source": "Kohen Avocats, commentaire",
+      "url": "https://kohenavocats.com/association-malfaiteurs-peine-contester-arret-20-octobre-2026/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "24 octobre 1945 : la Charte des Nations unies entre en vigueur",
+      "summary": "Signée à San Francisco le 26 juin 1945, la Charte prend effet après ratification par la majorité des signataires, dont les membres permanents du Conseil de sécurité ; la date est devenue la Journée des Nations unies.",
+      "source": "Journée des Nations unies",
+      "url": "https://burkina24.com/?p=231834",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Aide juridictionnelle demandée, audience tenue sans avocat : obtenir le renvoi et faire censurer l'arrêt",
+      "summary": "Un cabinet détaille, à partir d'un arrêt de la chambre criminelle du 7 octobre 2026, les diligences utiles lorsque le juge refuse sans motif le renvoi alors que la désignation d'un avocat est attendue.",
+      "source": "Cass. crim., 7 oct. 2026 · Kohen Avocats",
+      "url": "https://kohenavocats.com/aide-juridictionnelle-demandee-audience-sans-avocat-renvoi-censure-cassation-7-octobre-2026/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Passage à l'heure d'hiver dans la nuit de ce samedi à dimanche : à 3 heures, il sera 2 heures",
+      "summary": "Le changement d'heure intervient le 25 octobre, date exceptionnellement précoce puisqu'il tombe sur le dernier dimanche du mois ; le retour à l'heure d'été est prévu le 28 mars 2027.",
+      "source": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15263?successfulShare=true",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Incompétence négative",
+    "subtitle": "Droit constitutionnel · Article 34 de la Constitution",
+    "defShort": "Vice dont est entachée une loi lorsque le législateur n'a pas exercé pleinement la compétence que l'article 34 lui réserve, en renvoyant à tort au pouvoir réglementaire ou à d'autres autorités le soin de fixer des règles qui relevaient de lui.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Le législateur « méconnaît l'étendue de sa compétence » lorsqu'il laisse un autre auteur, par imprécision ou par renvoi, déterminer ce que la Constitution lui impose de fixer lui-même. On parle de compétence « négative » parce que le reproche tient à ce que la loi ne fait pas, et non à ce qu'elle fait en empiétant sur autrui (incompétence positive)."
+      },
+      {
+        "h": "Fondement",
+        "body": "Article 34 de la Constitution, qui énumère les matières où la loi « fixe les règles » ou « détermine les principes fondamentaux ». Le Conseil constitutionnel en tire un grief autonome contre les lois, notamment lorsqu'elles sont trop imprécises ou renvoient sans encadrement au pouvoir réglementaire."
+      },
+      {
+        "h": "Régime en QPC",
+        "body": "Depuis la décision n° 2010-5 QPC du 18 juin 2010, le grief ne peut être invoqué dans une question prioritaire de constitutionnalité que s'il affecte par lui-même un droit ou une liberté que la Constitution garantit : l'incompétence négative isolée ne suffit pas."
+      },
+      {
+        "h": "Portée",
+        "body": "C'est un moyen fréquent mais délicat : il suppose d'identifier la matière réservée à la loi, puis de démontrer que le texte critiqué ne l'épuise pas. Il se distingue du moyen tiré de l'atteinte disproportionnée à une liberté, qui porte sur le contenu de la règle et non sur l'auteur de la règle."
+      }
+    ],
+    "seeAlso": "Voir aussi — domaine de la loi (art. 34) · pouvoir réglementaire autonome (art. 37) · QPC (art. 61-1) · proportionnalité"
+  },
+  "date": "2026-10-24",
+  "dateShort": "24 oct.",
+  "slot": "midi"
+}
