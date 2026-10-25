@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24",
-  "count": 57,
+  "updated": "2026-10-25",
+  "count": 58,
   "lessons": [
     {
       "n": 1,
@@ -491,6 +491,15 @@
       "terms": [
         "Résidu de chronométrage",
         "Réseau de pulsars"
+      ]
+    },
+    {
+      "n": 58,
+      "file": "astro/lessons/058-la-masse-d-un-pulsar.json",
+      "title": "Peser un pulsar : la masse limite des étoiles à neutrons",
+      "terms": [
+        "Pulsar binaire",
+        "Masse maximale d'une étoile à neutrons"
       ]
     }
   ]

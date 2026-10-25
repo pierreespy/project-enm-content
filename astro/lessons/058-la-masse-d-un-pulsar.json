@@ -1,0 +1,28 @@
+{
+  "n": 58,
+  "title": "Peser un pulsar : la masse limite des étoiles à neutrons",
+  "subtitle": "Comment un pulsar en couple révèle sa masse, et pourquoi elle ne peut pas dépasser un plafond",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un pulsar qui a un voisin",
+      "body": "Un pulsar (jour 56) est parfois en orbite (jour 9) autour d'un autre astre : on parle de pulsar binaire, c'est-à-dire formé d'un couple. Le pulsar, en tournant autour de son compagnon, s'approche et s'éloigne de nous, et ses impulsions arrivent tantôt un peu plus tôt, tantôt un peu plus tard. Ces écarts (jour 57) donnent la forme et la durée de l'orbite. Or l'orbite d'un astre permet de déduire la masse de ses voisins (jour 51) : on obtient ainsi la masse du pulsar, sans jamais l'avoir pesé directement."
+    },
+    {
+      "h": "Un plafond de masse",
+      "body": "Les mesures de ce type donnent des masses allant jusqu'à environ deux fois celle du Soleil, concentrées dans une boule de quelques dizaines de kilomètres. La masse maximale d'une étoile à neutrons (jour 22) est la valeur au-delà de laquelle la pression de la matière ne suffit plus à résister à la gravité : l'astre s'effondre alors en trou noir (jour 23). Chaque pulsar très massif observé relève donc ce plafond, et contraint l'état de la matière en son sein, que personne ne sait reproduire sur Terre."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Pulsar binaire",
+      "def": "Pulsar en orbite autour d'un autre astre, dont les impulsions permettent de déduire l'orbite et donc les masses."
+    },
+    {
+      "term": "Masse maximale d'une étoile à neutrons",
+      "def": "Valeur au-delà de laquelle une étoile à neutrons ne peut plus résister à sa propre gravité et s'effondre en trou noir."
+    }
+  ],
+  "recap": "L'orbite d'un pulsar binaire donne sa masse ; les plus lourds relèvent le plafond au-delà duquel une étoile à neutrons devient un trou noir.",
+  "next": "Demain — que se passe-t-il quand deux étoiles à neutrons fusionnent."
+}

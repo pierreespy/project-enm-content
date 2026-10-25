@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-24",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-10-25",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-25",
+      "slot": "matin",
+      "file": "editions/2026-10-25-matin.json",
+      "essentiel": "Accidents du travail et maladies professionnelles : un décret fixe un nouveau plafond du salaire de référence des indemnités journalières à compter du 1er novembre 2026",
+      "term": "Résolution aux risques et périls du créancier",
+      "rubriques": [
+        "Infirmiers en pratique avancée : un décret du 23 octobre 2026 organise une expérimentation de prise en charge directe des patients au sein des CPTS",
+        "Vente d'un local commercial en violation du droit de préférence du locataire : la chambre commerciale retient la nullité, soumise à une prescription de deux ans",
+        "La résolution unilatérale du contrat dans les relations commerciales : le régime de l'article 1226 du Code civil précisé par la chambre commerciale (2023-2026)",
+        "25 octobre 1836 : l'obélisque de Louqsor est dressé place de la Concorde, à Paris",
+        "Cessation des paiements : les critères d'ouverture d'une procédure collective affinés par la chambre commerciale",
+        "Stocks stratégiques de gazole : un décret du 23 octobre 2026 en fixe les conditions économiques de libération"
+      ]
+    },
     {
       "date": "2026-10-24",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "10 octobre 1793 : la Convention proclame le gouvernement « révolutionnaire jusqu'à la paix »",
         "Sous-traitance : vérifier la garantie de paiement avant tout avenant",
         "Prix Nobel d'économie 2026 : annonce attendue lundi 12 octobre"
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "slot": "midi",
-      "file": "editions/2026-10-09-midi.json",
-      "essentiel": "IntegraGen : le tribunal de commerce d'Évry arbitre ce vendredi entre deux offres de reprise en redressement judiciaire",
-      "term": "Période suspecte",
-      "rubriques": [
-        "Décrets de naturalisation d'octobre 2026 : le suivi des publications au Journal officiel",
-        "Cass. 1re civ., 8 juillet 2026, n° 24-16.567 : cassation partielle d'un arrêt de la cour d'appel de Grenoble",
-        "Cass. soc., 9 avril 2026, n° 24-21.017 (affaire Petit Bateau) : une décision de la chambre sociale commentée",
-        "9 octobre 1874 : le traité de Berne fonde l'Union postale universelle",
-        "Redressement opéré par l'URSSAF : une méthode de calcul irrégulière entraîne l'annulation de l'ensemble du redressement",
-        "Septembre 2026 : le deuxième septembre le plus chaud jamais observé en France"
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "slot": "matin",
-      "file": "editions/2026-10-09-matin.json",
-      "essentiel": "Vente anticipée d'un bien saisi : le Conseil constitutionnel valide l'article 706-152 du code de procédure pénale sous réserve d'interprétation",
-      "term": "Subrogation réelle",
-      "rubriques": [
-        "Décret n° 2026-929 du 6 octobre 2026 : les compétences liées à un mandat électif local (article L. 6112-5 du code du travail)",
-        "Cass. crim., 10 février 2026, n° 25-80.975 : le faux en écriture publique commis pendant l'information viole une règle de procédure pénale",
-        "L'offre de preuve contraire en diffamation (art. 56 de la loi du 29 juillet 1881) : délai préfix de cinq jours et déchéance",
-        "9 octobre 1981 : la France abolit la peine de mort, sous l'impulsion de Robert Badinter",
-        "Contrôle positif à l'alcool : éthylomètre contesté, marge d'erreur, vérification et défense du permis",
-        "Prix Nobel de la paix 2026 : le comité d'Oslo dévoile son lauréat ce vendredi à 11 h"
       ]
     }
   ]

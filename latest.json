@@ -1,121 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Gel des cotisations des complémentaires santé : le Conseil constitutionnel censure la mesure, jugée disproportionnée au regard de la liberté d'entreprendre",
-    "dek": "Par sa décision n° 2026-1230/1231 QPC du 23 octobre 2026, le Conseil constitutionnel juge que l'interdiction de toute hausse en 2026, quelle qu'en soit la cause, porte une atteinte disproportionnée à la liberté d'entreprendre et à la liberté contractuelle ; la phrase du gel est abrogée, le reste de l'article 13 demeure (analyse issue de comptes rendus de presse et de cabinet, à confirmer sur le texte de la décision).",
-    "source": "Cons. const., 23 oct. 2026, n° 2026-1230/1231 QPC",
-    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261230_1231QPC.htm"
+    "title": "Accidents du travail et maladies professionnelles : un décret fixe un nouveau plafond du salaire de référence des indemnités journalières à compter du 1er novembre 2026",
+    "dek": "Un article spécialisé annonce un décret relatif au plafond du salaire de référence servant au calcul des indemnités journalières AT/MP, applicable au 1er novembre 2026 ; le texte et les montants sont à confirmer sur Légifrance.",
+    "source": "Santexpertise, décret IJ AT/MP · octobre 2026",
+    "url": "https://www.santexpertise.com/actualites/decret-ij-at-mp-plafond-salaire-reference-novembre-2026/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Rétention administrative : un décret n° 2026-977 du 22 octobre 2026 figure au Journal officiel du 23 octobre",
-      "summary": "Le sommaire du JORF n° 0248 mentionne un décret modifiant le code de l'entrée et du séjour des étrangers et du droit d'asile en matière de rétention administrative (contenu précis à vérifier sur Légifrance).",
-      "source": "JORF n° 0248 du 23 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/23/0248",
+      "title": "Infirmiers en pratique avancée : un décret du 23 octobre 2026 organise une expérimentation de prise en charge directe des patients au sein des CPTS",
+      "summary": "Selon le sommaire du Journal officiel du 24 octobre, le décret n° 2026-985 vise les infirmiers en pratique avancée participant à une communauté professionnelle territoriale de santé (contenu détaillé à vérifier sur Légifrance).",
+      "source": "JORF n° 0249 du 24 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/24/0249",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Interdiction de manifester : le juge des référés du Conseil d'État rejette les recours dirigés contre les propos du chef de l'État",
-      "summary": "Selon la presse, le juge des référés relève que ces propos ne révèlent ni interdiction générale ni instruction aux préfets, chacun devant apprécier au cas par cas le risque de troubles à l'ordre public.",
-      "source": "CE, ord. réf., 23 oct. 2026 · Orange / L'Express",
-      "url": "https://actu.orange.fr/politique/interdiction-de-manifester-le-conseil-d-etat-rejette-les-recours-apres-les-declarations-d-emmanuel-macron-l-express-via-6medias-CNT000002tmrXh.html",
+      "title": "Vente d'un local commercial en violation du droit de préférence du locataire : la chambre commerciale retient la nullité, soumise à une prescription de deux ans",
+      "summary": "Rejetant le pourvoi du locataire, dont les demandes avaient été jugées prescrites, la chambre commerciale applique à l'action en nullité le délai de deux ans (arrêt du 18 décembre 2025, rappelé ici pour son intérêt pratique).",
+      "source": "Cass. com., 18 déc. 2025, n° 24-10.767 · Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/affaires/275-baux-commerciaux/102511-violation-du-droit-de-preference-du-locataire-commercial.html",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Association de malfaiteurs : ce que le juge doit prouver, la peine encourue et les moyens de contestation",
-      "summary": "Un commentaire de cabinet s'appuie sur un arrêt de la chambre criminelle du 20 octobre 2026 pour détailler les éléments constitutifs de l'infraction.",
-      "source": "Kohen Avocats, commentaire",
-      "url": "https://kohenavocats.com/association-malfaiteurs-peine-contester-arret-20-octobre-2026/",
+      "title": "La résolution unilatérale du contrat dans les relations commerciales : le régime de l'article 1226 du Code civil précisé par la chambre commerciale (2023-2026)",
+      "summary": "Une étude de cabinet passe en revue trois années d'arrêts de la chambre commerciale sur la notification de résolution, la mise en demeure et le contrôle a posteriori du juge.",
+      "source": "Kohen Avocats, étude · 21 juill. 2026",
+      "url": "https://kohenavocats.fr/2026/07/21/resolution-unilaterale-contrats-affaires-article-1226-code-civil-chambre-commerciale-2023-2026/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "24 octobre 1945 : la Charte des Nations unies entre en vigueur",
-      "summary": "Signée à San Francisco le 26 juin 1945, la Charte prend effet après ratification par la majorité des signataires, dont les membres permanents du Conseil de sécurité ; la date est devenue la Journée des Nations unies.",
-      "source": "Journée des Nations unies",
-      "url": "https://burkina24.com/?p=231834",
+      "title": "25 octobre 1836 : l'obélisque de Louqsor est dressé place de la Concorde, à Paris",
+      "summary": "Offert à la France par l'Égypte, le monument de plus de trois mille ans est érigé devant la foule sur l'ancienne place Louis-XV.",
+      "source": "Hérodote, Ça s'est passé un 25 octobre",
+      "url": "https://www.herodote.net/almanach-jour-1025.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Aide juridictionnelle demandée, audience tenue sans avocat : obtenir le renvoi et faire censurer l'arrêt",
-      "summary": "Un cabinet détaille, à partir d'un arrêt de la chambre criminelle du 7 octobre 2026, les diligences utiles lorsque le juge refuse sans motif le renvoi alors que la désignation d'un avocat est attendue.",
-      "source": "Cass. crim., 7 oct. 2026 · Kohen Avocats",
-      "url": "https://kohenavocats.com/aide-juridictionnelle-demandee-audience-sans-avocat-renvoi-censure-cassation-7-octobre-2026/",
+      "title": "Cessation des paiements : les critères d'ouverture d'une procédure collective affinés par la chambre commerciale",
+      "summary": "Une étude pratique rappelle comment s'apprécie l'actif disponible face au passif exigible, point de départ de la déclaration de cessation des paiements dans les quarante-cinq jours.",
+      "source": "Kohen Avocats, étude · 22 juill. 2026",
+      "url": "https://kohenavocats.fr/2026/07/22/caracterisation-cession-paiements-procedures-collectives-chambre-commerciale-2023-2026/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Passage à l'heure d'hiver dans la nuit de ce samedi à dimanche : à 3 heures, il sera 2 heures",
-      "summary": "Le changement d'heure intervient le 25 octobre, date exceptionnellement précoce puisqu'il tombe sur le dernier dimanche du mois ; le retour à l'heure d'été est prévu le 28 mars 2027.",
-      "source": "Service-public.fr",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15263?successfulShare=true",
+      "title": "Stocks stratégiques de gazole : un décret du 23 octobre 2026 en fixe les conditions économiques de libération",
+      "summary": "Le décret n° 2026-981, publié au Journal officiel du 24 octobre, encadre les conditions économiques dans lesquelles des stocks stratégiques de gazole peuvent être remis sur le marché.",
+      "source": "JORF n° 0249 du 24 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/24/0249",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Incompétence négative",
-    "subtitle": "Droit constitutionnel · Article 34 de la Constitution",
-    "defShort": "Vice dont est entachée une loi lorsque le législateur n'a pas exercé pleinement la compétence que l'article 34 lui réserve, en renvoyant à tort au pouvoir réglementaire ou à d'autres autorités le soin de fixer des règles qui relevaient de lui.",
+    "term": "Résolution aux risques et périls du créancier",
+    "subtitle": "Droit des obligations · Article 1226 du Code civil",
+    "defShort": "Faculté pour le créancier d'une obligation inexécutée de mettre fin au contrat par simple notification, sans juge, en assumant le risque que le juge, saisi ensuite par le débiteur, juge la rupture injustifiée.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Le législateur « méconnaît l'étendue de sa compétence » lorsqu'il laisse un autre auteur, par imprécision ou par renvoi, déterminer ce que la Constitution lui impose de fixer lui-même. On parle de compétence « négative » parce que le reproche tient à ce que la loi ne fait pas, et non à ce qu'elle fait en empiétant sur autrui (incompétence positive)."
+        "body": "Depuis la réforme de 2016, la résolution n'est plus nécessairement judiciaire : le créancier peut rompre lui-même, mais cette rupture est « à ses risques et périls ». Si le juge estime l'inexécution insuffisamment grave, la rupture est fautive et engage sa responsabilité."
       },
       {
         "h": "Fondement",
-        "body": "Article 34 de la Constitution, qui énumère les matières où la loi « fixe les règles » ou « détermine les principes fondamentaux ». Le Conseil constitutionnel en tire un grief autonome contre les lois, notamment lorsqu'elles sont trop imprécises ou renvoient sans encadrement au pouvoir réglementaire."
+        "body": "Article 1226 du Code civil, qui s'ajoute à la clause résolutoire (art. 1225) et à la résolution judiciaire (art. 1227). Sauf urgence, le créancier doit d'abord adresser au débiteur une mise en demeure, selon l'article 1226, alinéa 2, laissant un délai raisonnable pour s'exécuter."
       },
       {
-        "h": "Régime en QPC",
-        "body": "Depuis la décision n° 2010-5 QPC du 18 juin 2010, le grief ne peut être invoqué dans une question prioritaire de constitutionnalité que s'il affecte par lui-même un droit ou une liberté que la Constitution garantit : l'incompétence négative isolée ne suffit pas."
+        "h": "Mécanisme",
+        "body": "La notification de résolution doit mentionner l'inexécution reprochée. Le débiteur peut en contester la régularité ou la gravité devant le juge, qui contrôle a posteriori ; c'est à ce stade que se joue le « risque » pris par le créancier."
       },
       {
         "h": "Portée",
-        "body": "C'est un moyen fréquent mais délicat : il suppose d'identifier la matière réservée à la loi, puis de démontrer que le texte critiqué ne l'épuise pas. Il se distingue du moyen tiré de l'atteinte disproportionnée à une liberté, qui porte sur le contenu de la règle et non sur l'auteur de la règle."
+        "body": "La gravité s'apprécie au sens de l'article 1224 : l'inexécution doit être suffisamment grave. À ne pas confondre avec l'exception d'inexécution (art. 1219), qui suspend sans rompre, ni avec la clause résolutoire, qui supprime en principe tout débat sur la gravité."
       }
     ],
-    "seeAlso": "Voir aussi — domaine de la loi (art. 34) · pouvoir réglementaire autonome (art. 37) · QPC (art. 61-1) · proportionnalité"
+    "seeAlso": "Voir aussi — clause résolutoire (art. 1225) · exception d'inexécution (art. 1219) · résolution judiciaire (art. 1227)"
   },
-  "date": "2026-10-24",
-  "dateShort": "24 oct.",
-  "slot": "midi",
+  "date": "2026-10-25",
+  "dateShort": "25 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 57,
-    "title": "Les pulsars, des horloges pour mesurer l'invisible",
-    "subtitle": "Comment la régularité d'un pulsar révèle ce qui perturbe sa lumière en chemin",
+    "n": 58,
+    "title": "Peser un pulsar : la masse limite des étoiles à neutrons",
+    "subtitle": "Comment un pulsar en couple révèle sa masse, et pourquoi elle ne peut pas dépasser un plafond",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Mesurer un retard minuscule",
-        "body": "Un pulsar (jour 56) émet une impulsion à intervalles presque parfaitement réguliers. On peut donc prédire à quel instant précis la prochaine impulsion devrait nous parvenir. Si elle arrive un peu plus tôt ou un peu plus tard que prévu, quelque chose a changé sur son trajet ou autour de l'astre. Ce décalage, l'écart entre l'instant attendu et l'instant observé, est appelé résidu de chronométrage : c'est la mesure brute dont se servent les astronomes."
+        "h": "Un pulsar qui a un voisin",
+        "body": "Un pulsar (jour 56) est parfois en orbite (jour 9) autour d'un autre astre : on parle de pulsar binaire, c'est-à-dire formé d'un couple. Le pulsar, en tournant autour de son compagnon, s'approche et s'éloigne de nous, et ses impulsions arrivent tantôt un peu plus tôt, tantôt un peu plus tard. Ces écarts (jour 57) donnent la forme et la durée de l'orbite. Or l'orbite d'un astre permet de déduire la masse de ses voisins (jour 51) : on obtient ainsi la masse du pulsar, sans jamais l'avoir pesé directement."
       },
       {
-        "h": "Ce que le rythme peut révéler",
-        "body": "Les causes possibles sont variées. Un astre compagnon qui tourne autour du pulsar (jour 51) le fait osciller et décale ses impulsions de façon périodique : on déduit sa présence, et sa masse, sans jamais l'avoir vu. De même, quand les ondes gravitationnelles (jour 32) traversent l'espace entre le pulsar et la Terre, elles déforment légèrement l'espace-temps (jour 37) et modifient les temps d'arrivée. Une seule horloge ne suffit pas à l'affirmer, mais un réseau de pulsars dont les retards évoluent ensemble devient un détecteur à l'échelle de la galaxie."
+        "h": "Un plafond de masse",
+        "body": "Les mesures de ce type donnent des masses allant jusqu'à environ deux fois celle du Soleil, concentrées dans une boule de quelques dizaines de kilomètres. La masse maximale d'une étoile à neutrons (jour 22) est la valeur au-delà de laquelle la pression de la matière ne suffit plus à résister à la gravité : l'astre s'effondre alors en trou noir (jour 23). Chaque pulsar très massif observé relève donc ce plafond, et contraint l'état de la matière en son sein, que personne ne sait reproduire sur Terre."
       }
     ],
     "keyTerms": [
       {
-        "term": "Résidu de chronométrage",
-        "def": "Écart entre l'instant d'arrivée prévu d'une impulsion de pulsar et l'instant réellement observé."
+        "term": "Pulsar binaire",
+        "def": "Pulsar en orbite autour d'un autre astre, dont les impulsions permettent de déduire l'orbite et donc les masses."
       },
       {
-        "term": "Réseau de pulsars",
-        "def": "Ensemble de pulsars surveillés simultanément, dont on compare les retards pour détecter une perturbation commune."
+        "term": "Masse maximale d'une étoile à neutrons",
+        "def": "Valeur au-delà de laquelle une étoile à neutrons ne peut plus résister à sa propre gravité et s'effondre en trou noir."
       }
     ],
-    "recap": "La régularité d'un pulsar fait de lui une horloge : tout écart d'une impulsion trahit un compagnon invisible ou le passage d'ondes gravitationnelles.",
-    "next": "Demain — comment on mesure la masse d'un pulsar et pourquoi elle borne la taille des étoiles à neutrons."
+    "recap": "L'orbite d'un pulsar binaire donne sa masse ; les plus lourds relèvent le plafond au-delà duquel une étoile à neutrons devient un trou noir.",
+    "next": "Demain — que se passe-t-il quand deux étoiles à neutrons fusionnent."
   }
 }
