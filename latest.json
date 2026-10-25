@@ -1,43 +1,43 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Accidents du travail et maladies professionnelles : un décret fixe un nouveau plafond du salaire de référence des indemnités journalières à compter du 1er novembre 2026",
-    "dek": "Un article spécialisé annonce un décret relatif au plafond du salaire de référence servant au calcul des indemnités journalières AT/MP, applicable au 1er novembre 2026 ; le texte et les montants sont à confirmer sur Légifrance.",
-    "source": "Santexpertise, décret IJ AT/MP · octobre 2026",
-    "url": "https://www.santexpertise.com/actualites/decret-ij-at-mp-plafond-salaire-reference-novembre-2026/"
+    "title": "Licenciement économique : une baisse de chiffre d'affaires, même sur la durée légale de référence, ne suffit pas à elle seule à caractériser des difficultés économiques",
+    "dek": "Dans un arrêt de la chambre sociale du 7 octobre 2026 (pourvoi n° 25-10.107), la Cour de cassation précise que la baisse des indicateurs économiques doit s'apprécier avec d'autres éléments pour justifier le motif économique ; les juges du fond doivent donc motiver au-delà du seul chiffre d'affaires (résumé de presse spécialisée, texte à vérifier sur Légifrance).",
+    "source": "Cass. soc., 7 oct. 2026, n° 25-10.107 · veille jurisprudentielle",
+    "url": "https://mimoun-avocat.com/jurisprudence.html"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Infirmiers en pratique avancée : un décret du 23 octobre 2026 organise une expérimentation de prise en charge directe des patients au sein des CPTS",
-      "summary": "Selon le sommaire du Journal officiel du 24 octobre, le décret n° 2026-985 vise les infirmiers en pratique avancée participant à une communauté professionnelle territoriale de santé (contenu détaillé à vérifier sur Légifrance).",
-      "source": "JORF n° 0249 du 24 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/24/0249",
+      "title": "Commande publique : un décret remplace l'observatoire économique par un Conseil national de la commande publique",
+      "summary": "Le décret n° 2026-780 du 14 août 2026 modifie le code de la commande publique pour instituer le CNCP, en vigueur depuis le 16 août (rappel utile aux acheteurs et aux entreprises).",
+      "source": "Décret n° 2026-780 du 14 août 2026 · Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/public/281-contrats-publics/105468-creation-du-conseil-national-de-la-commande-publique-cncp.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Vente d'un local commercial en violation du droit de préférence du locataire : la chambre commerciale retient la nullité, soumise à une prescription de deux ans",
-      "summary": "Rejetant le pourvoi du locataire, dont les demandes avaient été jugées prescrites, la chambre commerciale applique à l'action en nullité le délai de deux ans (arrêt du 18 décembre 2025, rappelé ici pour son intérêt pratique).",
-      "source": "Cass. com., 18 déc. 2025, n° 24-10.767 · Le Monde du Droit",
-      "url": "https://www.lemondedudroit.fr/affaires/275-baux-commerciaux/102511-violation-du-droit-de-preference-du-locataire-commercial.html",
+      "title": "Prévention du harcèlement moral : l'action en réparation du manquement de l'employeur se prescrit par deux ans",
+      "summary": "La chambre sociale, par un arrêt publié du 7 octobre 2026 (pourvoi n° 25-11.362), retient le délai biennal pour cette action (à confirmer sur le texte de l'arrêt).",
+      "source": "Cass. soc., 7 oct. 2026, n° 25-11.362 · Actance Avocats, veille",
+      "url": "https://www.actanceavocats.com/veille-juridique",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "La résolution unilatérale du contrat dans les relations commerciales : le régime de l'article 1226 du Code civil précisé par la chambre commerciale (2023-2026)",
-      "summary": "Une étude de cabinet passe en revue trois années d'arrêts de la chambre commerciale sur la notification de résolution, la mise en demeure et le contrôle a posteriori du juge.",
-      "source": "Kohen Avocats, étude · 21 juill. 2026",
-      "url": "https://kohenavocats.fr/2026/07/21/resolution-unilaterale-contrats-affaires-article-1226-code-civil-chambre-commerciale-2023-2026/",
+      "title": "Jurisprudence sociale : les décisions marquantes de la Cour de cassation de septembre 2026",
+      "summary": "Une chronique du Village de la Justice récapitule les arrêts sociaux du mois, utile pour situer ceux d'octobre dans la ligne de la chambre sociale.",
+      "source": "Village de la Justice, chronique · octobre 2026",
+      "url": "https://www.village-justice.com/articles/jurisprudence-sociale-les-decisions-marquantes-cour-cassation-mois-septembre,59580.html",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "25 octobre 1836 : l'obélisque de Louqsor est dressé place de la Concorde, à Paris",
-      "summary": "Offert à la France par l'Égypte, le monument de plus de trois mille ans est érigé devant la foule sur l'ancienne place Louis-XV.",
+      "title": "25 octobre 1415 : la bataille d'Azincourt, désastre de la chevalerie française",
+      "summary": "Le jour de la Saint-Crépin, l'armée d'Henri V d'Angleterre écrase la chevalerie française pendant la guerre de Cent Ans.",
       "source": "Hérodote, Ça s'est passé un 25 octobre",
       "url": "https://www.herodote.net/almanach-jour-1025.php",
       "ink": "#7d5a1c",
@@ -45,51 +45,51 @@
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Cessation des paiements : les critères d'ouverture d'une procédure collective affinés par la chambre commerciale",
-      "summary": "Une étude pratique rappelle comment s'apprécie l'actif disponible face au passif exigible, point de départ de la déclaration de cessation des paiements dans les quarante-cinq jours.",
-      "source": "Kohen Avocats, étude · 22 juill. 2026",
-      "url": "https://kohenavocats.fr/2026/07/22/caracterisation-cession-paiements-procedures-collectives-chambre-commerciale-2023-2026/",
+      "title": "Expulsion d'un réfugié sans retrait préalable du statut : ce que juge le Conseil d'État le 14 octobre 2026 et comment contester",
+      "summary": "Selon ce commentaire d'avocat, le Conseil d'État censure pour erreur de droit le juge des référés de Paris (décision n° 510401, à vérifier sur le texte officiel).",
+      "source": "CE, 14 oct. 2026, n° 510401 · Kohen Avocats",
+      "url": "https://kohenavocats.com/expulsion-refugie-sans-retrait-statut-conseil-etat-14-octobre-2026-contester/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Stocks stratégiques de gazole : un décret du 23 octobre 2026 en fixe les conditions économiques de libération",
-      "summary": "Le décret n° 2026-981, publié au Journal officiel du 24 octobre, encadre les conditions économiques dans lesquelles des stocks stratégiques de gazole peuvent être remis sur le marché.",
-      "source": "JORF n° 0249 du 24 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/24/0249",
+      "title": "Le calendrier de la fin d'année 2026 : les rendez-vous politiques, diplomatiques et sportifs à venir",
+      "summary": "La Fondation Jean-Jaurès recense les échéances de la fin d'année, utile pour situer les semaines qui viennent.",
+      "source": "Fondation Jean-Jaurès",
+      "url": "https://www.jean-jaures.org/?p=80763",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Résolution aux risques et périls du créancier",
-    "subtitle": "Droit des obligations · Article 1226 du Code civil",
-    "defShort": "Faculté pour le créancier d'une obligation inexécutée de mettre fin au contrat par simple notification, sans juge, en assumant le risque que le juge, saisi ensuite par le débiteur, juge la rupture injustifiée.",
+    "term": "Préjudice nécessaire",
+    "subtitle": "Responsabilité civile · Droit social · Article 1240 du Code civil",
+    "defShort": "Construction jurisprudentielle selon laquelle certains manquements causent par eux-mêmes un préjudice, ouvrant droit à réparation sans que la victime ait à prouver ni son existence ni son étendue.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Depuis la réforme de 2016, la résolution n'est plus nécessairement judiciaire : le créancier peut rompre lui-même, mais cette rupture est « à ses risques et périls ». Si le juge estime l'inexécution insuffisamment grave, la rupture est fautive et engage sa responsabilité."
+        "body": "En principe, la responsabilité suppose une faute, un préjudice et un lien de causalité, et c'est à la victime de prouver chacun. Le préjudice nécessaire renverse cette logique : la faute suffit, le dommage est présumé de manière irréfragable et le juge ne peut pas rejeter la demande faute de preuve du préjudice."
       },
       {
         "h": "Fondement",
-        "body": "Article 1226 du Code civil, qui s'ajoute à la clause résolutoire (art. 1225) et à la résolution judiciaire (art. 1227). Sauf urgence, le créancier doit d'abord adresser au débiteur une mise en demeure, selon l'article 1226, alinéa 2, laissant un délai raisonnable pour s'exécuter."
+        "body": "Notion purement prétorienne, rattachée à l'article 1240 du Code civil (ex-article 1382). La chambre sociale l'a longtemps appliquée à certains manquements de l'employeur (remise tardive de documents, absence de visite médicale, etc.), à titre de dispense de preuve."
       },
       {
-        "h": "Mécanisme",
-        "body": "La notification de résolution doit mentionner l'inexécution reprochée. Le débiteur peut en contester la régularité ou la gravité devant le juge, qui contrôle a posteriori ; c'est à ce stade que se joue le « risque » pris par le créancier."
+        "h": "Cas visés",
+        "body": "Elle visait des manquements à des obligations formelles ou protectrices, où le dommage est réel mais difficile à établir. Elle se distingue du préjudice moral ou du préjudice d'anxiété, qui exigent d'être démontrés."
       },
       {
         "h": "Portée",
-        "body": "La gravité s'apprécie au sens de l'article 1224 : l'inexécution doit être suffisamment grave. À ne pas confondre avec l'exception d'inexécution (art. 1219), qui suspend sans rompre, ni avec la clause résolutoire, qui supprime en principe tout débat sur la gravité."
+        "body": "La chambre sociale a abandonné cette théorie par un arrêt du 13 avril 2016 : le salarié doit désormais prouver son préjudice, apprécié souverainement par les juges du fond. La notion subsiste comme grille de lecture et dans certains contentieux, d'où son intérêt pour comprendre l'évolution de la charge de la preuve."
       }
     ],
-    "seeAlso": "Voir aussi — clause résolutoire (art. 1225) · exception d'inexécution (art. 1219) · résolution judiciaire (art. 1227)"
+    "seeAlso": "Voir aussi — charge de la preuve (art. 1353) · réparation intégrale · préjudice d'anxiété · dommages-intérêts nominaux"
   },
   "date": "2026-10-25",
   "dateShort": "25 oct.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 58,
     "title": "Peser un pulsar : la masse limite des étoiles à neutrons",

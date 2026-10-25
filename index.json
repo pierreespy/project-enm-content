@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-25",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-25",
+      "slot": "midi",
+      "file": "editions/2026-10-25-midi.json",
+      "essentiel": "Licenciement économique : une baisse de chiffre d'affaires, même sur la durée légale de référence, ne suffit pas à elle seule à caractériser des difficultés économiques",
+      "term": "Préjudice nécessaire",
+      "rubriques": [
+        "Commande publique : un décret remplace l'observatoire économique par un Conseil national de la commande publique",
+        "Prévention du harcèlement moral : l'action en réparation du manquement de l'employeur se prescrit par deux ans",
+        "Jurisprudence sociale : les décisions marquantes de la Cour de cassation de septembre 2026",
+        "25 octobre 1415 : la bataille d'Azincourt, désastre de la chevalerie française",
+        "Expulsion d'un réfugié sans retrait préalable du statut : ce que juge le Conseil d'État le 14 octobre 2026 et comment contester",
+        "Le calendrier de la fin d'année 2026 : les rendez-vous politiques, diplomatiques et sportifs à venir"
+      ]
+    },
     {
       "date": "2026-10-25",
       "slot": "matin",
