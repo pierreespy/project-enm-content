@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-26",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-26",
+      "slot": "midi",
+      "file": "editions/2026-10-26-midi.json",
+      "essentiel": "Pourvoi en cassation sans avocat : le Conseil d'État rejette, le 2 octobre 2026, le recours d'une commune non régularisé malgré invitation",
+      "term": "Concentration des prétentions en appel",
+      "rubriques": [
+        "Médecine légale et expertises médicales : un arrêté du 22 octobre 2026 établit la liste des personnes autorisées à exercer",
+        "Référé-suspension : le Conseil d'État rappelle que l'urgence s'apprécie concrètement, au regard des effets de l'acte contesté",
+        "Experts judiciaires : le revers de la médaille",
+        "26 octobre 1994 : Israël et la Jordanie signent le traité de paix de Wadi Araba",
+        "Tarifs réglementés des professions du droit : les arrêtés applicables du 1er mars 2026 au 29 février 2028",
+        "Vacances de la Toussaint : le calendrier officiel des départs et retours sur les routes"
+      ]
+    },
     {
       "date": "2026-10-26",
       "slot": "matin",
