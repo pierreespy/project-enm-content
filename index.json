@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-25",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-10-26",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-26",
+      "slot": "matin",
+      "file": "editions/2026-10-26-matin.json",
+      "essentiel": "Vote électronique : l'expertise préalable doit porter à la fois sur le logiciel du prestataire et sur les conditions de son déploiement dans l'entreprise",
+      "term": "Contredit de compétence",
+      "rubriques": [
+        "Journal officiel du 25 octobre 2026 : des décrets du 23 octobre abrogent la reconnaissance d'utilité publique de plusieurs associations",
+        "Heures de travail contestées : l'employeur doit fournir au juge les éléments justifiant les horaires réellement accomplis",
+        "Laurent Fabius : la plateforme QPC360° est « un outil utile à tous les acteurs de la procédure »",
+        "26 octobre 1795 : la Convention nationale se sépare, le Directoire prend le relais",
+        "QPC : les délais à connaître devant les juridictions suprêmes et devant le Conseil constitutionnel",
+        "Naturalisations : le Journal officiel du 25 octobre 2026 publie plusieurs centaines de décrets relatifs à la nationalité"
+      ]
+    },
     {
       "date": "2026-10-25",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "11 octobre 1531 : Zwingli meurt à la bataille de Kappel, face aux cantons catholiques",
         "Loi du 23 juillet 2026 : l'aide juridictionnelle des victimes de violences intrafamiliales attendra le 1er janvier 2027",
         "Prix Nobel 2026 : la récompense passe à plus d'un million d'euros"
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "slot": "midi",
-      "file": "editions/2026-10-10-midi.json",
-      "essentiel": "Prud'hommes : depuis le 1er octobre, la requête n'exige plus qu'un bordereau et le dernier bulletin de salaire afférent au litige",
-      "term": "Concentration des prétentions",
-      "rubriques": [
-        "Décret n° 2026-918 du 1er octobre 2026 : le travail d'intérêt général des mineurs dans l'économie sociale et solidaire",
-        "Vol avec violences ayant entraîné la mort d'un retraité creusois : 30 et 25 ans de réclusion criminelle",
-        "Réforme du droit du travail 2026 : la présomption de salariat des plateformes n'est pas encore transposée",
-        "10 octobre 1789 : sur proposition de Talleyrand, la Constituante nationalise les biens de l'Église",
-        "Arrêt maladie en ALD : à partir du 15 octobre 2026, les indemnités journalières sont limitées à un an au lieu de trois",
-        "Météo d'octobre 2026 : les prévisions d'un expert pour le mois"
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "slot": "matin",
-      "file": "editions/2026-10-10-matin.json",
-      "essentiel": "Sous-traitance : le maître d'ouvrage peut répondre des travaux supplémentaires impayés, même s'il ignorait leur réalisation",
-      "term": "Action directe du sous-traitant",
-      "rubriques": [
-        "Décret n° 2026-741 du 6 août 2026 : le droit de l'arbitrage modifié",
-        "Garantie de paiement du sous-traitant : la 3e chambre civile casse partiellement un arrêt sur les avenants de travaux supplémentaires",
-        "Entreprise générale liquidée : le sous-traitant et ses travaux supplémentaires",
-        "10 octobre 1793 : la Convention proclame le gouvernement « révolutionnaire jusqu'à la paix »",
-        "Sous-traitance : vérifier la garantie de paiement avant tout avenant",
-        "Prix Nobel d'économie 2026 : annonce attendue lundi 12 octobre"
       ]
     }
   ]

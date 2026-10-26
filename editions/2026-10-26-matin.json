@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Vote électronique : l'expertise préalable doit porter à la fois sur le logiciel du prestataire et sur les conditions de son déploiement dans l'entreprise",
+    "dek": "Par un arrêt du 7 octobre 2026 (n° 24-60.207), la chambre sociale de la Cour de cassation précise l'étendue de l'expertise indépendante qui précède le recours au vote électronique pour les élections professionnelles : un contrôle limité aux caractéristiques générales du logiciel ne suffit pas.",
+    "source": "Cass. soc., 7 oct. 2026, n° 24-60.207 · panorama AFDT",
+    "url": "https://www.afdt-asso.fr/les-arrets-marquants-de-la-chambre-sociale-de-la-cour-de-cassation-en-2026/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Journal officiel du 25 octobre 2026 : des décrets du 23 octobre abrogent la reconnaissance d'utilité publique de plusieurs associations",
+      "summary": "Le JORF n° 0250 publie des décrets du ministère de l'intérieur qui abrogent la reconnaissance comme établissement d'utilité publique d'associations et de congrégations, dont la Fédération nationale des militaires belges mutilés et invalides de guerre.",
+      "source": "JORF n° 0250 du 25 octobre 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/25/0250",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Heures de travail contestées : l'employeur doit fournir au juge les éléments justifiant les horaires réellement accomplis",
+      "summary": "La chambre sociale, dans un arrêt publié au bulletin, rappelle que, en cas de litige sur l'existence ou le nombre d'heures accomplies, l'employeur doit produire des éléments de nature à justifier les horaires effectivement réalisés par le salarié.",
+      "source": "Cass. soc., 1er juill. 2026, n° 25-15.732, publié au bulletin",
+      "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054392403",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Laurent Fabius : la plateforme QPC360° est « un outil utile à tous les acteurs de la procédure »",
+      "summary": "Le président du Conseil constitutionnel présente le portail qui rassemble les décisions de QPC issues des différentes juridictions et en facilite l'exploitation par les praticiens.",
+      "source": "Actu-Juridique, entretien",
+      "url": "https://www.actu-juridique.fr/constitutionnel/laurent-fabius-qpc360-un-outil-utile-a-tous-les-acteurs-de-la-procedure/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "26 octobre 1795 : la Convention nationale se sépare, le Directoire prend le relais",
+      "summary": "Le 4 brumaire an IV, l'assemblée qui a aboli la monarchie et jugé Louis XVI clôt ses travaux, laissant la place aux institutions de la Constitution de l'an III.",
+      "source": "Wikipédia, « Convention nationale »",
+      "url": "https://fr.wikipedia.org/wiki/Convention_nationale",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "QPC : les délais à connaître devant les juridictions suprêmes et devant le Conseil constitutionnel",
+      "summary": "Le Conseil d'État ou la Cour de cassation disposent de trois mois pour décider du renvoi d'une QPC, et le Conseil constitutionnel de trois mois pour statuer une fois saisi.",
+      "source": "Conseil d'État, dossier thématique sur la QPC",
+      "url": "https://www.conseil-etat.fr/decisions-de-justice/jurisprudence/dossiers-thematiques/la-question-prioritaire-de-constitutionnalite-devant-la-juridiction-administrative",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Naturalisations : le Journal officiel du 25 octobre 2026 publie plusieurs centaines de décrets relatifs à la nationalité",
+      "summary": "Un site spécialisé recense 668 décrets de nationalité dans le numéro du jour, dont 562 naturalisations par décret (chiffres non officiels, à vérifier sur Légifrance).",
+      "source": "naturalisation-facile.fr, d'après le JORF du 25 octobre 2026",
+      "url": "https://naturalisation-facile.fr/decrets/jo/25-octobre-2026",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Contredit de compétence",
+    "subtitle": "Procédure civile · Articles 80 et suivants du Code de procédure civile",
+    "defShort": "Voie de recours spécifique, distincte de l'appel, ouverte contre le jugement par lequel une juridiction se déclare incompétente sans statuer sur le fond.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Le contredit est le recours par lequel une partie conteste devant la cour d'appel une décision qui se prononce sur la compétence de la juridiction saisie, lorsque cette décision ne tranche pas le fond du litige. Il se distingue de l'appel par sa forme, son délai court et son instruction accélérée."
+      },
+      {
+        "h": "Fondement",
+        "body": "Il est régi par les articles 80 et suivants du Code de procédure civile. Il doit être formé dans un délai de quinze jours à compter de la notification de la décision et être motivé, à peine d'irrecevabilité. Il est formé par déclaration remise ou adressée au greffe de la juridiction qui a statué."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Il concerne la décision par laquelle le juge se déclare incompétent sans statuer sur le fond. Lorsque la décision statue à la fois sur la compétence et sur le fond, ou lorsque l'incompétence tient à la matière ou au territoire selon les cas, la voie ouverte est celle de l'appel : le choix de la mauvaise voie est sanctionné par l'irrecevabilité, d'où l'importance de la qualifier avec soin."
+      },
+      {
+        "h": "Portée",
+        "body": "Le contredit est instruit et jugé selon une procédure accélérée devant la cour d'appel, qui peut, en cas d'infirmation, évoquer le fond ou renvoyer l'affaire. La rapidité de la voie recherchée évite que le litige n'avance devant un juge dont la compétence est douteuse."
+      }
+    ],
+    "seeAlso": "Voir aussi — exception d'incompétence (art. 74 et s. CPC) · appel-nullité · évocation (art. 88 CPC)"
+  },
+  "date": "2026-10-26",
+  "dateShort": "26 oct.",
+  "slot": "matin"
+}

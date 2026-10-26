@@ -1,0 +1,22 @@
+{
+  "n": 59,
+  "title": "Quand deux étoiles à neutrons fusionnent",
+  "subtitle": "Pourquoi un couple d'étoiles à neutrons finit par se rejoindre, et ce que cette collision produit",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un couple qui se rapproche",
+      "body": "Un couple de deux étoiles à neutrons (jour 22) en orbite (jour 9) l'une autour de l'autre n'est pas éternel. En tournant, il émet des ondes gravitationnelles (jour 32), c'est-à-dire des déformations de l'espace qui se propagent et emportent de l'énergie. En perdant de l'énergie, les deux astres se rapprochent lentement, tournent de plus en plus vite, puis finissent par se rejoindre : c'est la fusion. Pour les couples connus, cette chute se compte en centaines de millions d'années."
+    },
+    {
+      "h": "Ce que produit la collision",
+      "body": "La fusion libère en quelques secondes une énergie colossale. Elle projette dans l'espace de la matière extrêmement dense, riche en neutrons, qui se transforme en éléments lourds (jour 21), comme l'or ou le platine. L'astre issu de la fusion devient soit une étoile à neutrons plus massive, soit un trou noir (jour 23) si la masse totale dépasse le plafond vu au jour 58. Le flash de lumière qui accompagne la projection de cette matière s'appelle une kilonova."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Fusion d'étoiles à neutrons", "def": "Collision de deux étoiles à neutrons en orbite l'une autour de l'autre, qui se rapprochent en émettant des ondes gravitationnelles jusqu'à se rejoindre." },
+    { "term": "Kilonova", "def": "Flash de lumière produit par la matière dense éjectée lors d'une fusion d'étoiles à neutrons, où se forment des éléments lourds comme l'or." }
+  ],
+  "recap": "Deux étoiles à neutrons en couple se rapprochent en émettant des ondes gravitationnelles, puis fusionnent en produisant une kilonova, source d'éléments lourds.",
+  "next": "Demain — comment on a observé une fusion à la fois par ses ondes et par sa lumière."
+}

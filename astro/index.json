@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25",
-  "count": 58,
+  "updated": "2026-10-26",
+  "count": 59,
   "lessons": [
     {
       "n": 1,
@@ -500,6 +500,15 @@
       "terms": [
         "Pulsar binaire",
         "Masse maximale d'une étoile à neutrons"
+      ]
+    },
+    {
+      "n": 59,
+      "file": "astro/lessons/059-la-fusion-de-deux-etoiles-a-neutrons.json",
+      "title": "Quand deux étoiles à neutrons fusionnent",
+      "terms": [
+        "Fusion d'étoiles à neutrons",
+        "Kilonova"
       ]
     }
   ]
