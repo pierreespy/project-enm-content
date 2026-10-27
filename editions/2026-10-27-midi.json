@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "PLFSS 2027 : l'Assemblée nationale rejette le projet de loi en première lecture, la seconde partie n'ayant pas été adoptée le 23 octobre",
+    "dek": "Faute d'adoption de la deuxième partie du texte le 23 octobre 2026, le projet de loi de financement de la sécurité sociale pour 2027 est réputé rejeté en première lecture à l'Assemblée nationale, avec un Ondam initialement prévu en progression de 2,0 %. Le texte poursuit son parcours vers le Sénat.",
+    "source": "Le Monde du Droit · 26 oct. 2026 (T.A. n° 358)",
+    "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106038-plfss-2027-rejet-a-l-an.html"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Établissements sociaux et médico-sociaux expérimentaux : la loi du 21 octobre 2026 assouplit la procédure d'autorisation",
+      "summary": "La loi n° 2026-975 du 21 octobre 2026, publiée au Journal officiel du 22 octobre, allège les règles d'autorisation applicables aux établissements sociaux et médico-sociaux à caractère expérimental.",
+      "source": "Loi n° 2026-975 du 21 oct. 2026 · JORF du 22 oct. 2026",
+      "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106347-assouplissement-de-la-procedure-d-autorisation-des-etablissements-sociaux-a-caractere-experimental.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Agence commerciale : les accords de sortie conclus pendant le préavis sont risqués, juge la CJUE",
+      "summary": "Dans l'arrêt Bank Nagelmackers (C-204/25, 23 avril 2026), la Cour retient que le contrat d'agence ne prend fin qu'à l'expiration du préavis, de sorte que la protection impérative de la directive 86/653 s'applique à tout accord transactionnel conclu avant cette échéance.",
+      "source": "CJUE, 23 avr. 2026, C-204/25",
+      "url": "https://www.fieldfisher.com/en/insights/cjeu-confirms-settlement-agreements-in-commercial-agency-contracts-concluded-before-the-end-of-the",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Cass. com., 7 octobre 2026 : cinq arrêts qui verrouillent la protection des tiers (cession, caution, dirigeant)",
+      "summary": "Un commentaire d'avocat rassemble les cinq arrêts publiés au Bulletin par la chambre commerciale le 7 octobre 2026, relatifs notamment à la cession de parts de SARL, à l'engagement de la caution et à la responsabilité du dirigeant.",
+      "source": "Kohen Avocats, 14 oct. 2026",
+      "url": "https://kohenavocats.fr/2026/10/14/cass-com-7-octobre-2026-cinq-arrets-protection-tiers-cession-caution-dirigeant/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "27 octobre 1904 : le métro de New York est inauguré",
+      "summary": "Le 27 octobre 1904, la première ligne du subway de New York ouvre au public, quatre ans après l'ouverture de la ligne 1 du métro parisien (19 juillet 1900).",
+      "source": "Histoire des transports urbains",
+      "url": "https://en.wikipedia.org/wiki/New_York_City_Subway",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Discipline des avocats : la CEDH admet l'obligation de comparaître en personne, sous réserve d'entendre le représentant sur les motifs de l'absence",
+      "summary": "Dans un avis consultatif du 20 octobre 2026 demandé par la Cour constitutionnelle du Luxembourg, la Cour juge l'article 6 compatible avec une comparution personnelle obligatoire, à condition que l'organe disciplinaire puisse apprécier si l'absence vaut renonciation claire à se défendre.",
+      "source": "CEDH, avis consultatif, 20 oct. 2026",
+      "url": "https://www.lemondedudroit.fr/avocat/106327-cedh-obligation-des-avocats-de-comparaitre-en-personne-devant-les-instances-disciplinaires.html",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Météo-France : des cartes de vigilance désormais détaillées par secteur au sein d'un même département",
+      "summary": "Depuis le 1er septembre 2026, la vigilance distingue, dans un même département, les secteurs les plus exposés au vent, à la pluie-inondation, aux orages et à la neige-verglas.",
+      "source": "Service-public.fr",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19058?lang=en",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Réméré",
+    "subtitle": "Droit des contrats spéciaux · Articles 1659 et suivants du Code civil",
+    "defShort": "Faculté stipulée au profit du vendeur de reprendre la chose vendue en restituant à l'acheteur le prix principal et les frais, dans un délai qui ne peut excéder cinq ans.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "La vente à réméré est une vente assortie d'une condition résolutoire potestative : le vendeur peut, en exerçant sa faculté de rachat, anéantir rétroactivement la vente. Elle ne se confond pas avec une promesse de revente, qui n'opère pas de plein droit."
+      },
+      {
+        "h": "Fondement",
+        "body": "Article 1659 du Code civil : la faculté de rachat est un pacte par lequel le vendeur se réserve de reprendre la chose vendue, moyennant la restitution du prix principal et le remboursement des frais. L'article 1660 limite sa durée à cinq ans, délai de rigueur non susceptible de prorogation par le juge."
+      },
+      {
+        "h": "Portée",
+        "body": "Exercée dans le délai, la faculté fait revenir le bien dans le patrimoine du vendeur libre des charges consenties par l'acquéreur (art. 1673). Le vendeur qui n'a pas exercé sa faculté dans le délai en est déchu et l'acquéreur devient propriétaire irrévocable (art. 1662)."
+      },
+      {
+        "h": "À ne pas confondre",
+        "body": "Le réméré est parfois utilisé comme une garantie déguisée : le juge requalifie en gage ou en prêt garanti la vente à réméré dont le prix est dérisoire et dont le vendeur reste en possession, afin d'écarter le pacte commissoire prohibé (art. 2459 du Code civil pour l'hypothèque, art. 2348 pour le gage)."
+      }
+    ],
+    "seeAlso": "Voir aussi — condition résolutoire (art. 1304-7) · pacte commissoire (art. 2348) · promesse unilatérale de vente (art. 1124) · rescision pour lésion (art. 1674)"
+  },
+  "date": "2026-10-27",
+  "dateShort": "27 oct.",
+  "slot": "midi"
+}

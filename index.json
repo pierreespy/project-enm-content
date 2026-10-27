@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-27",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-27",
+      "slot": "midi",
+      "file": "editions/2026-10-27-midi.json",
+      "essentiel": "PLFSS 2027 : l'Assemblée nationale rejette le projet de loi en première lecture, la seconde partie n'ayant pas été adoptée le 23 octobre",
+      "term": "Réméré",
+      "rubriques": [
+        "Établissements sociaux et médico-sociaux expérimentaux : la loi du 21 octobre 2026 assouplit la procédure d'autorisation",
+        "Agence commerciale : les accords de sortie conclus pendant le préavis sont risqués, juge la CJUE",
+        "Cass. com., 7 octobre 2026 : cinq arrêts qui verrouillent la protection des tiers (cession, caution, dirigeant)",
+        "27 octobre 1904 : le métro de New York est inauguré",
+        "Discipline des avocats : la CEDH admet l'obligation de comparaître en personne, sous réserve d'entendre le représentant sur les motifs de l'absence",
+        "Météo-France : des cartes de vigilance désormais détaillées par secteur au sein d'un même département"
+      ]
+    },
     {
       "date": "2026-10-27",
       "slot": "matin",
