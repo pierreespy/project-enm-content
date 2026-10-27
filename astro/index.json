@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26",
-  "count": 59,
+  "updated": "2026-10-27",
+  "count": 60,
   "lessons": [
     {
       "n": 1,
@@ -509,6 +509,14 @@
       "terms": [
         "Fusion d'étoiles à neutrons",
         "Kilonova"
+      ]
+    },
+    {
+      "n": 60,
+      "file": "astro/lessons/060-observer-une-fusion-par-les-ondes-et-la-lumiere.json",
+      "title": "Une fusion observée par ses ondes et par sa lumière",
+      "terms": [
+        "Astronomie multi-messagers"
       ]
     }
   ]

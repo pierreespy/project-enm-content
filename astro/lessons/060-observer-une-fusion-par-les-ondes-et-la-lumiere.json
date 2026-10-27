@@ -1,0 +1,21 @@
+{
+  "n": 60,
+  "title": "Une fusion observée par ses ondes et par sa lumière",
+  "subtitle": "Le 17 août 2017, un même événement a été détecté de deux façons différentes",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Deux signaux pour un seul événement",
+      "body": "Le 17 août 2017, des détecteurs terrestres ont enregistré des ondes gravitationnelles (jour 32) produites par la fusion de deux étoiles à neutrons (jour 59), située à environ 130 millions d'années-lumière (jour 4). Moins de deux secondes plus tard, un télescope spatial a enregistré un bref éclair de lumière très énergétique venant de la même région du ciel. Les ondes et la lumière sont deux messagers distincts, qui transportent chacun une information différente sur le même événement."
+    },
+    {
+      "h": "Pourquoi cette coïncidence compte",
+      "body": "Les ondes gravitationnelles seules donnent une position approximative dans le ciel. Grâce à elles, les astronomes ont pu orienter leurs télescopes et retrouver, quelques heures plus tard, la lumière d'une kilonova (jour 59) dans une galaxie précise. On a ainsi vu la même fusion à la fois « entendue » par ses ondes et « vue » par sa lumière, ce qui a confirmé que ces collisions fabriquent bien des éléments lourds (jour 21) comme l'or. On appelle astronomie multi-messagers cette façon de combiner plusieurs types de signaux issus d'un même événement."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Astronomie multi-messagers", "def": "Étude d'un même événement cosmique en combinant plusieurs types de signaux, par exemple des ondes gravitationnelles et de la lumière." }
+  ],
+  "recap": "Une même fusion d'étoiles à neutrons a été détectée à la fois par ses ondes gravitationnelles et par sa lumière, ce qui a permis de la localiser et d'en confirmer les effets.",
+  "next": "Demain — ce que cette double observation permet de mesurer."
+}

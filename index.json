@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-26",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-10-27",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-27",
+      "slot": "matin",
+      "file": "editions/2026-10-27-matin.json",
+      "essentiel": "Partage judiciaire : le décret du 18 octobre 2026 réécrit la procédure, avec avocat obligatoire devant le notaire commis et mission du notaire plafonnée à 18 mois",
+      "term": "Effet déclaratif du partage",
+      "rubriques": [
+        "Accès aux études de médecine, pharmacie, odontologie et maïeutique : un décret du 23 octobre 2026 modifie les conditions d'accès",
+        "Faute inexcusable : l'incapacité permanente fonctionnelle doit être indemnisée dans toutes ses composantes",
+        "Respect de la vie privée du salarié et loyauté : la Cour de cassation face à la preuve",
+        "27 octobre 1946 : la Constitution de la IVe République est promulguée",
+        "Indivision immobilière : un indivisaire peut agir seul pour les actes conservatoires (art. 815-2 du Code civil)",
+        "Météo : un pic de douceur ce mardi avant de nouvelles pluies"
+      ]
+    },
     {
       "date": "2026-10-26",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "12 octobre 1492 : Christophe Colomb aborde l'île de Guanahani, aux Bahamas",
         "Condamnation aux assises : appel, droits des proches et suites procédurales",
         "Prix Nobel d'économie 2026 : annonce du lauréat ce lundi 12 octobre"
-      ]
-    },
-    {
-      "date": "2026-10-11",
-      "slot": "midi",
-      "file": "editions/2026-10-11-midi.json",
-      "essentiel": "Incendie de Saint-Laurent-de-la-Salanque : huit morts, trois accusés et une décision attendue le 16 octobre à Perpignan",
-      "term": "Correctionnalisation judiciaire",
-      "rubriques": [
-        "Décret n° 2026-780 du 14 août 2026 : le Conseil national de la commande publique remplace l'observatoire économique",
-        "Cass. soc., 8 juillet 2026, n° 25-60.148 : rejet du pourvoi, arrêt non publié",
-        "QPC360° : Laurent Fabius présente un outil « utile à tous les acteurs de la procédure »",
-        "11 octobre 1138 : un séisme dévastateur détruit une grande partie d'Alep",
-        "Explosion de la rue de Trévise : le procès de la Ville de Paris et du syndic annoncé du 20 octobre au 7 décembre",
-        "Ligue 1 : Nice–Strasbourg et Rennes–Auxerre au programme de ce dimanche 11 octobre"
-      ]
-    },
-    {
-      "date": "2026-10-11",
-      "slot": "matin",
-      "file": "editions/2026-10-11-matin.json",
-      "essentiel": "Intrusion à la résidence préfectorale : la Cour de cassation casse la condamnation de Rodrigue Petitot, qui sera rejugé",
-      "term": "Cassation par voie de retranchement",
-      "rubriques": [
-        "Décret n° 2026-683 : la simplification de la procédure civile entre en vigueur le 1er octobre",
-        "Cass. 1re civ., 3 juin 2026, n° 24-21.579 : rejet du pourvoi, arrêt classé inédit",
-        "Résolution amiable des différends : vers une gouvernance unifiée et un nouveau statut des conciliateurs de justice",
-        "11 octobre 1531 : Zwingli meurt à la bataille de Kappel, face aux cantons catholiques",
-        "Loi du 23 juillet 2026 : l'aide juridictionnelle des victimes de violences intrafamiliales attendra le 1er janvier 2027",
-        "Prix Nobel 2026 : la récompense passe à plus d'un million d'euros"
       ]
     }
   ]

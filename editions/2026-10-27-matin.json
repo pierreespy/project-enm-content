@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Partage judiciaire : le décret du 18 octobre 2026 réécrit la procédure, avec avocat obligatoire devant le notaire commis et mission du notaire plafonnée à 18 mois",
+    "dek": "Pris en application de la loi du 7 avril 2026 et publié au Journal officiel du 20 octobre, le décret n° 2026-964 refond la procédure de liquidation-partage des divorces, successions et indivisions portées devant le juge. Il s'appliquera aux instances introduites à compter du 1er janvier 2027, avec des exceptions pour certaines instances en cours.",
+    "source": "Décret n° 2026-964 du 18 octobre 2026 · JORF du 20 octobre 2026",
+    "url": "https://www.actu-juridique.fr/breves/divers/decret-n-2026-964-du-18-octobre-2026-portant-reforme-de-la-procedure-de-partage-judiciaire/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Accès aux études de médecine, pharmacie, odontologie et maïeutique : un décret du 23 octobre 2026 modifie les conditions d'accès",
+      "summary": "Le décret n° 2026-988 du 23 octobre 2026 figure parmi les textes récemment parus au Journal officiel relatifs à l'accès aux formations de santé.",
+      "source": "Décret n° 2026-988 du 23 octobre 2026 (parutions au JO)",
+      "url": "https://www.snpden.net/parutions-au-jo/",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Faute inexcusable : l'incapacité permanente fonctionnelle doit être indemnisée dans toutes ses composantes",
+      "summary": "Un arrêt de la deuxième chambre civile du 15 octobre 2026 (pourvoi n° 25-15.843) rappelle, selon le recensement de décisions publié en ligne, qu'en cas de faute inexcusable de l'employeur le déficit fonctionnel permanent doit être réparé intégralement.",
+      "source": "Cass. 2e civ., 15 oct. 2026, n° 25-15.843",
+      "url": "https://mimoun-avocat.com/jurisprudence.html",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Respect de la vie privée du salarié et loyauté : la Cour de cassation face à la preuve",
+      "summary": "La Gazette du Palais commente l'arrêt de la chambre sociale du 10 décembre 2025 (n° 24-17.316) qui met en balance vie privée du salarié et exigences de loyauté et de transparence dans la preuve.",
+      "source": "Gazette du Palais, 2026, n° 1",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n1/respect-de-la-vie-privee-du-salarie-vs-loyaute-et-transparence-GPL485p4",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "27 octobre 1946 : la Constitution de la IVe République est promulguée",
+      "summary": "Approuvé par référendum le 13 octobre 1946 avec un « oui » ne représentant qu'environ 35 % des inscrits, le texte instaure un régime d'assemblée et sera remplacé par la Constitution de 1958, dont le préambule de 1946 demeure une référence.",
+      "source": "Présidence de la République",
+      "url": "https://www.elysee.fr/la-presidence/la-constitution-du-27-octobre-1946",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Indivision immobilière : un indivisaire peut agir seul pour les actes conservatoires (art. 815-2 du Code civil)",
+      "summary": "Un point de pratique rappelle qu'un indivisaire peut, sans le concours des autres, prendre les mesures nécessaires à la conservation du bien indivis.",
+      "source": "Kohen Avocats, 26 oct. 2026",
+      "url": "https://kohenavocats.fr/2026/10/26/actes-conservatoires-indivision-article-815-2-code-civil",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Météo : un pic de douceur ce mardi avant de nouvelles pluies",
+      "summary": "Les températures atteindraient 16 à 20 °C dans la moitié nord et 19 à 23 °C dans le sud, avec des rafales de 70 à 90 km/h près de la Manche.",
+      "source": "Météo Consult, 26 oct. 2026",
+      "url": "https://www.meteoconsult.fr/actualites-meteo/2026-10-26/93546-meteo-demain-mardi-27-octobre-pic-de-douceur-avant-de-nouvelles-pluies",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Effet déclaratif du partage",
+    "subtitle": "Droit des successions et de l'indivision · Article 883 du Code civil",
+    "defShort": "Règle selon laquelle chaque copartageant est réputé avoir été seul propriétaire, depuis l'origine de l'indivision, des biens compris dans son lot, et n'avoir jamais eu aucun droit sur les autres.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Le partage ne transfère rien : il se borne à constater, après coup, ce que chacun possédait. Le copartageant allotti d'un bien est censé en avoir été propriétaire exclusif dès l'ouverture de la succession (ou la naissance de l'indivision), ce qui est une fiction rétroactive."
+      },
+      {
+        "h": "Fondement",
+        "body": "Article 883 du Code civil : chaque cohéritier est censé avoir succédé seul et immédiatement à tous les effets compris dans son lot, ou à lui échus sur licitation, et n'avoir jamais eu la propriété des autres effets de la succession."
+      },
+      {
+        "h": "Portée",
+        "body": "Les droits consentis par un indivisaire sur un bien qui tombe finalement dans le lot d'un autre sont en principe privés d'effet rétroactivement. À l'inverse, les actes valablement accomplis en vertu d'un mandat des coindivisaires ou d'une décision de justice ne sont pas remis en cause, quelle que soit l'attribution des biens."
+      },
+      {
+        "h": "À ne pas confondre",
+        "body": "L'effet déclaratif s'oppose à l'effet translatif d'une vente ou d'une cession de droits indivis : dans un partage, il n'y a juridiquement ni acquéreur ni vendeur, mais seulement un lot attribué. Il explique l'importance du partage pour sécuriser les droits de chacun, d'où l'enjeu de la réforme de la procédure de partage judiciaire."
+      }
+    ],
+    "seeAlso": "Voir aussi — licitation · indivision (art. 815 et s.) · actes conservatoires (art. 815-2) · rapport des libéralités (art. 843)"
+  },
+  "date": "2026-10-27",
+  "dateShort": "27 oct.",
+  "slot": "matin"
+}

@@ -1,121 +1,117 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Pourvoi en cassation sans avocat : le Conseil d'État rejette, le 2 octobre 2026, le recours d'une commune non régularisé malgré invitation",
-    "dek": "Dans une décision du 2 octobre 2026 (n° 516171), le Conseil d'État rappelle qu'aucun texte ne dispense un pourvoi en cassation de la représentation obligatoire par avocat aux Conseils : faute de régularisation après demande, le recours de la commune de Pontcarré est rejeté.",
-    "source": "CE, 2 oct. 2026, n° 516171",
-    "url": "https://justice.pappers.fr/decision/7436eaad086defe05bca15d073fd56b3f07d7ccd"
+    "title": "Partage judiciaire : le décret du 18 octobre 2026 réécrit la procédure, avec avocat obligatoire devant le notaire commis et mission du notaire plafonnée à 18 mois",
+    "dek": "Pris en application de la loi du 7 avril 2026 et publié au Journal officiel du 20 octobre, le décret n° 2026-964 refond la procédure de liquidation-partage des divorces, successions et indivisions portées devant le juge. Il s'appliquera aux instances introduites à compter du 1er janvier 2027, avec des exceptions pour certaines instances en cours.",
+    "source": "Décret n° 2026-964 du 18 octobre 2026 · JORF du 20 octobre 2026",
+    "url": "https://www.actu-juridique.fr/breves/divers/decret-n-2026-964-du-18-octobre-2026-portant-reforme-de-la-procedure-de-partage-judiciaire/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Médecine légale et expertises médicales : un arrêté du 22 octobre 2026 établit la liste des personnes autorisées à exercer",
-      "summary": "Publié au Journal officiel du 25 octobre 2026 (rubrique santé), l'arrêté fixe la liste des praticiens autorisés à exercer la médecine légale et les expertises médicales en France.",
-      "source": "JORF n° 0250 du 25 oct. 2026 · La Veille Acteurs de Santé",
-      "url": "https://toute-la.veille-acteurs-sante.fr/246482/jorf-n0250-du-25-octobre-2026/",
+      "title": "Accès aux études de médecine, pharmacie, odontologie et maïeutique : un décret du 23 octobre 2026 modifie les conditions d'accès",
+      "summary": "Le décret n° 2026-988 du 23 octobre 2026 figure parmi les textes récemment parus au Journal officiel relatifs à l'accès aux formations de santé.",
+      "source": "Décret n° 2026-988 du 23 octobre 2026 (parutions au JO)",
+      "url": "https://www.snpden.net/parutions-au-jo/",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Référé-suspension : le Conseil d'État rappelle que l'urgence s'apprécie concrètement, au regard des effets de l'acte contesté",
-      "summary": "Dans une décision du 9 octobre 2026, la 8e chambre jugeant seule annule une ordonnance de référé et rappelle que le juge doit apprécier concrètement si les effets de l'acte créent une urgence justifiant sa suspension avant le jugement au fond.",
-      "source": "CE, 8e chambre jugeant seule, 9 oct. 2026, n° 515585, inédit au recueil Lebon",
-      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000054970264",
+      "title": "Faute inexcusable : l'incapacité permanente fonctionnelle doit être indemnisée dans toutes ses composantes",
+      "summary": "Un arrêt de la deuxième chambre civile du 15 octobre 2026 (pourvoi n° 25-15.843) rappelle, selon le recensement de décisions publié en ligne, qu'en cas de faute inexcusable de l'employeur le déficit fonctionnel permanent doit être réparé intégralement.",
+      "source": "Cass. 2e civ., 15 oct. 2026, n° 25-15.843",
+      "url": "https://mimoun-avocat.com/jurisprudence.html",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Experts judiciaires : le revers de la médaille",
-      "summary": "Cet article d'Actu-Juridique s'interroge sur le statut fragile des experts, qui éclairent le juge dans toutes les spécialités, à partir d'affaires où les expertises et contre-expertises sont devenues centrales.",
-      "source": "Actu-Juridique, rubrique Professions",
-      "url": "https://www.actu-juridique.fr/professions/experts-judiciaires-le-revers-de-la-medaille/",
+      "title": "Respect de la vie privée du salarié et loyauté : la Cour de cassation face à la preuve",
+      "summary": "La Gazette du Palais commente l'arrêt de la chambre sociale du 10 décembre 2025 (n° 24-17.316) qui met en balance vie privée du salarié et exigences de loyauté et de transparence dans la preuve.",
+      "source": "Gazette du Palais, 2026, n° 1",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n1/respect-de-la-vie-privee-du-salarie-vs-loyaute-et-transparence-GPL485p4",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "26 octobre 1994 : Israël et la Jordanie signent le traité de paix de Wadi Araba",
-      "summary": "Deuxième traité de paix conclu par Israël avec un État arabe après celui avec l'Égypte, il normalise les relations entre les deux pays et règle leur frontière.",
-      "source": "Wikipédia · Traité de paix israélo-jordanien",
-      "url": "https://fr.wikipedia.org/wiki/Trait%C3%A9_de_paix_isra%C3%A9lo-jordanien",
+      "title": "27 octobre 1946 : la Constitution de la IVe République est promulguée",
+      "summary": "Approuvé par référendum le 13 octobre 1946 avec un « oui » ne représentant qu'environ 35 % des inscrits, le texte instaure un régime d'assemblée et sera remplacé par la Constitution de 1958, dont le préambule de 1946 demeure une référence.",
+      "source": "Présidence de la République",
+      "url": "https://www.elysee.fr/la-presidence/la-constitution-du-27-octobre-1946",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Tarifs réglementés des professions du droit : les arrêtés applicables du 1er mars 2026 au 29 février 2028",
-      "summary": "Les arrêtés publiés au Journal officiel fixent, pour notaires, commissaires de justice, greffiers des tribunaux de commerce, administrateurs et mandataires judiciaires, l'objectif de taux de résultat moyen et les tarifs applicables jusqu'au 29 février 2028.",
-      "source": "Actu-Juridique, brève Professions",
-      "url": "https://www.actu-juridique.fr/breves/professions/professions-reglementees-publication-des-arretes-fixant-lobjectif-de-taux-de-resultat-moyen-et-les-tarifs/",
+      "title": "Indivision immobilière : un indivisaire peut agir seul pour les actes conservatoires (art. 815-2 du Code civil)",
+      "summary": "Un point de pratique rappelle qu'un indivisaire peut, sans le concours des autres, prendre les mesures nécessaires à la conservation du bien indivis.",
+      "source": "Kohen Avocats, 26 oct. 2026",
+      "url": "https://kohenavocats.fr/2026/10/26/actes-conservatoires-indivision-article-815-2-code-civil",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Vacances de la Toussaint : le calendrier officiel des départs et retours sur les routes",
-      "summary": "Les vacances scolaires de la Toussaint ont débuté le 17 octobre pour les trois zones ; le calendrier annuel de Bison Futé permet d'anticiper les jours de circulation chargée avant le retour début novembre.",
-      "source": "Bison Futé, calendrier 2026",
-      "url": "https://www1.bison-fute.gouv.fr/IMG/pdf/Calendrier_Bison_fute_2026.pdf",
+      "title": "Météo : un pic de douceur ce mardi avant de nouvelles pluies",
+      "summary": "Les températures atteindraient 16 à 20 °C dans la moitié nord et 19 à 23 °C dans le sud, avec des rafales de 70 à 90 km/h près de la Manche.",
+      "source": "Météo Consult, 26 oct. 2026",
+      "url": "https://www.meteoconsult.fr/actualites-meteo/2026-10-26/93546-meteo-demain-mardi-27-octobre-pic-de-douceur-avant-de-nouvelles-pluies",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Concentration des prétentions en appel",
-    "subtitle": "Procédure civile · Article 910-4 du Code de procédure civile",
-    "defShort": "Règle selon laquelle les parties doivent présenter, dès leurs premières conclusions d'appel, l'ensemble de leurs prétentions sur le fond, à peine d'irrecevabilité relevée d'office.",
+    "term": "Effet déclaratif du partage",
+    "subtitle": "Droit des successions et de l'indivision · Article 883 du Code civil",
+    "defShort": "Règle selon laquelle chaque copartageant est réputé avoir été seul propriétaire, depuis l'origine de l'indivision, des biens compris dans son lot, et n'avoir jamais eu aucun droit sur les autres.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'appelant comme l'intimé doivent formuler dès leurs premières conclusions toutes leurs prétentions sur le fond, c'est-à-dire ce qu'ils demandent à la cour. Celles présentées plus tard sont irrecevables, et l'irrecevabilité peut être relevée d'office."
+        "body": "Le partage ne transfère rien : il se borne à constater, après coup, ce que chacun possédait. Le copartageant allotti d'un bien est censé en avoir été propriétaire exclusif dès l'ouverture de la succession (ou la naissance de l'indivision), ce qui est une fiction rétroactive."
       },
       {
         "h": "Fondement",
-        "body": "L'article 910-4 du Code de procédure civile, issu de la réforme de la procédure d'appel de 2017, pose cette exigence pour les conclusions déposées dans les délais impartis aux articles 905-2 et 908 à 910. Il ne faut pas la confondre avec la concentration des moyens, qui porte sur les arguments de droit et non sur les demandes."
-      },
-      {
-        "h": "Cas visés",
-        "body": "Une demande nouvelle de dommages et intérêts ou un chef de demande omis des premières conclusions et ajouté dans des conclusions ultérieures sont irrecevables. Restent recevables, dans les limites des chefs du jugement critiqués, les prétentions destinées à répliquer aux conclusions et pièces adverses, ou à faire juger des questions nées postérieurement de l'intervention d'un tiers, ou de la survenance ou de la révélation d'un fait."
+        "body": "Article 883 du Code civil : chaque cohéritier est censé avoir succédé seul et immédiatement à tous les effets compris dans son lot, ou à lui échus sur licitation, et n'avoir jamais eu la propriété des autres effets de la succession."
       },
       {
         "h": "Portée",
-        "body": "La règle exige du plaideur une stratégie complète dès l'ouverture de l'instance d'appel, sans réserve de demandes pour plus tard. Elle se distingue de l'irrecevabilité des demandes nouvelles en appel de l'article 564 : celle-ci vise ce qui n'a pas été soumis au premier juge, alors que la concentration vise l'ordre dans lequel les demandes sont présentées devant la cour."
+        "body": "Les droits consentis par un indivisaire sur un bien qui tombe finalement dans le lot d'un autre sont en principe privés d'effet rétroactivement. À l'inverse, les actes valablement accomplis en vertu d'un mandat des coindivisaires ou d'une décision de justice ne sont pas remis en cause, quelle que soit l'attribution des biens."
+      },
+      {
+        "h": "À ne pas confondre",
+        "body": "L'effet déclaratif s'oppose à l'effet translatif d'une vente ou d'une cession de droits indivis : dans un partage, il n'y a juridiquement ni acquéreur ni vendeur, mais seulement un lot attribué. Il explique l'importance du partage pour sécuriser les droits de chacun, d'où l'enjeu de la réforme de la procédure de partage judiciaire."
       }
     ],
-    "seeAlso": "Voir aussi — demandes nouvelles en appel (art. 564 à 566 CPC) · conclusions récapitulatives (art. 954 CPC) · effet dévolutif (art. 561 CPC)"
+    "seeAlso": "Voir aussi — licitation · indivision (art. 815 et s.) · actes conservatoires (art. 815-2) · rapport des libéralités (art. 843)"
   },
-  "date": "2026-10-26",
-  "dateShort": "26 oct.",
-  "slot": "midi",
+  "date": "2026-10-27",
+  "dateShort": "27 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 59,
-    "title": "Quand deux étoiles à neutrons fusionnent",
-    "subtitle": "Pourquoi un couple d'étoiles à neutrons finit par se rejoindre, et ce que cette collision produit",
+    "n": 60,
+    "title": "Une fusion observée par ses ondes et par sa lumière",
+    "subtitle": "Le 17 août 2017, un même événement a été détecté de deux façons différentes",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Un couple qui se rapproche",
-        "body": "Un couple de deux étoiles à neutrons (jour 22) en orbite (jour 9) l'une autour de l'autre n'est pas éternel. En tournant, il émet des ondes gravitationnelles (jour 32), c'est-à-dire des déformations de l'espace qui se propagent et emportent de l'énergie. En perdant de l'énergie, les deux astres se rapprochent lentement, tournent de plus en plus vite, puis finissent par se rejoindre : c'est la fusion. Pour les couples connus, cette chute se compte en centaines de millions d'années."
+        "h": "Deux signaux pour un seul événement",
+        "body": "Le 17 août 2017, des détecteurs terrestres ont enregistré des ondes gravitationnelles (jour 32) produites par la fusion de deux étoiles à neutrons (jour 59), située à environ 130 millions d'années-lumière (jour 4). Moins de deux secondes plus tard, un télescope spatial a enregistré un bref éclair de lumière très énergétique venant de la même région du ciel. Les ondes et la lumière sont deux messagers distincts, qui transportent chacun une information différente sur le même événement."
       },
       {
-        "h": "Ce que produit la collision",
-        "body": "La fusion libère en quelques secondes une énergie colossale. Elle projette dans l'espace de la matière extrêmement dense, riche en neutrons, qui se transforme en éléments lourds (jour 21), comme l'or ou le platine. L'astre issu de la fusion devient soit une étoile à neutrons plus massive, soit un trou noir (jour 23) si la masse totale dépasse le plafond vu au jour 58. Le flash de lumière qui accompagne la projection de cette matière s'appelle une kilonova."
+        "h": "Pourquoi cette coïncidence compte",
+        "body": "Les ondes gravitationnelles seules donnent une position approximative dans le ciel. Grâce à elles, les astronomes ont pu orienter leurs télescopes et retrouver, quelques heures plus tard, la lumière d'une kilonova (jour 59) dans une galaxie précise. On a ainsi vu la même fusion à la fois « entendue » par ses ondes et « vue » par sa lumière, ce qui a confirmé que ces collisions fabriquent bien des éléments lourds (jour 21) comme l'or. On appelle astronomie multi-messagers cette façon de combiner plusieurs types de signaux issus d'un même événement."
       }
     ],
     "keyTerms": [
       {
-        "term": "Fusion d'étoiles à neutrons",
-        "def": "Collision de deux étoiles à neutrons en orbite l'une autour de l'autre, qui se rapprochent en émettant des ondes gravitationnelles jusqu'à se rejoindre."
-      },
-      {
-        "term": "Kilonova",
-        "def": "Flash de lumière produit par la matière dense éjectée lors d'une fusion d'étoiles à neutrons, où se forment des éléments lourds comme l'or."
+        "term": "Astronomie multi-messagers",
+        "def": "Étude d'un même événement cosmique en combinant plusieurs types de signaux, par exemple des ondes gravitationnelles et de la lumière."
       }
     ],
-    "recap": "Deux étoiles à neutrons en couple se rapprochent en émettant des ondes gravitationnelles, puis fusionnent en produisant une kilonova, source d'éléments lourds.",
-    "next": "Demain — comment on a observé une fusion à la fois par ses ondes et par sa lumière."
+    "recap": "Une même fusion d'étoiles à neutrons a été détectée à la fois par ses ondes gravitationnelles et par sa lumière, ce qui a permis de la localiser et d'en confirmer les effets.",
+    "next": "Demain — ce que cette double observation permet de mesurer."
   }
 }
