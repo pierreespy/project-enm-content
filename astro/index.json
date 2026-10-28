@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27",
-  "count": 60,
+  "updated": "2026-10-28",
+  "count": 61,
   "lessons": [
     {
       "n": 1,
@@ -517,6 +517,14 @@
       "title": "Une fusion observée par ses ondes et par sa lumière",
       "terms": [
         "Astronomie multi-messagers"
+      ]
+    },
+    {
+      "n": 61,
+      "file": "astro/lessons/061-la-vitesse-des-ondes-gravitationnelles.json",
+      "title": "Mesurer la vitesse des ondes gravitationnelles",
+      "terms": [
+        "Vitesse des ondes gravitationnelles"
       ]
     }
   ]

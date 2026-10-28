@@ -1,117 +1,117 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "PLFSS 2027 : l'Assemblée nationale rejette le projet de loi en première lecture, la seconde partie n'ayant pas été adoptée le 23 octobre",
-    "dek": "Faute d'adoption de la deuxième partie du texte le 23 octobre 2026, le projet de loi de financement de la sécurité sociale pour 2027 est réputé rejeté en première lecture à l'Assemblée nationale, avec un Ondam initialement prévu en progression de 2,0 %. Le texte poursuit son parcours vers le Sénat.",
-    "source": "Le Monde du Droit · 26 oct. 2026 (T.A. n° 358)",
-    "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106038-plfss-2027-rejet-a-l-an.html"
+    "title": "Fraude bancaire : la CJUE, le 15 octobre 2026, resserre l'exigence de négligence grave opposable à l'utilisateur de services de paiement",
+    "dek": "Dans l'affaire C-70/25, la Cour de justice se prononce sur le remboursement des opérations de paiement non autorisées et sur la charge de la preuve de la négligence grave. Quelques jours plus tôt, la chambre commerciale de la Cour de cassation (8 octobre 2026, n° 25-17.510) retenait la même ligne : le prestataire ne s'exonère que si l'utilisateur a commis une négligence grave.",
+    "source": "CJUE, 15 oct. 2026, aff. C-70/25 ; Cass. com., 8 oct. 2026, n° 25-17.510",
+    "url": "https://kohenavocats.fr/2026/10/24/arret-cjue-c-70-25-15-octobre-2026-fraude-bancaire-remboursement-immediat-negligence-grave"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Établissements sociaux et médico-sociaux expérimentaux : la loi du 21 octobre 2026 assouplit la procédure d'autorisation",
-      "summary": "La loi n° 2026-975 du 21 octobre 2026, publiée au Journal officiel du 22 octobre, allège les règles d'autorisation applicables aux établissements sociaux et médico-sociaux à caractère expérimental.",
-      "source": "Loi n° 2026-975 du 21 oct. 2026 · JORF du 22 oct. 2026",
-      "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106347-assouplissement-de-la-procedure-d-autorisation-des-etablissements-sociaux-a-caractere-experimental.html",
+      "title": "Rétention administrative : un décret du 22 octobre 2026 modifie le Ceseda",
+      "summary": "Le décret n° 2026-977 du 22 octobre 2026, publié au Journal officiel du 23 octobre, modifie les dispositions du Code de l'entrée et du séjour des étrangers relatives à la rétention de certains étrangers en situation irrégulière.",
+      "source": "Décret n° 2026-977 du 22 oct. 2026 · JORF n° 0248 du 23 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/23/0248",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Agence commerciale : les accords de sortie conclus pendant le préavis sont risqués, juge la CJUE",
-      "summary": "Dans l'arrêt Bank Nagelmackers (C-204/25, 23 avril 2026), la Cour retient que le contrat d'agence ne prend fin qu'à l'expiration du préavis, de sorte que la protection impérative de la directive 86/653 s'applique à tout accord transactionnel conclu avant cette échéance.",
-      "source": "CJUE, 23 avr. 2026, C-204/25",
-      "url": "https://www.fieldfisher.com/en/insights/cjeu-confirms-settlement-agreements-in-commercial-agency-contracts-concluded-before-the-end-of-the",
+      "title": "Capitalisation des intérêts : la deuxième chambre civile rejette les pourvois dans un arrêt publié au bulletin",
+      "summary": "Par un arrêt du 8 octobre 2026 (pourvoi n° 24-22.158), la deuxième chambre civile tranche une question de capitalisation des intérêts et rejette les pourvois.",
+      "source": "Cass. 2e civ., 8 oct. 2026, n° 24-22.158, publié au bulletin",
+      "url": "https://justice.pappers.fr/decision/9b02aebbb543eb9df5ce0e4b74ca856cc76ea0cb",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Cass. com., 7 octobre 2026 : cinq arrêts qui verrouillent la protection des tiers (cession, caution, dirigeant)",
-      "summary": "Un commentaire d'avocat rassemble les cinq arrêts publiés au Bulletin par la chambre commerciale le 7 octobre 2026, relatifs notamment à la cession de parts de SARL, à l'engagement de la caution et à la responsabilité du dirigeant.",
-      "source": "Kohen Avocats, 14 oct. 2026",
-      "url": "https://kohenavocats.fr/2026/10/14/cass-com-7-octobre-2026-cinq-arrets-protection-tiers-cession-caution-dirigeant/",
+      "title": "Veille jurisprudentielle d'octobre 2026 : les décisions sociales à retenir",
+      "summary": "Une veille mensuelle recense les décisions récentes de la Cour de cassation intéressant les praticiens du droit du travail.",
+      "source": "Culture RH, Veille jurisprudentielle octobre 2026",
+      "url": "https://culture-rh.com/veille-jurisprudentielle-octobre-2026/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "27 octobre 1904 : le métro de New York est inauguré",
-      "summary": "Le 27 octobre 1904, la première ligne du subway de New York ouvre au public, quatre ans après l'ouverture de la ligne 1 du métro parisien (19 juillet 1900).",
-      "source": "Histoire des transports urbains",
-      "url": "https://en.wikipedia.org/wiki/New_York_City_Subway",
+      "title": "28 octobre 1886 : la statue de la Liberté est inaugurée à New York",
+      "summary": "Don de la France aux États-Unis, la statue conçue par Bartholdi est inaugurée sur l'île de Bedloe, dans la baie de New York.",
+      "source": "Histoire · 28 octobre 1886",
+      "url": "https://fr.wikipedia.org/wiki/Statue_de_la_Libert%C3%A9",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Discipline des avocats : la CEDH admet l'obligation de comparaître en personne, sous réserve d'entendre le représentant sur les motifs de l'absence",
-      "summary": "Dans un avis consultatif du 20 octobre 2026 demandé par la Cour constitutionnelle du Luxembourg, la Cour juge l'article 6 compatible avec une comparution personnelle obligatoire, à condition que l'organe disciplinaire puisse apprécier si l'absence vaut renonciation claire à se défendre.",
-      "source": "CEDH, avis consultatif, 20 oct. 2026",
-      "url": "https://www.lemondedudroit.fr/avocat/106327-cedh-obligation-des-avocats-de-comparaitre-en-personne-devant-les-instances-disciplinaires.html",
+      "title": "Crédit immobilier : un arrêt de la première chambre civile publié au bulletin le 7 octobre 2026",
+      "summary": "La première chambre civile a rendu le 7 octobre 2026 un arrêt publié au bulletin (pourvoi n° 25-11.954) dans un litige de crédit immobilier, à consulter avant toute action contre un prêteur.",
+      "source": "Cass. 1re civ., 7 oct. 2026, n° 25-11.954, publié au bulletin",
+      "url": "https://justice.pappers.fr/decision/b19b7f3344199071c126858ac24230c351f9956a",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Météo-France : des cartes de vigilance désormais détaillées par secteur au sein d'un même département",
-      "summary": "Depuis le 1er septembre 2026, la vigilance distingue, dans un même département, les secteurs les plus exposés au vent, à la pluie-inondation, aux orages et à la neige-verglas.",
-      "source": "Service-public.fr",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19058?lang=en",
+      "title": "Journal officiel du 27 octobre 2026 : un décret du 26 octobre prévoit l'entrée en vigueur immédiate d'un arrêté",
+      "summary": "Le décret n° 2026-993 du 26 octobre 2026 figure au sommaire du Journal officiel du 27 octobre.",
+      "source": "JORF n° 0251 du 27 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/27/0251",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Réméré",
-    "subtitle": "Droit des contrats spéciaux · Articles 1659 et suivants du Code civil",
-    "defShort": "Faculté stipulée au profit du vendeur de reprendre la chose vendue en restituant à l'acheteur le prix principal et les frais, dans un délai qui ne peut excéder cinq ans.",
+    "term": "Exception de nullité perpétuelle",
+    "subtitle": "Droit des obligations · Article 1185 du Code civil",
+    "defShort": "Règle selon laquelle, lorsqu'un acte n'a reçu aucun commencement d'exécution, la nullité peut être opposée en défense sans limite de temps, même si l'action en nullité est prescrite.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "La vente à réméré est une vente assortie d'une condition résolutoire potestative : le vendeur peut, en exerçant sa faculté de rachat, anéantir rétroactivement la vente. Elle ne se confond pas avec une promesse de revente, qui n'opère pas de plein droit."
+        "body": "Quae temporalia sunt ad agendum, perpetua sunt ad excipiendum : ce qui est temporaire pour agir est perpétuel pour se défendre. La nullité, qu'on ne peut plus demander par voie d'action une fois la prescription acquise, reste invocable comme moyen de défense."
       },
       {
         "h": "Fondement",
-        "body": "Article 1659 du Code civil : la faculté de rachat est un pacte par lequel le vendeur se réserve de reprendre la chose vendue, moyennant la restitution du prix principal et le remboursement des frais. L'article 1660 limite sa durée à cinq ans, délai de rigueur non susceptible de prorogation par le juge."
+        "body": "L'article 1185 du Code civil énonce que l'exception de nullité ne se prescrit pas si l'acte n'a reçu aucune exécution. Le texte consacre un adage ancien dans le droit issu de l'ordonnance du 10 février 2016."
+      },
+      {
+        "h": "Condition décisive",
+        "body": "La règle est subordonnée à l'absence totale d'exécution de l'acte. Dès que l'acte a reçu un commencement d'exécution, l'exception se prescrit comme l'action : le défendeur ne peut plus se prévaloir de la nullité par voie d'exception passé le délai de l'action."
       },
       {
         "h": "Portée",
-        "body": "Exercée dans le délai, la faculté fait revenir le bien dans le patrimoine du vendeur libre des charges consenties par l'acquéreur (art. 1673). Le vendeur qui n'a pas exercé sa faculté dans le délai en est déchu et l'acquéreur devient propriétaire irrévocable (art. 1662)."
-      },
-      {
-        "h": "À ne pas confondre",
-        "body": "Le réméré est parfois utilisé comme une garantie déguisée : le juge requalifie en gage ou en prêt garanti la vente à réméré dont le prix est dérisoire et dont le vendeur reste en possession, afin d'écarter le pacte commissoire prohibé (art. 2459 du Code civil pour l'hypothèque, art. 2348 pour le gage)."
+        "body": "L'exception est un moyen de défense : elle paralyse la demande d'exécution formée par le cocontractant, mais ne permet pas d'obtenir restitution ni de faire disparaître l'acte à titre principal. La distinction avec l'action en nullité est donc essentielle."
       }
     ],
-    "seeAlso": "Voir aussi — condition résolutoire (art. 1304-7) · pacte commissoire (art. 2348) · promesse unilatérale de vente (art. 1124) · rescision pour lésion (art. 1674)"
+    "seeAlso": "Voir aussi — prescription de l'action en nullité (art. 2224 du Code civil) · confirmation de l'acte nul (art. 1182) · exception d'inexécution (art. 1219)"
   },
-  "date": "2026-10-27",
-  "dateShort": "27 oct.",
-  "slot": "midi",
+  "date": "2026-10-28",
+  "dateShort": "28 oct.",
+  "slot": "matin",
   "astro": {
-    "n": 60,
-    "title": "Une fusion observée par ses ondes et par sa lumière",
-    "subtitle": "Le 17 août 2017, un même événement a été détecté de deux façons différentes",
+    "n": 61,
+    "title": "Mesurer la vitesse des ondes gravitationnelles",
+    "subtitle": "Un retard de moins de deux secondes sur 130 millions d'années-lumière",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Deux signaux pour un seul événement",
-        "body": "Le 17 août 2017, des détecteurs terrestres ont enregistré des ondes gravitationnelles (jour 32) produites par la fusion de deux étoiles à neutrons (jour 59), située à environ 130 millions d'années-lumière (jour 4). Moins de deux secondes plus tard, un télescope spatial a enregistré un bref éclair de lumière très énergétique venant de la même région du ciel. Les ondes et la lumière sont deux messagers distincts, qui transportent chacun une information différente sur le même événement."
+        "h": "Deux signaux, une même course",
+        "body": "Les ondes gravitationnelles (jour 32) et la lumière (jour 3) de la fusion du 17 août 2017 (jour 60) sont parties en même temps de la même source, à environ 130 millions d'années-lumière (jour 4). Si elles voyageaient à des vitesses différentes, l'écart d'arrivée se creuserait sur tout le trajet. Or les ondes ont été enregistrées environ deux secondes avant l'éclair de lumière, un décalage qui s'explique en grande partie par les phénomènes propres à l'émission, et non par le voyage."
       },
       {
-        "h": "Pourquoi cette coïncidence compte",
-        "body": "Les ondes gravitationnelles seules donnent une position approximative dans le ciel. Grâce à elles, les astronomes ont pu orienter leurs télescopes et retrouver, quelques heures plus tard, la lumière d'une kilonova (jour 59) dans une galaxie précise. On a ainsi vu la même fusion à la fois « entendue » par ses ondes et « vue » par sa lumière, ce qui a confirmé que ces collisions fabriquent bien des éléments lourds (jour 21) comme l'or. On appelle astronomie multi-messagers cette façon de combiner plusieurs types de signaux issus d'un même événement."
+        "h": "Ce que cela permet de conclure",
+        "body": "Une différence de quelques secondes sur un trajet qui a duré 130 millions d'années est minuscule : les deux messagers (jour 60) ont voyagé à la même vitesse, à une infime fraction près. La théorie de la gravitation prédisait que les ondes gravitationnelles se propagent à la vitesse de la lumière ; cette observation en donne une confirmation très précise. Elle écarte aussi plusieurs théories alternatives de la gravitation qui prévoyaient des ondes plus lentes ou plus rapides."
       }
     ],
     "keyTerms": [
       {
-        "term": "Astronomie multi-messagers",
-        "def": "Étude d'un même événement cosmique en combinant plusieurs types de signaux, par exemple des ondes gravitationnelles et de la lumière."
+        "term": "Vitesse des ondes gravitationnelles",
+        "def": "Vitesse à laquelle se propagent les ondes gravitationnelles, mesurée comme égale à celle de la lumière à une infime fraction près."
       }
     ],
-    "recap": "Une même fusion d'étoiles à neutrons a été détectée à la fois par ses ondes gravitationnelles et par sa lumière, ce qui a permis de la localiser et d'en confirmer les effets.",
-    "next": "Demain — ce que cette double observation permet de mesurer."
+    "recap": "Arrivées à moins de deux secondes d'écart après 130 millions d'années de trajet, les ondes gravitationnelles et la lumière vont à la même vitesse.",
+    "next": "Demain — ce que la fusion de 2017 apprend sur l'expansion de l'univers."
   }
 }

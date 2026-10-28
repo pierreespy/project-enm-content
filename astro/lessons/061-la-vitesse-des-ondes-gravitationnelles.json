@@ -1,0 +1,21 @@
+{
+  "n": 61,
+  "title": "Mesurer la vitesse des ondes gravitationnelles",
+  "subtitle": "Un retard de moins de deux secondes sur 130 millions d'années-lumière",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Deux signaux, une même course",
+      "body": "Les ondes gravitationnelles (jour 32) et la lumière (jour 3) de la fusion du 17 août 2017 (jour 60) sont parties en même temps de la même source, à environ 130 millions d'années-lumière (jour 4). Si elles voyageaient à des vitesses différentes, l'écart d'arrivée se creuserait sur tout le trajet. Or les ondes ont été enregistrées environ deux secondes avant l'éclair de lumière, un décalage qui s'explique en grande partie par les phénomènes propres à l'émission, et non par le voyage."
+    },
+    {
+      "h": "Ce que cela permet de conclure",
+      "body": "Une différence de quelques secondes sur un trajet qui a duré 130 millions d'années est minuscule : les deux messagers (jour 60) ont voyagé à la même vitesse, à une infime fraction près. La théorie de la gravitation prédisait que les ondes gravitationnelles se propagent à la vitesse de la lumière ; cette observation en donne une confirmation très précise. Elle écarte aussi plusieurs théories alternatives de la gravitation qui prévoyaient des ondes plus lentes ou plus rapides."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Vitesse des ondes gravitationnelles", "def": "Vitesse à laquelle se propagent les ondes gravitationnelles, mesurée comme égale à celle de la lumière à une infime fraction près." }
+  ],
+  "recap": "Arrivées à moins de deux secondes d'écart après 130 millions d'années de trajet, les ondes gravitationnelles et la lumière vont à la même vitesse.",
+  "next": "Demain — ce que la fusion de 2017 apprend sur l'expansion de l'univers."
+}
