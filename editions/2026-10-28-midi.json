@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Association : la Cour de cassation écarte, le 22 octobre 2026, l'application du principe non bis in idem aux sanctions prises par les associations",
+    "dek": "Selon la presse juridique, la Cour juge que transposer le non bis in idem aux sanctions associatives porterait une atteinte disproportionnée à l'autonomie et à la liberté d'organisation des associations. Une décision à lire dans le texte de l'arrêt, dont la portée dépendra de sa publication.",
+    "source": "Cass., 22 oct. 2026, relevé par Lexis Veille",
+    "url": "https://www.lexisveille.fr/le-non-bis-idem-aux-portes-des-associations-entree-refusee"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Casseurs-payeurs : le Sénat examine le 27 octobre le projet de loi, déjà durci en commission",
+      "summary": "Le texte permet de mobiliser allocations familiales et aides au logement des auteurs de dégradations dans l'espace public qui ne pourraient pas payer, et prévoit une responsabilité collective des participants restant après sommation.",
+      "source": "Banque des Territoires, 27 oct. 2026",
+      "url": "https://www.banquedesterritoires.fr/le-projet-de-loi-casseurs-payeurs-examine-au-senat-le-27-octobre",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Passerelle vers la profession d'avocat : la Cour de cassation rejette le pourvoi d'une juriste, l'exercice dans un service juridique spécialisé étant exigé",
+      "summary": "L'arrêt du 14 octobre 2026 (pourvoi n° 25-20.071), publié au Bulletin, confirme le refus d'inscription au barreau de Paris au titre des dispenses de l'article 98 du décret du 27 novembre 1991.",
+      "source": "Cass., 14 oct. 2026, n° 25-20.071",
+      "url": "https://www.lexisveille.fr/acces-la-profession-davocat-rappel-dune-condition-essentielle-de-la-passerelle-pour-les-juristes",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Situation de Marine Le Pen : quand les avis des plus hauts magistrats divergent",
+      "summary": "Un ancien président de la chambre criminelle estime que le pourvoi suspend l'arrêt d'appel sans neutraliser le jugement de première instance, ce qui laisserait l'intéressée inéligible jusqu'à la décision de la Cour de cassation.",
+      "source": "Actu-Juridique, octobre 2026",
+      "url": "https://www.actu-juridique.fr/penal/situation-judiciaire-de-marine-le-pen-lorsque-les-avis-des-plus-hauts-magistrats-divergent/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "28 octobre 1962 : Khrouchtchev annonce le retrait des missiles soviétiques de Cuba",
+      "summary": "Cette annonce met fin au moment le plus aigu de la crise des missiles de Cuba, après treize jours de tension entre Washington et Moscou.",
+      "source": "Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Crise_des_missiles_de_Cuba",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Avocats aux Conseils : « les avocats de la dernière chance »",
+      "summary": "Un entretien présente la profession, une centaine d'avocats intervenant presque exclusivement devant le Conseil d'État et la Cour de cassation, utile pour qui doit orienter un pourvoi.",
+      "source": "Actu-Juridique, 27 oct. 2026",
+      "url": "https://actu-juridique.fr/professions/nous-sommes-en-quelque-sorte-les-avocats-de-la-derniere-chance",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Vacances de la Toussaint : Bison Futé classe ce mercredi 28 octobre en vert, vendredi 30 en orange",
+      "summary": "Aucune journée rouge ou noire n'est prévue sur la période, tandis que les départs coûtent plus cher qu'en 2025 selon une note de l'Insee.",
+      "source": "Bison Futé · Insee",
+      "url": "https://selectra.info/finance/actualites/marche/toussaint-avion-10-pourcent-train-hotel-insee",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Indivisibilité en matière d'appel",
+    "subtitle": "Procédure civile · articles 552 et 553 du Code de procédure civile",
+    "defShort": "Lien tel entre plusieurs parties à un litige que l'appel ne peut être jugé qu'à l'égard de toutes : l'appel de l'une profite aux autres, et l'appel dirigé contre l'une n'est recevable que si toutes sont appelées.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Lorsque le litige est indivisible à l'égard de plusieurs parties, l'instance d'appel ne peut se dérouler utilement qu'en leur présence à toutes. Le régime déroge au principe de l'effet relatif des voies de recours."
+      },
+      {
+        "h": "Fondement",
+        "body": "L'article 552 prévoit qu'en cas de solidarité ou d'indivisibilité, l'appel formé par l'une conserve le droit d'appel des autres, sauf à ces dernières à se joindre à l'instance. L'article 553 exige que l'appel formé contre l'une ne soit recevable que si toutes sont appelées à l'instance."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Il y a indivisibilité lorsque l'exécution simultanée de deux décisions serait impossible, par exemple en cas d'annulation d'un acte à l'égard de tous ses signataires. À distinguer de la simple connexité, qui ne suffit pas."
+      },
+      {
+        "h": "Portée",
+        "body": "Un appel dirigé contre une seule partie, alors que le litige est indivisible, est irrecevable. Le juge peut, en revanche, ordonner la mise en cause des parties omises afin de régulariser l'instance."
+      }
+    ],
+    "seeAlso": "Voir aussi — obligation in solidum · effet dévolutif de l'appel · intervention forcée"
+  },
+  "date": "2026-10-28",
+  "dateShort": "28 oct.",
+  "slot": "midi"
+}

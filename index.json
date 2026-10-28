@@ -1,8 +1,23 @@
 {
   "updated": "2026-10-28",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-10-28",
+      "slot": "midi",
+      "file": "editions/2026-10-28-midi.json",
+      "essentiel": "Association : la Cour de cassation écarte, le 22 octobre 2026, l'application du principe non bis in idem aux sanctions prises par les associations",
+      "term": "Indivisibilité en matière d'appel",
+      "rubriques": [
+        "Casseurs-payeurs : le Sénat examine le 27 octobre le projet de loi, déjà durci en commission",
+        "Passerelle vers la profession d'avocat : la Cour de cassation rejette le pourvoi d'une juriste, l'exercice dans un service juridique spécialisé étant exigé",
+        "Situation de Marine Le Pen : quand les avis des plus hauts magistrats divergent",
+        "28 octobre 1962 : Khrouchtchev annonce le retrait des missiles soviétiques de Cuba",
+        "Avocats aux Conseils : « les avocats de la dernière chance »",
+        "Vacances de la Toussaint : Bison Futé classe ce mercredi 28 octobre en vert, vendredi 30 en orange"
+      ]
+    },
     {
       "date": "2026-10-28",
       "slot": "matin",

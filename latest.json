@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Fraude bancaire : la CJUE, le 15 octobre 2026, resserre l'exigence de négligence grave opposable à l'utilisateur de services de paiement",
-    "dek": "Dans l'affaire C-70/25, la Cour de justice se prononce sur le remboursement des opérations de paiement non autorisées et sur la charge de la preuve de la négligence grave. Quelques jours plus tôt, la chambre commerciale de la Cour de cassation (8 octobre 2026, n° 25-17.510) retenait la même ligne : le prestataire ne s'exonère que si l'utilisateur a commis une négligence grave.",
-    "source": "CJUE, 15 oct. 2026, aff. C-70/25 ; Cass. com., 8 oct. 2026, n° 25-17.510",
-    "url": "https://kohenavocats.fr/2026/10/24/arret-cjue-c-70-25-15-octobre-2026-fraude-bancaire-remboursement-immediat-negligence-grave"
+    "title": "Association : la Cour de cassation écarte, le 22 octobre 2026, l'application du principe non bis in idem aux sanctions prises par les associations",
+    "dek": "Selon la presse juridique, la Cour juge que transposer le non bis in idem aux sanctions associatives porterait une atteinte disproportionnée à l'autonomie et à la liberté d'organisation des associations. Une décision à lire dans le texte de l'arrêt, dont la portée dépendra de sa publication.",
+    "source": "Cass., 22 oct. 2026, relevé par Lexis Veille",
+    "url": "https://www.lexisveille.fr/le-non-bis-idem-aux-portes-des-associations-entree-refusee"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Rétention administrative : un décret du 22 octobre 2026 modifie le Ceseda",
-      "summary": "Le décret n° 2026-977 du 22 octobre 2026, publié au Journal officiel du 23 octobre, modifie les dispositions du Code de l'entrée et du séjour des étrangers relatives à la rétention de certains étrangers en situation irrégulière.",
-      "source": "Décret n° 2026-977 du 22 oct. 2026 · JORF n° 0248 du 23 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/23/0248",
+      "title": "Casseurs-payeurs : le Sénat examine le 27 octobre le projet de loi, déjà durci en commission",
+      "summary": "Le texte permet de mobiliser allocations familiales et aides au logement des auteurs de dégradations dans l'espace public qui ne pourraient pas payer, et prévoit une responsabilité collective des participants restant après sommation.",
+      "source": "Banque des Territoires, 27 oct. 2026",
+      "url": "https://www.banquedesterritoires.fr/le-projet-de-loi-casseurs-payeurs-examine-au-senat-le-27-octobre",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Capitalisation des intérêts : la deuxième chambre civile rejette les pourvois dans un arrêt publié au bulletin",
-      "summary": "Par un arrêt du 8 octobre 2026 (pourvoi n° 24-22.158), la deuxième chambre civile tranche une question de capitalisation des intérêts et rejette les pourvois.",
-      "source": "Cass. 2e civ., 8 oct. 2026, n° 24-22.158, publié au bulletin",
-      "url": "https://justice.pappers.fr/decision/9b02aebbb543eb9df5ce0e4b74ca856cc76ea0cb",
+      "title": "Passerelle vers la profession d'avocat : la Cour de cassation rejette le pourvoi d'une juriste, l'exercice dans un service juridique spécialisé étant exigé",
+      "summary": "L'arrêt du 14 octobre 2026 (pourvoi n° 25-20.071), publié au Bulletin, confirme le refus d'inscription au barreau de Paris au titre des dispenses de l'article 98 du décret du 27 novembre 1991.",
+      "source": "Cass., 14 oct. 2026, n° 25-20.071",
+      "url": "https://www.lexisveille.fr/acces-la-profession-davocat-rappel-dune-condition-essentielle-de-la-passerelle-pour-les-juristes",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Veille jurisprudentielle d'octobre 2026 : les décisions sociales à retenir",
-      "summary": "Une veille mensuelle recense les décisions récentes de la Cour de cassation intéressant les praticiens du droit du travail.",
-      "source": "Culture RH, Veille jurisprudentielle octobre 2026",
-      "url": "https://culture-rh.com/veille-jurisprudentielle-octobre-2026/",
+      "title": "Situation de Marine Le Pen : quand les avis des plus hauts magistrats divergent",
+      "summary": "Un ancien président de la chambre criminelle estime que le pourvoi suspend l'arrêt d'appel sans neutraliser le jugement de première instance, ce qui laisserait l'intéressée inéligible jusqu'à la décision de la Cour de cassation.",
+      "source": "Actu-Juridique, octobre 2026",
+      "url": "https://www.actu-juridique.fr/penal/situation-judiciaire-de-marine-le-pen-lorsque-les-avis-des-plus-hauts-magistrats-divergent/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "28 octobre 1886 : la statue de la Liberté est inaugurée à New York",
-      "summary": "Don de la France aux États-Unis, la statue conçue par Bartholdi est inaugurée sur l'île de Bedloe, dans la baie de New York.",
-      "source": "Histoire · 28 octobre 1886",
-      "url": "https://fr.wikipedia.org/wiki/Statue_de_la_Libert%C3%A9",
+      "title": "28 octobre 1962 : Khrouchtchev annonce le retrait des missiles soviétiques de Cuba",
+      "summary": "Cette annonce met fin au moment le plus aigu de la crise des missiles de Cuba, après treize jours de tension entre Washington et Moscou.",
+      "source": "Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Crise_des_missiles_de_Cuba",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Crédit immobilier : un arrêt de la première chambre civile publié au bulletin le 7 octobre 2026",
-      "summary": "La première chambre civile a rendu le 7 octobre 2026 un arrêt publié au bulletin (pourvoi n° 25-11.954) dans un litige de crédit immobilier, à consulter avant toute action contre un prêteur.",
-      "source": "Cass. 1re civ., 7 oct. 2026, n° 25-11.954, publié au bulletin",
-      "url": "https://justice.pappers.fr/decision/b19b7f3344199071c126858ac24230c351f9956a",
+      "title": "Avocats aux Conseils : « les avocats de la dernière chance »",
+      "summary": "Un entretien présente la profession, une centaine d'avocats intervenant presque exclusivement devant le Conseil d'État et la Cour de cassation, utile pour qui doit orienter un pourvoi.",
+      "source": "Actu-Juridique, 27 oct. 2026",
+      "url": "https://actu-juridique.fr/professions/nous-sommes-en-quelque-sorte-les-avocats-de-la-derniere-chance",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Journal officiel du 27 octobre 2026 : un décret du 26 octobre prévoit l'entrée en vigueur immédiate d'un arrêté",
-      "summary": "Le décret n° 2026-993 du 26 octobre 2026 figure au sommaire du Journal officiel du 27 octobre.",
-      "source": "JORF n° 0251 du 27 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/27/0251",
+      "title": "Vacances de la Toussaint : Bison Futé classe ce mercredi 28 octobre en vert, vendredi 30 en orange",
+      "summary": "Aucune journée rouge ou noire n'est prévue sur la période, tandis que les départs coûtent plus cher qu'en 2025 selon une note de l'Insee.",
+      "source": "Bison Futé · Insee",
+      "url": "https://selectra.info/finance/actualites/marche/toussaint-avion-10-pourcent-train-hotel-insee",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Exception de nullité perpétuelle",
-    "subtitle": "Droit des obligations · Article 1185 du Code civil",
-    "defShort": "Règle selon laquelle, lorsqu'un acte n'a reçu aucun commencement d'exécution, la nullité peut être opposée en défense sans limite de temps, même si l'action en nullité est prescrite.",
+    "term": "Indivisibilité en matière d'appel",
+    "subtitle": "Procédure civile · articles 552 et 553 du Code de procédure civile",
+    "defShort": "Lien tel entre plusieurs parties à un litige que l'appel ne peut être jugé qu'à l'égard de toutes : l'appel de l'une profite aux autres, et l'appel dirigé contre l'une n'est recevable que si toutes sont appelées.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Quae temporalia sunt ad agendum, perpetua sunt ad excipiendum : ce qui est temporaire pour agir est perpétuel pour se défendre. La nullité, qu'on ne peut plus demander par voie d'action une fois la prescription acquise, reste invocable comme moyen de défense."
+        "body": "Lorsque le litige est indivisible à l'égard de plusieurs parties, l'instance d'appel ne peut se dérouler utilement qu'en leur présence à toutes. Le régime déroge au principe de l'effet relatif des voies de recours."
       },
       {
         "h": "Fondement",
-        "body": "L'article 1185 du Code civil énonce que l'exception de nullité ne se prescrit pas si l'acte n'a reçu aucune exécution. Le texte consacre un adage ancien dans le droit issu de l'ordonnance du 10 février 2016."
+        "body": "L'article 552 prévoit qu'en cas de solidarité ou d'indivisibilité, l'appel formé par l'une conserve le droit d'appel des autres, sauf à ces dernières à se joindre à l'instance. L'article 553 exige que l'appel formé contre l'une ne soit recevable que si toutes sont appelées à l'instance."
       },
       {
-        "h": "Condition décisive",
-        "body": "La règle est subordonnée à l'absence totale d'exécution de l'acte. Dès que l'acte a reçu un commencement d'exécution, l'exception se prescrit comme l'action : le défendeur ne peut plus se prévaloir de la nullité par voie d'exception passé le délai de l'action."
+        "h": "Cas visés",
+        "body": "Il y a indivisibilité lorsque l'exécution simultanée de deux décisions serait impossible, par exemple en cas d'annulation d'un acte à l'égard de tous ses signataires. À distinguer de la simple connexité, qui ne suffit pas."
       },
       {
         "h": "Portée",
-        "body": "L'exception est un moyen de défense : elle paralyse la demande d'exécution formée par le cocontractant, mais ne permet pas d'obtenir restitution ni de faire disparaître l'acte à titre principal. La distinction avec l'action en nullité est donc essentielle."
+        "body": "Un appel dirigé contre une seule partie, alors que le litige est indivisible, est irrecevable. Le juge peut, en revanche, ordonner la mise en cause des parties omises afin de régulariser l'instance."
       }
     ],
-    "seeAlso": "Voir aussi — prescription de l'action en nullité (art. 2224 du Code civil) · confirmation de l'acte nul (art. 1182) · exception d'inexécution (art. 1219)"
+    "seeAlso": "Voir aussi — obligation in solidum · effet dévolutif de l'appel · intervention forcée"
   },
   "date": "2026-10-28",
   "dateShort": "28 oct.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 61,
     "title": "Mesurer la vitesse des ondes gravitationnelles",
