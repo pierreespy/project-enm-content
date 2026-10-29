@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Vente anticipée d'un bien saisi pénalement : le Conseil constitutionnel valide, sous réserve, l'article 706-152 du Code de procédure pénale malgré l'absence d'audience",
+    "dek": "Par la décision n° 2026-1224 QPC du 8 octobre 2026, le Conseil constitutionnel examine les alinéas 2 et 3 de l'article 706-152 du Code de procédure pénale, qui régissent l'aliénation avant jugement d'un bien saisi, au regard de l'absence d'audience. Il les déclare conformes à la Constitution, sous une réserve d'interprétation.",
+    "source": "Cons. const., 8 oct. 2026, n° 2026-1224 QPC",
+    "url": "https://www.conseil-constitutionnel.fr/node/34532"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Troubles urbains des 17 et 18 octobre : un décret crée une aide exceptionnelle pour les entreprises de moins de 250 salariés",
+      "summary": "Le décret n° 2026-995 du 27 octobre 2026, publié au Journal officiel du 28 octobre, institue une aide exceptionnelle au profit des entreprises de moins de deux cent cinquante salariés ayant subi des dommages en marge des manifestations des 17 et 18 octobre 2026.",
+      "source": "Décret n° 2026-995 du 27 oct. 2026 · JORF n° 0252 du 28 oct. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/28/0252",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Inéligibilité des policiers : le Conseil constitutionnel juge conforme l'article L. 231 du Code électoral",
+      "summary": "Saisi par QPC, le Conseil constitutionnel déclare conformes à la Constitution les dispositions de l'article L. 231 du Code électoral relatives à l'inéligibilité des fonctionnaires de police.",
+      "source": "Cons. const., 16 oct. 2026, n° 2026-1226 QPC",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261226QPC.htm",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Procédure disciplinaire des avocats : le CNB propose une nouvelle réforme",
+      "summary": "Le Conseil national des barreaux avance des propositions pour réformer la procédure disciplinaire, notamment en renforçant la place de l'auteur de la réclamation et en instaurant une prescription de l'action disciplinaire.",
+      "source": "CNB, 13 oct. 2026",
+      "url": "https://cnb.avocat.fr/actualite/le-cnb-propose-une-nouvelle-reforme-de-la-procedure-disciplinaire-des-avocats",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "29 octobre 1929 : le « mardi noir » à Wall Street",
+      "summary": "Cinq jours après le « jeudi noir », la Bourse de New York connaît sa séance la plus brutale, avec un volume d'échanges record qui marque l'entrée dans la Grande Dépression.",
+      "source": "Histoire · 29 octobre 1929",
+      "url": "https://www.letemps.ch/monde/1929-six-jours-panique-wall-street-annoncent-pire-venir",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Suppléance et administration provisoire des cabinets d'avocats : le CNB lance une consultation",
+      "summary": "À l'issue de son assemblée générale du 9 octobre 2026, le CNB soumet aux ordres et syndicats un projet d'unification du régime de la suppléance et de l'administration provisoire des cabinets.",
+      "source": "CNB, assemblée générale du 9 oct. 2026",
+      "url": "https://cnb.avocat.fr/assembleegenerale/retour-sur-l-assemblee-generale-du-9-octobre-2026",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Aide carburant de 100 euros : une nouvelle demande en ligne ouverte jusqu'au 31 décembre",
+      "summary": "Les bénéficiaires de l'aide aux grands rouleurs peuvent déposer une nouvelle demande en ligne jusqu'au 31 décembre.",
+      "source": "Toutsurmesfinances.com",
+      "url": "https://www.toutsurmesfinances.com/actualites/a/aide-carburant-de-100-euros-nouvelle-demande-en-ligne-ouverte-jusquau-31-decembre",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Réserve d'interprétation constructive",
+    "subtitle": "Contentieux constitutionnel · Jurisprudence du Conseil constitutionnel",
+    "defShort": "Technique par laquelle le Conseil constitutionnel déclare une disposition conforme à la Constitution à condition qu'elle soit lue comme comportant une garantie que son texte ne prévoit pas.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Le Conseil constitutionnel ne se borne pas à censurer ou à valider : il peut valider « sous réserve ». Dans la réserve dite constructive, il ajoute au texte un élément qui lui manque (une garantie, une condition, un recours), faute de quoi la disposition serait inconstitutionnelle."
+      },
+      {
+        "h": "Typologie",
+        "body": "La doctrine distingue classiquement trois types. La réserve neutralisante écarte une lecture inconstitutionnelle possible du texte. La réserve directive impose aux autorités chargées d'appliquer la loi la manière de l'appliquer. La réserve constructive, la plus audacieuse, complète le texte par une exigence nouvelle."
+      },
+      {
+        "h": "Portée",
+        "body": "Les réserves figurent dans les motifs, parfois reprises au dispositif. Elles s'imposent, au titre de l'autorité attachée aux décisions du Conseil constitutionnel (art. 62, al. 3, de la Constitution), aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles, qui doivent appliquer la disposition telle qu'ainsi interprétée."
+      },
+      {
+        "h": "Débat",
+        "body": "La réserve constructive est critiquée parce qu'elle conduit le juge constitutionnel à se rapprocher d'un rôle de co-législateur. Elle lui évite en revanche d'abroger un texte dont la suppression créerait un vide juridique."
+      }
+    ],
+    "seeAlso": "Voir aussi — report des effets d'une déclaration d'inconstitutionnalité (art. 62, al. 2) · autorité de chose jugée des décisions du Conseil constitutionnel (art. 62, al. 3)"
+  },
+  "date": "2026-10-29",
+  "dateShort": "29 oct.",
+  "slot": "matin"
+}

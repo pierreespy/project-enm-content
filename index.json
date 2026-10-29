@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-28",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-10-29",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-10-29",
+      "slot": "matin",
+      "file": "editions/2026-10-29-matin.json",
+      "essentiel": "Vente anticipée d'un bien saisi pénalement : le Conseil constitutionnel valide, sous réserve, l'article 706-152 du Code de procédure pénale malgré l'absence d'audience",
+      "term": "Réserve d'interprétation constructive",
+      "rubriques": [
+        "Troubles urbains des 17 et 18 octobre : un décret crée une aide exceptionnelle pour les entreprises de moins de 250 salariés",
+        "Inéligibilité des policiers : le Conseil constitutionnel juge conforme l'article L. 231 du Code électoral",
+        "Procédure disciplinaire des avocats : le CNB propose une nouvelle réforme",
+        "29 octobre 1929 : le « mardi noir » à Wall Street",
+        "Suppléance et administration provisoire des cabinets d'avocats : le CNB lance une consultation",
+        "Aide carburant de 100 euros : une nouvelle demande en ligne ouverte jusqu'au 31 décembre"
+      ]
+    },
     {
       "date": "2026-10-28",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "14 octobre 1066 : Guillaume le Conquérant bat le roi Harold II à Hastings",
         "Convention nationale des avocats 2026 : rendez-vous à Toulouse du 21 au 23 octobre, autour de l'intelligence artificielle et de l'accès au droit",
         "Prix Nobel de chimie 2026 : Henri B. Kagan et Kenso Soai distingués"
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "slot": "midi",
-      "file": "editions/2026-10-13-midi.json",
-      "essentiel": "Virement exécuté hors du protocole de sécurité convenu : la chambre commerciale refuse à la banque d'opposer la négligence grave de son client",
-      "term": "Quasi-usufruit",
-      "rubriques": [
-        "Décret n° 2026-948 du 12 octobre 2026 : les modalités de la majoration de durée d'assurance pour l'exercice d'un mandat local",
-        "Devoir de vigilance : le tribunal judiciaire de Paris enjoint à TotalEnergies de compléter son plan sur le climat, la société a fait appel",
-        "Devoir de vigilance et droit pénal : ce que la condamnation d'Yves Rocher du 12 mars 2026 change pour les entreprises assujetties",
-        "Prix Nobel de la paix 2026 : la juriste sud-africaine Navi Pillay récompensée pour son action en faveur du droit international",
-        "Élections du Conseil national des barreaux : scrutin le 24 novembre, professions de foi à transmettre avant le 23 octobre",
-        "Budget 2027 : le projet de loi de finances vise un déficit public de 5,0 % du PIB, vote solennel sur la première partie le 20 octobre"
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "slot": "matin",
-      "file": "editions/2026-10-13-matin.json",
-      "essentiel": "Fusion-absorption et responsabilité pénale : la Cour de cassation juge que la seule concomitance avec la mise en examen de la société absorbée ne prouve pas la fraude",
-      "term": "Délai-butoir",
-      "rubriques": [
-        "Espaces sans tabac : le décret n° 2025-582 du 27 juin 2025 étend l'interdiction aux plages, parcs, abribus et abords des écoles",
-        "Fusion-absorption et fraude à la loi : la chambre criminelle exige un faisceau d'indices, pas la seule concomitance avec l'instruction",
-        "L'opposition des créanciers à la fusion-absorption : recevabilité, garanties et inopposabilité (2023-2026)",
-        "13 octobre 1307 : sur ordre de Philippe le Bel, les Templiers de France sont arrêtés au même moment",
-        "Cour d'assises de la Gironde : ouverture de la session n° 18 le 12 octobre 2026 par la révision de la liste des jurés",
-        "Prix Nobel d'économie 2026 : Michael Woodford et Robert Hall distingués pour les fondements microéconomiques de la stabilisation macroéconomique"
       ]
     }
   ]

@@ -1,0 +1,21 @@
+{
+  "n": 62,
+  "title": "La sirène standard : mesurer l'expansion avec les ondes gravitationnelles",
+  "subtitle": "Une fusion d'étoiles à neutrons fournit une distance sans échelle intermédiaire",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Une distance lue directement dans le signal",
+      "body": "Pour mesurer la constante de Hubble (jour 46), il faut deux données pour une même galaxie : sa distance et la vitesse à laquelle elle s'éloigne. La distance est la plus difficile à obtenir : elle passe d'ordinaire par une échelle de méthodes qui se relaient (jour 45), où chaque étage hérite des erreurs du précédent. Or la forme et l'intensité des ondes gravitationnelles (jour 32) émises par une fusion d'étoiles à neutrons (jour 59) permettent de calculer la distance de la source, sans passer par aucun autre étalon. Une telle source est appelée une sirène standard, par analogie avec la chandelle standard (jour 41)."
+    },
+    {
+      "h": "La lumière apporte la vitesse d'éloignement",
+      "body": "Les ondes ne disent rien de la galaxie où la fusion a eu lieu. La lumière, elle, a permis de la localiser (jour 60) : son décalage vers le rouge (jour 17) donne la vitesse à laquelle cette galaxie s'éloigne de nous. Pour la fusion de 2017, on dispose donc d'une distance venue des ondes et d'une vitesse venue de la lumière, ce qui suffit à estimer la constante de Hubble. Le résultat, issu d'un seul événement, est encore peu précis : il est compatible avec les deux mesures concurrentes de la tension de Hubble (jour 47), sans trancher entre elles."
+    }
+  ],
+  "keyTerms": [
+    { "term": "Sirène standard", "def": "Source d'ondes gravitationnelles dont le signal donne directement la distance, sans recours à une échelle de méthodes intermédiaires." }
+  ],
+  "recap": "Les ondes gravitationnelles donnent la distance, la lumière donne la vitesse d'éloignement : ensemble, elles mesurent l'expansion de l'univers par une voie indépendante des autres.",
+  "next": "Demain — pourquoi une seule fusion ne suffit pas, et ce que des dizaines d'événements permettraient."
+}

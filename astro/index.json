@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28",
-  "count": 61,
+  "updated": "2026-10-29",
+  "count": 62,
   "lessons": [
     {
       "n": 1,
@@ -525,6 +525,14 @@
       "title": "Mesurer la vitesse des ondes gravitationnelles",
       "terms": [
         "Vitesse des ondes gravitationnelles"
+      ]
+    },
+    {
+      "n": 62,
+      "file": "astro/lessons/062-une-sirene-standard.json",
+      "title": "La sirène standard : mesurer l'expansion avec les ondes gravitationnelles",
+      "terms": [
+        "Sirène standard"
       ]
     }
   ]
