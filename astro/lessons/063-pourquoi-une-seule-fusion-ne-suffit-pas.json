@@ -1,0 +1,28 @@
+{
+  "n": 63,
+  "title": "Pourquoi une seule fusion ne suffit pas",
+  "subtitle": "Une mesure isolée est fragile ; leur accumulation la resserre",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Une seule mesure, une large marge",
+      "body": "La sirène standard (jour 62) donne une estimation de la constante de Hubble (jour 46) à partir d'un seul événement : la fusion d'étoiles à neutrons de 2017. Or toute mesure comporte une marge d'incertitude, c'est-à-dire l'intervalle de valeurs dans lequel la vraie valeur peut raisonnablement se trouver. Avec un seul événement, cet intervalle est large, au point de rester compatible avec les deux valeurs en conflit dans la tension de Hubble (jour 47). Un tel résultat ne tranche rien : il montre que la méthode fonctionne, pas encore qu'elle départage."
+    },
+    {
+      "h": "Accumuler des événements indépendants",
+      "body": "Chaque fusion observée fournit sa propre estimation, avec ses propres erreurs, indépendantes de celles des autres. En en réunissant beaucoup, les écarts dans un sens et dans l'autre tendent à se compenser et l'intervalle se resserre. L'image est celle de dizaines de témoignages indépendants qui convergent : chacun est imparfait, leur recoupement l'est beaucoup moins. Cette amélioration est progressive : il faut plusieurs dizaines d'événements pour obtenir un intervalle assez étroit pour départager les deux valeurs concurrentes."
+    },
+    {
+      "h": "Un obstacle : la lumière manque souvent",
+      "body": "Pour qu'une fusion serve à mesurer l'expansion, il faut aussi connaître la vitesse d'éloignement de sa galaxie, donc l'avoir localisée grâce à la lumière (jour 60). Or beaucoup de fusions détectées, notamment celles de trous noirs (jour 23), n'émettent pas de lumière repérable. Elles livrent une distance, mais pas de galaxie d'accueil identifiée. Les événements utilisables sont donc nettement plus rares que les événements détectés, ce qui ralentit d'autant la progression."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Marge d'incertitude",
+      "def": "Intervalle de valeurs dans lequel se situe vraisemblablement la vraie valeur d'une grandeur mesurée ; il se resserre quand on accumule des mesures indépendantes."
+    }
+  ],
+  "recap": "Une seule fusion donne une estimation de l'expansion trop large pour trancher ; il en faut beaucoup d'indépendantes, et celles qui s'accompagnent de lumière sont rares.",
+  "next": "Demain — comment les astronomes combinent plusieurs méthodes pour recouper une même mesure."
+}

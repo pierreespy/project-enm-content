@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Assurance maladie complémentaire : le Conseil constitutionnel censure le gel des cotisations pour 2026",
+    "dek": "Par ses décisions n° 2026-1230/1231 QPC du 23 octobre 2026, le Conseil constitutionnel censure les dispositions relatives au gel du montant des cotisations d'assurance maladie complémentaire pour 2026, en fixant les effets de cette déclaration d'inconstitutionnalité dans le temps.",
+    "source": "Cons. const., déc. n° 2026-1230/1231 QPC, 23 oct. 2026",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261230_1231QPC.htm"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Partage judiciaire : un décret du 18 octobre 2026 simplifie et modernise la procédure",
+      "summary": "Le décret n° 2026-964 du 18 octobre 2026, publié au Journal officiel du 20 octobre, remanie les règles applicables au partage judiciaire pour fluidifier son traitement par les juridictions.",
+      "source": "Décret n° 2026-964 du 18 oct. 2026 (JO du 20 oct. 2026) · Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/judiciaire/324-organisation-judiciaire/106302-reforme-de-la-procedure-de-partage-judiciaire.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Contrôle judiciaire et interdiction de paraître : la chambre criminelle casse, le 20 octobre 2026, dans l'affaire du maire de Boisseuil",
+      "summary": "Par un arrêt du 20 octobre 2026 (pourvoi n° 26-85.129), la chambre criminelle censure une décision relative à un contrôle judiciaire assorti d'une interdiction de paraître.",
+      "source": "Cass. crim., 20 oct. 2026, n° 26-85.129 · analyse du cabinet Kohen Avocats",
+      "url": "https://kohenavocats.com/philippe-janicot-maire-boisseuil-mis-en-examen-viols-controle-judiciaire-interdiction-paraitre-cassation-ce-que-dit-la-loi/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Arbitrage : clarification et modernisation de la procédure arbitrale",
+      "summary": "Le décret n° 2026-741 du 6 août 2026 réforme la procédure arbitrale, avec une application prévue à compter du 1er janvier 2027.",
+      "source": "Le Monde du Droit, décryptage",
+      "url": "https://www.lemondedudroit.fr/decryptages/379-actualite-juridique/105424-clarification-et-modernisation-de-la-procedure-arbitrale.html",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "Convention nationale des avocats de Toulouse : « l'avocat durable » au cœur des débats",
+      "summary": "Près de 4 000 avocats se sont réunis à Toulouse, à l'invitation du CNB et des barreaux de Toulouse, Albi et Montauban, autour du thème de l'avocat durable.",
+      "source": "Le Monde du Droit, octobre 2026",
+      "url": "https://www.lemondedudroit.fr/institutions/105958-toulouse-accueille-la-convention-nationale-des-avocats-2026.html",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Procédure civile : ce qui change depuis le 1er octobre 2026 avec le décret « Magicobus III »",
+      "summary": "Le décret n° 2026-683 du 27 juillet 2026 est entré en vigueur pour l'essentiel le 1er octobre, avec notamment une motivation allégée du jugement lorsque le défendeur ne comparaît pas.",
+      "source": "Barreau de Paris · décret n° 2026-683 du 27 juill. 2026",
+      "url": "https://www.avocatparis.org/actualites/reforme-de-la-procedure-civile-ce-qui-change-compter-du-1er-octobre-2026-avec-le-decret",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Toussaint 2026 : un dimanche, donc pas de pont",
+      "summary": "Le 1er novembre tombe un dimanche : pas de pont possible, et la reprise des classes est fixée au lundi 2 novembre à l'issue des vacances de la Toussaint.",
+      "source": "vacances-scolaires.com, 16 sept. 2026",
+      "url": "https://vacances-scolaires.com/actualites/2026/09/16/1er-novembre-2026-la-toussaint-tombe-un-dimanche-un-week-end-de-quatre-jours-en-perspective/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Déchéance quadriennale",
+    "subtitle": "Droit administratif · Loi n° 68-1250 du 31 décembre 1968",
+    "defShort": "Prescription spéciale de quatre ans applicable aux créances détenues sur l'État, les collectivités territoriales et les établissements publics, qui court à compter du premier jour de l'année suivant celle où les droits ont été acquis.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Les créances sur l'État, les départements, les communes et leurs établissements publics sont prescrites, au profit de la personne publique, si elles n'ont pas été réclamées dans un délai de quatre ans. On parle de « déchéance » et non de prescription ordinaire : le régime est propre au droit public financier."
+      },
+      {
+        "h": "Point de départ",
+        "body": "Le délai court à compter du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis. Une créance née en mars 2022 se prescrit ainsi à la fin de 2026, et non en mars 2026 : le calcul se fait par années civiles, non de date à date."
+      },
+      {
+        "h": "Mise en œuvre",
+        "body": "La déchéance doit être opposée par la personne publique : le juge ne la soulève pas d'office. L'administration peut y renoncer ou, dans certains cas, relever le créancier de la déchéance. Le délai peut être suspendu ou interrompu, notamment par une demande de paiement ou un recours juridictionnel."
+      },
+      {
+        "h": "Intérêt pratique",
+        "body": "La déchéance quadriennale est un piège classique du contentieux indemnitaire contre l'administration : elle se cumule avec la prescription de droit commun du fait générateur et ne se confond ni avec elle, ni avec les délais de recours contentieux."
+      }
+    ],
+    "seeAlso": "Voir aussi — prescription extinctive · forclusion · relevé de déchéance · décision préalable (contentieux indemnitaire)"
+  },
+  "date": "2026-11-01",
+  "dateShort": "1 nov.",
+  "slot": "matin"
+}

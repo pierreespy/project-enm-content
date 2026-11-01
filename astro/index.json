@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29",
-  "count": 62,
+  "updated": "2026-11-01",
+  "count": 63,
   "lessons": [
     {
       "n": 1,
@@ -533,6 +533,14 @@
       "title": "La sirène standard : mesurer l'expansion avec les ondes gravitationnelles",
       "terms": [
         "Sirène standard"
+      ]
+    },
+    {
+      "n": 63,
+      "file": "astro/lessons/063-pourquoi-une-seule-fusion-ne-suffit-pas.json",
+      "title": "Pourquoi une seule fusion ne suffit pas",
+      "terms": [
+        "Marge d'incertitude"
       ]
     }
   ]

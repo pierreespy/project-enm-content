@@ -1,117 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Vente anticipée d'un bien saisi pénalement : le Conseil constitutionnel valide, sous réserve, l'article 706-152 du Code de procédure pénale malgré l'absence d'audience",
-    "dek": "Par la décision n° 2026-1224 QPC du 8 octobre 2026, le Conseil constitutionnel examine les alinéas 2 et 3 de l'article 706-152 du Code de procédure pénale, qui régissent l'aliénation avant jugement d'un bien saisi, au regard de l'absence d'audience. Il les déclare conformes à la Constitution, sous une réserve d'interprétation.",
-    "source": "Cons. const., 8 oct. 2026, n° 2026-1224 QPC",
-    "url": "https://www.conseil-constitutionnel.fr/node/34532"
+    "title": "Assurance maladie complémentaire : le Conseil constitutionnel censure le gel des cotisations pour 2026",
+    "dek": "Par ses décisions n° 2026-1230/1231 QPC du 23 octobre 2026, le Conseil constitutionnel censure les dispositions relatives au gel du montant des cotisations d'assurance maladie complémentaire pour 2026, en fixant les effets de cette déclaration d'inconstitutionnalité dans le temps.",
+    "source": "Cons. const., déc. n° 2026-1230/1231 QPC, 23 oct. 2026",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261230_1231QPC.htm"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Troubles urbains des 17 et 18 octobre : un décret crée une aide exceptionnelle pour les entreprises de moins de 250 salariés",
-      "summary": "Le décret n° 2026-995 du 27 octobre 2026, publié au Journal officiel du 28 octobre, institue une aide exceptionnelle au profit des entreprises de moins de deux cent cinquante salariés ayant subi des dommages en marge des manifestations des 17 et 18 octobre 2026.",
-      "source": "Décret n° 2026-995 du 27 oct. 2026 · JORF n° 0252 du 28 oct. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/10/28/0252",
+      "title": "Partage judiciaire : un décret du 18 octobre 2026 simplifie et modernise la procédure",
+      "summary": "Le décret n° 2026-964 du 18 octobre 2026, publié au Journal officiel du 20 octobre, remanie les règles applicables au partage judiciaire pour fluidifier son traitement par les juridictions.",
+      "source": "Décret n° 2026-964 du 18 oct. 2026 (JO du 20 oct. 2026) · Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/judiciaire/324-organisation-judiciaire/106302-reforme-de-la-procedure-de-partage-judiciaire.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Inéligibilité des policiers : le Conseil constitutionnel juge conforme l'article L. 231 du Code électoral",
-      "summary": "Saisi par QPC, le Conseil constitutionnel déclare conformes à la Constitution les dispositions de l'article L. 231 du Code électoral relatives à l'inéligibilité des fonctionnaires de police.",
-      "source": "Cons. const., 16 oct. 2026, n° 2026-1226 QPC",
-      "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261226QPC.htm",
+      "title": "Contrôle judiciaire et interdiction de paraître : la chambre criminelle casse, le 20 octobre 2026, dans l'affaire du maire de Boisseuil",
+      "summary": "Par un arrêt du 20 octobre 2026 (pourvoi n° 26-85.129), la chambre criminelle censure une décision relative à un contrôle judiciaire assorti d'une interdiction de paraître.",
+      "source": "Cass. crim., 20 oct. 2026, n° 26-85.129 · analyse du cabinet Kohen Avocats",
+      "url": "https://kohenavocats.com/philippe-janicot-maire-boisseuil-mis-en-examen-viols-controle-judiciaire-interdiction-paraitre-cassation-ce-que-dit-la-loi/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Procédure disciplinaire des avocats : le CNB propose une nouvelle réforme",
-      "summary": "Le Conseil national des barreaux avance des propositions pour réformer la procédure disciplinaire, notamment en renforçant la place de l'auteur de la réclamation et en instaurant une prescription de l'action disciplinaire.",
-      "source": "CNB, 13 oct. 2026",
-      "url": "https://cnb.avocat.fr/actualite/le-cnb-propose-une-nouvelle-reforme-de-la-procedure-disciplinaire-des-avocats",
+      "title": "Arbitrage : clarification et modernisation de la procédure arbitrale",
+      "summary": "Le décret n° 2026-741 du 6 août 2026 réforme la procédure arbitrale, avec une application prévue à compter du 1er janvier 2027.",
+      "source": "Le Monde du Droit, décryptage",
+      "url": "https://www.lemondedudroit.fr/decryptages/379-actualite-juridique/105424-clarification-et-modernisation-de-la-procedure-arbitrale.html",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "29 octobre 1929 : le « mardi noir » à Wall Street",
-      "summary": "Cinq jours après le « jeudi noir », la Bourse de New York connaît sa séance la plus brutale, avec un volume d'échanges record qui marque l'entrée dans la Grande Dépression.",
-      "source": "Histoire · 29 octobre 1929",
-      "url": "https://www.letemps.ch/monde/1929-six-jours-panique-wall-street-annoncent-pire-venir",
+      "title": "Convention nationale des avocats de Toulouse : « l'avocat durable » au cœur des débats",
+      "summary": "Près de 4 000 avocats se sont réunis à Toulouse, à l'invitation du CNB et des barreaux de Toulouse, Albi et Montauban, autour du thème de l'avocat durable.",
+      "source": "Le Monde du Droit, octobre 2026",
+      "url": "https://www.lemondedudroit.fr/institutions/105958-toulouse-accueille-la-convention-nationale-des-avocats-2026.html",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Suppléance et administration provisoire des cabinets d'avocats : le CNB lance une consultation",
-      "summary": "À l'issue de son assemblée générale du 9 octobre 2026, le CNB soumet aux ordres et syndicats un projet d'unification du régime de la suppléance et de l'administration provisoire des cabinets.",
-      "source": "CNB, assemblée générale du 9 oct. 2026",
-      "url": "https://cnb.avocat.fr/assembleegenerale/retour-sur-l-assemblee-generale-du-9-octobre-2026",
+      "title": "Procédure civile : ce qui change depuis le 1er octobre 2026 avec le décret « Magicobus III »",
+      "summary": "Le décret n° 2026-683 du 27 juillet 2026 est entré en vigueur pour l'essentiel le 1er octobre, avec notamment une motivation allégée du jugement lorsque le défendeur ne comparaît pas.",
+      "source": "Barreau de Paris · décret n° 2026-683 du 27 juill. 2026",
+      "url": "https://www.avocatparis.org/actualites/reforme-de-la-procedure-civile-ce-qui-change-compter-du-1er-octobre-2026-avec-le-decret",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Aide carburant de 100 euros : une nouvelle demande en ligne ouverte jusqu'au 31 décembre",
-      "summary": "Les bénéficiaires de l'aide aux grands rouleurs peuvent déposer une nouvelle demande en ligne jusqu'au 31 décembre.",
-      "source": "Toutsurmesfinances.com",
-      "url": "https://www.toutsurmesfinances.com/actualites/a/aide-carburant-de-100-euros-nouvelle-demande-en-ligne-ouverte-jusquau-31-decembre",
+      "title": "Toussaint 2026 : un dimanche, donc pas de pont",
+      "summary": "Le 1er novembre tombe un dimanche : pas de pont possible, et la reprise des classes est fixée au lundi 2 novembre à l'issue des vacances de la Toussaint.",
+      "source": "vacances-scolaires.com, 16 sept. 2026",
+      "url": "https://vacances-scolaires.com/actualites/2026/09/16/1er-novembre-2026-la-toussaint-tombe-un-dimanche-un-week-end-de-quatre-jours-en-perspective/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Réserve d'interprétation constructive",
-    "subtitle": "Contentieux constitutionnel · Jurisprudence du Conseil constitutionnel",
-    "defShort": "Technique par laquelle le Conseil constitutionnel déclare une disposition conforme à la Constitution à condition qu'elle soit lue comme comportant une garantie que son texte ne prévoit pas.",
+    "term": "Déchéance quadriennale",
+    "subtitle": "Droit administratif · Loi n° 68-1250 du 31 décembre 1968",
+    "defShort": "Prescription spéciale de quatre ans applicable aux créances détenues sur l'État, les collectivités territoriales et les établissements publics, qui court à compter du premier jour de l'année suivant celle où les droits ont été acquis.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Le Conseil constitutionnel ne se borne pas à censurer ou à valider : il peut valider « sous réserve ». Dans la réserve dite constructive, il ajoute au texte un élément qui lui manque (une garantie, une condition, un recours), faute de quoi la disposition serait inconstitutionnelle."
+        "body": "Les créances sur l'État, les départements, les communes et leurs établissements publics sont prescrites, au profit de la personne publique, si elles n'ont pas été réclamées dans un délai de quatre ans. On parle de « déchéance » et non de prescription ordinaire : le régime est propre au droit public financier."
       },
       {
-        "h": "Typologie",
-        "body": "La doctrine distingue classiquement trois types. La réserve neutralisante écarte une lecture inconstitutionnelle possible du texte. La réserve directive impose aux autorités chargées d'appliquer la loi la manière de l'appliquer. La réserve constructive, la plus audacieuse, complète le texte par une exigence nouvelle."
+        "h": "Point de départ",
+        "body": "Le délai court à compter du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis. Une créance née en mars 2022 se prescrit ainsi à la fin de 2026, et non en mars 2026 : le calcul se fait par années civiles, non de date à date."
       },
       {
-        "h": "Portée",
-        "body": "Les réserves figurent dans les motifs, parfois reprises au dispositif. Elles s'imposent, au titre de l'autorité attachée aux décisions du Conseil constitutionnel (art. 62, al. 3, de la Constitution), aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles, qui doivent appliquer la disposition telle qu'ainsi interprétée."
+        "h": "Mise en œuvre",
+        "body": "La déchéance doit être opposée par la personne publique : le juge ne la soulève pas d'office. L'administration peut y renoncer ou, dans certains cas, relever le créancier de la déchéance. Le délai peut être suspendu ou interrompu, notamment par une demande de paiement ou un recours juridictionnel."
       },
       {
-        "h": "Débat",
-        "body": "La réserve constructive est critiquée parce qu'elle conduit le juge constitutionnel à se rapprocher d'un rôle de co-législateur. Elle lui évite en revanche d'abroger un texte dont la suppression créerait un vide juridique."
+        "h": "Intérêt pratique",
+        "body": "La déchéance quadriennale est un piège classique du contentieux indemnitaire contre l'administration : elle se cumule avec la prescription de droit commun du fait générateur et ne se confond ni avec elle, ni avec les délais de recours contentieux."
       }
     ],
-    "seeAlso": "Voir aussi — report des effets d'une déclaration d'inconstitutionnalité (art. 62, al. 2) · autorité de chose jugée des décisions du Conseil constitutionnel (art. 62, al. 3)"
+    "seeAlso": "Voir aussi — prescription extinctive · forclusion · relevé de déchéance · décision préalable (contentieux indemnitaire)"
   },
-  "date": "2026-10-29",
-  "dateShort": "29 oct.",
+  "date": "2026-11-01",
+  "dateShort": "1 nov.",
   "slot": "matin",
   "astro": {
-    "n": 62,
-    "title": "La sirène standard : mesurer l'expansion avec les ondes gravitationnelles",
-    "subtitle": "Une fusion d'étoiles à neutrons fournit une distance sans échelle intermédiaire",
+    "n": 63,
+    "title": "Pourquoi une seule fusion ne suffit pas",
+    "subtitle": "Une mesure isolée est fragile ; leur accumulation la resserre",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Une distance lue directement dans le signal",
-        "body": "Pour mesurer la constante de Hubble (jour 46), il faut deux données pour une même galaxie : sa distance et la vitesse à laquelle elle s'éloigne. La distance est la plus difficile à obtenir : elle passe d'ordinaire par une échelle de méthodes qui se relaient (jour 45), où chaque étage hérite des erreurs du précédent. Or la forme et l'intensité des ondes gravitationnelles (jour 32) émises par une fusion d'étoiles à neutrons (jour 59) permettent de calculer la distance de la source, sans passer par aucun autre étalon. Une telle source est appelée une sirène standard, par analogie avec la chandelle standard (jour 41)."
+        "h": "Une seule mesure, une large marge",
+        "body": "La sirène standard (jour 62) donne une estimation de la constante de Hubble (jour 46) à partir d'un seul événement : la fusion d'étoiles à neutrons de 2017. Or toute mesure comporte une marge d'incertitude, c'est-à-dire l'intervalle de valeurs dans lequel la vraie valeur peut raisonnablement se trouver. Avec un seul événement, cet intervalle est large, au point de rester compatible avec les deux valeurs en conflit dans la tension de Hubble (jour 47). Un tel résultat ne tranche rien : il montre que la méthode fonctionne, pas encore qu'elle départage."
       },
       {
-        "h": "La lumière apporte la vitesse d'éloignement",
-        "body": "Les ondes ne disent rien de la galaxie où la fusion a eu lieu. La lumière, elle, a permis de la localiser (jour 60) : son décalage vers le rouge (jour 17) donne la vitesse à laquelle cette galaxie s'éloigne de nous. Pour la fusion de 2017, on dispose donc d'une distance venue des ondes et d'une vitesse venue de la lumière, ce qui suffit à estimer la constante de Hubble. Le résultat, issu d'un seul événement, est encore peu précis : il est compatible avec les deux mesures concurrentes de la tension de Hubble (jour 47), sans trancher entre elles."
+        "h": "Accumuler des événements indépendants",
+        "body": "Chaque fusion observée fournit sa propre estimation, avec ses propres erreurs, indépendantes de celles des autres. En en réunissant beaucoup, les écarts dans un sens et dans l'autre tendent à se compenser et l'intervalle se resserre. L'image est celle de dizaines de témoignages indépendants qui convergent : chacun est imparfait, leur recoupement l'est beaucoup moins. Cette amélioration est progressive : il faut plusieurs dizaines d'événements pour obtenir un intervalle assez étroit pour départager les deux valeurs concurrentes."
+      },
+      {
+        "h": "Un obstacle : la lumière manque souvent",
+        "body": "Pour qu'une fusion serve à mesurer l'expansion, il faut aussi connaître la vitesse d'éloignement de sa galaxie, donc l'avoir localisée grâce à la lumière (jour 60). Or beaucoup de fusions détectées, notamment celles de trous noirs (jour 23), n'émettent pas de lumière repérable. Elles livrent une distance, mais pas de galaxie d'accueil identifiée. Les événements utilisables sont donc nettement plus rares que les événements détectés, ce qui ralentit d'autant la progression."
       }
     ],
     "keyTerms": [
       {
-        "term": "Sirène standard",
-        "def": "Source d'ondes gravitationnelles dont le signal donne directement la distance, sans recours à une échelle de méthodes intermédiaires."
+        "term": "Marge d'incertitude",
+        "def": "Intervalle de valeurs dans lequel se situe vraisemblablement la vraie valeur d'une grandeur mesurée ; il se resserre quand on accumule des mesures indépendantes."
       }
     ],
-    "recap": "Les ondes gravitationnelles donnent la distance, la lumière donne la vitesse d'éloignement : ensemble, elles mesurent l'expansion de l'univers par une voie indépendante des autres.",
-    "next": "Demain — pourquoi une seule fusion ne suffit pas, et ce que des dizaines d'événements permettraient."
+    "recap": "Une seule fusion donne une estimation de l'expansion trop large pour trancher ; il en faut beaucoup d'indépendantes, et celles qui s'accompagnent de lumière sont rares.",
+    "next": "Demain — comment les astronomes combinent plusieurs méthodes pour recouper une même mesure."
   }
 }

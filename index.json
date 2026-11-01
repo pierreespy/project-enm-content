@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-11-01",
   "updatedSlot": "matin",
-  "count": 30,
+  "count": 25,
   "editions": [
+    {
+      "date": "2026-11-01",
+      "slot": "matin",
+      "file": "editions/2026-11-01-matin.json",
+      "essentiel": "Assurance maladie complémentaire : le Conseil constitutionnel censure le gel des cotisations pour 2026",
+      "term": "Déchéance quadriennale",
+      "rubriques": [
+        "Partage judiciaire : un décret du 18 octobre 2026 simplifie et modernise la procédure",
+        "Contrôle judiciaire et interdiction de paraître : la chambre criminelle casse, le 20 octobre 2026, dans l'affaire du maire de Boisseuil",
+        "Arbitrage : clarification et modernisation de la procédure arbitrale",
+        "Convention nationale des avocats de Toulouse : « l'avocat durable » au cœur des débats",
+        "Procédure civile : ce qui change depuis le 1er octobre 2026 avec le décret « Magicobus III »",
+        "Toussaint 2026 : un dimanche, donc pas de pont"
+      ]
+    },
     {
       "date": "2026-10-29",
       "slot": "matin",
@@ -361,96 +376,6 @@
         "17 octobre 1722 : on brûle les billets de banque de John Law place de l'Hôtel de Ville",
         "Arrêt maladie : ce qui change au 15 octobre 2026 pour l'indemnisation",
         "Grève nationale des personnels navigants du 17 au 21 octobre 2026 : Air France, Transavia et Corsair exposées"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "slot": "midi",
-      "file": "editions/2026-10-16-midi.json",
-      "essentiel": "Cession de parts de SARL à un tiers : sans notification du projet à la société et aux associés, la cession est nulle, même si l'agrément a été donné à l'unanimité",
-      "term": "Interversion de la prescription",
-      "rubriques": [
-        "Journal officiel du 16 octobre 2026 : arrêtés sur les places aux concours militaires de 2027 et sur les spécialités pharmaceutiques remboursables",
-        "Intérêts au double du taux légal : la deuxième chambre civile rejette un pourvoi sur leur capitalisation dans un arrêt publié au Bulletin",
-        "L'office du juge dans l'interprétation des conventions collectives : la méthode unifiée de la chambre sociale (2023-2026)",
-        "16 octobre 1978 : Karol Wojtyła est élu pape sous le nom de Jean-Paul II",
-        "Injonction de payer : depuis le 1er septembre 2026, l'ordonnance doit être signifiée dans les trois mois sous peine d'être non avenue",
-        "Budget de l'Union européenne : les dirigeants n'ont pas trouvé d'accord, Emmanuel Macron juge que le temps presse"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "slot": "matin",
-      "file": "editions/2026-10-16-matin.json",
-      "essentiel": "Licenciement nul pour harcèlement moral : le salarié parti à la retraite ne peut plus être réintégré, mais il est indemnisé jusqu'à son départ",
-      "term": "Expromission",
-      "rubriques": [
-        "Journal officiel du 15 octobre 2026 : un décret du 14 octobre organise un dispositif de prévention et de traitement des atteintes aux élèves et aux personnels dans les écoles",
-        "Prévention du harcèlement moral : la chambre sociale distingue l'obligation de prévention de l'interdiction du harcèlement, et censure une cour d'appel sur la prescription",
-        "Fiscalité du patrimoine : la Cour des comptes veut restaurer la progressivité au sommet",
-        "16 octobre 1793 : Marie-Antoinette est guillotinée place de la Révolution",
-        "Marchés publics : la revue de la semaine du 9 au 15 octobre 2026, dont les règles sur les offres anormalement basses",
-        "16 octobre : Journée mondiale de l'alimentation, sous le thème « Innover aujourd'hui pour nourrir demain »"
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "slot": "midi",
-      "file": "editions/2026-10-15-midi.json",
-      "essentiel": "Pourvoi dans l'affaire des assistants parlementaires du FN : les mémoires sont déposés ce 15 octobre, dernier jour du délai, avant la fixation d'une audience",
-      "term": "Moyen mélangé de fait et de droit",
-      "rubriques": [
-        "Loi de financement de la sécurité sociale pour 2026 : le Conseil constitutionnel a examiné les QPC n° 2026-1230/1231 le 13 octobre et rendra des décisions le 16",
-        "Municipales à Couëron : l'élection est annulée pour trois suffrages de trop sur les machines à voter, l'appel est ouvert",
-        "Impôt sur le revenu depuis 2017 : l'étude du Conseil des prélèvements obligatoires sur l'impôt réellement payé selon les niveaux de revenus",
-        "15 octobre 1917 : Mata Hari est fusillée à Vincennes après sa condamnation pour espionnage",
-        "Harcèlement téléphonique : ce que vos relevés d'appels et vos messages prouvent vraiment pour appuyer une plainte",
-        "Grève TCL du jeudi 15 octobre : une quarantaine de lignes de bus à l'arrêt à Lyon, métros et tramways normaux"
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "slot": "matin",
-      "file": "editions/2026-10-15-matin.json",
-      "essentiel": "Inapte après un arrêt maladie avec une RQTH : la chambre sociale exige que le salarié demande par écrit les aménagements avant le licenciement",
-      "term": "Stellionat",
-      "rubriques": [
-        "Reboisement : le décret n° 2026-937 du 8 octobre 2026 fixe de nouvelles conditions d'aide, après l'annulation du dispositif de 2025",
-        "Vidéos clandestines tournées dans un élevage : la première chambre civile encadre le retrait des images et impose d'examiner le préjudice moral",
-        "Faute inexcusable : la Cour de cassation détache l'indemnisation complémentaire des décisions de la caisse",
-        "15 octobre 1783 : Pilâtre de Rozier réalise la première ascension humaine en ballon",
-        "Délit de fuite après un accrochage mineur : ce que risque le conducteur qui repart et comment se défendre",
-        "15 octobre : Journée internationale des femmes rurales"
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "slot": "midi",
-      "file": "editions/2026-10-14-midi.json",
-      "essentiel": "Société dissoute, liquidée et radiée : la chambre commerciale maintient l'engagement de la caution pour les dettes nées avant la dissolution",
-      "term": "Exception purement personnelle au débiteur",
-      "rubriques": [
-        "Projet de loi de finances pour 2027 : l'Assemblée nationale a ouvert la discussion de la partie recettes sur le texte initial du gouvernement",
-        "Dirigeant assigné à titre personnel par un tiers : la chambre commerciale précise la faute séparable en cas de contrefaçon de marque et de refus de communiquer des pièces comptables",
-        "Péremption d'instance en appel : que faire quand toutes les charges avaient été accomplies, après la cassation du 1er octobre 2026",
-        "Prix Nobel de littérature 2026 : la Canadienne Anne Carson, helléniste de formation, récompensée pour une œuvre en dialogue avec la tradition classique",
-        "Appel confirmé sans examen : la cassation du 1er octobre 2026 impose le débat contradictoire sur le moyen relevé d'office",
-        "Thon rappelé en octobre 2026 : que faire si la boîte a déjà été consommée"
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "slot": "matin",
-      "file": "editions/2026-10-14-matin.json",
-      "essentiel": "Mis en examen incapable de se défendre : la chambre criminelle, en formation solennelle, abandonne le sursis au renvoi devant les assises",
-      "term": "Évocation",
-      "rubriques": [
-        "Décret n° 2026-936 du 8 octobre 2026 : les modalités de la taxe de répartition des coûts du mécanisme de capacité",
-        "Fouille d'une cellule, examen d'un véhicule : la chambre criminelle trace la frontière avec la perquisition",
-        "Le double régime de la preuve en procédure pénale : loyauté exigée de l'autorité publique, liberté quasi absolue du particulier (2023-2026)",
-        "14 octobre 1066 : Guillaume le Conquérant bat le roi Harold II à Hastings",
-        "Convention nationale des avocats 2026 : rendez-vous à Toulouse du 21 au 23 octobre, autour de l'intelligence artificielle et de l'accès au droit",
-        "Prix Nobel de chimie 2026 : Henri B. Kagan et Kenso Soai distingués"
       ]
     }
   ]
