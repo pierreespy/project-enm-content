@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Assurance maladie complémentaire : le Conseil constitutionnel censure le gel des cotisations pour 2026",
-    "dek": "Par ses décisions n° 2026-1230/1231 QPC du 23 octobre 2026, le Conseil constitutionnel censure les dispositions relatives au gel du montant des cotisations d'assurance maladie complémentaire pour 2026, en fixant les effets de cette déclaration d'inconstitutionnalité dans le temps.",
-    "source": "Cons. const., déc. n° 2026-1230/1231 QPC, 23 oct. 2026",
-    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261230_1231QPC.htm"
+    "title": "Cour de cassation, 24 juin 2026 : un arrêt de droit des affaires commenté (pourvoi n° 24-21.626)",
+    "dek": "Un dimanche de Toussaint sans Journal officiel, l'édition de mise à jour revient sur une décision récente de la Cour de cassation, commentée dans la base Lextenso.",
+    "source": "Cass., 24 juin 2026, pourvoi n° 24-21.626 · La base Lextenso",
+    "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-06/24-21-626-CC-24062026-24_21626"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Partage judiciaire : un décret du 18 octobre 2026 simplifie et modernise la procédure",
-      "summary": "Le décret n° 2026-964 du 18 octobre 2026, publié au Journal officiel du 20 octobre, remanie les règles applicables au partage judiciaire pour fluidifier son traitement par les juridictions.",
-      "source": "Décret n° 2026-964 du 18 oct. 2026 (JO du 20 oct. 2026) · Le Monde du Droit",
-      "url": "https://www.lemondedudroit.fr/judiciaire/324-organisation-judiciaire/106302-reforme-de-la-procedure-de-partage-judiciaire.html",
+      "title": "Forêt : un décret du 8 octobre 2026 fixe les conditions d'attribution des aides au renouvellement forestier",
+      "summary": "Le décret n° 2026-937 du 8 octobre 2026, publié au Journal officiel du 10 octobre, définit les conditions d'octroi des aides en faveur du renouvellement forestier.",
+      "source": "Décret n° 2026-937 du 8 oct. 2026 (JO du 10 oct. 2026) · Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/public/284-environnement/106194-aides-au-reboisement-un-nouveau-decret.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Contrôle judiciaire et interdiction de paraître : la chambre criminelle casse, le 20 octobre 2026, dans l'affaire du maire de Boisseuil",
-      "summary": "Par un arrêt du 20 octobre 2026 (pourvoi n° 26-85.129), la chambre criminelle censure une décision relative à un contrôle judiciaire assorti d'une interdiction de paraître.",
-      "source": "Cass. crim., 20 oct. 2026, n° 26-85.129 · analyse du cabinet Kohen Avocats",
-      "url": "https://kohenavocats.com/philippe-janicot-maire-boisseuil-mis-en-examen-viols-controle-judiciaire-interdiction-paraitre-cassation-ce-que-dit-la-loi/",
+      "title": "Cour de cassation, 1er juillet 2026 : un arrêt de la chambre commerciale commenté en jurisprudence des affaires",
+      "summary": "Arrêt rendu le 1er juillet 2026 sur le pourvoi n° 25-16.042, analysé dans la base de jurisprudence commentée Lextenso.",
+      "source": "Cass., 1er juill. 2026, n° 25-16.042 · La base Lextenso",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-07/25-16-042-CC-01072026-25_16042",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Arbitrage : clarification et modernisation de la procédure arbitrale",
-      "summary": "Le décret n° 2026-741 du 6 août 2026 réforme la procédure arbitrale, avec une application prévue à compter du 1er janvier 2027.",
-      "source": "Le Monde du Droit, décryptage",
-      "url": "https://www.lemondedudroit.fr/decryptages/379-actualite-juridique/105424-clarification-et-modernisation-de-la-procedure-arbitrale.html",
+      "title": "Revue des revues de droit des affaires : le panorama doctrinal de juin 2026",
+      "summary": "Le panorama mensuel recense les articles de doctrine marquants publiés en droit des affaires au mois de juin 2026.",
+      "source": "La base Lextenso, revue des revues Affaires, juin 2026",
+      "url": "https://www.labase-lextenso.fr/nouveautes/revue-des-revues-affaires-juin-2026-486",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "Convention nationale des avocats de Toulouse : « l'avocat durable » au cœur des débats",
-      "summary": "Près de 4 000 avocats se sont réunis à Toulouse, à l'invitation du CNB et des barreaux de Toulouse, Albi et Montauban, autour du thème de l'avocat durable.",
-      "source": "Le Monde du Droit, octobre 2026",
-      "url": "https://www.lemondedudroit.fr/institutions/105958-toulouse-accueille-la-convention-nationale-des-avocats-2026.html",
+      "title": "1er novembre 1954 : la « Toussaint rouge » ouvre la guerre d'Algérie",
+      "summary": "Une série d'attentats revendiqués par le FLN marque le début de l'insurrection algérienne, date commémorée comme point de départ de la guerre d'indépendance.",
+      "source": "Wikipedia, « November 1954 »",
+      "url": "https://en.wikipedia.org/wiki/November_1954",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Procédure civile : ce qui change depuis le 1er octobre 2026 avec le décret « Magicobus III »",
-      "summary": "Le décret n° 2026-683 du 27 juillet 2026 est entré en vigueur pour l'essentiel le 1er octobre, avec notamment une motivation allégée du jugement lorsque le défendeur ne comparaît pas.",
-      "source": "Barreau de Paris · décret n° 2026-683 du 27 juill. 2026",
-      "url": "https://www.avocatparis.org/actualites/reforme-de-la-procedure-civile-ce-qui-change-compter-du-1er-octobre-2026-avec-le-decret",
+      "title": "Cour de cassation, 3 juin 2026 : un arrêt de droit des affaires commenté (pourvoi n° 24-22.130)",
+      "summary": "Arrêt rendu le 3 juin 2026 sur le pourvoi n° 24-22.130, analysé dans la base de jurisprudence commentée Lextenso.",
+      "source": "Cass., 3 juin 2026, n° 24-22.130 · La base Lextenso",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-06/24-22-130-CC-03062026-24_22130",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Toussaint 2026 : un dimanche, donc pas de pont",
-      "summary": "Le 1er novembre tombe un dimanche : pas de pont possible, et la reprise des classes est fixée au lundi 2 novembre à l'issue des vacances de la Toussaint.",
-      "source": "vacances-scolaires.com, 16 sept. 2026",
-      "url": "https://vacances-scolaires.com/actualites/2026/09/16/1er-novembre-2026-la-toussaint-tombe-un-dimanche-un-week-end-de-quatre-jours-en-perspective/",
+      "title": "Novembre 2026 : deux jours fériés seulement, la Toussaint un dimanche et l'Armistice un mercredi",
+      "summary": "Le 11 novembre tombant un mercredi, le mois ne comptera qu'un seul jour férié ouvré potentiel, sans pont possible.",
+      "source": "faire-le-pont.fr",
+      "url": "https://www.faire-le-pont.fr/actualites/toussaint-2026-pas-de-pont-vacances-armistice/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Déchéance quadriennale",
-    "subtitle": "Droit administratif · Loi n° 68-1250 du 31 décembre 1968",
-    "defShort": "Prescription spéciale de quatre ans applicable aux créances détenues sur l'État, les collectivités territoriales et les établissements publics, qui court à compter du premier jour de l'année suivant celle où les droits ont été acquis.",
+    "term": "Stellionat",
+    "subtitle": "Droit civil et pénal · Disposition frauduleuse d'un bien",
+    "defShort": "Fraude consistant à vendre ou à grever un bien dont on n'est pas propriétaire, ou à le présenter comme libre alors qu'il est déjà chargé de droits au profit de tiers.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Les créances sur l'État, les départements, les communes et leurs établissements publics sont prescrites, au profit de la personne publique, si elles n'ont pas été réclamées dans un délai de quatre ans. On parle de « déchéance » et non de prescription ordinaire : le régime est propre au droit public financier."
+        "body": "Le stellionat désigne la tromperie sur la situation juridique d'un bien : le stellionataire dispose d'un immeuble qui ne lui appartient pas, ou le déclare franc de toute charge alors qu'il est hypothéqué ou déjà aliéné. Le terme vient du latin stellio, le lézard changeant, image de la duplicité."
       },
       {
-        "h": "Point de départ",
-        "body": "Le délai court à compter du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis. Une créance née en mars 2022 se prescrit ainsi à la fin de 2026, et non en mars 2026 : le calcul se fait par années civiles, non de date à date."
+        "h": "Fondement",
+        "body": "Le droit romain en faisait un délit résiduel, l'Ancien droit puis le Code civil de 1804 y attachaient la contrainte par corps. Cette sanction a disparu ; la notion survit comme qualification doctrinale d'une fraude sur la propriété ou les charges."
       },
       {
-        "h": "Mise en œuvre",
-        "body": "La déchéance doit être opposée par la personne publique : le juge ne la soulève pas d'office. L'administration peut y renoncer ou, dans certains cas, relever le créancier de la déchéance. Le délai peut être suspendu ou interrompu, notamment par une demande de paiement ou un recours juridictionnel."
+        "h": "Cas visés",
+        "body": "Double vente d'un même immeuble, constitution d'hypothèque sur un bien d'autrui, vente d'un bien déclaré libre malgré une hypothèque ou un privilège occulte. La manœuvre peut relever de l'escroquerie lorsque les éléments de l'article 313-1 du Code pénal sont réunis."
       },
       {
-        "h": "Intérêt pratique",
-        "body": "La déchéance quadriennale est un piège classique du contentieux indemnitaire contre l'administration : elle se cumule avec la prescription de droit commun du fait générateur et ne se confond ni avec elle, ni avec les délais de recours contentieux."
+        "h": "Portée",
+        "body": "Le mot n'est plus un texte autonome en droit positif : il sert de grille de lecture. Les remèdes sont aujourd'hui la nullité ou l'inefficacité de l'acte, la garantie d'éviction, la responsabilité civile et, le cas échéant, la voie pénale."
       }
     ],
-    "seeAlso": "Voir aussi — prescription extinctive · forclusion · relevé de déchéance · décision préalable (contentieux indemnitaire)"
+    "seeAlso": "Voir aussi — escroquerie (art. 313-1 C. pén.) · garantie d'éviction (art. 1626 C. civ.) · vente de la chose d'autrui (art. 1599 C. civ.)"
   },
   "date": "2026-11-01",
   "dateShort": "1 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 63,
     "title": "Pourquoi une seule fusion ne suffit pas",

@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-01",
-  "updatedSlot": "matin",
-  "count": 25,
+  "updatedSlot": "midi",
+  "count": 26,
   "editions": [
+    {
+      "date": "2026-11-01",
+      "slot": "midi",
+      "file": "editions/2026-11-01-midi.json",
+      "essentiel": "Cour de cassation, 24 juin 2026 : un arrêt de droit des affaires commenté (pourvoi n° 24-21.626)",
+      "term": "Stellionat",
+      "rubriques": [
+        "Forêt : un décret du 8 octobre 2026 fixe les conditions d'attribution des aides au renouvellement forestier",
+        "Cour de cassation, 1er juillet 2026 : un arrêt de la chambre commerciale commenté en jurisprudence des affaires",
+        "Revue des revues de droit des affaires : le panorama doctrinal de juin 2026",
+        "1er novembre 1954 : la « Toussaint rouge » ouvre la guerre d'Algérie",
+        "Cour de cassation, 3 juin 2026 : un arrêt de droit des affaires commenté (pourvoi n° 24-22.130)",
+        "Novembre 2026 : deux jours fériés seulement, la Toussaint un dimanche et l'Armistice un mercredi"
+      ]
+    },
     {
       "date": "2026-11-01",
       "slot": "matin",
