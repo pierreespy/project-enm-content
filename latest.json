@@ -1,121 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Cour de cassation, 24 juin 2026 : un arrêt de droit des affaires commenté (pourvoi n° 24-21.626)",
-    "dek": "Un dimanche de Toussaint sans Journal officiel, l'édition de mise à jour revient sur une décision récente de la Cour de cassation, commentée dans la base Lextenso.",
-    "source": "Cass., 24 juin 2026, pourvoi n° 24-21.626 · La base Lextenso",
-    "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-06/24-21-626-CC-24062026-24_21626"
+    "title": "Impartialité du juge ayant connu l'enfant victime : le Conseil constitutionnel se prononce par sa décision QPC du 1er octobre 2026",
+    "dek": "Par sa décision n° 2026-1223 QPC du 1er octobre 2026, le Conseil constitutionnel examine la question de l'impartialité d'un juge qui a déjà eu connaissance de l'enfant victime d'une infraction ; le Conseil publie une « décision en bref » qui en détaille la portée.",
+    "source": "Cons. const., déc. n° 2026-1223 QPC, 1er oct. 2026",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/la-decision-en-bref-decision-n-2026-1223-qpc"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Forêt : un décret du 8 octobre 2026 fixe les conditions d'attribution des aides au renouvellement forestier",
-      "summary": "Le décret n° 2026-937 du 8 octobre 2026, publié au Journal officiel du 10 octobre, définit les conditions d'octroi des aides en faveur du renouvellement forestier.",
-      "source": "Décret n° 2026-937 du 8 oct. 2026 (JO du 10 oct. 2026) · Le Monde du Droit",
-      "url": "https://www.lemondedudroit.fr/public/284-environnement/106194-aides-au-reboisement-un-nouveau-decret.html",
+      "title": "SISPoPP : un décret du 26 octobre 2026 modifie le traitement de suivi des politiques pénales prioritaires",
+      "summary": "Le décret n° 2026-996 du 26 octobre 2026, publié au Journal officiel du 28 octobre, modifie le décret du 10 octobre 2023 autorisant le « Système informatisé de suivi de politiques pénales prioritaires » et entre en vigueur le lendemain de sa publication.",
+      "source": "Décret n° 2026-996 du 26 oct. 2026 (JORF n° 0252 du 28 oct. 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055020087",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cour de cassation, 1er juillet 2026 : un arrêt de la chambre commerciale commenté en jurisprudence des affaires",
-      "summary": "Arrêt rendu le 1er juillet 2026 sur le pourvoi n° 25-16.042, analysé dans la base de jurisprudence commentée Lextenso.",
-      "source": "Cass., 1er juill. 2026, n° 25-16.042 · La base Lextenso",
-      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-07/25-16-042-CC-01072026-25_16042",
+      "title": "Indemnisation du déficit fonctionnel permanent : la deuxième chambre civile s'appuie sur l'Assemblée plénière de 2023",
+      "summary": "Dans un arrêt publié au Bulletin du 3 septembre 2026 (pourvoi n° 23-23.281), la deuxième chambre civile statue sur l'indemnisation d'un déficit fonctionnel permanent à la lumière d'une décision de l'Assemblée plénière de 2023.",
+      "source": "Cass. civ. 2e, 3 sept. 2026, n° 23-23.281, publié au Bulletin",
+      "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054838526",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Revue des revues de droit des affaires : le panorama doctrinal de juin 2026",
-      "summary": "Le panorama mensuel recense les articles de doctrine marquants publiés en droit des affaires au mois de juin 2026.",
-      "source": "La base Lextenso, revue des revues Affaires, juin 2026",
-      "url": "https://www.labase-lextenso.fr/nouveautes/revue-des-revues-affaires-juin-2026-486",
+      "title": "Dix ans de la réforme du droit des contrats : la Revue des contrats revient de l'ordonnance à la jurisprudence",
+      "summary": "Le numéro de septembre 2026 de la Revue des contrats rassemble les contributions d'un colloque consacré aux dix ans de la réforme de 2016, dont l'exception d'inexécution et la réduction du prix.",
+      "source": "Revue des contrats, 2026, n° 3 (RDC203e6)",
+      "url": "https://www.labase-lextenso.fr/revue-des-contrats/2026-n3/dix-ans-de-la-reforme-du-droit-des-contrats-de-l-ordonnance-a-la-jurisprudence-RDC203e6",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "1er novembre 1954 : la « Toussaint rouge » ouvre la guerre d'Algérie",
-      "summary": "Une série d'attentats revendiqués par le FLN marque le début de l'insurrection algérienne, date commémorée comme point de départ de la guerre d'indépendance.",
-      "source": "Wikipedia, « November 1954 »",
-      "url": "https://en.wikipedia.org/wiki/November_1954",
+      "title": "2 novembre 1960 : l'éditeur de « L'Amant de Lady Chatterley » est acquitté à Londres",
+      "summary": "Le 2 novembre 1960, le jury londonien conclut que Penguin Books n'a pas enfreint la loi sur les publications obscènes en publiant le roman de D. H. Lawrence.",
+      "source": "Wikipédia, « R v Penguin Books Ltd »",
+      "url": "https://en.wikipedia.org/wiki/R_v_Penguin_Books_Ltd",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Cour de cassation, 3 juin 2026 : un arrêt de droit des affaires commenté (pourvoi n° 24-22.130)",
-      "summary": "Arrêt rendu le 3 juin 2026 sur le pourvoi n° 24-22.130, analysé dans la base de jurisprudence commentée Lextenso.",
-      "source": "Cass., 3 juin 2026, n° 24-22.130 · La base Lextenso",
-      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-06/24-22-130-CC-03062026-24_22130",
+      "title": "Élections du CNB 2026 : scrutin fixé au 24 novembre, professions de foi en ligne",
+      "summary": "Le Conseil national des barreaux a publié le 26 octobre 2026 les professions de foi des candidats ; le vote aura lieu le 24 novembre et les résultats seront proclamés le lendemain.",
+      "source": "Conseil national des barreaux, 26 oct. 2026",
+      "url": "https://cnb.avocat.fr/elections-du-conseil-national-des-barreaux-2026",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Novembre 2026 : deux jours fériés seulement, la Toussaint un dimanche et l'Armistice un mercredi",
-      "summary": "Le 11 novembre tombant un mercredi, le mois ne comptera qu'un seul jour férié ouvré potentiel, sans pont possible.",
-      "source": "faire-le-pont.fr",
-      "url": "https://www.faire-le-pont.fr/actualites/toussaint-2026-pas-de-pont-vacances-armistice/",
+      "title": "Retours de Toussaint : Bison Futé classe le dimanche 1er novembre en orange vers l'Île-de-France",
+      "summary": "À la fin des vacances de la Toussaint, les retours vers l'Île-de-France étaient classés orange les 31 octobre et 1er novembre, avec un conseil de rentrer avant 11 h ou après 22 h.",
+      "source": "Bison Futé, relayé par L'Automobiliste",
+      "url": "https://lautomobiliste.fr/28/10/2026/bison-fute-circulation-30-octobre-1er-novembre-2026-autoroutes-horaires/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Stellionat",
-    "subtitle": "Droit civil et pénal · Disposition frauduleuse d'un bien",
-    "defShort": "Fraude consistant à vendre ou à grever un bien dont on n'est pas propriétaire, ou à le présenter comme libre alors qu'il est déjà chargé de droits au profit de tiers.",
+    "term": "Interversion de titre",
+    "subtitle": "Droit des biens · Prescription acquisitive (Code civil, art. 2255 et s.)",
+    "defShort": "Changement de la cause juridique de la détention : celui qui possède pour autrui (locataire, dépositaire, usufruitier) cesse de détenir à titre précaire et possède désormais pour son propre compte, ce qui lui ouvre la prescription acquisitive.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Le stellionat désigne la tromperie sur la situation juridique d'un bien : le stellionataire dispose d'un immeuble qui ne lui appartient pas, ou le déclare franc de toute charge alors qu'il est hypothéqué ou déjà aliéné. Le terme vient du latin stellio, le lézard changeant, image de la duplicité."
+        "body": "Un détenteur précaire ne peut pas prescrire : sa possession est exercée au nom d'autrui. L'interversion de titre est l'événement qui rompt cette précarité et fait de lui un possesseur véritable, à compter duquel le délai de prescription peut courir."
       },
       {
-        "h": "Fondement",
-        "body": "Le droit romain en faisait un délit résiduel, l'Ancien droit puis le Code civil de 1804 y attachaient la contrainte par corps. Cette sanction a disparu ; la notion survit comme qualification doctrinale d'une fraude sur la propriété ou les charges."
+        "h": "Principe",
+        "body": "Nul ne peut changer de sa seule volonté la cause de sa possession : on ne prescrit pas contre son titre. L'intention intime de se comporter en propriétaire ne suffit donc pas ; il faut un fait extérieur et univoque."
       },
       {
-        "h": "Cas visés",
-        "body": "Double vente d'un même immeuble, constitution d'hypothèque sur un bien d'autrui, vente d'un bien déclaré libre malgré une hypothèque ou un privilège occulte. La manœuvre peut relever de l'escroquerie lorsque les éléments de l'article 313-1 du Code pénal sont réunis."
+        "h": "Causes admises",
+        "body": "La doctrine et la jurisprudence retiennent classiquement deux voies : une cause venant d'un tiers (par exemple un acte translatif consenti par un tiers que le détenteur croit propriétaire) ou une contradiction opposée au propriétaire, c'est-à-dire un acte non équivoque par lequel le détenteur lui signifie qu'il entend désormais posséder pour lui-même."
       },
       {
         "h": "Portée",
-        "body": "Le mot n'est plus un texte autonome en droit positif : il sert de grille de lecture. Les remèdes sont aujourd'hui la nullité ou l'inefficacité de l'acte, la garantie d'éviction, la responsabilité civile et, le cas échéant, la voie pénale."
+        "body": "La preuve de l'interversion pèse sur celui qui s'en prévaut et les juges du fond l'apprécient souverainement. Elle conditionne le point de départ de la prescription acquisitive, d'où son importance dans les contentieux entre indivisaires, anciens locataires ou héritiers."
       }
     ],
-    "seeAlso": "Voir aussi — escroquerie (art. 313-1 C. pén.) · garantie d'éviction (art. 1626 C. civ.) · vente de la chose d'autrui (art. 1599 C. civ.)"
+    "seeAlso": "Voir aussi — possession précaire · usucapion · détention · possession équivoque"
   },
-  "date": "2026-11-01",
-  "dateShort": "1 nov.",
-  "slot": "midi",
+  "date": "2026-11-02",
+  "dateShort": "2 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 63,
-    "title": "Pourquoi une seule fusion ne suffit pas",
-    "subtitle": "Une mesure isolée est fragile ; leur accumulation la resserre",
+    "n": 64,
+    "title": "Recouper plusieurs méthodes",
+    "subtitle": "Pourquoi une mesure confirmée par une voie différente vaut davantage qu'une mesure répétée",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Une seule mesure, une large marge",
-        "body": "La sirène standard (jour 62) donne une estimation de la constante de Hubble (jour 46) à partir d'un seul événement : la fusion d'étoiles à neutrons de 2017. Or toute mesure comporte une marge d'incertitude, c'est-à-dire l'intervalle de valeurs dans lequel la vraie valeur peut raisonnablement se trouver. Avec un seul événement, cet intervalle est large, au point de rester compatible avec les deux valeurs en conflit dans la tension de Hubble (jour 47). Un tel résultat ne tranche rien : il montre que la méthode fonctionne, pas encore qu'elle départage."
+        "h": "Répéter n'est pas recouper",
+        "body": "Refaire dix fois la même mesure avec le même instrument resserre la marge d'incertitude (jour 63), mais ne corrige pas un défaut propre à la méthode. Si l'étalonnage est faussé, les dix résultats le seront tous dans le même sens. On parle d'erreur systématique : une erreur qui pousse toujours les résultats du même côté, au lieu de se compenser d'une mesure à l'autre. Accumuler des mesures identiques ne la révèle pas."
       },
       {
-        "h": "Accumuler des événements indépendants",
-        "body": "Chaque fusion observée fournit sa propre estimation, avec ses propres erreurs, indépendantes de celles des autres. En en réunissant beaucoup, les écarts dans un sens et dans l'autre tendent à se compenser et l'intervalle se resserre. L'image est celle de dizaines de témoignages indépendants qui convergent : chacun est imparfait, leur recoupement l'est beaucoup moins. Cette amélioration est progressive : il faut plusieurs dizaines d'événements pour obtenir un intervalle assez étroit pour départager les deux valeurs concurrentes."
+        "h": "Des méthodes qui ne partagent pas leurs faiblesses",
+        "body": "Une méthode indépendante est une méthode qui repose sur un autre phénomène physique et dont les erreurs possibles sont d'une autre nature. Les chandelles standard (jour 41) mesurent une distance par la lumière d'astres de luminosité connue ; la sirène standard (jour 62) la mesure par les ondes gravitationnelles. Aucune des deux ne dépend des hypothèses de l'autre. Si elles aboutissent à la même valeur, une erreur systématique commune devient très improbable."
       },
       {
-        "h": "Un obstacle : la lumière manque souvent",
-        "body": "Pour qu'une fusion serve à mesurer l'expansion, il faut aussi connaître la vitesse d'éloignement de sa galaxie, donc l'avoir localisée grâce à la lumière (jour 60). Or beaucoup de fusions détectées, notamment celles de trous noirs (jour 23), n'émettent pas de lumière repérable. Elles livrent une distance, mais pas de galaxie d'accueil identifiée. Les événements utilisables sont donc nettement plus rares que les événements détectés, ce qui ralentit d'autant la progression."
+        "h": "Ce que révèle un désaccord",
+        "body": "Quand deux méthodes indépendantes divergent au-delà de leurs marges d'incertitude, l'écart est une information : l'une des deux comporte une erreur non repérée, ou bien la réalité est plus complexe que le modèle utilisé. C'est précisément la situation de la tension de Hubble (jour 47). Le recoupement ne tranche pas à lui seul, mais il localise le problème."
       }
     ],
     "keyTerms": [
       {
-        "term": "Marge d'incertitude",
-        "def": "Intervalle de valeurs dans lequel se situe vraisemblablement la vraie valeur d'une grandeur mesurée ; il se resserre quand on accumule des mesures indépendantes."
+        "term": "Erreur systématique",
+        "def": "Erreur qui fausse toujours les résultats dans le même sens, et que la répétition de la même mesure ne fait donc pas disparaître."
+      },
+      {
+        "term": "Méthode indépendante",
+        "def": "Méthode reposant sur un phénomène physique différent, dont les erreurs possibles n'ont pas la même origine que celles d'une autre méthode."
       }
     ],
-    "recap": "Une seule fusion donne une estimation de l'expansion trop large pour trancher ; il en faut beaucoup d'indépendantes, et celles qui s'accompagnent de lumière sont rares.",
-    "next": "Demain — comment les astronomes combinent plusieurs méthodes pour recouper une même mesure."
+    "recap": "Répéter une mesure en réduit la dispersion mais pas le biais ; seul le recoupement par des méthodes indépendantes permet de repérer une erreur systématique.",
+    "next": "Demain — les « relevés du ciel » : pourquoi les astronomes cartographient des millions de galaxies d'un seul tenant."
   }
 }

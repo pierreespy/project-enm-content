@@ -1,0 +1,32 @@
+{
+  "n": 64,
+  "title": "Recouper plusieurs méthodes",
+  "subtitle": "Pourquoi une mesure confirmée par une voie différente vaut davantage qu'une mesure répétée",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Répéter n'est pas recouper",
+      "body": "Refaire dix fois la même mesure avec le même instrument resserre la marge d'incertitude (jour 63), mais ne corrige pas un défaut propre à la méthode. Si l'étalonnage est faussé, les dix résultats le seront tous dans le même sens. On parle d'erreur systématique : une erreur qui pousse toujours les résultats du même côté, au lieu de se compenser d'une mesure à l'autre. Accumuler des mesures identiques ne la révèle pas."
+    },
+    {
+      "h": "Des méthodes qui ne partagent pas leurs faiblesses",
+      "body": "Une méthode indépendante est une méthode qui repose sur un autre phénomène physique et dont les erreurs possibles sont d'une autre nature. Les chandelles standard (jour 41) mesurent une distance par la lumière d'astres de luminosité connue ; la sirène standard (jour 62) la mesure par les ondes gravitationnelles. Aucune des deux ne dépend des hypothèses de l'autre. Si elles aboutissent à la même valeur, une erreur systématique commune devient très improbable."
+    },
+    {
+      "h": "Ce que révèle un désaccord",
+      "body": "Quand deux méthodes indépendantes divergent au-delà de leurs marges d'incertitude, l'écart est une information : l'une des deux comporte une erreur non repérée, ou bien la réalité est plus complexe que le modèle utilisé. C'est précisément la situation de la tension de Hubble (jour 47). Le recoupement ne tranche pas à lui seul, mais il localise le problème."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Erreur systématique",
+      "def": "Erreur qui fausse toujours les résultats dans le même sens, et que la répétition de la même mesure ne fait donc pas disparaître."
+    },
+    {
+      "term": "Méthode indépendante",
+      "def": "Méthode reposant sur un phénomène physique différent, dont les erreurs possibles n'ont pas la même origine que celles d'une autre méthode."
+    }
+  ],
+  "recap": "Répéter une mesure en réduit la dispersion mais pas le biais ; seul le recoupement par des méthodes indépendantes permet de repérer une erreur systématique.",
+  "next": "Demain — les « relevés du ciel » : pourquoi les astronomes cartographient des millions de galaxies d'un seul tenant."
+}

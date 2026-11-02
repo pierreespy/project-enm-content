@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01",
-  "count": 63,
+  "updated": "2026-11-02",
+  "count": 64,
   "lessons": [
     {
       "n": 1,
@@ -541,6 +541,15 @@
       "title": "Pourquoi une seule fusion ne suffit pas",
       "terms": [
         "Marge d'incertitude"
+      ]
+    },
+    {
+      "n": 64,
+      "file": "astro/lessons/064-recouper-plusieurs-methodes.json",
+      "title": "Recouper plusieurs méthodes",
+      "terms": [
+        "Erreur systématique",
+        "Méthode indépendante"
       ]
     }
   ]
