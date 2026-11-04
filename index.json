@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-04",
-  "updatedSlot": "matin",
-  "count": 23,
+  "updatedSlot": "midi",
+  "count": 24,
   "editions": [
+    {
+      "date": "2026-11-04",
+      "slot": "midi",
+      "file": "editions/2026-11-04-midi.json",
+      "essentiel": "Délais déraisonnables : le barreau de Bordeaux porte devant le tribunal, dès le 3 novembre 2026, les premières de 80 actions en responsabilité contre l'État",
+      "term": "Référé-rétractation",
+      "rubriques": [
+        "Crédit à la consommation : la réforme issue de la directive 2023/2225 s'appliquera à compter du 20 novembre 2026",
+        "Déchéance du terme en crédit à la consommation : la clause n'est pas illicite mais peut être abusive, et les juges du fond en tirent les conséquences en 2026",
+        "Réforme de l'ENM : le rapport de préfiguration rendu public le 3 novembre « ne refonde pas le modèle, il le recompose »",
+        "4 novembre 1956 : les chars soviétiques entrent dans Budapest et écrasent l'insurrection hongroise",
+        "Encadrement des loyers : le dispositif expérimental expire le 24 novembre 2026 et une prolongation de deux ans est évoquée",
+        "Les Taurides, pluie de météores de début novembre, sont attendues cette semaine"
+      ]
+    },
     {
       "date": "2026-11-04",
       "slot": "matin",

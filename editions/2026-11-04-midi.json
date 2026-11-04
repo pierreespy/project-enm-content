@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Délais déraisonnables : le barreau de Bordeaux porte devant le tribunal, dès le 3 novembre 2026, les premières de 80 actions en responsabilité contre l'État",
+    "dek": "Les deux premiers recours, en matière familiale et prud'homale, ont été examinés le 3 novembre ; les demandes atteignent 960 000 euros au total, soit 12 000 euros par dossier. Le barreau, qui prend en charge les frais des justiciables, soutient qu'à Bordeaux un délai de quatre mois est raisonnable, quand les affaires citées ont attendu onze, douze et quatorze mois.",
+    "source": "Actu-Juridique, 30 oct. 2026 (audience du 3 nov. 2026)",
+    "url": "https://www.actu-juridique.fr/justice/justice-justice/le-barreau-de-bordeaux-lance-80-actions-en-responsabilite-contre-letat-pour-denoncer-les-delais-deraisonnables/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Crédit à la consommation : la réforme issue de la directive 2023/2225 s'appliquera à compter du 20 novembre 2026",
+      "summary": "L'ordonnance n° 2025-880 du 3 septembre 2025 relève le plafond général de 75 000 à 100 000 euros, supprime le seuil plancher de 200 euros et fait entrer dans le champ les crédits gratuits remboursés en moins de trois mois, le paiement fractionné et la location avec option d'achat.",
+      "source": "Ord. n° 2025-880 du 3 sept. 2025 ; Village de la justice",
+      "url": "https://www.village-justice.com/articles/credit-consommation-une-nouvelle-ordonnance-renforce-protection-des-emprunteurs,54484.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Déchéance du terme en crédit à la consommation : la clause n'est pas illicite mais peut être abusive, et les juges du fond en tirent les conséquences en 2026",
+      "summary": "Depuis l'avis de la première chambre civile du 8 octobre 2025 (n° 25-70.016), les juridictions du fond écartent la déchéance du terme lorsque la clause est abusive et prononcent la résolution judiciaire (TJ Metz, 7 avril 2026 ; CA Bourges, 12 juin 2026).",
+      "source": "Cass. 1re civ., avis, 8 oct. 2025, n° 25-70.016",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2025-10/25-70-016-CC-08102025-25_70016",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Réforme de l'ENM : le rapport de préfiguration rendu public le 3 novembre « ne refonde pas le modèle, il le recompose »",
+      "summary": "Actu-Juridique commente le rapport de préfiguration sur la réforme de l'École nationale de la magistrature, rendu public le 3 novembre 2026, pour en mesurer la portée sur la formation des magistrats.",
+      "source": "Actu-Juridique, 4 nov. 2026",
+      "url": "https://www.actu-juridique.fr/professions/magistrats/la-rapport-sur-la-reforme-de-lenm-ne-refonde-pas-le-modele-il-le-recompose/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "4 novembre 1956 : les chars soviétiques entrent dans Budapest et écrasent l'insurrection hongroise",
+      "summary": "Avant l'aube, l'armée soviétique lance l'opération qui met fin en quelques jours au plus grave défi lancé au pouvoir communiste en Europe de l'Est.",
+      "source": "Encyclopédie (Wikipédia), « Insurrection de Budapest »",
+      "url": "https://fr.wikipedia.org/wiki/Insurrection_de_Budapest",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Encadrement des loyers : le dispositif expérimental expire le 24 novembre 2026 et une prolongation de deux ans est évoquée",
+      "summary": "À l'approche de l'échéance, bailleurs et locataires des zones tendues doivent surveiller l'issue de la discussion sur la prolongation, qui conditionne les compléments de loyer et les actions en diminution de loyer.",
+      "source": "Actu-Juridique, « Pas de clap de fin pour l'encadrement des loyers ? »",
+      "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/pas-de-clap-de-fin-pour-lencadrement-des-loyers/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Les Taurides, pluie de météores de début novembre, sont attendues cette semaine",
+      "summary": "Cet essaim, connu pour ses rares mais brillants bolides, est annoncé à son activité maximale autour du 4 novembre selon les calendriers astronomiques.",
+      "source": "Calendriers astronomiques ; Wikipédia, « Taurides »",
+      "url": "https://fr.wikipedia.org/wiki/Taurides",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Référé-rétractation",
+    "subtitle": "Procédure civile · Articles 493 à 497 du Code de procédure civile",
+    "defShort": "Voie de recours propre à l'ordonnance sur requête : le débiteur de la mesure saisit en référé le juge même qui l'a rendue, afin qu'il la rétracte ou la modifie après un débat contradictoire qui a fait défaut à l'origine.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "L'ordonnance sur requête est rendue sans que la partie visée en ait été informée. Le référé-rétractation rétablit le contradictoire a posteriori : le juge saisi réexamine sa propre décision à la lumière des arguments de la personne qui la subit."
+      },
+      {
+        "h": "Fondement",
+        "body": "L'article 493 du Code de procédure civile définit l'ordonnance sur requête, rendue dans les cas où le requérant est fondé à ne pas appeler de partie adverse. L'article 496, alinéa 2, ouvre le référé-rétractation à « tout intéressé » ; l'article 497 précise que le juge peut modifier ou rétracter son ordonnance, même si le juge du fond est saisi de l'affaire."
+      },
+      {
+        "h": "Distinction utile",
+        "body": "Le juge ne se prononce pas en appel de sa propre décision : il rejuge la requête avec les éléments débattus. Il vérifie notamment que la dérogation au contradictoire était justifiée par des circonstances propres à l'espèce et que la mesure demandée, souvent une mesure d'instruction in futurum fondée sur l'article 145, remplissait les conditions légales."
+      },
+      {
+        "h": "Portée",
+        "body": "Le contentieux est courant en matière de constat, de saisie de documents ou de séquestre. Si la requête est rejetée, la voie est différente : l'appel est ouvert dans les quinze jours (art. 496, al. 1). Une rétractation prive la mesure de fondement et peut priver d'efficacité les éléments recueillis."
+      }
+    ],
+    "seeAlso": "Voir aussi — ordonnance sur requête (art. 493) · mesures d'instruction in futurum (art. 145) · référé (art. 484)"
+  },
+  "date": "2026-11-04",
+  "dateShort": "4 nov.",
+  "slot": "midi"
+}
