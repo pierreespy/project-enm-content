@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02",
-  "count": 64,
+  "updated": "2026-11-04",
+  "count": 65,
   "lessons": [
     {
       "n": 1,
@@ -550,6 +550,15 @@
       "terms": [
         "Erreur systématique",
         "Méthode indépendante"
+      ]
+    },
+    {
+      "n": 65,
+      "file": "astro/lessons/065-les-releves-du-ciel.json",
+      "title": "Les relevés du ciel",
+      "terms": [
+        "Relevé du ciel",
+        "Carte en trois dimensions"
       ]
     }
   ]

@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Fiscalité locale et libre administration : le Conseil constitutionnel statue, le 23 octobre 2026, sur la compensation de la réforme de la taxe professionnelle",
+    "dek": "Par sa décision n° 2026-1229 QPC, le Conseil constitutionnel examine le grief tiré de l'atteinte à la libre administration des collectivités territoriales, le législateur ayant voulu assurer aux communes et aux EPCI à fiscalité propre un niveau de ressources voisin de celui précédant la suppression de la taxe professionnelle.",
+    "source": "Cons. const., déc. n° 2026-1229 QPC, 23 oct. 2026",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261229QPC.htm"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Nématode du pin : un décret du 2 novembre 2026 crée une aide pour les propriétaires de bois immobilisés",
+      "summary": "Le décret n° 2026-1019 du 2 novembre 2026, publié au Journal officiel du 3 novembre, institue un dispositif d'aide visant à compenser les pertes subies par les propriétaires de bois immobilisés dans les Landes et les Pyrénées-Atlantiques.",
+      "source": "Décret n° 2026-1019 du 2 nov. 2026 (JORF n° 0257 du 3 nov. 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Chambre commerciale, 7 octobre 2026 : cinq arrêts sur la protection des tiers (cession, caution, dirigeant)",
+      "summary": "La chambre commerciale juge notamment, dans l'un d'eux (pourvoi n° 25-16.403), qu'un emprunt contracté par une société ne peut être annulé au seul motif qu'il contrevient à l'intérêt social, la banque n'étant pas tenue d'un devoir de mise en garde.",
+      "source": "Cass. com., 7 oct. 2026, n° 25-16.403 et autres",
+      "url": "https://kohenavocats.fr/2026/10/14/cass-com-7-octobre-2026-cinq-arrets-protection-tiers-cession-caution-dirigeant/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Dirigeants cautions : le 7 octobre 2026, la Cour de cassation a fermé deux portes de sortie",
+      "summary": "Un avocat analyse les arrêts de la chambre commerciale du 7 octobre 2026 sous l'angle des moyens de défense qui s'offrent, ou non, au dirigeant qui s'est porté caution des dettes de sa société.",
+      "source": "Village de la justice, article de Guillaume Pierre, avocat, oct. 2026",
+      "url": "https://www.village-justice.com/articles/dirigeants-cautions-octobre-2026-cour-cassation-ferme-deux-portes-sortie,59814.html",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "3 novembre 1957 : Spoutnik 2 place la chienne Laïka en orbite",
+      "summary": "L'URSS lance Spoutnik 2, qui emporte le premier animal à avoir atteint l'orbite terrestre.",
+      "source": "Encyclopédie (Wikipédia)",
+      "url": "https://en.wikipedia.org/wiki/Sputnik_2",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Assignations : ce qu'il faut modifier depuis le 1er octobre 2026 sous peine de nullité",
+      "summary": "Un avocat détaille les mentions de l'assignation à adapter à la suite du décret du 27 juillet 2026, afin d'éviter la nullité de l'acte introductif d'instance.",
+      "source": "Village de la justice, article de Noémie Le Bouard, avocat",
+      "url": "https://www.village-justice.com/articles/assignations-faut-modifier-1er-octobre-2026-sous-peine-nullite,59238.html",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Cumul emploi-retraite : le durcissement entre en vigueur le 3 novembre 2026",
+      "summary": "Deux décrets publiés au Journal officiel du 3 novembre précisent le nouveau régime, dont la désignation de la CNAV comme seul organisme chargé de détecter le cumul de retraites.",
+      "source": "SNPNC-FO, d'après le Journal officiel du 3 nov. 2026",
+      "url": "https://snpnc.org/cer-et-crpn-un-triptyque-valide-officiellement-par-deux-decrets-au-jo/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Délégation imparfaite",
+    "subtitle": "Droit des obligations · Code civil, art. 1336 à 1340",
+    "defShort": "Opération par laquelle un délégué s'engage envers un délégataire à la demande d'un délégant, sans que le délégataire ait expressément déchargé ce dernier : le délégataire garde alors un recours contre le délégant.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "La délégation met en scène trois personnes : le délégant, qui obtient du délégué qu'il s'oblige envers le délégataire, lequel accepte ce nouveau débiteur. Elle est dite imparfaite lorsque le délégataire n'a pas déchargé le délégant : il dispose alors de deux débiteurs, le délégué et le délégant."
+      },
+      {
+        "h": "Fondement",
+        "body": "Les articles 1336 et suivants du Code civil, issus de l'ordonnance du 10 février 2016, distinguent la délégation parfaite, où le délégataire décharge expressément le délégant, de la délégation imparfaite. La décharge ne se présume pas : à défaut de volonté expresse, la délégation reste imparfaite."
+      },
+      {
+        "h": "Distinctions",
+        "body": "Elle diffère de la novation par changement de débiteur, qui éteint l'ancienne dette, et de la cession de dette, qui suppose l'accord du créancier sans créer d'engagement nouveau. Le délégué s'engage par un engagement propre, en principe détaché de ses rapports avec le délégant."
+      },
+      {
+        "h": "Portée",
+        "body": "Pour le délégataire, la délégation imparfaite est une garantie : il ne perd pas son débiteur initial. Le point à vérifier en pratique est la rédaction de l'acte, puisque seule une décharge expresse transforme la délégation en délégation parfaite."
+      }
+    ],
+    "seeAlso": "Voir aussi — novation par changement de débiteur · cession de dette · cautionnement"
+  },
+  "date": "2026-11-04",
+  "dateShort": "4 nov.",
+  "slot": "matin"
+}

@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-04",
   "updatedSlot": "matin",
-  "count": 26,
+  "count": 23,
   "editions": [
+    {
+      "date": "2026-11-04",
+      "slot": "matin",
+      "file": "editions/2026-11-04-matin.json",
+      "essentiel": "Fiscalité locale et libre administration : le Conseil constitutionnel statue, le 23 octobre 2026, sur la compensation de la réforme de la taxe professionnelle",
+      "term": "Délégation imparfaite",
+      "rubriques": [
+        "Nématode du pin : un décret du 2 novembre 2026 crée une aide pour les propriétaires de bois immobilisés",
+        "Chambre commerciale, 7 octobre 2026 : cinq arrêts sur la protection des tiers (cession, caution, dirigeant)",
+        "Dirigeants cautions : le 7 octobre 2026, la Cour de cassation a fermé deux portes de sortie",
+        "3 novembre 1957 : Spoutnik 2 place la chienne Laïka en orbite",
+        "Assignations : ce qu'il faut modifier depuis le 1er octobre 2026 sous peine de nullité",
+        "Cumul emploi-retraite : le durcissement entre en vigueur le 3 novembre 2026"
+      ]
+    },
     {
       "date": "2026-11-02",
       "slot": "matin",
@@ -331,66 +346,6 @@
         "20 octobre 1854 : naissance d'Arthur Rimbaud à Charleville",
         "Avocats : le CNB propose une nouvelle réforme de la procédure disciplinaire",
         "Épisode méditerranéen : neuf départements du Sud en vigilance orange ce mardi"
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "slot": "midi",
-      "file": "editions/2026-10-19-midi.json",
-      "essentiel": "Narcotrafic : s'ouvre à Aix-en-Provence le procès des assassins présumés de Brahim Chabane, frère d'Amine Kessaci",
-      "term": "Fongibilité asymétrique",
-      "rubriques": [
-        "Indemnité carburant : un décret du 15 octobre 2026 la reconduit à 100 euros jusqu'à fin décembre et élargit le nombre de bénéficiaires",
-        "Bail commercial : la troisième chambre civile précise le délai de deux mois laissé au bailleur face à une déspécialisation, lorsque les propriétaires sont indivis",
-        "Le juge qui refuse d'interroger la CJUE : quand l'État doit-il réparer le préjudice du justiciable ?",
-        "19 octobre 1781 : Cornwallis capitule à Yorktown devant les forces franco-américaines",
-        "Procès de Rima Hassan pour apologie du terrorisme : audience fixée aux 19 et 20 octobre, avec une QPC envisagée par la défense",
-        "Pluie-inondation : le Gard et l'Hérault en vigilance orange ce lundi, treize départements concernés mardi"
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "slot": "matin",
-      "file": "editions/2026-10-19-matin.json",
-      "essentiel": "Contrôle des lieux de privation de liberté : l'Élysée propose Pierre Coppey, ancien patron de Vinci Autoroutes, pour succéder à Dominique Simonnet",
-      "term": "Retrait litigieux",
-      "rubriques": [
-        "École nationale de la magistrature : un arrêté du 13 octobre 2026 approuve son règlement intérieur",
-        "Conseil d'État : la dissolution de La Jeune Garde est jugée adaptée, nécessaire et proportionnée",
-        "La grille d'évaluation du contrôle coercitif",
-        "19 octobre 1812 : l'armée française entame son repli hors de Moscou",
-        "Clause résolutoire et exception d'inexécution : le juge doit examiner la défense du locataire, même saisi tardivement",
-        "Casse du Louvre : un an après, la couronne de l'impératrice Eugénie est le seul bijou retrouvé"
-      ]
-    },
-    {
-      "date": "2026-10-18",
-      "slot": "midi",
-      "file": "editions/2026-10-18-midi.json",
-      "essentiel": "Procès de Rohan Rane : 20 ans de réclusion criminelle, première condamnation en France pour des actes de torture et de barbarie imposés à distance",
-      "term": "Concours idéal d'infractions",
-      "rubriques": [
-        "Un Conseil national de la commande publique remplace l'observatoire économique de la commande publique",
-        "Salarié protégé : le transfert organisé par une convention tripartite exige l'autorisation préalable de l'inspection du travail",
-        "« Quid Juris » : le président du Conseil constitutionnel répond sur l'État de droit menacé",
-        "18 octobre 1685 : Louis XIV signe l'édit de Fontainebleau et révoque l'édit de Nantes",
-        "Affaire Jubilar : le procès en appel est renvoyé au premier semestre 2027",
-        "Météo : une goutte froide sur la France ce dimanche, de fortes pluies attendues lundi"
-      ]
-    },
-    {
-      "date": "2026-10-18",
-      "slot": "matin",
-      "file": "editions/2026-10-18-matin.json",
-      "essentiel": "Justice criminelle : la loi du 23 juillet 2026 étend la compétence des cours criminelles départementales aux crimes commis en récidive légale",
-      "term": "Rescision pour lésion",
-      "rubriques": [
-        "Loi organique du 23 juillet 2026 : avocats honoraires juges des juridictions criminelles et formation aux violences intrafamiliales",
-        "Conseil constitutionnel, 16 octobre 2026 : la QPC n° 2026-1226 sur l'article L. 231, 5°, du code électoral",
-        "Justice criminelle : la loi validée pour l'essentiel et publiée",
-        "18 octobre 1867 : les États-Unis prennent possession de l'Alaska",
-        "Grève et retenue sur salaire : l'employeur ne peut retenir que les jours de repos situés entre deux jours de grève",
-        "Manifestations du 17 octobre : syndicats, étudiants et associations appellent à une mobilisation générale"
       ]
     }
   ]

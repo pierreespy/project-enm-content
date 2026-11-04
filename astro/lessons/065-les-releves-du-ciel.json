@@ -1,0 +1,32 @@
+{
+  "n": 65,
+  "title": "Les relevés du ciel",
+  "subtitle": "Pourquoi les astronomes cartographient des millions de galaxies d'un seul tenant",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un relevé, c'est un recensement",
+      "body": "Un relevé du ciel est une campagne d'observation qui balaie une grande région du ciel de façon systématique et mesure chaque galaxie qu'elle y trouve, selon un protocole identique. Il ne cherche pas un astre précis. Il constitue un échantillon uniforme, comme un recensement le fait pour une population : on ne choisit pas les cas intéressants, on les compte tous. Cet échantillon peut compter plusieurs millions de galaxies."
+    },
+    {
+      "h": "Passer de la photographie à la carte en trois dimensions",
+      "body": "Une image du ciel donne deux dimensions : la position de chaque galaxie, vue de la Terre. Pour obtenir la troisième, la distance, on mesure le décalage vers le rouge de sa lumière (jour 17), puis on le convertit grâce à la constante de Hubble (jour 46). Chaque galaxie reçoit ainsi une place dans l'espace. L'ensemble forme une carte où l'on voit comment les galaxies se répartissent à très grande échelle."
+    },
+    {
+      "h": "Ce que l'ampleur change",
+      "body": "Avec quelques galaxies, on ne distingue pas une structure d'un hasard. Avec des millions, on peut décrire les régularités statistiques de leur répartition, par exemple l'importance des amas (jour 54) par rapport aux régions vides. C'est l'ampleur de l'échantillon qui permet de comparer cette carte aux prédictions d'un modèle de l'univers."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Relevé du ciel",
+      "def": "Campagne d'observation qui mesure de façon systématique et selon un protocole uniforme toutes les galaxies d'une région du ciel."
+    },
+    {
+      "term": "Carte en trois dimensions",
+      "def": "Répartition des galaxies dans l'espace, obtenue en ajoutant à leur position dans le ciel leur distance, déduite du décalage vers le rouge."
+    }
+  ],
+  "recap": "Un relevé du ciel recense toutes les galaxies d'une région et, grâce au décalage vers le rouge, les place en trois dimensions ; c'est le grand nombre qui rend la carte exploitable.",
+  "next": "Demain — la structure en filaments : comment les galaxies s'organisent à très grande échelle."
+}
