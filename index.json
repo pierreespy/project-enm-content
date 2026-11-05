@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-05",
-  "updatedSlot": "matin",
-  "count": 23,
+  "updatedSlot": "midi",
+  "count": 24,
   "editions": [
+    {
+      "date": "2026-11-05",
+      "slot": "midi",
+      "file": "editions/2026-11-05-midi.json",
+      "essentiel": "Justice criminelle : la loi du 23 juillet 2026 et l'extension des cours criminelles départementales au cœur du débat",
+      "term": "Purge des nullités",
+      "rubriques": [
+        "Réécriture du code de procédure pénale : le projet de loi de ratification est déposé au Sénat",
+        "Motivation de la peine correctionnelle : la gravité des faits ne suffit pas",
+        "Cours criminelles départementales : l'extension, « leurre » derrière le plaider-coupable criminel ?",
+        "6 novembre 1860 : Abraham Lincoln est élu président des États-Unis",
+        "Cours d'assises et cours criminelles départementales : le statut de ces juridictions précisé en cassation",
+        "Météo : une nouvelle carte de vigilance depuis le 1er septembre 2026"
+      ]
+    },
     {
       "date": "2026-11-05",
       "slot": "matin",

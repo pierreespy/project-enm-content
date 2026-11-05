@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Élections sénatoriales de septembre 2026 : onze recours sont pendants devant le Conseil constitutionnel, juge de l'élection",
-    "dek": "Le Conseil constitutionnel indique sur son site avoir été saisi de onze requêtes contestant les résultats du scrutin sénatorial de septembre 2026. Il statue comme juge de l'élection, une compétence distincte du contrôle de constitutionnalité des lois.",
-    "source": "Conseil constitutionnel, page d'accueil, 3 nov. 2026",
-    "url": "https://www.conseil-constitutionnel.fr/"
+    "title": "Justice criminelle : la loi du 23 juillet 2026 et l'extension des cours criminelles départementales au cœur du débat",
+    "dek": "Plusieurs analyses de praticiens reviennent sur la loi du 23 juillet 2026 relative à la justice criminelle, entre jury populaire, procès équitable et réforme du procès en appel devant les cours criminelles départementales.",
+    "source": "Cabinet Kohen Avocats, analyse de la loi du 23 juillet 2026",
+    "url": "https://kohenavocats.com/loi-23-juillet-2026-justice-criminelle-reforme-systemique-proces-equitable-jury-populaire/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Loi de finances pour 2026 : le Conseil constitutionnel en valide l'essentiel avant sa publication au JO du 20 février 2026",
-      "summary": "Rappel utile pour les dossiers fiscaux en cours : la décision de février 2026 a censuré certaines dispositions mais laissé en vigueur le cœur du texte.",
-      "source": "LCP ; Deloitte Société d'Avocats, févr. 2026",
-      "url": "https://lcp.fr/actualites/budget-2026-le-conseil-constitutionnel-valide-l-essentiel-de-la-loi-de-finances-431533",
+      "title": "Réécriture du code de procédure pénale : le projet de loi de ratification est déposé au Sénat",
+      "summary": "Le projet de loi n° 604 ratifie l'ordonnance n° 2025-1091 du 19 novembre 2025 portant réécriture de la partie législative du code de procédure pénale.",
+      "source": "Le Monde du Droit, dépôt au Sénat (6 mai 2026)",
+      "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/104264-reecriture-du-code-de-procedure-penale-depot-au-senat.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Licenciement pour désorganisation liée aux absences maladie : l'insuffisance de preuve du motif ne caractérise pas à elle seule une discrimination",
-      "summary": "Dans un arrêt publié au Bulletin, la chambre sociale distingue le licenciement sans cause réelle et sérieuse, faute de preuve de la désorganisation, du licenciement discriminatoire qui exige des éléments propres.",
-      "source": "Cass. soc., 9 sept. 2026, n° 25-14.356, F-B",
-      "url": "https://consultation.avocat.fr/blog/noemie-le-bouard/article-2983531-licenciement-pour-desorganisation-liee-aux-absences-maladie-l-insuffisance-de-preuve-du-motif-ne-caracterise-pas-a-elle-seule-une-discrimination.html",
+      "title": "Motivation de la peine correctionnelle : la gravité des faits ne suffit pas",
+      "summary": "La chambre criminelle rappelle, le 1er juillet 2026, qu'une peine correctionnelle ne peut être motivée par la seule gravité des faits, sans considération de la situation du prévenu.",
+      "source": "Cass. crim., 1er juill. 2026, n° 25-82.804",
+      "url": "https://kohenavocats.com/motivation-peine-situation-personnelle-prevenu-gravite-faits-antecedents-crim-1er-juillet-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "QPC : irrecevabilité d'une saisine directe du Conseil constitutionnel",
-      "summary": "Commentaire de la décision par laquelle le Conseil déclare irrecevable la demande formée directement par un groupement d'intérêt économique, faute de décision de renvoi.",
-      "source": "La Semaine juridique (LexisNexis), Le Mag",
-      "url": "https://www.lemag-juridique.com/articles/public-qpc-irrecevabilite-dune-saisine-directe-conseil-constitutionnel-11258.htm",
+      "title": "Cours criminelles départementales : l'extension, « leurre » derrière le plaider-coupable criminel ?",
+      "summary": "Le professeur Hubert Lesaffre dénonce, dans une tribune de juin 2026, un débat sur le plaider-coupable criminel qui masquerait l'extension des cours criminelles départementales.",
+      "source": "Dalloz Actualité, tribune du 8 juin 2026, relevée par le cabinet Kohen",
+      "url": "https://kohenavocats.com/justice-penale-morte-mobilisation-unitaire-29-juin-2026/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "5 novembre 1922 : Howard Carter découvre l'entrée du tombeau de Toutânkhamon",
-      "summary": "La première marche d'un escalier dans la Vallée des Rois ouvre la plus célèbre fouille archéologique du XXe siècle.",
-      "source": "Hérodote.net, almanach du 5 novembre",
-      "url": "https://www.herodote.net/almanach/jour.php?jour=1105",
+      "title": "6 novembre 1860 : Abraham Lincoln est élu président des États-Unis",
+      "summary": "Face à un Parti démocrate divisé, le candidat républicain l'emporte ; la sécession de la Caroline du Sud, le 20 décembre suivant, ouvre la voie à la guerre de Sécession.",
+      "source": "Encyclopædia Britannica, élection présidentielle américaine de 1860",
+      "url": "https://www.britannica.com/event/United-States-presidential-election-of-1860",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Le Conseil constitutionnel tiendra une audience délocalisée de QPC au tribunal judiciaire de Bobigny le 24 novembre 2026",
-      "summary": "L'audience publique, hors de ses murs, permet aux avocats et justiciables de suivre en direct la procédure orale de la question prioritaire de constitutionnalité.",
-      "source": "Conseil constitutionnel, agenda, 3 nov. 2026",
-      "url": "https://www.conseil-constitutionnel.fr/agenda",
+      "title": "Cours d'assises et cours criminelles départementales : le statut de ces juridictions précisé en cassation",
+      "summary": "Dans un arrêt publié au Bulletin du 4 mars 2026, la chambre criminelle traite du statut respectif des cours d'assises et des cours criminelles départementales.",
+      "source": "Cass. crim., 4 mars 2026, n° 25-81.197, publié au Bulletin",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-03/25-81-197-CC-04032026-25_81197",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Nuit de Guy Fawkes : le Royaume-Uni allume ses feux de joie, 421 ans après le complot des Poudres",
-      "summary": "Chaque 5 novembre, feux de joie et feux d'artifice rappellent l'échec de l'attentat visant le Parlement et Jacques Ier en 1605.",
-      "source": "Encyclopædia Universalis, « Nuit de Guy Fawkes »",
-      "url": "https://www.universalis.fr/encyclopedie/nuit-de-guy-fawkes/",
+      "title": "Météo : une nouvelle carte de vigilance depuis le 1er septembre 2026",
+      "summary": "La carte principale affiche désormais le niveau de danger le plus élevé par département, des cartes thématiques détaillant chaque phénomène, actualisées au moins à 6 h et 16 h.",
+      "source": "Service-public.gouv.fr, actualité sur la vigilance météorologique",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19058",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Moyen mélangé de fait et de droit",
-    "subtitle": "Procédure civile · Cassation · Article 619 du Code de procédure civile",
-    "defShort": "Moyen de cassation qui suppose, pour être apprécié, un examen des faits que la Cour de cassation, juge du droit, ne peut pas mener : il est irrecevable devant elle.",
+    "term": "Purge des nullités",
+    "subtitle": "Procédure pénale · Instruction · Article 173-1 du Code de procédure pénale",
+    "defShort": "Mécanisme qui enferme dans un délai la possibilité d'invoquer une nullité d'actes de l'instruction : passé ce délai, la nullité est irrecevable et l'acte, même irrégulier, ne peut plus être discuté devant la chambre de l'instruction ni devant la juridiction de jugement.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "La Cour de cassation ne juge pas les affaires : elle contrôle la bonne application du droit par les juges du fond. Un moyen qui l'obligerait à rechercher ou apprécier des faits non constatés par la décision attaquée est dit « mélangé de fait et de droit » et déclaré irrecevable."
+        "body": "Une irrégularité de l'instruction ne peut pas être soulevée à n'importe quel moment. Le code impose de la faire valoir dans un délai déterminé ; à défaut, elle est « purgée » : la partie est forclose et l'acte devient inattaquable sur ce terrain."
       },
       {
         "h": "Fondement",
-        "body": "La règle découle de l'office de la Cour de cassation, juge de droit. Les juges du fond apprécient souverainement les faits ; la Cour ne peut pas substituer sa propre appréciation à la leur."
+        "body": "L'article 173-1 du code de procédure pénale fixe un délai de six mois à compter de la mise en examen ou de la première audition comme témoin assisté pour soulever les nullités des actes déjà accomplis. L'article 174 en tire les conséquences : les actes dont la nullité n'a pas été demandée en temps utile sont purgés. Une exception existe pour les actes ultérieurs à cette échéance."
       },
       {
-        "h": "Mécanisme",
-        "body": "Le demandeur qui soutient devant la Cour un fait nouveau ou une qualification qui suppose de revenir sur les constatations de la cour d'appel s'expose à l'irrecevabilité. Le moyen nouveau, mélangé de fait et de droit, ne peut pas être présenté pour la première fois en cassation."
+        "h": "Cas visés",
+        "body": "La purge vise les nullités de l'information (actes d'instruction, procès-verbaux, pièces de la procédure antérieure). La demande doit être présentée à la chambre de l'instruction par requête motivée, selon les formes et délais du code ; elle ne peut plus l'être devant la juridiction de jugement une fois la purge acquise."
       },
       {
         "h": "Portée",
-        "body": "Le moyen peut être sauvé si les constatations des juges du fond suffisent à le trancher en droit : il devient alors un pur moyen de droit. Le rédacteur du pourvoi doit donc partir des seules énonciations de l'arrêt attaqué."
+        "body": "Le mécanisme garantit la sécurité de la procédure et évite qu'une nullité tardive ne remette en cause un dossier à l'audience. La contrepartie est la vigilance imposée à la défense dès le début de l'information : passé le délai, seule une nullité d'ordre public, dans les cas admis par la jurisprudence, échappe à la purge."
       }
     ],
-    "seeAlso": "Voir aussi — moyen nouveau · pouvoir souverain d'appréciation des juges du fond · dénaturation · défaut de base légale"
+    "seeAlso": "Voir aussi — nullité substantielle · grief (art. 802) · chambre de l'instruction (art. 170) · forclusion"
   },
   "date": "2026-11-05",
   "dateShort": "5 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 66,
     "title": "La structure en filaments",
