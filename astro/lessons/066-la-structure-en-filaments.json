@@ -1,0 +1,36 @@
+{
+  "n": 66,
+  "title": "La structure en filaments",
+  "subtitle": "Comment les galaxies s'organisent à très grande échelle",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Ni uniforme, ni aléatoire",
+      "body": "Une fois les galaxies placées en trois dimensions (jour 65), on constate que leur répartition n'est pas régulière, comme des points sur un quadrillage, ni au hasard, comme des grains de sable jetés au sol. Les galaxies se regroupent le long de lignes et de surfaces. Ces lignes allongées, longues de plusieurs centaines de millions d'années-lumière (jour 4), s'appellent des filaments."
+    },
+    {
+      "h": "Des vides entre les filaments",
+      "body": "Entre les filaments s'étendent des régions presque dépourvues de galaxies, appelées vides cosmiques. Les amas de galaxies (jour 54) se situent aux points où plusieurs filaments se rejoignent. L'ensemble évoque un réseau de fils, d'où le nom de toile cosmique : une organisation de la matière à très grande échelle, bien au-delà d'une galaxie ou même d'un amas."
+    },
+    {
+      "h": "Un motif que la gravité explique",
+      "body": "Cette toile n'a pas été imaginée avant d'être observée : les cartes l'ont fait apparaître. Elle correspond à ce que produit la gravité (jour 8) lorsqu'elle agit sur une matière initialement presque uniforme, avec la matière noire (jour 25) comme principale charpente. C'est ce qui fait de la carte un test : un modèle de l'univers doit reproduire ce réseau."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Filament",
+      "def": "Structure allongée, longue de centaines de millions d'années-lumière, le long de laquelle les galaxies se regroupent."
+    },
+    {
+      "term": "Vide cosmique",
+      "def": "Région immense située entre les filaments et presque dépourvue de galaxies."
+    },
+    {
+      "term": "Toile cosmique",
+      "def": "Réseau formé par les filaments, les amas et les vides, qui décrit l'organisation de la matière à très grande échelle."
+    }
+  ],
+  "recap": "À très grande échelle, les galaxies dessinent un réseau de filaments entourant de vastes vides ; c'est la toile cosmique, que la gravité sur la matière noire permet d'expliquer.",
+  "next": "Demain — pourquoi cette toile permet de mesurer la nature de la matière noire."
+}

@@ -1,125 +1,129 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Délais déraisonnables : le barreau de Bordeaux porte devant le tribunal, dès le 3 novembre 2026, les premières de 80 actions en responsabilité contre l'État",
-    "dek": "Les deux premiers recours, en matière familiale et prud'homale, ont été examinés le 3 novembre ; les demandes atteignent 960 000 euros au total, soit 12 000 euros par dossier. Le barreau, qui prend en charge les frais des justiciables, soutient qu'à Bordeaux un délai de quatre mois est raisonnable, quand les affaires citées ont attendu onze, douze et quatorze mois.",
-    "source": "Actu-Juridique, 30 oct. 2026 (audience du 3 nov. 2026)",
-    "url": "https://www.actu-juridique.fr/justice/justice-justice/le-barreau-de-bordeaux-lance-80-actions-en-responsabilite-contre-letat-pour-denoncer-les-delais-deraisonnables/"
+    "title": "Élections sénatoriales de septembre 2026 : onze recours sont pendants devant le Conseil constitutionnel, juge de l'élection",
+    "dek": "Le Conseil constitutionnel indique sur son site avoir été saisi de onze requêtes contestant les résultats du scrutin sénatorial de septembre 2026. Il statue comme juge de l'élection, une compétence distincte du contrôle de constitutionnalité des lois.",
+    "source": "Conseil constitutionnel, page d'accueil, 3 nov. 2026",
+    "url": "https://www.conseil-constitutionnel.fr/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Crédit à la consommation : la réforme issue de la directive 2023/2225 s'appliquera à compter du 20 novembre 2026",
-      "summary": "L'ordonnance n° 2025-880 du 3 septembre 2025 relève le plafond général de 75 000 à 100 000 euros, supprime le seuil plancher de 200 euros et fait entrer dans le champ les crédits gratuits remboursés en moins de trois mois, le paiement fractionné et la location avec option d'achat.",
-      "source": "Ord. n° 2025-880 du 3 sept. 2025 ; Village de la justice",
-      "url": "https://www.village-justice.com/articles/credit-consommation-une-nouvelle-ordonnance-renforce-protection-des-emprunteurs,54484.html",
+      "title": "Loi de finances pour 2026 : le Conseil constitutionnel en valide l'essentiel avant sa publication au JO du 20 février 2026",
+      "summary": "Rappel utile pour les dossiers fiscaux en cours : la décision de février 2026 a censuré certaines dispositions mais laissé en vigueur le cœur du texte.",
+      "source": "LCP ; Deloitte Société d'Avocats, févr. 2026",
+      "url": "https://lcp.fr/actualites/budget-2026-le-conseil-constitutionnel-valide-l-essentiel-de-la-loi-de-finances-431533",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Déchéance du terme en crédit à la consommation : la clause n'est pas illicite mais peut être abusive, et les juges du fond en tirent les conséquences en 2026",
-      "summary": "Depuis l'avis de la première chambre civile du 8 octobre 2025 (n° 25-70.016), les juridictions du fond écartent la déchéance du terme lorsque la clause est abusive et prononcent la résolution judiciaire (TJ Metz, 7 avril 2026 ; CA Bourges, 12 juin 2026).",
-      "source": "Cass. 1re civ., avis, 8 oct. 2025, n° 25-70.016",
-      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2025-10/25-70-016-CC-08102025-25_70016",
+      "title": "Licenciement pour désorganisation liée aux absences maladie : l'insuffisance de preuve du motif ne caractérise pas à elle seule une discrimination",
+      "summary": "Dans un arrêt publié au Bulletin, la chambre sociale distingue le licenciement sans cause réelle et sérieuse, faute de preuve de la désorganisation, du licenciement discriminatoire qui exige des éléments propres.",
+      "source": "Cass. soc., 9 sept. 2026, n° 25-14.356, F-B",
+      "url": "https://consultation.avocat.fr/blog/noemie-le-bouard/article-2983531-licenciement-pour-desorganisation-liee-aux-absences-maladie-l-insuffisance-de-preuve-du-motif-ne-caracterise-pas-a-elle-seule-une-discrimination.html",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Réforme de l'ENM : le rapport de préfiguration rendu public le 3 novembre « ne refonde pas le modèle, il le recompose »",
-      "summary": "Actu-Juridique commente le rapport de préfiguration sur la réforme de l'École nationale de la magistrature, rendu public le 3 novembre 2026, pour en mesurer la portée sur la formation des magistrats.",
-      "source": "Actu-Juridique, 4 nov. 2026",
-      "url": "https://www.actu-juridique.fr/professions/magistrats/la-rapport-sur-la-reforme-de-lenm-ne-refonde-pas-le-modele-il-le-recompose/",
+      "title": "QPC : irrecevabilité d'une saisine directe du Conseil constitutionnel",
+      "summary": "Commentaire de la décision par laquelle le Conseil déclare irrecevable la demande formée directement par un groupement d'intérêt économique, faute de décision de renvoi.",
+      "source": "La Semaine juridique (LexisNexis), Le Mag",
+      "url": "https://www.lemag-juridique.com/articles/public-qpc-irrecevabilite-dune-saisine-directe-conseil-constitutionnel-11258.htm",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "4 novembre 1956 : les chars soviétiques entrent dans Budapest et écrasent l'insurrection hongroise",
-      "summary": "Avant l'aube, l'armée soviétique lance l'opération qui met fin en quelques jours au plus grave défi lancé au pouvoir communiste en Europe de l'Est.",
-      "source": "Encyclopédie (Wikipédia), « Insurrection de Budapest »",
-      "url": "https://fr.wikipedia.org/wiki/Insurrection_de_Budapest",
+      "title": "5 novembre 1922 : Howard Carter découvre l'entrée du tombeau de Toutânkhamon",
+      "summary": "La première marche d'un escalier dans la Vallée des Rois ouvre la plus célèbre fouille archéologique du XXe siècle.",
+      "source": "Hérodote.net, almanach du 5 novembre",
+      "url": "https://www.herodote.net/almanach/jour.php?jour=1105",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Encadrement des loyers : le dispositif expérimental expire le 24 novembre 2026 et une prolongation de deux ans est évoquée",
-      "summary": "À l'approche de l'échéance, bailleurs et locataires des zones tendues doivent surveiller l'issue de la discussion sur la prolongation, qui conditionne les compléments de loyer et les actions en diminution de loyer.",
-      "source": "Actu-Juridique, « Pas de clap de fin pour l'encadrement des loyers ? »",
-      "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/pas-de-clap-de-fin-pour-lencadrement-des-loyers/",
+      "title": "Le Conseil constitutionnel tiendra une audience délocalisée de QPC au tribunal judiciaire de Bobigny le 24 novembre 2026",
+      "summary": "L'audience publique, hors de ses murs, permet aux avocats et justiciables de suivre en direct la procédure orale de la question prioritaire de constitutionnalité.",
+      "source": "Conseil constitutionnel, agenda, 3 nov. 2026",
+      "url": "https://www.conseil-constitutionnel.fr/agenda",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Les Taurides, pluie de météores de début novembre, sont attendues cette semaine",
-      "summary": "Cet essaim, connu pour ses rares mais brillants bolides, est annoncé à son activité maximale autour du 4 novembre selon les calendriers astronomiques.",
-      "source": "Calendriers astronomiques ; Wikipédia, « Taurides »",
-      "url": "https://fr.wikipedia.org/wiki/Taurides",
+      "title": "Nuit de Guy Fawkes : le Royaume-Uni allume ses feux de joie, 421 ans après le complot des Poudres",
+      "summary": "Chaque 5 novembre, feux de joie et feux d'artifice rappellent l'échec de l'attentat visant le Parlement et Jacques Ier en 1605.",
+      "source": "Encyclopædia Universalis, « Nuit de Guy Fawkes »",
+      "url": "https://www.universalis.fr/encyclopedie/nuit-de-guy-fawkes/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Référé-rétractation",
-    "subtitle": "Procédure civile · Articles 493 à 497 du Code de procédure civile",
-    "defShort": "Voie de recours propre à l'ordonnance sur requête : le débiteur de la mesure saisit en référé le juge même qui l'a rendue, afin qu'il la rétracte ou la modifie après un débat contradictoire qui a fait défaut à l'origine.",
+    "term": "Moyen mélangé de fait et de droit",
+    "subtitle": "Procédure civile · Cassation · Article 619 du Code de procédure civile",
+    "defShort": "Moyen de cassation qui suppose, pour être apprécié, un examen des faits que la Cour de cassation, juge du droit, ne peut pas mener : il est irrecevable devant elle.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'ordonnance sur requête est rendue sans que la partie visée en ait été informée. Le référé-rétractation rétablit le contradictoire a posteriori : le juge saisi réexamine sa propre décision à la lumière des arguments de la personne qui la subit."
+        "body": "La Cour de cassation ne juge pas les affaires : elle contrôle la bonne application du droit par les juges du fond. Un moyen qui l'obligerait à rechercher ou apprécier des faits non constatés par la décision attaquée est dit « mélangé de fait et de droit » et déclaré irrecevable."
       },
       {
         "h": "Fondement",
-        "body": "L'article 493 du Code de procédure civile définit l'ordonnance sur requête, rendue dans les cas où le requérant est fondé à ne pas appeler de partie adverse. L'article 496, alinéa 2, ouvre le référé-rétractation à « tout intéressé » ; l'article 497 précise que le juge peut modifier ou rétracter son ordonnance, même si le juge du fond est saisi de l'affaire."
+        "body": "La règle découle de l'office de la Cour de cassation, juge de droit. Les juges du fond apprécient souverainement les faits ; la Cour ne peut pas substituer sa propre appréciation à la leur."
       },
       {
-        "h": "Distinction utile",
-        "body": "Le juge ne se prononce pas en appel de sa propre décision : il rejuge la requête avec les éléments débattus. Il vérifie notamment que la dérogation au contradictoire était justifiée par des circonstances propres à l'espèce et que la mesure demandée, souvent une mesure d'instruction in futurum fondée sur l'article 145, remplissait les conditions légales."
+        "h": "Mécanisme",
+        "body": "Le demandeur qui soutient devant la Cour un fait nouveau ou une qualification qui suppose de revenir sur les constatations de la cour d'appel s'expose à l'irrecevabilité. Le moyen nouveau, mélangé de fait et de droit, ne peut pas être présenté pour la première fois en cassation."
       },
       {
         "h": "Portée",
-        "body": "Le contentieux est courant en matière de constat, de saisie de documents ou de séquestre. Si la requête est rejetée, la voie est différente : l'appel est ouvert dans les quinze jours (art. 496, al. 1). Une rétractation prive la mesure de fondement et peut priver d'efficacité les éléments recueillis."
+        "body": "Le moyen peut être sauvé si les constatations des juges du fond suffisent à le trancher en droit : il devient alors un pur moyen de droit. Le rédacteur du pourvoi doit donc partir des seules énonciations de l'arrêt attaqué."
       }
     ],
-    "seeAlso": "Voir aussi — ordonnance sur requête (art. 493) · mesures d'instruction in futurum (art. 145) · référé (art. 484)"
+    "seeAlso": "Voir aussi — moyen nouveau · pouvoir souverain d'appréciation des juges du fond · dénaturation · défaut de base légale"
   },
-  "date": "2026-11-04",
-  "dateShort": "4 nov.",
-  "slot": "midi",
+  "date": "2026-11-05",
+  "dateShort": "5 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 65,
-    "title": "Les relevés du ciel",
-    "subtitle": "Pourquoi les astronomes cartographient des millions de galaxies d'un seul tenant",
+    "n": 66,
+    "title": "La structure en filaments",
+    "subtitle": "Comment les galaxies s'organisent à très grande échelle",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Un relevé, c'est un recensement",
-        "body": "Un relevé du ciel est une campagne d'observation qui balaie une grande région du ciel de façon systématique et mesure chaque galaxie qu'elle y trouve, selon un protocole identique. Il ne cherche pas un astre précis. Il constitue un échantillon uniforme, comme un recensement le fait pour une population : on ne choisit pas les cas intéressants, on les compte tous. Cet échantillon peut compter plusieurs millions de galaxies."
+        "h": "Ni uniforme, ni aléatoire",
+        "body": "Une fois les galaxies placées en trois dimensions (jour 65), on constate que leur répartition n'est pas régulière, comme des points sur un quadrillage, ni au hasard, comme des grains de sable jetés au sol. Les galaxies se regroupent le long de lignes et de surfaces. Ces lignes allongées, longues de plusieurs centaines de millions d'années-lumière (jour 4), s'appellent des filaments."
       },
       {
-        "h": "Passer de la photographie à la carte en trois dimensions",
-        "body": "Une image du ciel donne deux dimensions : la position de chaque galaxie, vue de la Terre. Pour obtenir la troisième, la distance, on mesure le décalage vers le rouge de sa lumière (jour 17), puis on le convertit grâce à la constante de Hubble (jour 46). Chaque galaxie reçoit ainsi une place dans l'espace. L'ensemble forme une carte où l'on voit comment les galaxies se répartissent à très grande échelle."
+        "h": "Des vides entre les filaments",
+        "body": "Entre les filaments s'étendent des régions presque dépourvues de galaxies, appelées vides cosmiques. Les amas de galaxies (jour 54) se situent aux points où plusieurs filaments se rejoignent. L'ensemble évoque un réseau de fils, d'où le nom de toile cosmique : une organisation de la matière à très grande échelle, bien au-delà d'une galaxie ou même d'un amas."
       },
       {
-        "h": "Ce que l'ampleur change",
-        "body": "Avec quelques galaxies, on ne distingue pas une structure d'un hasard. Avec des millions, on peut décrire les régularités statistiques de leur répartition, par exemple l'importance des amas (jour 54) par rapport aux régions vides. C'est l'ampleur de l'échantillon qui permet de comparer cette carte aux prédictions d'un modèle de l'univers."
+        "h": "Un motif que la gravité explique",
+        "body": "Cette toile n'a pas été imaginée avant d'être observée : les cartes l'ont fait apparaître. Elle correspond à ce que produit la gravité (jour 8) lorsqu'elle agit sur une matière initialement presque uniforme, avec la matière noire (jour 25) comme principale charpente. C'est ce qui fait de la carte un test : un modèle de l'univers doit reproduire ce réseau."
       }
     ],
     "keyTerms": [
       {
-        "term": "Relevé du ciel",
-        "def": "Campagne d'observation qui mesure de façon systématique et selon un protocole uniforme toutes les galaxies d'une région du ciel."
+        "term": "Filament",
+        "def": "Structure allongée, longue de centaines de millions d'années-lumière, le long de laquelle les galaxies se regroupent."
       },
       {
-        "term": "Carte en trois dimensions",
-        "def": "Répartition des galaxies dans l'espace, obtenue en ajoutant à leur position dans le ciel leur distance, déduite du décalage vers le rouge."
+        "term": "Vide cosmique",
+        "def": "Région immense située entre les filaments et presque dépourvue de galaxies."
+      },
+      {
+        "term": "Toile cosmique",
+        "def": "Réseau formé par les filaments, les amas et les vides, qui décrit l'organisation de la matière à très grande échelle."
       }
     ],
-    "recap": "Un relevé du ciel recense toutes les galaxies d'une région et, grâce au décalage vers le rouge, les place en trois dimensions ; c'est le grand nombre qui rend la carte exploitable.",
-    "next": "Demain — la structure en filaments : comment les galaxies s'organisent à très grande échelle."
+    "recap": "À très grande échelle, les galaxies dessinent un réseau de filaments entourant de vastes vides ; c'est la toile cosmique, que la gravité sur la matière noire permet d'expliquer.",
+    "next": "Demain — pourquoi cette toile permet de mesurer la nature de la matière noire."
   }
 }

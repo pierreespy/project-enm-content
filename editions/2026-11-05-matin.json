@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Élections sénatoriales de septembre 2026 : onze recours sont pendants devant le Conseil constitutionnel, juge de l'élection",
+    "dek": "Le Conseil constitutionnel indique sur son site avoir été saisi de onze requêtes contestant les résultats du scrutin sénatorial de septembre 2026. Il statue comme juge de l'élection, une compétence distincte du contrôle de constitutionnalité des lois.",
+    "source": "Conseil constitutionnel, page d'accueil, 3 nov. 2026",
+    "url": "https://www.conseil-constitutionnel.fr/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Loi de finances pour 2026 : le Conseil constitutionnel en valide l'essentiel avant sa publication au JO du 20 février 2026",
+      "summary": "Rappel utile pour les dossiers fiscaux en cours : la décision de février 2026 a censuré certaines dispositions mais laissé en vigueur le cœur du texte.",
+      "source": "LCP ; Deloitte Société d'Avocats, févr. 2026",
+      "url": "https://lcp.fr/actualites/budget-2026-le-conseil-constitutionnel-valide-l-essentiel-de-la-loi-de-finances-431533",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Licenciement pour désorganisation liée aux absences maladie : l'insuffisance de preuve du motif ne caractérise pas à elle seule une discrimination",
+      "summary": "Dans un arrêt publié au Bulletin, la chambre sociale distingue le licenciement sans cause réelle et sérieuse, faute de preuve de la désorganisation, du licenciement discriminatoire qui exige des éléments propres.",
+      "source": "Cass. soc., 9 sept. 2026, n° 25-14.356, F-B",
+      "url": "https://consultation.avocat.fr/blog/noemie-le-bouard/article-2983531-licenciement-pour-desorganisation-liee-aux-absences-maladie-l-insuffisance-de-preuve-du-motif-ne-caracterise-pas-a-elle-seule-une-discrimination.html",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "QPC : irrecevabilité d'une saisine directe du Conseil constitutionnel",
+      "summary": "Commentaire de la décision par laquelle le Conseil déclare irrecevable la demande formée directement par un groupement d'intérêt économique, faute de décision de renvoi.",
+      "source": "La Semaine juridique (LexisNexis), Le Mag",
+      "url": "https://www.lemag-juridique.com/articles/public-qpc-irrecevabilite-dune-saisine-directe-conseil-constitutionnel-11258.htm",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "5 novembre 1922 : Howard Carter découvre l'entrée du tombeau de Toutânkhamon",
+      "summary": "La première marche d'un escalier dans la Vallée des Rois ouvre la plus célèbre fouille archéologique du XXe siècle.",
+      "source": "Hérodote.net, almanach du 5 novembre",
+      "url": "https://www.herodote.net/almanach/jour.php?jour=1105",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Le Conseil constitutionnel tiendra une audience délocalisée de QPC au tribunal judiciaire de Bobigny le 24 novembre 2026",
+      "summary": "L'audience publique, hors de ses murs, permet aux avocats et justiciables de suivre en direct la procédure orale de la question prioritaire de constitutionnalité.",
+      "source": "Conseil constitutionnel, agenda, 3 nov. 2026",
+      "url": "https://www.conseil-constitutionnel.fr/agenda",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Nuit de Guy Fawkes : le Royaume-Uni allume ses feux de joie, 421 ans après le complot des Poudres",
+      "summary": "Chaque 5 novembre, feux de joie et feux d'artifice rappellent l'échec de l'attentat visant le Parlement et Jacques Ier en 1605.",
+      "source": "Encyclopædia Universalis, « Nuit de Guy Fawkes »",
+      "url": "https://www.universalis.fr/encyclopedie/nuit-de-guy-fawkes/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Moyen mélangé de fait et de droit",
+    "subtitle": "Procédure civile · Cassation · Article 619 du Code de procédure civile",
+    "defShort": "Moyen de cassation qui suppose, pour être apprécié, un examen des faits que la Cour de cassation, juge du droit, ne peut pas mener : il est irrecevable devant elle.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "La Cour de cassation ne juge pas les affaires : elle contrôle la bonne application du droit par les juges du fond. Un moyen qui l'obligerait à rechercher ou apprécier des faits non constatés par la décision attaquée est dit « mélangé de fait et de droit » et déclaré irrecevable."
+      },
+      {
+        "h": "Fondement",
+        "body": "La règle découle de l'office de la Cour de cassation, juge de droit. Les juges du fond apprécient souverainement les faits ; la Cour ne peut pas substituer sa propre appréciation à la leur."
+      },
+      {
+        "h": "Mécanisme",
+        "body": "Le demandeur qui soutient devant la Cour un fait nouveau ou une qualification qui suppose de revenir sur les constatations de la cour d'appel s'expose à l'irrecevabilité. Le moyen nouveau, mélangé de fait et de droit, ne peut pas être présenté pour la première fois en cassation."
+      },
+      {
+        "h": "Portée",
+        "body": "Le moyen peut être sauvé si les constatations des juges du fond suffisent à le trancher en droit : il devient alors un pur moyen de droit. Le rédacteur du pourvoi doit donc partir des seules énonciations de l'arrêt attaqué."
+      }
+    ],
+    "seeAlso": "Voir aussi — moyen nouveau · pouvoir souverain d'appréciation des juges du fond · dénaturation · défaut de base légale"
+  },
+  "date": "2026-11-05",
+  "dateShort": "5 nov.",
+  "slot": "matin"
+}

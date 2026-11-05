@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-04",
-  "updatedSlot": "midi",
-  "count": 24,
+  "updated": "2026-11-05",
+  "updatedSlot": "matin",
+  "count": 23,
   "editions": [
+    {
+      "date": "2026-11-05",
+      "slot": "matin",
+      "file": "editions/2026-11-05-matin.json",
+      "essentiel": "Élections sénatoriales de septembre 2026 : onze recours sont pendants devant le Conseil constitutionnel, juge de l'élection",
+      "term": "Moyen mélangé de fait et de droit",
+      "rubriques": [
+        "Loi de finances pour 2026 : le Conseil constitutionnel en valide l'essentiel avant sa publication au JO du 20 février 2026",
+        "Licenciement pour désorganisation liée aux absences maladie : l'insuffisance de preuve du motif ne caractérise pas à elle seule une discrimination",
+        "QPC : irrecevabilité d'une saisine directe du Conseil constitutionnel",
+        "5 novembre 1922 : Howard Carter découvre l'entrée du tombeau de Toutânkhamon",
+        "Le Conseil constitutionnel tiendra une audience délocalisée de QPC au tribunal judiciaire de Bobigny le 24 novembre 2026",
+        "Nuit de Guy Fawkes : le Royaume-Uni allume ses feux de joie, 421 ans après le complot des Poudres"
+      ]
+    },
     {
       "date": "2026-11-04",
       "slot": "midi",
@@ -331,36 +346,6 @@
         "21 octobre 1879 : Edison obtient à Menlo Park un premier essai concluant de lampe à filament de carbone",
         "Interdictions commerciales de stade : toujours pas de plafond de durée ni de procédure contradictoire",
         "Météo : un risque de pluies orageuses prolongé sur les régions méditerranéennes jusqu'à ce mercredi 21 octobre"
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "slot": "midi",
-      "file": "editions/2026-10-20-midi.json",
-      "essentiel": "Procès de Rima Hassan pour apologie du terrorisme : un procès ouvert sur fond d'incidents d'audience, prévu les 19 et 20 octobre",
-      "term": "Tierce opposition",
-      "rubriques": [
-        "Conseil constitutionnel : audience publique ce mardi 20 octobre sur la QPC n° 2026-1232 relative au code de la justice pénale des mineurs",
-        "Protection des consommateurs : la première chambre civile, en formation de section, rend un arrêt publié le 7 octobre 2026",
-        "Gouvernance du CNB : les avocats honoraires au cœur d'une nouvelle fracture entre Paris et la province",
-        "21 octobre 1805 : Trafalgar, la défaite navale qui ruine le projet de débarquement en Angleterre",
-        "Convention nationale des avocats : rendez-vous à Toulouse du 21 au 23 octobre, et date limite des professions de foi du CNB fixée au 23 octobre",
-        "Météo : un mois de septembre 2026 « sans conteste le plus sec jamais observé en France »"
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "slot": "matin",
-      "file": "editions/2026-10-20-matin.json",
-      "essentiel": "Policier entendu par une commission parlementaire sans avoir prévenu sa hiérarchie : le Conseil d'État refuse de valider l'avertissement et le blâme",
-      "term": "Ordre public de direction",
-      "rubriques": [
-        "Décret n° 2026-683 du 27 juillet 2026 : ce que change la nouvelle réforme de la procédure civile depuis le 1er octobre",
-        "Défaut de prévention du harcèlement moral : l'action se prescrit par deux ans, et non par cinq",
-        "Plaidoyer en faveur de l'introduction de la catégorie des dommages immatériels en droit commun de la responsabilité civile",
-        "20 octobre 1854 : naissance d'Arthur Rimbaud à Charleville",
-        "Avocats : le CNB propose une nouvelle réforme de la procédure disciplinaire",
-        "Épisode méditerranéen : neuf départements du Sud en vigilance orange ce mardi"
       ]
     }
   ]
