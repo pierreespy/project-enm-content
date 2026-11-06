@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Rentrée 2026 du Conseil d'État : le communiqué de presse et le discours du vice-président sur l'évolution des missions de l'institution",
-    "dek": "À l'occasion de l'audience solennelle de rentrée, le Conseil d'État a publié son communiqué de presse de septembre 2026 ; le discours du vice-président y aborde l'évolution des missions, contentieuses et consultatives, de la juridiction suprême de l'ordre administratif.",
-    "source": "Conseil d'État, communiqué de presse de rentrée, sept. 2026",
-    "url": "https://www.conseil-etat.fr/Media/actualites/documents/2026/septembre-2026/communique-de-presse-rentree-2026"
+    "title": "Justice criminelle : Gérald Darmanin relance le dialogue avec le Conseil national des barreaux sur le projet de loi",
+    "dek": "Alors que le texte relatif à la chaîne pénale criminelle a été adopté au Sénat le 14 avril 2026, le garde des Sceaux a écrit à la présidente du CNB pour rouvrir les échanges avec une profession qui a voté une opposition de principe le 22 avril.",
+    "source": "Le Monde du Droit, 2026",
+    "url": "https://www.lemondedudroit.fr/institutions/103794-justice-criminelle-gerald-darmanin-relance-dialogue-avec-le-cnb.html"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique : le texte au programme de l'actualité du droit des sociétés",
-      "summary": "Les formations de fin d'année en droit des sociétés placent cette loi parmi les textes à maîtriser, avec une journée d'actualité fixée au 26 novembre 2026.",
-      "source": "Lefebvre Dalloz Formation, Actualité du droit des sociétés 2026",
-      "url": "https://formation.lefebvre-dalloz.fr/formations/actualite-du-droit-des-societes_582014",
+      "title": "Renforcement de la chaîne pénale criminelle et modernisation du corps judiciaire : le texte adopté par le Sénat",
+      "summary": "Le Sénat a adopté le projet de loi, dans une version largement amendée, avant son examen par l'Assemblée nationale.",
+      "source": "Le Monde du Droit, adoption au Sénat",
+      "url": "https://www.lemondedudroit.fr/avocat/103015-renforcement-de-la-chaine-penale-criminelle-et-modernisation-du-corps-judiciaire-adoption-au-senat-3.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass. 1re civ., 8 juillet 2026, n° 24-16.567 : une cassation partielle commentée",
-      "summary": "La première chambre civile censure partiellement la décision attaquée, arrêt désormais commenté dans la base Lextenso.",
-      "source": "Cass. 1re civ., 8 juill. 2026, n° 24-16.567",
-      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-07/24-16-567-CC-08072026-24_16567",
+      "title": "Cass., 3 septembre 2026, n° 25-12.962 : un arrêt désormais commenté",
+      "summary": "La décision du 3 septembre 2026 fait l'objet d'un commentaire dans la base Lextenso.",
+      "source": "Cass., 3 sept. 2026, n° 25-12.962",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-09/25-12-962-CC-03092026-25_12962",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Chronique de jurisprudence du Conseil d'État : contentieux administratif et Convention européenne des droits de l'homme",
-      "summary": "La Gazette du Palais propose un panorama du premier semestre 2026 articulant le contentieux administratif et le droit conventionnel.",
-      "source": "Gazette du Palais, 2026, n° 23",
-      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n23/chronique-de-jurisprudence-du-conseil-d-etat-contentieux-administratif-et-convention-europeenne-des-droits-de-l-homme-GPL492u7/PDF-revue",
+      "title": "Projet de loi sur la justice criminelle : mobilisation et dialogue pour la profession d'avocat",
+      "summary": "La Gazette du Palais analyse la mobilisation des avocats et les voies de dialogue autour du projet de loi.",
+      "source": "Gazette du Palais, 2026, n° 14",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n14/projet-de-loi-sur-la-justice-criminelle-mobilisation-et-dialogue-pour-la-profession-d-avocat-GPL490b5",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "6 novembre 1975 : la « Marche verte » conduit 200 000 Marocains vers le Sahara espagnol",
-      "summary": "Le Maroc annexe unilatéralement le Rio de Oro après cette marche, épisode majeur de la décolonisation et du contentieux sur le Sahara occidental.",
-      "source": "Hérodote.net, almanach du 6 novembre",
-      "url": "https://www.herodote.net/almanach-jour-1106.php",
+      "title": "7 novembre 1659 : le traité des Pyrénées met fin à la guerre entre la France et l'Espagne",
+      "summary": "Signé ce jour-là, il scelle l'ascension de la France comme première puissance européenne.",
+      "source": "Dates and Times, événements du 7 novembre",
+      "url": "https://datesandtimes.org/november-7/events/",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Baux commerciaux en 2026 : évolutions et décisions à repérer, webinaire du 12 novembre à 10 h",
-      "summary": "Un rendez-vous de mise à jour pour les praticiens du bail commercial, entre textes récents et jurisprudence à surveiller.",
+      "title": "La Convention Lefebvre Dalloz Avocats : le programme 2026",
+      "summary": "Le programme de la convention 2026 est publié, rendez-vous de formation pour les praticiens du barreau.",
       "source": "Lefebvre Dalloz Formation",
-      "url": "https://formation.lefebvre-dalloz.fr/evenement/baux-commerciaux-en-2026-les-evolutions-et-decisions-reperer",
+      "url": "https://formation.lefebvre-dalloz.fr/evenement/la-convention-lefebvre-dalloz-avocats",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Vigilance météorologique : des cartes plus fines, mises à jour à 6 h et 16 h, pour une semaine de début novembre fraîche",
-      "summary": "Depuis le 1er septembre 2026 les cartes détaillent le risque à l'intérieur des départements, avec des températures sous les normales annoncées du 2 au 8 novembre.",
-      "source": "Service-Public.gouv.fr ; Météo-France",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19058?lang=en",
+      "title": "Sénégal : le Conseil constitutionnel invalide la loi de révision constitutionnelle n° 18/2026",
+      "summary": "Saisi par le Président de la République, il a rendu le 9 juillet 2026 la décision n° 6/C/2026 déclarant la loi contraire à la Constitution.",
+      "source": "Vie publique Sénégal",
+      "url": "https://www.vie-publique.sn/actualites/419/conseil-constitutionnel-declare-contraire-a-la-constitution-la-loi-de-revision-constitutionnelle-n-18-2026",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Quasi-usufruit",
-    "subtitle": "Droit des biens · Article 587 du Code civil",
-    "defShort": "Usufruit portant sur des choses consomptibles, notamment une somme d'argent : l'usufruitier en devient propriétaire et doit en restituer l'équivalent à l'extinction de l'usufruit.",
+    "term": "Obligation in solidum",
+    "subtitle": "Droit des obligations · Responsabilité civile",
+    "defShort": "Situation où plusieurs débiteurs sont tenus de la même dette, chacun pouvant être poursuivi pour le tout, sans que les effets de la solidarité parfaite ne s'appliquent entre eux.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'usufruit confère l'usage et les fruits d'un bien, à charge d'en conserver la substance. Or une somme d'argent ou une denrée se consomme par l'usage : impossible de la rendre en nature. Le quasi-usufruit organise ce cas : l'usufruitier consomme et, à la fin de l'usufruit, restitue l'équivalent."
+        "body": "Lorsque plusieurs personnes ont concouru à un même dommage, la victime peut demander à chacune la réparation intégrale. Cette obligation « in solidum » (ou solidarité imparfaite) ressemble à la solidarité mais s'en distingue par ses effets secondaires."
       },
       {
         "h": "Fondement",
-        "body": "L'article 587 du Code civil permet à l'usufruitier de se servir des choses consomptibles, à charge de rendre, à la fin de l'usufruit, des choses de même quantité et qualité, ou leur valeur estimée à la date de la restitution."
+        "body": "La solidarité ne se présume pas : elle suppose une convention ou un texte. L'obligation in solidum est une construction jurisprudentielle, qui permet d'assurer à la victime une indemnisation complète lorsque des fautes distinctes ont contribué à un même préjudice."
       },
       {
-        "h": "Mécanisme",
-        "body": "Le quasi-usufruitier devient propriétaire des choses consommées : le nu-propriétaire ne conserve qu'une créance de restitution, de nature personnelle. Cette créance n'est pas assortie, par principe, d'une sûreté ; son exigibilité et son recouvrement dépendent donc de la solvabilité du quasi-usufruitier ou des garanties prévues."
+        "h": "Différence avec la solidarité",
+        "body": "Dans la solidarité parfaite, les codébiteurs se représentent mutuellement : l'acte accompli à l'égard de l'un produit en principe effet à l'égard des autres. Dans l'obligation in solidum, il n'y a pas de représentation mutuelle : par exemple, un acte interruptif de prescription ou une voie de recours exercée par l'un ne profite pas nécessairement aux autres."
       },
       {
         "h": "Portée",
-        "body": "La notion est courante en pratique successorale, notamment lorsque le conjoint survivant recueille l'usufruit de liquidités. Elle se distingue de l'usufruit ordinaire (art. 578), où la substance doit être conservée et le bien rendu en nature."
+        "body": "Entre eux, les coobligés règlent la charge définitive de la dette par un recours en contribution, apprécié notamment selon la gravité des fautes respectives. Le choix de poursuivre l'un d'eux seulement n'empêche donc pas ce dernier de se retourner contre les autres."
       }
     ],
-    "seeAlso": "Voir aussi — usufruit (art. 578) · nu-propriété · créance de restitution · choses consomptibles"
+    "seeAlso": "Voir aussi — solidarité passive · contribution à la dette · recours subrogatoire · pluralité de responsables"
   },
   "date": "2026-11-06",
   "dateShort": "6 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 67,
     "title": "Ce que la toile cosmique révèle de la matière noire",

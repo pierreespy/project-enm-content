@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Justice criminelle : Gérald Darmanin relance le dialogue avec le Conseil national des barreaux sur le projet de loi",
+    "dek": "Alors que le texte relatif à la chaîne pénale criminelle a été adopté au Sénat le 14 avril 2026, le garde des Sceaux a écrit à la présidente du CNB pour rouvrir les échanges avec une profession qui a voté une opposition de principe le 22 avril.",
+    "source": "Le Monde du Droit, 2026",
+    "url": "https://www.lemondedudroit.fr/institutions/103794-justice-criminelle-gerald-darmanin-relance-dialogue-avec-le-cnb.html"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Renforcement de la chaîne pénale criminelle et modernisation du corps judiciaire : le texte adopté par le Sénat",
+      "summary": "Le Sénat a adopté le projet de loi, dans une version largement amendée, avant son examen par l'Assemblée nationale.",
+      "source": "Le Monde du Droit, adoption au Sénat",
+      "url": "https://www.lemondedudroit.fr/avocat/103015-renforcement-de-la-chaine-penale-criminelle-et-modernisation-du-corps-judiciaire-adoption-au-senat-3.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass., 3 septembre 2026, n° 25-12.962 : un arrêt désormais commenté",
+      "summary": "La décision du 3 septembre 2026 fait l'objet d'un commentaire dans la base Lextenso.",
+      "source": "Cass., 3 sept. 2026, n° 25-12.962",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-09/25-12-962-CC-03092026-25_12962",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Projet de loi sur la justice criminelle : mobilisation et dialogue pour la profession d'avocat",
+      "summary": "La Gazette du Palais analyse la mobilisation des avocats et les voies de dialogue autour du projet de loi.",
+      "source": "Gazette du Palais, 2026, n° 14",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n14/projet-de-loi-sur-la-justice-criminelle-mobilisation-et-dialogue-pour-la-profession-d-avocat-GPL490b5",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "7 novembre 1659 : le traité des Pyrénées met fin à la guerre entre la France et l'Espagne",
+      "summary": "Signé ce jour-là, il scelle l'ascension de la France comme première puissance européenne.",
+      "source": "Dates and Times, événements du 7 novembre",
+      "url": "https://datesandtimes.org/november-7/events/",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "La Convention Lefebvre Dalloz Avocats : le programme 2026",
+      "summary": "Le programme de la convention 2026 est publié, rendez-vous de formation pour les praticiens du barreau.",
+      "source": "Lefebvre Dalloz Formation",
+      "url": "https://formation.lefebvre-dalloz.fr/evenement/la-convention-lefebvre-dalloz-avocats",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Sénégal : le Conseil constitutionnel invalide la loi de révision constitutionnelle n° 18/2026",
+      "summary": "Saisi par le Président de la République, il a rendu le 9 juillet 2026 la décision n° 6/C/2026 déclarant la loi contraire à la Constitution.",
+      "source": "Vie publique Sénégal",
+      "url": "https://www.vie-publique.sn/actualites/419/conseil-constitutionnel-declare-contraire-a-la-constitution-la-loi-de-revision-constitutionnelle-n-18-2026",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Obligation in solidum",
+    "subtitle": "Droit des obligations · Responsabilité civile",
+    "defShort": "Situation où plusieurs débiteurs sont tenus de la même dette, chacun pouvant être poursuivi pour le tout, sans que les effets de la solidarité parfaite ne s'appliquent entre eux.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Lorsque plusieurs personnes ont concouru à un même dommage, la victime peut demander à chacune la réparation intégrale. Cette obligation « in solidum » (ou solidarité imparfaite) ressemble à la solidarité mais s'en distingue par ses effets secondaires."
+      },
+      {
+        "h": "Fondement",
+        "body": "La solidarité ne se présume pas : elle suppose une convention ou un texte. L'obligation in solidum est une construction jurisprudentielle, qui permet d'assurer à la victime une indemnisation complète lorsque des fautes distinctes ont contribué à un même préjudice."
+      },
+      {
+        "h": "Différence avec la solidarité",
+        "body": "Dans la solidarité parfaite, les codébiteurs se représentent mutuellement : l'acte accompli à l'égard de l'un produit en principe effet à l'égard des autres. Dans l'obligation in solidum, il n'y a pas de représentation mutuelle : par exemple, un acte interruptif de prescription ou une voie de recours exercée par l'un ne profite pas nécessairement aux autres."
+      },
+      {
+        "h": "Portée",
+        "body": "Entre eux, les coobligés règlent la charge définitive de la dette par un recours en contribution, apprécié notamment selon la gravité des fautes respectives. Le choix de poursuivre l'un d'eux seulement n'empêche donc pas ce dernier de se retourner contre les autres."
+      }
+    ],
+    "seeAlso": "Voir aussi — solidarité passive · contribution à la dette · recours subrogatoire · pluralité de responsables"
+  },
+  "date": "2026-11-06",
+  "dateShort": "6 nov.",
+  "slot": "midi"
+}

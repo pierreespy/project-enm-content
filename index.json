@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-06",
-  "updatedSlot": "matin",
-  "count": 23,
+  "updatedSlot": "midi",
+  "count": 24,
   "editions": [
+    {
+      "date": "2026-11-06",
+      "slot": "midi",
+      "file": "editions/2026-11-06-midi.json",
+      "essentiel": "Justice criminelle : Gérald Darmanin relance le dialogue avec le Conseil national des barreaux sur le projet de loi",
+      "term": "Obligation in solidum",
+      "rubriques": [
+        "Renforcement de la chaîne pénale criminelle et modernisation du corps judiciaire : le texte adopté par le Sénat",
+        "Cass., 3 septembre 2026, n° 25-12.962 : un arrêt désormais commenté",
+        "Projet de loi sur la justice criminelle : mobilisation et dialogue pour la profession d'avocat",
+        "7 novembre 1659 : le traité des Pyrénées met fin à la guerre entre la France et l'Espagne",
+        "La Convention Lefebvre Dalloz Avocats : le programme 2026",
+        "Sénégal : le Conseil constitutionnel invalide la loi de révision constitutionnelle n° 18/2026"
+      ]
+    },
     {
       "date": "2026-11-06",
       "slot": "matin",
