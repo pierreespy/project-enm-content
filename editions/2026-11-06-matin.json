@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Rentrée 2026 du Conseil d'État : le communiqué de presse et le discours du vice-président sur l'évolution des missions de l'institution",
+    "dek": "À l'occasion de l'audience solennelle de rentrée, le Conseil d'État a publié son communiqué de presse de septembre 2026 ; le discours du vice-président y aborde l'évolution des missions, contentieuses et consultatives, de la juridiction suprême de l'ordre administratif.",
+    "source": "Conseil d'État, communiqué de presse de rentrée, sept. 2026",
+    "url": "https://www.conseil-etat.fr/Media/actualites/documents/2026/septembre-2026/communique-de-presse-rentree-2026"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique : le texte au programme de l'actualité du droit des sociétés",
+      "summary": "Les formations de fin d'année en droit des sociétés placent cette loi parmi les textes à maîtriser, avec une journée d'actualité fixée au 26 novembre 2026.",
+      "source": "Lefebvre Dalloz Formation, Actualité du droit des sociétés 2026",
+      "url": "https://formation.lefebvre-dalloz.fr/formations/actualite-du-droit-des-societes_582014",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. 1re civ., 8 juillet 2026, n° 24-16.567 : une cassation partielle commentée",
+      "summary": "La première chambre civile censure partiellement la décision attaquée, arrêt désormais commenté dans la base Lextenso.",
+      "source": "Cass. 1re civ., 8 juill. 2026, n° 24-16.567",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-07/24-16-567-CC-08072026-24_16567",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Chronique de jurisprudence du Conseil d'État : contentieux administratif et Convention européenne des droits de l'homme",
+      "summary": "La Gazette du Palais propose un panorama du premier semestre 2026 articulant le contentieux administratif et le droit conventionnel.",
+      "source": "Gazette du Palais, 2026, n° 23",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n23/chronique-de-jurisprudence-du-conseil-d-etat-contentieux-administratif-et-convention-europeenne-des-droits-de-l-homme-GPL492u7/PDF-revue",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "6 novembre 1975 : la « Marche verte » conduit 200 000 Marocains vers le Sahara espagnol",
+      "summary": "Le Maroc annexe unilatéralement le Rio de Oro après cette marche, épisode majeur de la décolonisation et du contentieux sur le Sahara occidental.",
+      "source": "Hérodote.net, almanach du 6 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1106.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Baux commerciaux en 2026 : évolutions et décisions à repérer, webinaire du 12 novembre à 10 h",
+      "summary": "Un rendez-vous de mise à jour pour les praticiens du bail commercial, entre textes récents et jurisprudence à surveiller.",
+      "source": "Lefebvre Dalloz Formation",
+      "url": "https://formation.lefebvre-dalloz.fr/evenement/baux-commerciaux-en-2026-les-evolutions-et-decisions-reperer",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Vigilance météorologique : des cartes plus fines, mises à jour à 6 h et 16 h, pour une semaine de début novembre fraîche",
+      "summary": "Depuis le 1er septembre 2026 les cartes détaillent le risque à l'intérieur des départements, avec des températures sous les normales annoncées du 2 au 8 novembre.",
+      "source": "Service-Public.gouv.fr ; Météo-France",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19058?lang=en",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Quasi-usufruit",
+    "subtitle": "Droit des biens · Article 587 du Code civil",
+    "defShort": "Usufruit portant sur des choses consomptibles, notamment une somme d'argent : l'usufruitier en devient propriétaire et doit en restituer l'équivalent à l'extinction de l'usufruit.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "L'usufruit confère l'usage et les fruits d'un bien, à charge d'en conserver la substance. Or une somme d'argent ou une denrée se consomme par l'usage : impossible de la rendre en nature. Le quasi-usufruit organise ce cas : l'usufruitier consomme et, à la fin de l'usufruit, restitue l'équivalent."
+      },
+      {
+        "h": "Fondement",
+        "body": "L'article 587 du Code civil permet à l'usufruitier de se servir des choses consomptibles, à charge de rendre, à la fin de l'usufruit, des choses de même quantité et qualité, ou leur valeur estimée à la date de la restitution."
+      },
+      {
+        "h": "Mécanisme",
+        "body": "Le quasi-usufruitier devient propriétaire des choses consommées : le nu-propriétaire ne conserve qu'une créance de restitution, de nature personnelle. Cette créance n'est pas assortie, par principe, d'une sûreté ; son exigibilité et son recouvrement dépendent donc de la solvabilité du quasi-usufruitier ou des garanties prévues."
+      },
+      {
+        "h": "Portée",
+        "body": "La notion est courante en pratique successorale, notamment lorsque le conjoint survivant recueille l'usufruit de liquidités. Elle se distingue de l'usufruit ordinaire (art. 578), où la substance doit être conservée et le bien rendu en nature."
+      }
+    ],
+    "seeAlso": "Voir aussi — usufruit (art. 578) · nu-propriété · créance de restitution · choses consomptibles"
+  },
+  "date": "2026-11-06",
+  "dateShort": "6 nov.",
+  "slot": "matin"
+}

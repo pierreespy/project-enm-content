@@ -1,0 +1,32 @@
+{
+  "n": 67,
+  "title": "Ce que la toile cosmique révèle de la matière noire",
+  "subtitle": "Pourquoi la forme du réseau dépend de la nature des particules de matière noire",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un réseau qui dépend de sa matière",
+      "body": "La toile cosmique (jour 66) se forme sous l'effet de la gravité (jour 8) sur la matière noire (jour 25). Sa forme dépend donc de la manière dont cette matière se comporte. Les particules de matière noire ne sont pas immobiles : elles se déplacent, plus ou moins vite. Cette vitesse, au moment où les structures commencent à se former, change le résultat."
+    },
+    {
+      "h": "Lente ou rapide",
+      "body": "Si les particules sont lentes, elles se laissent facilement rassembler : de petits amas se forment très tôt, puis s'assemblent en structures plus grandes. On parle de matière noire froide, c'est-à-dire de particules animées de faibles vitesses. Si elles sont rapides, elles s'échappent des petites concentrations et les effacent : on parle de matière noire chaude, et seules les grandes structures subsistent."
+    },
+    {
+      "h": "Ce que montrent les cartes",
+      "body": "Les cartes de galaxies (jour 65) révèlent des structures à toutes les échelles, y compris de petites galaxies très anciennes. Cela s'accorde avec une matière noire froide. Une matière noire chaude ne pourrait pas les produire. La toile devient ainsi une mesure indirecte : elle ne dit pas ce que sont les particules, mais elle écarte celles qui iraient trop vite."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Matière noire froide",
+      "def": "Matière noire dont les particules se déplacent lentement, ce qui permet la formation précoce de petites structures."
+    },
+    {
+      "term": "Matière noire chaude",
+      "def": "Matière noire dont les particules se déplacent très vite et effacent les petites concentrations, ne laissant subsister que les grandes structures."
+    }
+  ],
+  "recap": "La vitesse des particules de matière noire détermine la taille des premières structures ; les cartes observées favorisent une matière noire froide.",
+  "next": "Demain — les petites galaxies satellites : un test de la matière noire froide."
+}

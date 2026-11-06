@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05",
-  "count": 66,
+  "updated": "2026-11-06",
+  "count": 67,
   "lessons": [
     {
       "n": 1,
@@ -569,6 +569,15 @@
         "Filament",
         "Vide cosmique",
         "Toile cosmique"
+      ]
+    },
+    {
+      "n": 67,
+      "file": "astro/lessons/067-ce-que-la-toile-cosmique-revele-de-la-matiere-noire.json",
+      "title": "Ce que la toile cosmique révèle de la matière noire",
+      "terms": [
+        "Matière noire froide",
+        "Matière noire chaude"
       ]
     }
   ]

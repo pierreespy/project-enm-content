@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-05",
-  "updatedSlot": "midi",
-  "count": 24,
+  "updated": "2026-11-06",
+  "updatedSlot": "matin",
+  "count": 23,
   "editions": [
+    {
+      "date": "2026-11-06",
+      "slot": "matin",
+      "file": "editions/2026-11-06-matin.json",
+      "essentiel": "Rentrée 2026 du Conseil d'État : le communiqué de presse et le discours du vice-président sur l'évolution des missions de l'institution",
+      "term": "Quasi-usufruit",
+      "rubriques": [
+        "Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique : le texte au programme de l'actualité du droit des sociétés",
+        "Cass. 1re civ., 8 juillet 2026, n° 24-16.567 : une cassation partielle commentée",
+        "Chronique de jurisprudence du Conseil d'État : contentieux administratif et Convention européenne des droits de l'homme",
+        "6 novembre 1975 : la « Marche verte » conduit 200 000 Marocains vers le Sahara espagnol",
+        "Baux commerciaux en 2026 : évolutions et décisions à repérer, webinaire du 12 novembre à 10 h",
+        "Vigilance météorologique : des cartes plus fines, mises à jour à 6 h et 16 h, pour une semaine de début novembre fraîche"
+      ]
+    },
     {
       "date": "2026-11-05",
       "slot": "midi",
@@ -331,36 +346,6 @@
         "22 octobre 1797 : André-Jacques Garnerin réalise au-dessus du parc Monceau le premier saut en parachute enregistré",
         "Procès de Cédric Jubillar : le renvoi au premier semestre 2027 après de nouveaux aveux, un cas d'école du renvoi d'assises",
         "Vigilance météo : des cartes plus fines, par secteur, mises à jour au moins deux fois par jour depuis le 1er septembre 2026"
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "slot": "midi",
-      "file": "editions/2026-10-21-midi.json",
-      "essentiel": "Fraude bancaire : la CJUE juge qu'une négligence grave, même établie, ne dispense pas la banque de rembourser immédiatement son client",
-      "term": "Obligation in solidum",
-      "rubriques": [
-        "Crédit à la consommation : les nouvelles obligations du décret n° 2026-105 s'appliqueront à compter du 20 novembre 2026",
-        "Opérations de paiement non autorisées : un arrêt de la Cour de cassation du 8 octobre 2026 à lire avec la décision de la CJUE",
-        "Chronique de jurisprudence de droit bancaire : la preuve de l'authentification, ligne de partage des responsabilités",
-        "21 octobre 1945 : les Françaises votent pour la première fois, lors de l'élection de la seconde Assemblée constituante",
-        "Tribunal de Paris : les comparutions immédiates sous tension après l'afflux de prévenus interpellés le 17 octobre",
-        "Vigilance orange pluie-inondation dans le Var et les Alpes-Maritimes ce mercredi"
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "slot": "matin",
-      "file": "editions/2026-10-21-matin.json",
-      "essentiel": "Moyen relevé d'office sans débat contradictoire : la Cour de cassation casse deux arrêts d'appel rendus les 1er et 8 octobre 2026",
-      "term": "Péremption d'instance",
-      "rubriques": [
-        "Absence de DUERP : une amende administrative pouvant atteindre 4 000 euros par salarié depuis le 27 juin 2026",
-        "Licenciement économique et Covid : une baisse du chiffre d'affaires sur la période légale ne suffit pas, le juge doit en apprécier l'importance",
-        "Commande publique : l'offre anormalement basse et la charge de la démonstration pesant sur l'acheteur",
-        "21 octobre 1879 : Edison obtient à Menlo Park un premier essai concluant de lampe à filament de carbone",
-        "Interdictions commerciales de stade : toujours pas de plafond de durée ni de procédure contradictoire",
-        "Météo : un risque de pluies orageuses prolongé sur les régions méditerranéennes jusqu'à ce mercredi 21 octobre"
       ]
     }
   ]

@@ -1,129 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Justice criminelle : la loi du 23 juillet 2026 et l'extension des cours criminelles départementales au cœur du débat",
-    "dek": "Plusieurs analyses de praticiens reviennent sur la loi du 23 juillet 2026 relative à la justice criminelle, entre jury populaire, procès équitable et réforme du procès en appel devant les cours criminelles départementales.",
-    "source": "Cabinet Kohen Avocats, analyse de la loi du 23 juillet 2026",
-    "url": "https://kohenavocats.com/loi-23-juillet-2026-justice-criminelle-reforme-systemique-proces-equitable-jury-populaire/"
+    "title": "Rentrée 2026 du Conseil d'État : le communiqué de presse et le discours du vice-président sur l'évolution des missions de l'institution",
+    "dek": "À l'occasion de l'audience solennelle de rentrée, le Conseil d'État a publié son communiqué de presse de septembre 2026 ; le discours du vice-président y aborde l'évolution des missions, contentieuses et consultatives, de la juridiction suprême de l'ordre administratif.",
+    "source": "Conseil d'État, communiqué de presse de rentrée, sept. 2026",
+    "url": "https://www.conseil-etat.fr/Media/actualites/documents/2026/septembre-2026/communique-de-presse-rentree-2026"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Réécriture du code de procédure pénale : le projet de loi de ratification est déposé au Sénat",
-      "summary": "Le projet de loi n° 604 ratifie l'ordonnance n° 2025-1091 du 19 novembre 2025 portant réécriture de la partie législative du code de procédure pénale.",
-      "source": "Le Monde du Droit, dépôt au Sénat (6 mai 2026)",
-      "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/104264-reecriture-du-code-de-procedure-penale-depot-au-senat.html",
+      "title": "Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique : le texte au programme de l'actualité du droit des sociétés",
+      "summary": "Les formations de fin d'année en droit des sociétés placent cette loi parmi les textes à maîtriser, avec une journée d'actualité fixée au 26 novembre 2026.",
+      "source": "Lefebvre Dalloz Formation, Actualité du droit des sociétés 2026",
+      "url": "https://formation.lefebvre-dalloz.fr/formations/actualite-du-droit-des-societes_582014",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Motivation de la peine correctionnelle : la gravité des faits ne suffit pas",
-      "summary": "La chambre criminelle rappelle, le 1er juillet 2026, qu'une peine correctionnelle ne peut être motivée par la seule gravité des faits, sans considération de la situation du prévenu.",
-      "source": "Cass. crim., 1er juill. 2026, n° 25-82.804",
-      "url": "https://kohenavocats.com/motivation-peine-situation-personnelle-prevenu-gravite-faits-antecedents-crim-1er-juillet-2026/",
+      "title": "Cass. 1re civ., 8 juillet 2026, n° 24-16.567 : une cassation partielle commentée",
+      "summary": "La première chambre civile censure partiellement la décision attaquée, arrêt désormais commenté dans la base Lextenso.",
+      "source": "Cass. 1re civ., 8 juill. 2026, n° 24-16.567",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-07/24-16-567-CC-08072026-24_16567",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Cours criminelles départementales : l'extension, « leurre » derrière le plaider-coupable criminel ?",
-      "summary": "Le professeur Hubert Lesaffre dénonce, dans une tribune de juin 2026, un débat sur le plaider-coupable criminel qui masquerait l'extension des cours criminelles départementales.",
-      "source": "Dalloz Actualité, tribune du 8 juin 2026, relevée par le cabinet Kohen",
-      "url": "https://kohenavocats.com/justice-penale-morte-mobilisation-unitaire-29-juin-2026/",
+      "title": "Chronique de jurisprudence du Conseil d'État : contentieux administratif et Convention européenne des droits de l'homme",
+      "summary": "La Gazette du Palais propose un panorama du premier semestre 2026 articulant le contentieux administratif et le droit conventionnel.",
+      "source": "Gazette du Palais, 2026, n° 23",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n23/chronique-de-jurisprudence-du-conseil-d-etat-contentieux-administratif-et-convention-europeenne-des-droits-de-l-homme-GPL492u7/PDF-revue",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "6 novembre 1860 : Abraham Lincoln est élu président des États-Unis",
-      "summary": "Face à un Parti démocrate divisé, le candidat républicain l'emporte ; la sécession de la Caroline du Sud, le 20 décembre suivant, ouvre la voie à la guerre de Sécession.",
-      "source": "Encyclopædia Britannica, élection présidentielle américaine de 1860",
-      "url": "https://www.britannica.com/event/United-States-presidential-election-of-1860",
+      "title": "6 novembre 1975 : la « Marche verte » conduit 200 000 Marocains vers le Sahara espagnol",
+      "summary": "Le Maroc annexe unilatéralement le Rio de Oro après cette marche, épisode majeur de la décolonisation et du contentieux sur le Sahara occidental.",
+      "source": "Hérodote.net, almanach du 6 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1106.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Cours d'assises et cours criminelles départementales : le statut de ces juridictions précisé en cassation",
-      "summary": "Dans un arrêt publié au Bulletin du 4 mars 2026, la chambre criminelle traite du statut respectif des cours d'assises et des cours criminelles départementales.",
-      "source": "Cass. crim., 4 mars 2026, n° 25-81.197, publié au Bulletin",
-      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-03/25-81-197-CC-04032026-25_81197",
+      "title": "Baux commerciaux en 2026 : évolutions et décisions à repérer, webinaire du 12 novembre à 10 h",
+      "summary": "Un rendez-vous de mise à jour pour les praticiens du bail commercial, entre textes récents et jurisprudence à surveiller.",
+      "source": "Lefebvre Dalloz Formation",
+      "url": "https://formation.lefebvre-dalloz.fr/evenement/baux-commerciaux-en-2026-les-evolutions-et-decisions-reperer",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Météo : une nouvelle carte de vigilance depuis le 1er septembre 2026",
-      "summary": "La carte principale affiche désormais le niveau de danger le plus élevé par département, des cartes thématiques détaillant chaque phénomène, actualisées au moins à 6 h et 16 h.",
-      "source": "Service-public.gouv.fr, actualité sur la vigilance météorologique",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19058",
+      "title": "Vigilance météorologique : des cartes plus fines, mises à jour à 6 h et 16 h, pour une semaine de début novembre fraîche",
+      "summary": "Depuis le 1er septembre 2026 les cartes détaillent le risque à l'intérieur des départements, avec des températures sous les normales annoncées du 2 au 8 novembre.",
+      "source": "Service-Public.gouv.fr ; Météo-France",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19058?lang=en",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Purge des nullités",
-    "subtitle": "Procédure pénale · Instruction · Article 173-1 du Code de procédure pénale",
-    "defShort": "Mécanisme qui enferme dans un délai la possibilité d'invoquer une nullité d'actes de l'instruction : passé ce délai, la nullité est irrecevable et l'acte, même irrégulier, ne peut plus être discuté devant la chambre de l'instruction ni devant la juridiction de jugement.",
+    "term": "Quasi-usufruit",
+    "subtitle": "Droit des biens · Article 587 du Code civil",
+    "defShort": "Usufruit portant sur des choses consomptibles, notamment une somme d'argent : l'usufruitier en devient propriétaire et doit en restituer l'équivalent à l'extinction de l'usufruit.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Une irrégularité de l'instruction ne peut pas être soulevée à n'importe quel moment. Le code impose de la faire valoir dans un délai déterminé ; à défaut, elle est « purgée » : la partie est forclose et l'acte devient inattaquable sur ce terrain."
+        "body": "L'usufruit confère l'usage et les fruits d'un bien, à charge d'en conserver la substance. Or une somme d'argent ou une denrée se consomme par l'usage : impossible de la rendre en nature. Le quasi-usufruit organise ce cas : l'usufruitier consomme et, à la fin de l'usufruit, restitue l'équivalent."
       },
       {
         "h": "Fondement",
-        "body": "L'article 173-1 du code de procédure pénale fixe un délai de six mois à compter de la mise en examen ou de la première audition comme témoin assisté pour soulever les nullités des actes déjà accomplis. L'article 174 en tire les conséquences : les actes dont la nullité n'a pas été demandée en temps utile sont purgés. Une exception existe pour les actes ultérieurs à cette échéance."
+        "body": "L'article 587 du Code civil permet à l'usufruitier de se servir des choses consomptibles, à charge de rendre, à la fin de l'usufruit, des choses de même quantité et qualité, ou leur valeur estimée à la date de la restitution."
       },
       {
-        "h": "Cas visés",
-        "body": "La purge vise les nullités de l'information (actes d'instruction, procès-verbaux, pièces de la procédure antérieure). La demande doit être présentée à la chambre de l'instruction par requête motivée, selon les formes et délais du code ; elle ne peut plus l'être devant la juridiction de jugement une fois la purge acquise."
+        "h": "Mécanisme",
+        "body": "Le quasi-usufruitier devient propriétaire des choses consommées : le nu-propriétaire ne conserve qu'une créance de restitution, de nature personnelle. Cette créance n'est pas assortie, par principe, d'une sûreté ; son exigibilité et son recouvrement dépendent donc de la solvabilité du quasi-usufruitier ou des garanties prévues."
       },
       {
         "h": "Portée",
-        "body": "Le mécanisme garantit la sécurité de la procédure et évite qu'une nullité tardive ne remette en cause un dossier à l'audience. La contrepartie est la vigilance imposée à la défense dès le début de l'information : passé le délai, seule une nullité d'ordre public, dans les cas admis par la jurisprudence, échappe à la purge."
+        "body": "La notion est courante en pratique successorale, notamment lorsque le conjoint survivant recueille l'usufruit de liquidités. Elle se distingue de l'usufruit ordinaire (art. 578), où la substance doit être conservée et le bien rendu en nature."
       }
     ],
-    "seeAlso": "Voir aussi — nullité substantielle · grief (art. 802) · chambre de l'instruction (art. 170) · forclusion"
+    "seeAlso": "Voir aussi — usufruit (art. 578) · nu-propriété · créance de restitution · choses consomptibles"
   },
-  "date": "2026-11-05",
-  "dateShort": "5 nov.",
-  "slot": "midi",
+  "date": "2026-11-06",
+  "dateShort": "6 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 66,
-    "title": "La structure en filaments",
-    "subtitle": "Comment les galaxies s'organisent à très grande échelle",
+    "n": 67,
+    "title": "Ce que la toile cosmique révèle de la matière noire",
+    "subtitle": "Pourquoi la forme du réseau dépend de la nature des particules de matière noire",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Ni uniforme, ni aléatoire",
-        "body": "Une fois les galaxies placées en trois dimensions (jour 65), on constate que leur répartition n'est pas régulière, comme des points sur un quadrillage, ni au hasard, comme des grains de sable jetés au sol. Les galaxies se regroupent le long de lignes et de surfaces. Ces lignes allongées, longues de plusieurs centaines de millions d'années-lumière (jour 4), s'appellent des filaments."
+        "h": "Un réseau qui dépend de sa matière",
+        "body": "La toile cosmique (jour 66) se forme sous l'effet de la gravité (jour 8) sur la matière noire (jour 25). Sa forme dépend donc de la manière dont cette matière se comporte. Les particules de matière noire ne sont pas immobiles : elles se déplacent, plus ou moins vite. Cette vitesse, au moment où les structures commencent à se former, change le résultat."
       },
       {
-        "h": "Des vides entre les filaments",
-        "body": "Entre les filaments s'étendent des régions presque dépourvues de galaxies, appelées vides cosmiques. Les amas de galaxies (jour 54) se situent aux points où plusieurs filaments se rejoignent. L'ensemble évoque un réseau de fils, d'où le nom de toile cosmique : une organisation de la matière à très grande échelle, bien au-delà d'une galaxie ou même d'un amas."
+        "h": "Lente ou rapide",
+        "body": "Si les particules sont lentes, elles se laissent facilement rassembler : de petits amas se forment très tôt, puis s'assemblent en structures plus grandes. On parle de matière noire froide, c'est-à-dire de particules animées de faibles vitesses. Si elles sont rapides, elles s'échappent des petites concentrations et les effacent : on parle de matière noire chaude, et seules les grandes structures subsistent."
       },
       {
-        "h": "Un motif que la gravité explique",
-        "body": "Cette toile n'a pas été imaginée avant d'être observée : les cartes l'ont fait apparaître. Elle correspond à ce que produit la gravité (jour 8) lorsqu'elle agit sur une matière initialement presque uniforme, avec la matière noire (jour 25) comme principale charpente. C'est ce qui fait de la carte un test : un modèle de l'univers doit reproduire ce réseau."
+        "h": "Ce que montrent les cartes",
+        "body": "Les cartes de galaxies (jour 65) révèlent des structures à toutes les échelles, y compris de petites galaxies très anciennes. Cela s'accorde avec une matière noire froide. Une matière noire chaude ne pourrait pas les produire. La toile devient ainsi une mesure indirecte : elle ne dit pas ce que sont les particules, mais elle écarte celles qui iraient trop vite."
       }
     ],
     "keyTerms": [
       {
-        "term": "Filament",
-        "def": "Structure allongée, longue de centaines de millions d'années-lumière, le long de laquelle les galaxies se regroupent."
+        "term": "Matière noire froide",
+        "def": "Matière noire dont les particules se déplacent lentement, ce qui permet la formation précoce de petites structures."
       },
       {
-        "term": "Vide cosmique",
-        "def": "Région immense située entre les filaments et presque dépourvue de galaxies."
-      },
-      {
-        "term": "Toile cosmique",
-        "def": "Réseau formé par les filaments, les amas et les vides, qui décrit l'organisation de la matière à très grande échelle."
+        "term": "Matière noire chaude",
+        "def": "Matière noire dont les particules se déplacent très vite et effacent les petites concentrations, ne laissant subsister que les grandes structures."
       }
     ],
-    "recap": "À très grande échelle, les galaxies dessinent un réseau de filaments entourant de vastes vides ; c'est la toile cosmique, que la gravité sur la matière noire permet d'expliquer.",
-    "next": "Demain — pourquoi cette toile permet de mesurer la nature de la matière noire."
+    "recap": "La vitesse des particules de matière noire détermine la taille des premières structures ; les cartes observées favorisent une matière noire froide.",
+    "next": "Demain — les petites galaxies satellites : un test de la matière noire froide."
   }
 }
