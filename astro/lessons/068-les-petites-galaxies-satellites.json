@@ -1,0 +1,32 @@
+{
+  "n": 68,
+  "title": "Les petites galaxies satellites : un test de la matière noire froide",
+  "subtitle": "Ce que les compagnes discrètes de la Voie lactée disent de la matière noire",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Des compagnes de la Voie lactée",
+      "body": "Autour de notre galaxie (jour 24) gravitent des dizaines de petites galaxies, dites galaxies satellites : des ensembles de quelques milliers à quelques millions d'étoiles, liés à la Voie lactée par la gravité (jour 8). Beaucoup sont si peu lumineuses qu'on ne les a découvertes qu'avec les grands relevés du ciel (jour 65)."
+    },
+    {
+      "h": "Ce que prédit la matière noire froide",
+      "body": "Dans le scénario d'une matière noire froide (jour 67), de petits amas de matière noire se forment très tôt, puis s'assemblent en structures plus grandes. Chaque galaxie doit donc être entourée d'une multitude de ces petits amas survivants. Les simulations en prévoient bien plus que le nombre de satellites observés : l'écart est connu sous le nom de problème des satellites manquants."
+    },
+    {
+      "h": "Deux lectures possibles",
+      "body": "Première explication : beaucoup de petits amas existent, mais restent sombres, faute d'avoir retenu assez de gaz pour former des étoiles. Ils sont alors invisibles. Seconde explication : la matière noire n'est pas exactement celle que l'on suppose. Les relevés récents, qui trouvent davantage de satellites très faibles, réduisent l'écart sans le combler."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Galaxie satellite",
+      "def": "Petite galaxie liée par la gravité à une galaxie plus grande, autour de laquelle elle tourne."
+    },
+    {
+      "term": "Problème des satellites manquants",
+      "def": "Écart entre le grand nombre de petits amas de matière noire prévus par les simulations et le nombre bien moindre de galaxies satellites observées."
+    }
+  ],
+  "recap": "Les simulations de matière noire froide prévoient plus de petits amas que de galaxies satellites observées ; cet écart se réduit avec les relevés, mais subsiste.",
+  "next": "Demain — comment la lumière des galaxies lointaines est déformée par la matière noire qui s'interpose."
+}

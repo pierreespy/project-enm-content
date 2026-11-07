@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-06",
-  "updatedSlot": "midi",
-  "count": 24,
+  "updated": "2026-11-07",
+  "updatedSlot": "matin",
+  "count": 23,
   "editions": [
+    {
+      "date": "2026-11-07",
+      "slot": "matin",
+      "file": "editions/2026-11-07-matin.json",
+      "essentiel": "Code noir : la loi du 2 novembre 2026 abroge l'ordonnance de 1685 et les textes qui l'ont étendue",
+      "term": "Clause réputée non écrite",
+      "rubriques": [
+        "Décret n° 2026-1032 du 3 novembre 2026 : la feuille d'audience transmise à l'administration pénitentiaire",
+        "Cass. 3e civ., 3 septembre 2026, n° 25-14.904 : la hausse forfaitaire du loyer commercial, sans plafond ni durée, est réputée non écrite",
+        "Abrogation symbolique du Code noir : la portée juridique d'un texte sans effet sur le droit positif",
+        "7 novembre 1917 (25 octobre du calendrier julien) : la « Révolution d'Octobre » porte les bolcheviks au pouvoir à Petrograd",
+        "Opération de paiement non autorisée : la banque doit d'abord rembourser, même en cas de négligence grave du client (Cass., 8 octobre 2026)",
+        "Novembre 2026 : seize changements récents ou à venir en France à connaître"
+      ]
+    },
     {
       "date": "2026-11-06",
       "slot": "midi",
@@ -331,36 +346,6 @@
         "23 octobre 1873 : le comte de Chambord rejette le drapeau tricolore et ruine les espoirs des monarchistes",
         "Réforme du partage judiciaire : ce que prévoyait le projet soumis au CNB, avec un ministère d'avocat à tous les stades",
         "Radio : l'Arcom abroge des autorisations par une décision du 14 octobre 2026 publiée au Journal officiel du 22 octobre"
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "slot": "midi",
-      "file": "editions/2026-10-22-midi.json",
-      "essentiel": "Prisons : à la veille des élections professionnelles, FO Justice alerte sur une densité de 176,1 % dans les maisons d'arrêt",
-      "term": "Recours en révision",
-      "rubriques": [
-        "Établissements et services sociaux et médico-sociaux expérimentaux : une loi du 21 octobre 2026 assouplit la procédure d'autorisation",
-        "Chambre sociale : dix-sept pourvois joints rejetés par un seul arrêt contre une décision de la cour d'appel de Paris",
-        "Vers une forme de régulation carcérale",
-        "22 octobre 1938 : Chester Carlson réalise à Astoria la première copie xérographique",
-        "Élections de personnels : un arrêté du 22 octobre fixe les modalités du vote électronique par internet",
-        "Sébastien Lecornu reçoit les partis politiques, en présence de Gérald Darmanin et de Laurent Nuñez"
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "slot": "matin",
-      "file": "editions/2026-10-22-matin.json",
-      "essentiel": "Belgique : la Cour de cassation rejette le pourvoi de Paolo Falzone, condamné à 27 ans, et écarte la demande de dessaisissement dans le procès Ullens",
-      "term": "Acquiescement à jugement",
-      "rubriques": [
-        "Concession de mines de Beauvoir (lithium, étain, tantale, niobium) : un décret du 20 octobre 2026 figure au sommaire du JO du 21 octobre",
-        "Harcèlement sexuel « d'ambiance » : la chambre sociale admet qu'un salarié en soit victime même si les propos visaient d'autres personnes",
-        "Harcèlement environnemental au travail : la convergence des chambres criminelle et sociale, 2024-2026",
-        "22 octobre 1797 : André-Jacques Garnerin réalise au-dessus du parc Monceau le premier saut en parachute enregistré",
-        "Procès de Cédric Jubillar : le renvoi au premier semestre 2027 après de nouveaux aveux, un cas d'école du renvoi d'assises",
-        "Vigilance météo : des cartes plus fines, par secteur, mises à jour au moins deux fois par jour depuis le 1er septembre 2026"
       ]
     }
   ]

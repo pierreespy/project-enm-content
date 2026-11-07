@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Code noir : la loi du 2 novembre 2026 abroge l'ordonnance de 1685 et les textes qui l'ont étendue",
+    "dek": "Adoptée à l'unanimité par l'Assemblée nationale puis par le Sénat (20 octobre), la proposition de loi de Max Mathiasin a été promulguée le 2 novembre et publiée au Journal officiel du 3 novembre 2026.",
+    "source": "Vie-publique.fr, loi n° 2026-1015 du 2 novembre 2026",
+    "url": "https://www.vie-publique.fr/loi/303397-abrogation-du-code-noir-loi-du-2-novembre-2026-mathiasin"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Décret n° 2026-1032 du 3 novembre 2026 : la feuille d'audience transmise à l'administration pénitentiaire",
+      "summary": "Publié au Journal officiel du 6 novembre, le décret organise la transmission par l'autorité judiciaire de la feuille d'audience concernant les personnes détenues.",
+      "source": "JORF n° 0260 du 6 novembre 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/06/0260",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. 3e civ., 3 septembre 2026, n° 25-14.904 : la hausse forfaitaire du loyer commercial, sans plafond ni durée, est réputée non écrite",
+      "summary": "Contre la cour d'appel de Lyon, la Cour de cassation voit dans une hausse annuelle automatique de 1,5 % une révision déguisée, qui échoue aux règles d'ordre public de la révision du loyer.",
+      "source": "Cass. 3e civ., 3 sept. 2026, n° 25-14.904 (Revue pratique de droit des affaires, 2026, n° 8)",
+      "url": "https://www.labase-lextenso.fr/revue-pratique-droit-des-affaires/2026-n8/revirement-une-clause-d-augmentation-forfaitaire-du-loyer-sans-plafond-ni-limite-de-duree-est-illicite-RDA101t1",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Abrogation symbolique du Code noir : la portée juridique d'un texte sans effet sur le droit positif",
+      "summary": "Le Club des juristes revient sur la nature de l'abrogation d'un texte de 1685 depuis longtemps privé d'application.",
+      "source": "Le Club des juristes",
+      "url": "https://www.leclubdesjuristes.com/?p=17948",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "7 novembre 1917 (25 octobre du calendrier julien) : la « Révolution d'Octobre » porte les bolcheviks au pouvoir à Petrograd",
+      "summary": "Le soulèvement de Petrograd renverse le gouvernement provisoire et ouvre la guerre civile russe ; l'écart de dates tient au calendrier julien alors en vigueur en Russie.",
+      "source": "Hérodote.net, almanach du 7 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1107.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Opération de paiement non autorisée : la banque doit d'abord rembourser, même en cas de négligence grave du client (Cass., 8 octobre 2026)",
+      "summary": "La charge de la négligence grave pèse sur la banque, qui doit restituer les fonds avant de pouvoir l'opposer à son client.",
+      "source": "Dalloz actualité, 5 nov. 2026",
+      "url": "https://www.dalloz.fr/dalloz",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Novembre 2026 : seize changements récents ou à venir en France à connaître",
+      "summary": "Le point sur les évolutions pratiques du mois pour les particuliers résidant en France.",
+      "source": "Connexion France",
+      "url": "https://www.connexionfrance.com/news/16-recent-and-upcoming-changes-in-france-you-may-have-missed-in-november/754631",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Clause réputée non écrite",
+    "subtitle": "Droit des contrats · Article 1184 du Code civil",
+    "defShort": "Sanction qui prive une clause de tout effet, comme si elle n'avait jamais été stipulée, sans que le reste du contrat en soit affecté et sans qu'il faille agir dans un délai de prescription.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Le réputé non écrit n'est pas une nullité : le juge ne prononce pas l'anéantissement de la clause, il constate qu'elle est dépourvue d'existence juridique. Le contrat survit, amputé de la clause. La sanction est d'application rétroactive et opère de plein droit."
+      },
+      {
+        "h": "Fondement",
+        "body": "Prévue par des textes spéciaux (clauses d'un bail commercial contraires à l'article L. 145-15 du Code de commerce, clauses abusives, clauses limitatives de responsabilité), la sanction est rattachée par l'article 1184 du Code civil à la nullité partielle : lorsque la cause de nullité n'affecte qu'une ou plusieurs clauses, le contrat est maintenu, sauf si la clause fut déterminante."
+      },
+      {
+        "h": "Régime",
+        "body": "Selon la Cour de cassation, l'action tendant à faire réputer une clause non écrite n'est pas soumise à la prescription de l'action en nullité : seule joue la prescription de droit commun des conséquences financières (restitution des sommes indûment versées). Elle peut être invoquée par le juge d'office lorsqu'elle protège l'ordre public."
+      },
+      {
+        "h": "Portée",
+        "body": "Dans l'arrêt du 3 septembre 2026, c'est cette sanction qui frappe la hausse forfaitaire du loyer : requalifiée en révision déguisée, la clause échoue aux règles d'ordre public du statut des baux commerciaux et disparaît du contrat, y compris pour le passé."
+      }
+    ],
+    "seeAlso": "Voir aussi — nullité partielle (art. 1184) · clause abusive (art. L. 212-1 C. consom.) · ordre public de protection · loyer par paliers"
+  },
+  "date": "2026-11-07",
+  "dateShort": "7 nov.",
+  "slot": "matin"
+}

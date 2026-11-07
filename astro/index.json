@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06",
-  "count": 67,
+  "updated": "2026-11-07",
+  "count": 68,
   "lessons": [
     {
       "n": 1,
@@ -578,6 +578,15 @@
       "terms": [
         "Matière noire froide",
         "Matière noire chaude"
+      ]
+    },
+    {
+      "n": 68,
+      "file": "astro/lessons/068-les-petites-galaxies-satellites.json",
+      "title": "Les petites galaxies satellites : un test de la matière noire froide",
+      "terms": [
+        "Galaxie satellite",
+        "Problème des satellites manquants"
       ]
     }
   ]

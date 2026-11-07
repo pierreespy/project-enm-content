@@ -1,125 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Justice criminelle : Gérald Darmanin relance le dialogue avec le Conseil national des barreaux sur le projet de loi",
-    "dek": "Alors que le texte relatif à la chaîne pénale criminelle a été adopté au Sénat le 14 avril 2026, le garde des Sceaux a écrit à la présidente du CNB pour rouvrir les échanges avec une profession qui a voté une opposition de principe le 22 avril.",
-    "source": "Le Monde du Droit, 2026",
-    "url": "https://www.lemondedudroit.fr/institutions/103794-justice-criminelle-gerald-darmanin-relance-dialogue-avec-le-cnb.html"
+    "title": "Code noir : la loi du 2 novembre 2026 abroge l'ordonnance de 1685 et les textes qui l'ont étendue",
+    "dek": "Adoptée à l'unanimité par l'Assemblée nationale puis par le Sénat (20 octobre), la proposition de loi de Max Mathiasin a été promulguée le 2 novembre et publiée au Journal officiel du 3 novembre 2026.",
+    "source": "Vie-publique.fr, loi n° 2026-1015 du 2 novembre 2026",
+    "url": "https://www.vie-publique.fr/loi/303397-abrogation-du-code-noir-loi-du-2-novembre-2026-mathiasin"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Renforcement de la chaîne pénale criminelle et modernisation du corps judiciaire : le texte adopté par le Sénat",
-      "summary": "Le Sénat a adopté le projet de loi, dans une version largement amendée, avant son examen par l'Assemblée nationale.",
-      "source": "Le Monde du Droit, adoption au Sénat",
-      "url": "https://www.lemondedudroit.fr/avocat/103015-renforcement-de-la-chaine-penale-criminelle-et-modernisation-du-corps-judiciaire-adoption-au-senat-3.html",
+      "title": "Décret n° 2026-1032 du 3 novembre 2026 : la feuille d'audience transmise à l'administration pénitentiaire",
+      "summary": "Publié au Journal officiel du 6 novembre, le décret organise la transmission par l'autorité judiciaire de la feuille d'audience concernant les personnes détenues.",
+      "source": "JORF n° 0260 du 6 novembre 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/06/0260",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass., 3 septembre 2026, n° 25-12.962 : un arrêt désormais commenté",
-      "summary": "La décision du 3 septembre 2026 fait l'objet d'un commentaire dans la base Lextenso.",
-      "source": "Cass., 3 sept. 2026, n° 25-12.962",
-      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-09/25-12-962-CC-03092026-25_12962",
+      "title": "Cass. 3e civ., 3 septembre 2026, n° 25-14.904 : la hausse forfaitaire du loyer commercial, sans plafond ni durée, est réputée non écrite",
+      "summary": "Contre la cour d'appel de Lyon, la Cour de cassation voit dans une hausse annuelle automatique de 1,5 % une révision déguisée, qui échoue aux règles d'ordre public de la révision du loyer.",
+      "source": "Cass. 3e civ., 3 sept. 2026, n° 25-14.904 (Revue pratique de droit des affaires, 2026, n° 8)",
+      "url": "https://www.labase-lextenso.fr/revue-pratique-droit-des-affaires/2026-n8/revirement-une-clause-d-augmentation-forfaitaire-du-loyer-sans-plafond-ni-limite-de-duree-est-illicite-RDA101t1",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Projet de loi sur la justice criminelle : mobilisation et dialogue pour la profession d'avocat",
-      "summary": "La Gazette du Palais analyse la mobilisation des avocats et les voies de dialogue autour du projet de loi.",
-      "source": "Gazette du Palais, 2026, n° 14",
-      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n14/projet-de-loi-sur-la-justice-criminelle-mobilisation-et-dialogue-pour-la-profession-d-avocat-GPL490b5",
+      "title": "Abrogation symbolique du Code noir : la portée juridique d'un texte sans effet sur le droit positif",
+      "summary": "Le Club des juristes revient sur la nature de l'abrogation d'un texte de 1685 depuis longtemps privé d'application.",
+      "source": "Le Club des juristes",
+      "url": "https://www.leclubdesjuristes.com/?p=17948",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "7 novembre 1659 : le traité des Pyrénées met fin à la guerre entre la France et l'Espagne",
-      "summary": "Signé ce jour-là, il scelle l'ascension de la France comme première puissance européenne.",
-      "source": "Dates and Times, événements du 7 novembre",
-      "url": "https://datesandtimes.org/november-7/events/",
+      "title": "7 novembre 1917 (25 octobre du calendrier julien) : la « Révolution d'Octobre » porte les bolcheviks au pouvoir à Petrograd",
+      "summary": "Le soulèvement de Petrograd renverse le gouvernement provisoire et ouvre la guerre civile russe ; l'écart de dates tient au calendrier julien alors en vigueur en Russie.",
+      "source": "Hérodote.net, almanach du 7 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1107.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "La Convention Lefebvre Dalloz Avocats : le programme 2026",
-      "summary": "Le programme de la convention 2026 est publié, rendez-vous de formation pour les praticiens du barreau.",
-      "source": "Lefebvre Dalloz Formation",
-      "url": "https://formation.lefebvre-dalloz.fr/evenement/la-convention-lefebvre-dalloz-avocats",
+      "title": "Opération de paiement non autorisée : la banque doit d'abord rembourser, même en cas de négligence grave du client (Cass., 8 octobre 2026)",
+      "summary": "La charge de la négligence grave pèse sur la banque, qui doit restituer les fonds avant de pouvoir l'opposer à son client.",
+      "source": "Dalloz actualité, 5 nov. 2026",
+      "url": "https://www.dalloz.fr/dalloz",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Sénégal : le Conseil constitutionnel invalide la loi de révision constitutionnelle n° 18/2026",
-      "summary": "Saisi par le Président de la République, il a rendu le 9 juillet 2026 la décision n° 6/C/2026 déclarant la loi contraire à la Constitution.",
-      "source": "Vie publique Sénégal",
-      "url": "https://www.vie-publique.sn/actualites/419/conseil-constitutionnel-declare-contraire-a-la-constitution-la-loi-de-revision-constitutionnelle-n-18-2026",
+      "title": "Novembre 2026 : seize changements récents ou à venir en France à connaître",
+      "summary": "Le point sur les évolutions pratiques du mois pour les particuliers résidant en France.",
+      "source": "Connexion France",
+      "url": "https://www.connexionfrance.com/news/16-recent-and-upcoming-changes-in-france-you-may-have-missed-in-november/754631",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Obligation in solidum",
-    "subtitle": "Droit des obligations · Responsabilité civile",
-    "defShort": "Situation où plusieurs débiteurs sont tenus de la même dette, chacun pouvant être poursuivi pour le tout, sans que les effets de la solidarité parfaite ne s'appliquent entre eux.",
+    "term": "Clause réputée non écrite",
+    "subtitle": "Droit des contrats · Article 1184 du Code civil",
+    "defShort": "Sanction qui prive une clause de tout effet, comme si elle n'avait jamais été stipulée, sans que le reste du contrat en soit affecté et sans qu'il faille agir dans un délai de prescription.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Lorsque plusieurs personnes ont concouru à un même dommage, la victime peut demander à chacune la réparation intégrale. Cette obligation « in solidum » (ou solidarité imparfaite) ressemble à la solidarité mais s'en distingue par ses effets secondaires."
+        "body": "Le réputé non écrit n'est pas une nullité : le juge ne prononce pas l'anéantissement de la clause, il constate qu'elle est dépourvue d'existence juridique. Le contrat survit, amputé de la clause. La sanction est d'application rétroactive et opère de plein droit."
       },
       {
         "h": "Fondement",
-        "body": "La solidarité ne se présume pas : elle suppose une convention ou un texte. L'obligation in solidum est une construction jurisprudentielle, qui permet d'assurer à la victime une indemnisation complète lorsque des fautes distinctes ont contribué à un même préjudice."
+        "body": "Prévue par des textes spéciaux (clauses d'un bail commercial contraires à l'article L. 145-15 du Code de commerce, clauses abusives, clauses limitatives de responsabilité), la sanction est rattachée par l'article 1184 du Code civil à la nullité partielle : lorsque la cause de nullité n'affecte qu'une ou plusieurs clauses, le contrat est maintenu, sauf si la clause fut déterminante."
       },
       {
-        "h": "Différence avec la solidarité",
-        "body": "Dans la solidarité parfaite, les codébiteurs se représentent mutuellement : l'acte accompli à l'égard de l'un produit en principe effet à l'égard des autres. Dans l'obligation in solidum, il n'y a pas de représentation mutuelle : par exemple, un acte interruptif de prescription ou une voie de recours exercée par l'un ne profite pas nécessairement aux autres."
+        "h": "Régime",
+        "body": "Selon la Cour de cassation, l'action tendant à faire réputer une clause non écrite n'est pas soumise à la prescription de l'action en nullité : seule joue la prescription de droit commun des conséquences financières (restitution des sommes indûment versées). Elle peut être invoquée par le juge d'office lorsqu'elle protège l'ordre public."
       },
       {
         "h": "Portée",
-        "body": "Entre eux, les coobligés règlent la charge définitive de la dette par un recours en contribution, apprécié notamment selon la gravité des fautes respectives. Le choix de poursuivre l'un d'eux seulement n'empêche donc pas ce dernier de se retourner contre les autres."
+        "body": "Dans l'arrêt du 3 septembre 2026, c'est cette sanction qui frappe la hausse forfaitaire du loyer : requalifiée en révision déguisée, la clause échoue aux règles d'ordre public du statut des baux commerciaux et disparaît du contrat, y compris pour le passé."
       }
     ],
-    "seeAlso": "Voir aussi — solidarité passive · contribution à la dette · recours subrogatoire · pluralité de responsables"
+    "seeAlso": "Voir aussi — nullité partielle (art. 1184) · clause abusive (art. L. 212-1 C. consom.) · ordre public de protection · loyer par paliers"
   },
-  "date": "2026-11-06",
-  "dateShort": "6 nov.",
-  "slot": "midi",
+  "date": "2026-11-07",
+  "dateShort": "7 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 67,
-    "title": "Ce que la toile cosmique révèle de la matière noire",
-    "subtitle": "Pourquoi la forme du réseau dépend de la nature des particules de matière noire",
+    "n": 68,
+    "title": "Les petites galaxies satellites : un test de la matière noire froide",
+    "subtitle": "Ce que les compagnes discrètes de la Voie lactée disent de la matière noire",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Un réseau qui dépend de sa matière",
-        "body": "La toile cosmique (jour 66) se forme sous l'effet de la gravité (jour 8) sur la matière noire (jour 25). Sa forme dépend donc de la manière dont cette matière se comporte. Les particules de matière noire ne sont pas immobiles : elles se déplacent, plus ou moins vite. Cette vitesse, au moment où les structures commencent à se former, change le résultat."
+        "h": "Des compagnes de la Voie lactée",
+        "body": "Autour de notre galaxie (jour 24) gravitent des dizaines de petites galaxies, dites galaxies satellites : des ensembles de quelques milliers à quelques millions d'étoiles, liés à la Voie lactée par la gravité (jour 8). Beaucoup sont si peu lumineuses qu'on ne les a découvertes qu'avec les grands relevés du ciel (jour 65)."
       },
       {
-        "h": "Lente ou rapide",
-        "body": "Si les particules sont lentes, elles se laissent facilement rassembler : de petits amas se forment très tôt, puis s'assemblent en structures plus grandes. On parle de matière noire froide, c'est-à-dire de particules animées de faibles vitesses. Si elles sont rapides, elles s'échappent des petites concentrations et les effacent : on parle de matière noire chaude, et seules les grandes structures subsistent."
+        "h": "Ce que prédit la matière noire froide",
+        "body": "Dans le scénario d'une matière noire froide (jour 67), de petits amas de matière noire se forment très tôt, puis s'assemblent en structures plus grandes. Chaque galaxie doit donc être entourée d'une multitude de ces petits amas survivants. Les simulations en prévoient bien plus que le nombre de satellites observés : l'écart est connu sous le nom de problème des satellites manquants."
       },
       {
-        "h": "Ce que montrent les cartes",
-        "body": "Les cartes de galaxies (jour 65) révèlent des structures à toutes les échelles, y compris de petites galaxies très anciennes. Cela s'accorde avec une matière noire froide. Une matière noire chaude ne pourrait pas les produire. La toile devient ainsi une mesure indirecte : elle ne dit pas ce que sont les particules, mais elle écarte celles qui iraient trop vite."
+        "h": "Deux lectures possibles",
+        "body": "Première explication : beaucoup de petits amas existent, mais restent sombres, faute d'avoir retenu assez de gaz pour former des étoiles. Ils sont alors invisibles. Seconde explication : la matière noire n'est pas exactement celle que l'on suppose. Les relevés récents, qui trouvent davantage de satellites très faibles, réduisent l'écart sans le combler."
       }
     ],
     "keyTerms": [
       {
-        "term": "Matière noire froide",
-        "def": "Matière noire dont les particules se déplacent lentement, ce qui permet la formation précoce de petites structures."
+        "term": "Galaxie satellite",
+        "def": "Petite galaxie liée par la gravité à une galaxie plus grande, autour de laquelle elle tourne."
       },
       {
-        "term": "Matière noire chaude",
-        "def": "Matière noire dont les particules se déplacent très vite et effacent les petites concentrations, ne laissant subsister que les grandes structures."
+        "term": "Problème des satellites manquants",
+        "def": "Écart entre le grand nombre de petits amas de matière noire prévus par les simulations et le nombre bien moindre de galaxies satellites observées."
       }
     ],
-    "recap": "La vitesse des particules de matière noire détermine la taille des premières structures ; les cartes observées favorisent une matière noire froide.",
-    "next": "Demain — les petites galaxies satellites : un test de la matière noire froide."
+    "recap": "Les simulations de matière noire froide prévoient plus de petits amas que de galaxies satellites observées ; cet écart se réduit avec les relevés, mais subsiste.",
+    "next": "Demain — comment la lumière des galaxies lointaines est déformée par la matière noire qui s'interpose."
   }
 }
