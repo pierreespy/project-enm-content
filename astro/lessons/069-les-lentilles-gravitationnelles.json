@@ -1,0 +1,28 @@
+{
+  "n": 69,
+  "title": "Les lentilles gravitationnelles : quand la matière dévie la lumière",
+  "subtitle": "Comment une masse placée sur le trajet de la lumière déforme l'image des astres lointains",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "La gravité dévie la lumière",
+      "body": "La gravité (jour 8) n'agit pas seulement sur les objets massifs : elle infléchit aussi la trajectoire de la lumière (jour 2). L'effet est minime pour un astre ordinaire, mais il devient mesurable pour une masse très grande. Il a été observé pour la première fois en 1919, lors d'une éclipse de Soleil : des étoiles situées près du disque solaire semblaient légèrement déplacées dans le ciel."
+    },
+    {
+      "h": "Une lentille faite de matière",
+      "body": "Lorsqu'un amas de galaxies se trouve exactement entre nous et une galaxie bien plus lointaine, sa masse dévie les rayons lumineux de celle-ci, un peu comme le ferait un verre épais. On parle de lentille gravitationnelle : une masse dont la gravité déforme et amplifie l'image d'un astre situé derrière elle. L'image peut apparaître étirée en arcs, voire dédoublée."
+    },
+    {
+      "h": "Peser sans voir",
+      "body": "L'intérêt est considérable : l'ampleur de la déformation dépend de la masse totale de la lentille, qu'elle soit lumineuse ou non. En mesurant les arcs, on pèse donc l'amas, matière noire (jour 25) comprise. Or cette masse dépasse nettement celle des étoiles et du gaz visibles : c'est l'un des arguments majeurs en faveur de la matière noire."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Lentille gravitationnelle",
+      "def": "Masse dont la gravité dévie la lumière d'un astre situé derrière elle et en déforme ou en amplifie l'image."
+    }
+  ],
+  "recap": "La gravité dévie la lumière ; la déformation des images d'astres lointains permet de peser la masse d'un amas, noire comprise.",
+  "next": "Demain — la lumière la plus ancienne de l'univers : le rayonnement fossile."
+}

@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Titres de séjour : le Conseil d'État enjoint à l'État de corriger les dysfonctionnements du renouvellement, notamment sur la plateforme Anef",
+    "dek": "Saisi par plusieurs associations, le Conseil d'État demande à l'administration de remédier aux défaillances de la procédure en ligne de renouvellement des titres de séjour.",
+    "source": "Connexion France",
+    "url": "https://www.connexionfrance.com/news/residency-cards-french-state-told-to-fix-renewal-issues/786490"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "JORF du 8 novembre 2026 : le sommaire du Journal officiel du jour",
+      "summary": "Le Journal officiel du dimanche 8 novembre 2026 se consulte, texte par texte, sur Légifrance, qui reste la seule source faisant foi pour la date d'entrée en vigueur des textes publiés.",
+      "source": "Légifrance, JORF du 8 novembre 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/08",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. 1re civ., 7 octobre 2026, n° 25-11.954 : cassation partielle, arrêt FS-B, dans un litige opposant des emprunteurs au Crédit immobilier de France développement",
+      "summary": "La première chambre civile casse partiellement l'arrêt de la cour d'appel d'Aix-en-Provence du 19 décembre 2024 ; la mention FS-B signale une formation de section et une diffusion au Bulletin.",
+      "source": "Cass. 1re civ., 7 oct. 2026, n° 25-11.954 (arrêt n° 581 FS-B)",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-10/25-11-954-CC-07102026-25_11954",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Revue des revues de droit des affaires, septembre 2026 : le panorama de la doctrine du mois",
+      "summary": "Le panorama recense les principales chroniques et études parues en droit des affaires, utile pour repérer en une lecture les débats doctrinaux récents.",
+      "source": "La Base Lextenso, Revue des revues Affaires, septembre 2026",
+      "url": "https://www.labase-lextenso.fr/nouveautes/revue-des-revues-affaires-septembre-2026-573",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "8 novembre 1519 : Hernán Cortés entre dans Tenochtitlan, capitale de l'empire aztèque",
+      "summary": "L'arrivée des Espagnols dans la cité lacustre, accueillis par Moctezuma II, ouvre la séquence qui conduit à la chute de l'empire aztèque en 1521.",
+      "source": "Hérodote.net, almanach du 8 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1108.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Retrouver une décision par son numéro de pourvoi : la recherche Judilibre de la Cour de cassation",
+      "summary": "Le moteur Judilibre permet de retrouver une décision par son numéro de pourvoi et de vérifier, grâce à la mention FS-B ou P+B, si elle est publiée au Bulletin.",
+      "source": "Cour de cassation, Judilibre",
+      "url": "https://www.courdecassation.fr/recherche-judilibre",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "8 novembre 1895 : Wilhelm Röntgen découvre les rayons X à Würzburg",
+      "summary": "En étudiant les rayons cathodiques, le physicien allemand observe un rayonnement inconnu qu'il nomme « X » ; la découverte lui vaut le premier prix Nobel de physique en 1901.",
+      "source": "Hérodote.net, almanach du 8 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1108.php",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Tierce opposition",
+    "subtitle": "Procédure civile · Articles 582 et suivants du Code de procédure civile",
+    "defShort": "Voie de recours extraordinaire ouverte à celui qui n'était ni partie ni représenté à un jugement, pour en obtenir la rétractation ou la réformation à son égard.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Le jugement ne lie en principe que les parties. Mais il peut léser un tiers : la tierce opposition lui permet de le contester sans avoir été dans l'instance. C'est la seule voie de recours ouverte à un non-partie."
+      },
+      {
+        "h": "Fondement",
+        "body": "Article 582 du Code de procédure civile : elle tend à faire rétracter ou réformer un jugement au profit du tiers qui l'attaque, avec un nouvel examen en fait et en droit. L'article 583 la réserve à toute personne ayant intérêt, ni partie ni représentée."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Les créanciers et ayants cause d'une partie peuvent aussi la former contre un jugement rendu en fraude de leurs droits, ou s'ils invoquent des moyens qui leur sont propres (art. 583, al. 2). Elle est portée en principe devant la juridiction qui a rendu la décision."
+      },
+      {
+        "h": "Portée",
+        "body": "L'effet est relatif : la rétractation ou la réformation ne profite qu'au tiers opposant, et le jugement subsiste entre les parties (art. 591), sauf indivisibilité. À distinguer de l'appel, réservé aux parties, et du recours en révision."
+      }
+    ],
+    "seeAlso": "Voir aussi — indivisibilité en matière d'appel · recours en révision (art. 593) · action paulienne (art. 1341-2 C. civ.)"
+  },
+  "date": "2026-11-08",
+  "dateShort": "8 nov.",
+  "slot": "matin"
+}

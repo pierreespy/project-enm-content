@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "updatedSlot": "matin",
-  "count": 23,
+  "count": 22,
   "editions": [
+    {
+      "date": "2026-11-08",
+      "slot": "matin",
+      "file": "editions/2026-11-08-matin.json",
+      "essentiel": "Titres de séjour : le Conseil d'État enjoint à l'État de corriger les dysfonctionnements du renouvellement, notamment sur la plateforme Anef",
+      "term": "Tierce opposition",
+      "rubriques": [
+        "JORF du 8 novembre 2026 : le sommaire du Journal officiel du jour",
+        "Cass. 1re civ., 7 octobre 2026, n° 25-11.954 : cassation partielle, arrêt FS-B, dans un litige opposant des emprunteurs au Crédit immobilier de France développement",
+        "Revue des revues de droit des affaires, septembre 2026 : le panorama de la doctrine du mois",
+        "8 novembre 1519 : Hernán Cortés entre dans Tenochtitlan, capitale de l'empire aztèque",
+        "Retrouver une décision par son numéro de pourvoi : la recherche Judilibre de la Cour de cassation",
+        "8 novembre 1895 : Wilhelm Röntgen découvre les rayons X à Würzburg"
+      ]
+    },
     {
       "date": "2026-11-07",
       "slot": "matin",
@@ -316,36 +331,6 @@
         "24 octobre 1648 : la signature des traités de Westphalie met fin à la guerre de Trente Ans",
         "Demande de mise en liberté : ce que change le débat contradictoire obligatoire applicable depuis le 23 octobre 2026",
         "Manifestation du 24 octobre à Paris : un parcours Bastille-Nation et des interdictions dans plusieurs villes"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "slot": "midi",
-      "file": "editions/2026-10-23-midi.json",
-      "essentiel": "IR-PME : le décret du 20 octobre 2026 fixe au 22 octobre l'entrée en vigueur de la réforme de la réduction d'impôt pour souscription au capital de PME",
-      "term": "Paiement au créancier apparent",
-      "rubriques": [
-        "IR-PME : le décret n° 2026-968 fixe au 22 octobre 2026 l'entrée en vigueur des nouvelles règles de la réduction d'impôt pour souscription au capital de PME",
-        "Paiement à un créancier apparent : l'usurpateur de l'identité du créancier n'en est pas un, juge la chambre commerciale",
-        "Revue des revues de droit des affaires, juillet-août 2026 : un panorama de la doctrine de l'été",
-        "23 octobre 1956 : l'insurrection de Budapest éclate contre le régime communiste hongrois",
-        "Loi JCRV : le calendrier d'entrée en vigueur des dispositions pénales, dont le délai de 4 mois pour les requêtes en nullité",
-        "Météo : un net renforcement du vent attendu sur le nord-ouest, avec un épisode plus marqué ce vendredi 23 octobre"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "slot": "matin",
-      "file": "editions/2026-10-23-matin.json",
-      "essentiel": "Créances commerciales incontestées : le décret du 20 octobre 2026 met en route la procédure simplifiée de recouvrement par commissaire de justice",
-      "term": "Rapport en moins prenant",
-      "rubriques": [
-        "Partage judiciaire : le décret du 18 octobre 2026 réorganise l'intervention du juge et du notaire",
-        "Détention provisoire : huis clos ou audience publique devant la chambre de l'instruction, un arrêt de la chambre criminelle du 20 octobre 2026",
-        "Motivation de la détention provisoire et contrôle de proportionnalité : la ligne de la chambre criminelle, 2023-2026",
-        "23 octobre 1873 : le comte de Chambord rejette le drapeau tricolore et ruine les espoirs des monarchistes",
-        "Réforme du partage judiciaire : ce que prévoyait le projet soumis au CNB, avec un ministère d'avocat à tous les stades",
-        "Radio : l'Arcom abroge des autorisations par une décision du 14 octobre 2026 publiée au Journal officiel du 22 octobre"
       ]
     }
   ]

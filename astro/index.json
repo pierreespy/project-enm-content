@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07",
-  "count": 68,
+  "updated": "2026-11-08",
+  "count": 69,
   "lessons": [
     {
       "n": 1,
@@ -587,6 +587,14 @@
       "terms": [
         "Galaxie satellite",
         "Problème des satellites manquants"
+      ]
+    },
+    {
+      "n": 69,
+      "file": "astro/lessons/069-les-lentilles-gravitationnelles.json",
+      "title": "Les lentilles gravitationnelles : quand la matière dévie la lumière",
+      "terms": [
+        "Lentille gravitationnelle"
       ]
     }
   ]
