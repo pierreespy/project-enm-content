@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-08",
-  "updatedSlot": "matin",
-  "count": 22,
+  "updatedSlot": "midi",
+  "count": 23,
   "editions": [
+    {
+      "date": "2026-11-08",
+      "slot": "midi",
+      "file": "editions/2026-11-08-midi.json",
+      "essentiel": "Affaire Towercast : la Cour de cassation casse partiellement l'arrêt d'appel et rejette le pourvoi de TDF/Tivana",
+      "term": "Substitution de motifs",
+      "rubriques": [
+        "Décret n° 2026-955 du 13 octobre 2026 : les actes professionnels des infirmiers harmonisés",
+        "Cass., 10 juin 2026, n° 24-10.363 : un arrêt commenté sur La Base Lextenso",
+        "Conseil d'État, rapport public 2025 : le bilan annuel de l'institution, publié en mai 2026",
+        "9 novembre 1989 : la chute du mur de Berlin, au soir d'une conférence de presse",
+        "Publication du décret sur les attachés et les assistants de justice",
+        "Météo : un temps frais à très frais en ce début novembre"
+      ]
+    },
     {
       "date": "2026-11-08",
       "slot": "matin",

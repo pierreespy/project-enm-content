@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Affaire Towercast : la Cour de cassation casse partiellement l'arrêt d'appel et rejette le pourvoi de TDF/Tivana",
+    "dek": "Dans le contentieux né du contrôle des concentrations et des pratiques anticoncurrentielles dans la diffusion audiovisuelle, la Cour de cassation a statué le 23 septembre 2026 : cassation partielle d'un côté, rejet du pourvoi de TDF/Tivana de l'autre.",
+    "source": "Autorité de la concurrence, Cass. com., 23 sept. 2026",
+    "url": "https://www.autoritedelaconcurrence.fr/fr/entityprint/pdf/node/11857"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Décret n° 2026-955 du 13 octobre 2026 : les actes professionnels des infirmiers harmonisés",
+      "summary": "Publié au Journal officiel du 15 octobre 2026, le décret harmonise les règles relatives aux actes professionnels et aux compétences des infirmiers.",
+      "source": "Le Monde du Droit, JORF du 15 oct. 2026",
+      "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106253-actes-professionnels-des-infirmiers.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass., 10 juin 2026, n° 24-10.363 : un arrêt commenté sur La Base Lextenso",
+      "summary": "La décision du 10 juin 2026 (pourvoi n° 24-10.363) fait l'objet d'un commentaire accessible dans la base jurisprudentielle de Lextenso.",
+      "source": "La Base Lextenso, Cass., 10 juin 2026",
+      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-06/24-10-363-CC-10062026-24_10363",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Conseil d'État, rapport public 2025 : le bilan annuel de l'institution, publié en mai 2026",
+      "summary": "Le rapport public 2025 du Conseil d'État dresse le bilan de l'activité juridictionnelle et consultative de la haute juridiction.",
+      "source": "Conseil d'État, rapport public 2025 (mai 2026)",
+      "url": "https://conseil-etat.fr/Media/actualites/documents/2026/mai-2026/rapport-public-2025",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "9 novembre 1989 : la chute du mur de Berlin, au soir d'une conférence de presse",
+      "summary": "Après l'annonce de Günter Schabowski sur le droit de voyager des Allemands de l'Est, des milliers de Berlinois se pressent aux postes-frontières et le Mur cesse d'être étanche.",
+      "source": "CVCE, Berlin : la chute du mur (9 novembre 1989)",
+      "url": "https://www.cvce.eu/en/obj/berlin_la_chute_du_mur_9_novembre_1989-fr-103b72d9-4352-4183-bd73-1d72f2ed178b.html",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Publication du décret sur les attachés et les assistants de justice",
+      "summary": "Un décret publié encadre le statut et les missions des attachés et des assistants de justice, ces renforts qui assistent les magistrats dans les juridictions.",
+      "source": "Actu-Juridique, brève",
+      "url": "https://www.actu-juridique.fr/breves/juridictions/publication-du-decret-sur-les-attaches-et-les-assistants-de-justice/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Météo : un temps frais à très frais en ce début novembre",
+      "summary": "Les bulletins de Météo-France du début de novembre annoncent un temps très frais, voire assez froid, sur une large partie du pays.",
+      "source": "France Info, bulletin Météo-France",
+      "url": "https://www.franceinfo.fr/environnement/meteo/bulletins-meteo/meteo-france-2/meteo-france-2-du-jeudi-05-novembre-2026-a-13h40_8240251.html",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Substitution de motifs",
+    "subtitle": "Contentieux administratif · CE, Sect., 6 févr. 2004, Hallal, n° 240560",
+    "defShort": "Technique par laquelle le juge de l'excès de pouvoir, à la demande de l'administration, maintient une décision illégale pour le motif invoqué en écartant ce motif au profit d'un autre, légal, qui la justifie également.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Une décision administrative est annulée si son motif est illégal. La substitution de motifs permet d'éviter cette annulation : l'administration invoque en cours d'instance un autre motif, qui aurait pu fonder la même décision, et le juge l'accepte à la place du motif initial."
+      },
+      {
+        "h": "Fondement",
+        "body": "Création jurisprudentielle : l'arrêt Hallal (CE, Section, 6 février 2004) pose le principe, et l'arrêt El Bahi (CE, 3 décembre 2003) a admis la substitution de base légale, qui en est la sœur. Elle relève de l'office du juge de l'excès de pouvoir."
+      },
+      {
+        "h": "Conditions",
+        "body": "Le motif substitué doit être de nature à fonder légalement la décision et reposer sur la situation existant à la date où elle a été prise ; l'administration doit, de plus, avoir disposé du même pouvoir d'appréciation. Le juge vérifie enfin que la substitution ne prive pas l'intéressé d'une garantie procédurale attachée au motif d'origine."
+      },
+      {
+        "h": "Portée",
+        "body": "Le juge peut y procéder à la demande de l'administration et, depuis la jurisprudence ultérieure, après avoir mis le requérant en mesure de présenter ses observations. Elle ne doit pas être confondue avec la neutralisation de motifs : celle-ci écarte un motif surabondant sans en introduire de nouveau."
+      }
+    ],
+    "seeAlso": "Voir aussi — substitution de base légale · neutralisation de motifs · excès de pouvoir · garantie procédurale (Danthony)"
+  },
+  "date": "2026-11-08",
+  "dateShort": "8 nov.",
+  "slot": "midi"
+}
