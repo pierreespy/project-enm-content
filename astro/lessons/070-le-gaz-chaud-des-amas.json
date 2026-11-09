@@ -1,0 +1,32 @@
+{
+  "n": 70,
+  "title": "Le gaz chaud des amas : une lumière que l'œil ne voit pas",
+  "subtitle": "Pourquoi l'essentiel de la matière ordinaire d'un amas de galaxies est invisible à l'œil nu",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Une lumière hors du visible",
+      "body": "La lumière (jour 2) ne se limite pas à ce que l'œil perçoit. Elle comprend des formes invisibles, dont les rayons X : une lumière bien plus énergétique que la lumière visible. Un gaz très chaud en émet, et plus il est chaud, plus l'émission est intense. L'atmosphère terrestre arrête les rayons X : on ne peut les observer que depuis l'espace, avec des télescopes embarqués sur satellite."
+    },
+    {
+      "h": "Un gaz entre les galaxies",
+      "body": "Dans un amas de galaxies (jour 54), l'espace entre les galaxies n'est pas vide : il contient un gaz diffus, chauffé à des dizaines de millions de degrés par la gravité de l'amas. Ce gaz intra-amas brille en rayons X. Sa masse totale dépasse celle de toutes les étoiles de l'amas réunies : l'essentiel de la matière ordinaire d'un amas n'est donc pas dans ses galaxies, mais dans ce gaz, invisible à l'œil."
+    },
+    {
+      "h": "Un gaz qui sert de balance",
+      "body": "La température du gaz dépend de la force qui le retient : plus l'amas est massif, plus son gaz est chaud. Mesurer les rayons X permet donc de peser l'amas, indépendamment des lentilles gravitationnelles (jour 69). Les deux méthodes s'accordent : la masse totale dépasse largement celle du gaz et des étoiles, ce qui confirme la matière noire (jour 25)."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Rayons X",
+      "def": "Forme de lumière invisible, bien plus énergétique que la lumière visible, émise notamment par un gaz très chaud."
+    },
+    {
+      "term": "Gaz intra-amas",
+      "def": "Gaz diffus, chauffé à des dizaines de millions de degrés, qui remplit l'espace entre les galaxies d'un amas et brille en rayons X."
+    }
+  ],
+  "recap": "Entre les galaxies d'un amas, un gaz brûlant émet des rayons X : il contient l'essentiel de la matière ordinaire de l'amas et permet de le peser.",
+  "next": "Demain — comment la lumière d'une même galaxie change selon ce qu'elle traverse."
+}

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08",
-  "count": 69,
+  "updated": "2026-11-09",
+  "count": 70,
   "lessons": [
     {
       "n": 1,
@@ -595,6 +595,15 @@
       "title": "Les lentilles gravitationnelles : quand la matière dévie la lumière",
       "terms": [
         "Lentille gravitationnelle"
+      ]
+    },
+    {
+      "n": 70,
+      "file": "astro/lessons/070-le-gaz-chaud-des-amas.json",
+      "title": "Le gaz chaud des amas : une lumière que l'œil ne voit pas",
+      "terms": [
+        "Rayons X",
+        "Gaz intra-amas"
       ]
     }
   ]

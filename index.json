@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-08",
-  "updatedSlot": "midi",
-  "count": 23,
+  "updated": "2026-11-09",
+  "updatedSlot": "matin",
+  "count": 22,
   "editions": [
+    {
+      "date": "2026-11-09",
+      "slot": "matin",
+      "file": "editions/2026-11-09-matin.json",
+      "essentiel": "Cour de cassation : la sélection des arrêts les plus marquants mis en ligne, dont un arrêt social du 14 octobre 2026 sur la bonne foi dans le contrat de travail",
+      "term": "Exception dilatoire",
+      "rubriques": [
+        "Procédures bâillons : le décret du 30 avril 2026 crée un titre XIV bis dans le code de procédure civile",
+        "Cass. 2e civ., 4 juin 2026, n° 23-14.835 : un arrêt de rejet commenté",
+        "Panorama de jurisprudence de la Cour de cassation : la Gazette du Palais fait le point",
+        "9 novembre 1953 : le Cambodge accède à l'indépendance, mettant fin au protectorat français",
+        "Partage judiciaire : le décret du 18 octobre 2026 simplifie la procédure",
+        "Météo : une semaine du 9 au 15 novembre plutôt humide et venteuse sur la majorité du pays"
+      ]
+    },
     {
       "date": "2026-11-08",
       "slot": "midi",
@@ -316,36 +331,6 @@
         "25 octobre 1836 : l'obélisque de Louqsor est dressé place de la Concorde, à Paris",
         "Cessation des paiements : les critères d'ouverture d'une procédure collective affinés par la chambre commerciale",
         "Stocks stratégiques de gazole : un décret du 23 octobre 2026 en fixe les conditions économiques de libération"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "slot": "midi",
-      "file": "editions/2026-10-24-midi.json",
-      "essentiel": "Gel des cotisations des complémentaires santé : le Conseil constitutionnel censure la mesure, jugée disproportionnée au regard de la liberté d'entreprendre",
-      "term": "Incompétence négative",
-      "rubriques": [
-        "Rétention administrative : un décret n° 2026-977 du 22 octobre 2026 figure au Journal officiel du 23 octobre",
-        "Interdiction de manifester : le juge des référés du Conseil d'État rejette les recours dirigés contre les propos du chef de l'État",
-        "Association de malfaiteurs : ce que le juge doit prouver, la peine encourue et les moyens de contestation",
-        "24 octobre 1945 : la Charte des Nations unies entre en vigueur",
-        "Aide juridictionnelle demandée, audience tenue sans avocat : obtenir le renvoi et faire censurer l'arrêt",
-        "Passage à l'heure d'hiver dans la nuit de ce samedi à dimanche : à 3 heures, il sera 2 heures"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "slot": "matin",
-      "file": "editions/2026-10-24-matin.json",
-      "essentiel": "Extradition : la Cour de cassation annule un avis favorable parce que l'audience de la chambre de l'instruction n'a pas commencé par l'interrogatoire de la personne réclamée",
-      "term": "Principe de spécialité (en matière d'extradition)",
-      "rubriques": [
-        "Extradition : la France autorise un nouveau traité avec la Colombie, publié au Journal officiel du 20 octobre 2026",
-        "Agent sportif sans licence : la chambre criminelle rappelle que le mandat signé avec un intermédiaire non titulaire de la carte est nul",
-        "Reconnaissance faciale et fichier TAJ : habilitation des enquêteurs, nullités et effacement devant la chambre criminelle",
-        "24 octobre 1648 : la signature des traités de Westphalie met fin à la guerre de Trente Ans",
-        "Demande de mise en liberté : ce que change le débat contradictoire obligatoire applicable depuis le 23 octobre 2026",
-        "Manifestation du 24 octobre à Paris : un parcours Bastille-Nation et des interdictions dans plusieurs villes"
       ]
     }
   ]

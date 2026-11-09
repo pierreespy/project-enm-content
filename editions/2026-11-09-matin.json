@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Cour de cassation : la sélection des arrêts les plus marquants mis en ligne, dont un arrêt social du 14 octobre 2026 sur la bonne foi dans le contrat de travail",
+    "dek": "Lefebvre Dalloz publie le 9 novembre 2026 sa sélection des derniers arrêts remarqués de la Cour de cassation, parmi lesquels l'arrêt de la chambre sociale du 14 octobre 2026 (n° 25-17.945) relatif au caractère de bonne foi du contrat de travail.",
+    "source": "Lefebvre Dalloz · 9 nov. 2026",
+    "url": "https://open.lefebvre-dalloz.fr/actualites/droit-social/semaine-jurisprudence-sociale-cour-cassation_f9c451b53-1647-4d1f-b23c-3d038ff0e0e4"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Procédures bâillons : le décret du 30 avril 2026 crée un titre XIV bis dans le code de procédure civile",
+      "summary": "Le décret n° 2026-337 transpose la directive européenne contre les procédures abusives visant à entraver le débat public.",
+      "source": "Décret n° 2026-337 du 30 avr. 2026 (JO du 5 mai 2026) · La Base Lextenso",
+      "url": "https://www.labase-lextenso.fr/breves/jo-publication-du-decret-transposant-la-directive-sur-les-procedures-baillons-BREVEBO392",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. 2e civ., 4 juin 2026, n° 23-14.835 : un arrêt de rejet commenté",
+      "summary": "La deuxième chambre civile rejette le pourvoi dans un arrêt publié et commenté par Dalloz actualité.",
+      "source": "Cass. 2e civ., 4 juin 2026, FS-B",
+      "url": "https://www.dalloz-actualite.fr/document/civ-2e-4-juin-2026-fs-b-n-23-14835",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Panorama de jurisprudence de la Cour de cassation : la Gazette du Palais fait le point",
+      "summary": "Un panorama de l'année 2026 de la Gazette du Palais recense les arrêts civils marquants de la haute juridiction.",
+      "source": "Gazette du Palais, 2026 · La Base Lextenso",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n24/panorama-de-jurisprudence-de-la-cour-de-cassation-GPL492v4/PDF-revue",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "9 novembre 1953 : le Cambodge accède à l'indépendance, mettant fin au protectorat français",
+      "summary": "Le roi Norodom Sihanouk voit partir le haut commissaire français ; la date est fête nationale au Cambodge.",
+      "source": "Wikipedia · Independence Day of Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Independence_Day_of_Cambodia",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Partage judiciaire : le décret du 18 octobre 2026 simplifie la procédure",
+      "summary": "Le décret n° 2026-964, publié au JO du 20 octobre 2026, modernise les règles du partage judiciaire.",
+      "source": "Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/judiciaire/324-organisation-judiciaire/106302-reforme-de-la-procedure-de-partage-judiciaire.html",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Météo : une semaine du 9 au 15 novembre plutôt humide et venteuse sur la majorité du pays",
+      "summary": "Les tendances annoncent un retour de la pluie, plus marqué sur le sud-est, sans épisode tempétueux prévu.",
+      "source": "Météo Paris",
+      "url": "https://www.meteo-paris.com/actualites/un-mois-de-pluie-dans-les-7-prochains-jours-des-inondations-sont-a-craindre",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Exception dilatoire",
+    "subtitle": "Procédure civile · Articles 74 et 108 du Code de procédure civile",
+    "defShort": "Moyen de procédure qui tend à suspendre le cours de l'instance, parce que le défendeur bénéficie d'un délai ou d'un bénéfice légal, sans discuter le fond du droit.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "L'exception dilatoire n'attaque ni la demande ni la régularité de la procédure : elle demande seulement au juge de surseoir à statuer le temps qu'un délai s'écoule ou qu'un bénéfice légal soit exercé. Elle retarde, elle ne détruit pas."
+      },
+      {
+        "h": "Fondement",
+        "body": "Elle relève des exceptions de procédure. L'article 108 du Code de procédure civile impose au juge de suspendre l'instance lorsque la partie qui l'invoque jouit d'un délai pour faire inventaire et délibérer, ou d'un bénéfice de discussion ou de division."
+      },
+      {
+        "h": "Régime",
+        "body": "Comme toute exception de procédure, elle doit, à peine d'irrecevabilité, être soulevée avant toute défense au fond et toute fin de non-recevoir (article 74). Le caractère obligatoire de la suspension tranche avec le pouvoir d'appréciation du juge pour un simple sursis à statuer."
+      },
+      {
+        "h": "Portée",
+        "body": "Le délai écoulé, l'instance reprend son cours normal. L'exception reste donc distincte de la fin de non-recevoir, qui éteint le droit d'agir, et de l'exception d'incompétence, qui déplace le litige."
+      }
+    ],
+    "seeAlso": "Voir aussi — sursis à statuer (art. 378) · fin de non-recevoir (art. 122) · bénéfice de discussion (art. 2298 C. civ.)"
+  },
+  "date": "2026-11-09",
+  "dateShort": "9 nov.",
+  "slot": "matin"
+}

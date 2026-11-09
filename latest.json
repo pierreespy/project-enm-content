@@ -1,121 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Affaire Towercast : la Cour de cassation casse partiellement l'arrêt d'appel et rejette le pourvoi de TDF/Tivana",
-    "dek": "Dans le contentieux né du contrôle des concentrations et des pratiques anticoncurrentielles dans la diffusion audiovisuelle, la Cour de cassation a statué le 23 septembre 2026 : cassation partielle d'un côté, rejet du pourvoi de TDF/Tivana de l'autre.",
-    "source": "Autorité de la concurrence, Cass. com., 23 sept. 2026",
-    "url": "https://www.autoritedelaconcurrence.fr/fr/entityprint/pdf/node/11857"
+    "title": "Cour de cassation : la sélection des arrêts les plus marquants mis en ligne, dont un arrêt social du 14 octobre 2026 sur la bonne foi dans le contrat de travail",
+    "dek": "Lefebvre Dalloz publie le 9 novembre 2026 sa sélection des derniers arrêts remarqués de la Cour de cassation, parmi lesquels l'arrêt de la chambre sociale du 14 octobre 2026 (n° 25-17.945) relatif au caractère de bonne foi du contrat de travail.",
+    "source": "Lefebvre Dalloz · 9 nov. 2026",
+    "url": "https://open.lefebvre-dalloz.fr/actualites/droit-social/semaine-jurisprudence-sociale-cour-cassation_f9c451b53-1647-4d1f-b23c-3d038ff0e0e4"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Décret n° 2026-955 du 13 octobre 2026 : les actes professionnels des infirmiers harmonisés",
-      "summary": "Publié au Journal officiel du 15 octobre 2026, le décret harmonise les règles relatives aux actes professionnels et aux compétences des infirmiers.",
-      "source": "Le Monde du Droit, JORF du 15 oct. 2026",
-      "url": "https://www.lemondedudroit.fr/secteurs/288-sante-pharmacie/106253-actes-professionnels-des-infirmiers.html",
+      "title": "Procédures bâillons : le décret du 30 avril 2026 crée un titre XIV bis dans le code de procédure civile",
+      "summary": "Le décret n° 2026-337 transpose la directive européenne contre les procédures abusives visant à entraver le débat public.",
+      "source": "Décret n° 2026-337 du 30 avr. 2026 (JO du 5 mai 2026) · La Base Lextenso",
+      "url": "https://www.labase-lextenso.fr/breves/jo-publication-du-decret-transposant-la-directive-sur-les-procedures-baillons-BREVEBO392",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass., 10 juin 2026, n° 24-10.363 : un arrêt commenté sur La Base Lextenso",
-      "summary": "La décision du 10 juin 2026 (pourvoi n° 24-10.363) fait l'objet d'un commentaire accessible dans la base jurisprudentielle de Lextenso.",
-      "source": "La Base Lextenso, Cass., 10 juin 2026",
-      "url": "https://www.labase-lextenso.fr/jp-commente/cc/2026-06/24-10-363-CC-10062026-24_10363",
+      "title": "Cass. 2e civ., 4 juin 2026, n° 23-14.835 : un arrêt de rejet commenté",
+      "summary": "La deuxième chambre civile rejette le pourvoi dans un arrêt publié et commenté par Dalloz actualité.",
+      "source": "Cass. 2e civ., 4 juin 2026, FS-B",
+      "url": "https://www.dalloz-actualite.fr/document/civ-2e-4-juin-2026-fs-b-n-23-14835",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Conseil d'État, rapport public 2025 : le bilan annuel de l'institution, publié en mai 2026",
-      "summary": "Le rapport public 2025 du Conseil d'État dresse le bilan de l'activité juridictionnelle et consultative de la haute juridiction.",
-      "source": "Conseil d'État, rapport public 2025 (mai 2026)",
-      "url": "https://conseil-etat.fr/Media/actualites/documents/2026/mai-2026/rapport-public-2025",
+      "title": "Panorama de jurisprudence de la Cour de cassation : la Gazette du Palais fait le point",
+      "summary": "Un panorama de l'année 2026 de la Gazette du Palais recense les arrêts civils marquants de la haute juridiction.",
+      "source": "Gazette du Palais, 2026 · La Base Lextenso",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n24/panorama-de-jurisprudence-de-la-cour-de-cassation-GPL492v4/PDF-revue",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "9 novembre 1989 : la chute du mur de Berlin, au soir d'une conférence de presse",
-      "summary": "Après l'annonce de Günter Schabowski sur le droit de voyager des Allemands de l'Est, des milliers de Berlinois se pressent aux postes-frontières et le Mur cesse d'être étanche.",
-      "source": "CVCE, Berlin : la chute du mur (9 novembre 1989)",
-      "url": "https://www.cvce.eu/en/obj/berlin_la_chute_du_mur_9_novembre_1989-fr-103b72d9-4352-4183-bd73-1d72f2ed178b.html",
+      "title": "9 novembre 1953 : le Cambodge accède à l'indépendance, mettant fin au protectorat français",
+      "summary": "Le roi Norodom Sihanouk voit partir le haut commissaire français ; la date est fête nationale au Cambodge.",
+      "source": "Wikipedia · Independence Day of Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Independence_Day_of_Cambodia",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Publication du décret sur les attachés et les assistants de justice",
-      "summary": "Un décret publié encadre le statut et les missions des attachés et des assistants de justice, ces renforts qui assistent les magistrats dans les juridictions.",
-      "source": "Actu-Juridique, brève",
-      "url": "https://www.actu-juridique.fr/breves/juridictions/publication-du-decret-sur-les-attaches-et-les-assistants-de-justice/",
+      "title": "Partage judiciaire : le décret du 18 octobre 2026 simplifie la procédure",
+      "summary": "Le décret n° 2026-964, publié au JO du 20 octobre 2026, modernise les règles du partage judiciaire.",
+      "source": "Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/judiciaire/324-organisation-judiciaire/106302-reforme-de-la-procedure-de-partage-judiciaire.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Météo : un temps frais à très frais en ce début novembre",
-      "summary": "Les bulletins de Météo-France du début de novembre annoncent un temps très frais, voire assez froid, sur une large partie du pays.",
-      "source": "France Info, bulletin Météo-France",
-      "url": "https://www.franceinfo.fr/environnement/meteo/bulletins-meteo/meteo-france-2/meteo-france-2-du-jeudi-05-novembre-2026-a-13h40_8240251.html",
+      "title": "Météo : une semaine du 9 au 15 novembre plutôt humide et venteuse sur la majorité du pays",
+      "summary": "Les tendances annoncent un retour de la pluie, plus marqué sur le sud-est, sans épisode tempétueux prévu.",
+      "source": "Météo Paris",
+      "url": "https://www.meteo-paris.com/actualites/un-mois-de-pluie-dans-les-7-prochains-jours-des-inondations-sont-a-craindre",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Substitution de motifs",
-    "subtitle": "Contentieux administratif · CE, Sect., 6 févr. 2004, Hallal, n° 240560",
-    "defShort": "Technique par laquelle le juge de l'excès de pouvoir, à la demande de l'administration, maintient une décision illégale pour le motif invoqué en écartant ce motif au profit d'un autre, légal, qui la justifie également.",
+    "term": "Exception dilatoire",
+    "subtitle": "Procédure civile · Articles 74 et 108 du Code de procédure civile",
+    "defShort": "Moyen de procédure qui tend à suspendre le cours de l'instance, parce que le défendeur bénéficie d'un délai ou d'un bénéfice légal, sans discuter le fond du droit.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Une décision administrative est annulée si son motif est illégal. La substitution de motifs permet d'éviter cette annulation : l'administration invoque en cours d'instance un autre motif, qui aurait pu fonder la même décision, et le juge l'accepte à la place du motif initial."
+        "body": "L'exception dilatoire n'attaque ni la demande ni la régularité de la procédure : elle demande seulement au juge de surseoir à statuer le temps qu'un délai s'écoule ou qu'un bénéfice légal soit exercé. Elle retarde, elle ne détruit pas."
       },
       {
         "h": "Fondement",
-        "body": "Création jurisprudentielle : l'arrêt Hallal (CE, Section, 6 février 2004) pose le principe, et l'arrêt El Bahi (CE, 3 décembre 2003) a admis la substitution de base légale, qui en est la sœur. Elle relève de l'office du juge de l'excès de pouvoir."
+        "body": "Elle relève des exceptions de procédure. L'article 108 du Code de procédure civile impose au juge de suspendre l'instance lorsque la partie qui l'invoque jouit d'un délai pour faire inventaire et délibérer, ou d'un bénéfice de discussion ou de division."
       },
       {
-        "h": "Conditions",
-        "body": "Le motif substitué doit être de nature à fonder légalement la décision et reposer sur la situation existant à la date où elle a été prise ; l'administration doit, de plus, avoir disposé du même pouvoir d'appréciation. Le juge vérifie enfin que la substitution ne prive pas l'intéressé d'une garantie procédurale attachée au motif d'origine."
+        "h": "Régime",
+        "body": "Comme toute exception de procédure, elle doit, à peine d'irrecevabilité, être soulevée avant toute défense au fond et toute fin de non-recevoir (article 74). Le caractère obligatoire de la suspension tranche avec le pouvoir d'appréciation du juge pour un simple sursis à statuer."
       },
       {
         "h": "Portée",
-        "body": "Le juge peut y procéder à la demande de l'administration et, depuis la jurisprudence ultérieure, après avoir mis le requérant en mesure de présenter ses observations. Elle ne doit pas être confondue avec la neutralisation de motifs : celle-ci écarte un motif surabondant sans en introduire de nouveau."
+        "body": "Le délai écoulé, l'instance reprend son cours normal. L'exception reste donc distincte de la fin de non-recevoir, qui éteint le droit d'agir, et de l'exception d'incompétence, qui déplace le litige."
       }
     ],
-    "seeAlso": "Voir aussi — substitution de base légale · neutralisation de motifs · excès de pouvoir · garantie procédurale (Danthony)"
+    "seeAlso": "Voir aussi — sursis à statuer (art. 378) · fin de non-recevoir (art. 122) · bénéfice de discussion (art. 2298 C. civ.)"
   },
-  "date": "2026-11-08",
-  "dateShort": "8 nov.",
-  "slot": "midi",
+  "date": "2026-11-09",
+  "dateShort": "9 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 69,
-    "title": "Les lentilles gravitationnelles : quand la matière dévie la lumière",
-    "subtitle": "Comment une masse placée sur le trajet de la lumière déforme l'image des astres lointains",
+    "n": 70,
+    "title": "Le gaz chaud des amas : une lumière que l'œil ne voit pas",
+    "subtitle": "Pourquoi l'essentiel de la matière ordinaire d'un amas de galaxies est invisible à l'œil nu",
     "duration": "2 min",
     "sections": [
       {
-        "h": "La gravité dévie la lumière",
-        "body": "La gravité (jour 8) n'agit pas seulement sur les objets massifs : elle infléchit aussi la trajectoire de la lumière (jour 2). L'effet est minime pour un astre ordinaire, mais il devient mesurable pour une masse très grande. Il a été observé pour la première fois en 1919, lors d'une éclipse de Soleil : des étoiles situées près du disque solaire semblaient légèrement déplacées dans le ciel."
+        "h": "Une lumière hors du visible",
+        "body": "La lumière (jour 2) ne se limite pas à ce que l'œil perçoit. Elle comprend des formes invisibles, dont les rayons X : une lumière bien plus énergétique que la lumière visible. Un gaz très chaud en émet, et plus il est chaud, plus l'émission est intense. L'atmosphère terrestre arrête les rayons X : on ne peut les observer que depuis l'espace, avec des télescopes embarqués sur satellite."
       },
       {
-        "h": "Une lentille faite de matière",
-        "body": "Lorsqu'un amas de galaxies se trouve exactement entre nous et une galaxie bien plus lointaine, sa masse dévie les rayons lumineux de celle-ci, un peu comme le ferait un verre épais. On parle de lentille gravitationnelle : une masse dont la gravité déforme et amplifie l'image d'un astre situé derrière elle. L'image peut apparaître étirée en arcs, voire dédoublée."
+        "h": "Un gaz entre les galaxies",
+        "body": "Dans un amas de galaxies (jour 54), l'espace entre les galaxies n'est pas vide : il contient un gaz diffus, chauffé à des dizaines de millions de degrés par la gravité de l'amas. Ce gaz intra-amas brille en rayons X. Sa masse totale dépasse celle de toutes les étoiles de l'amas réunies : l'essentiel de la matière ordinaire d'un amas n'est donc pas dans ses galaxies, mais dans ce gaz, invisible à l'œil."
       },
       {
-        "h": "Peser sans voir",
-        "body": "L'intérêt est considérable : l'ampleur de la déformation dépend de la masse totale de la lentille, qu'elle soit lumineuse ou non. En mesurant les arcs, on pèse donc l'amas, matière noire (jour 25) comprise. Or cette masse dépasse nettement celle des étoiles et du gaz visibles : c'est l'un des arguments majeurs en faveur de la matière noire."
+        "h": "Un gaz qui sert de balance",
+        "body": "La température du gaz dépend de la force qui le retient : plus l'amas est massif, plus son gaz est chaud. Mesurer les rayons X permet donc de peser l'amas, indépendamment des lentilles gravitationnelles (jour 69). Les deux méthodes s'accordent : la masse totale dépasse largement celle du gaz et des étoiles, ce qui confirme la matière noire (jour 25)."
       }
     ],
     "keyTerms": [
       {
-        "term": "Lentille gravitationnelle",
-        "def": "Masse dont la gravité dévie la lumière d'un astre situé derrière elle et en déforme ou en amplifie l'image."
+        "term": "Rayons X",
+        "def": "Forme de lumière invisible, bien plus énergétique que la lumière visible, émise notamment par un gaz très chaud."
+      },
+      {
+        "term": "Gaz intra-amas",
+        "def": "Gaz diffus, chauffé à des dizaines de millions de degrés, qui remplit l'espace entre les galaxies d'un amas et brille en rayons X."
       }
     ],
-    "recap": "La gravité dévie la lumière ; la déformation des images d'astres lointains permet de peser la masse d'un amas, noire comprise.",
-    "next": "Demain — la lumière la plus ancienne de l'univers : le rayonnement fossile."
+    "recap": "Entre les galaxies d'un amas, un gaz brûlant émet des rayons X : il contient l'essentiel de la matière ordinaire de l'amas et permet de le peser.",
+    "next": "Demain — comment la lumière d'une même galaxie change selon ce qu'elle traverse."
   }
 }
