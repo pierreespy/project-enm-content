@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-09",
-  "updatedSlot": "matin",
-  "count": 22,
+  "updatedSlot": "midi",
+  "count": 23,
   "editions": [
+    {
+      "date": "2026-11-09",
+      "slot": "midi",
+      "file": "editions/2026-11-09-midi.json",
+      "essentiel": "Cass. com., 23 septembre 2026 : l'article 1171 du code civil ne s'applique pas aux contrats entre professionnels",
+      "term": "Rescision pour lésion",
+      "rubriques": [
+        "Décret n° 2026-76 du 12 février 2026 relatif à la programmation pluriannuelle de l'énergie",
+        "Cass. 3e civ., 4 juin 2026, n° 24-16.993 : le congé pour motif légitime et sérieux ne peut neutraliser l'indécence du logement connue du bailleur",
+        "Dix ans de la réforme du droit des contrats : de l'ordonnance à la jurisprudence",
+        "11 novembre 1918 : l'armistice est signé à Rethondes, dans le wagon du maréchal Foch",
+        "Immobilier : la veille documentaire du Conseil national des barreaux",
+        "Météo : une succession de tempêtes possible sur la France à partir de la mi-novembre"
+      ]
+    },
     {
       "date": "2026-11-09",
       "slot": "matin",

@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Cass. com., 23 septembre 2026 : l'article 1171 du code civil ne s'applique pas aux contrats entre professionnels",
+    "dek": "Dans un arrêt n° 461 FS-B (pourvoi n° 24-20.775), la chambre commerciale refuse de contrôler sur le terrain du déséquilibre significatif du code civil une clause de résiliation assortie d'une pénalité, conclue entre une entreprise de nettoyage et une société agricole ; le contentieux relève de l'article L. 442-1 du code de commerce.",
+    "source": "Cass. com., 23 sept. 2026, n° 24-20.775, FS-B · Cabinet Kohen Avocats",
+    "url": "https://kohenavocats.fr/2026/10/01/clause-resiliation-penalite-10-article-1171-inapplicable-professionnels-23-septembre-2026/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Décret n° 2026-76 du 12 février 2026 relatif à la programmation pluriannuelle de l'énergie",
+      "summary": "Le texte fixe, pour la période en cours, les objectifs de la politique énergétique nationale dans le cadre de la PPE.",
+      "source": "Décret n° 2026-76 du 12 févr. 2026 · AIDA (Ineris)",
+      "url": "https://aida.ineris.fr/reglementation/decret-ndeg-2026-76-120226-relatif-a-programmation-pluriannuelle-lenergie",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. 3e civ., 4 juin 2026, n° 24-16.993 : le congé pour motif légitime et sérieux ne peut neutraliser l'indécence du logement connue du bailleur",
+      "summary": "La troisième chambre civile casse partiellement un arrêt de la cour d'appel de Paris : l'obligation continue du bailleur de délivrer un logement décent ne peut être écartée par l'exercice de son droit de congé.",
+      "source": "Cass. 3e civ., 4 juin 2026, FS-B · Gazette du Palais",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n30/chronique-de-jurisprudence-de-droit-immobilier-GPL494j6/PDF-revue",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Dix ans de la réforme du droit des contrats : de l'ordonnance à la jurisprudence",
+      "summary": "La Revue des contrats dresse le bilan jurisprudentiel de la réforme de 2016, dont le sort réservé à l'article 1171.",
+      "source": "Revue des contrats, 2026, n° 3 · La Base Lextenso",
+      "url": "https://www.labase-lextenso.fr/revue-des-contrats/2026-n3/dix-ans-de-la-reforme-du-droit-des-contrats-de-l-ordonnance-a-la-jurisprudence-RDC203e6/PDF-revue",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "11 novembre 1918 : l'armistice est signé à Rethondes, dans le wagon du maréchal Foch",
+      "summary": "Les plénipotentiaires allemands sont reçus dans la forêt de Compiègne ; l'armistice prend effet à 11 h 11.",
+      "source": "Hérodote",
+      "url": "https://www.herodote.net/11_novembre_1918-evenement-19181111.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Immobilier : la veille documentaire du Conseil national des barreaux",
+      "summary": "Le CNB recense les décisions récentes utiles à la pratique en droit immobilier, dont l'exclusion du congé pour motif légitime et sérieux en cas d'indécence connue du bailleur.",
+      "source": "Conseil national des barreaux",
+      "url": "https://cnb.avocat.fr/medias/03immobilier157-6a833605423a76.33808053.pdf",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Météo : une succession de tempêtes possible sur la France à partir de la mi-novembre",
+      "summary": "Des modèles évoquent un temps plus agité dès la semaine du 16 au 22 novembre, mais la prévision reste incertaine.",
+      "source": "Météo-Paris",
+      "url": "https://www.meteo-paris.com/actualites/vers-une-succession-de-tempetes-sur-la-france-a-partir-de-la-mi-novembre",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Rescision pour lésion",
+    "subtitle": "Droit des contrats spéciaux · Articles 1674 et suivants du code civil",
+    "defShort": "Action permettant au vendeur d'un immeuble de faire anéantir la vente lorsqu'il a été lésé de plus des sept douzièmes de la valeur du bien. La lésion n'est une cause de nullité que dans les cas prévus par la loi.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "La rescision pour lésion est une sanction objective du déséquilibre des prestations : peu importe la bonne foi de l'acquéreur, seul compte l'écart entre le prix payé et la valeur du bien. Elle reste exceptionnelle, car le droit commun des contrats ne sanctionne pas, en principe, le simple déséquilibre (art. 1168 du code civil)."
+      },
+      {
+        "h": "Fondement",
+        "body": "Article 1674 : le vendeur d'immeuble lésé de plus des sept douzièmes du prix d'un immeuble a le droit de demander la rescision de la vente, même s'il a renoncé expressément dans le contrat à cette faculté. La lésion s'apprécie au jour de la vente, par expertise (art. 1675 et 1678). L'action se prescrit par deux ans à compter de la vente (art. 1676)."
+      },
+      {
+        "h": "Option de l'acquéreur",
+        "body": "Si la rescision est admise, l'acquéreur choisit entre restituer le bien en recevant le prix sous déduction du dixième, ou garder le bien en payant le supplément du juste prix sous déduction du dixième du prix total (art. 1681). Les ventes faites par autorité de justice y échappent (art. 1684)."
+      },
+      {
+        "h": "Portée",
+        "body": "L'action est réservée au vendeur : l'acheteur lésé n'a rien. Hors vente d'immeuble, la lésion n'intervient que dans des cas spéciaux, tel le partage, où elle suppose une lésion de plus du quart (art. 889). À ne pas confondre avec le déséquilibre significatif (art. 1171) ni avec la lésion qualifiée de la vulnérabilité (art. 1143)."
+      }
+    ],
+    "seeAlso": "Voir aussi — lésion (art. 1168) · violence économique (art. 1143) · déséquilibre significatif (art. 1171) · rescision du partage (art. 889)"
+  },
+  "date": "2026-11-09",
+  "dateShort": "9 nov.",
+  "slot": "midi"
+}
