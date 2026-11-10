@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09",
-  "count": 70,
+  "updated": "2026-11-10",
+  "count": 71,
   "lessons": [
     {
       "n": 1,
@@ -604,6 +604,15 @@
       "terms": [
         "Rayons X",
         "Gaz intra-amas"
+      ]
+    },
+    {
+      "n": 71,
+      "file": "astro/lessons/071-quand-la-lumiere-traverse-un-nuage.json",
+      "title": "Quand la lumière traverse un nuage : l'absorption",
+      "terms": [
+        "Absorption",
+        "Poussière interstellaire"
       ]
     }
   ]

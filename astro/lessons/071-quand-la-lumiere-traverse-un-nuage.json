@@ -1,0 +1,32 @@
+{
+  "n": 71,
+  "title": "Quand la lumière traverse un nuage : l'absorption",
+  "subtitle": "Pourquoi la lumière d'un astre change en traversant de la matière sur son chemin",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Ce que la matière retient",
+      "body": "Entre un astre et nous, la lumière (jour 2) traverse parfois du gaz ou de la poussière. Cette matière peut en retenir une partie : c'est l'absorption, le fait qu'un obstacle prélève de la lumière au passage. Le gaz n'arrête pas tout : il retient des couleurs précises, celles que ses atomes sont capables d'absorber. C'est l'origine des raies spectrales (jour 15), ces marques sombres inscrites dans le spectre (jour 14) de la lumière reçue."
+    },
+    {
+      "h": "La poussière qui rougit",
+      "body": "Entre les étoiles flotte aussi de la poussière interstellaire : de minuscules grains solides, bien plus petits qu'un grain de sable. Ces grains arrêtent mieux le bleu que le rouge. Une étoile vue à travers un nuage de poussière paraît donc à la fois plus pâle et plus rouge qu'elle ne l'est. Ce rougissement n'a rien à voir avec le décalage vers le rouge (jour 17), qui tient au mouvement : ici, la couleur change parce que la lumière est triée en chemin."
+    },
+    {
+      "h": "Corriger ce que l'on voit",
+      "body": "Cette distinction compte : si l'on confondait les deux, on prêterait à un astre une température ou une distance fausses. Les astronomes mesurent donc l'effet de la poussière, puis le retirent pour retrouver la lumière réellement émise (le jour 13 montre qu'une couleur dit une température)."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Absorption",
+      "def": "Fait pour de la matière de retenir une partie de la lumière qui la traverse."
+    },
+    {
+      "term": "Poussière interstellaire",
+      "def": "Minuscules grains solides répartis entre les étoiles, qui arrêtent davantage le bleu que le rouge et rougissent la lumière."
+    }
+  ],
+  "recap": "Gaz et poussière retiennent une partie de la lumière en chemin : il faut corriger cet effet avant de conclure sur la couleur d'un astre.",
+  "next": "Demain — les nuages de poussière eux-mêmes : de quoi sont-ils faits et que cachent-ils ?"
+}

@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-09",
-  "updatedSlot": "midi",
-  "count": 23,
+  "updated": "2026-11-10",
+  "updatedSlot": "matin",
+  "count": 22,
   "editions": [
+    {
+      "date": "2026-11-10",
+      "slot": "matin",
+      "file": "editions/2026-11-10-matin.json",
+      "essentiel": "Droit de la presse : la chambre criminelle soumet les demandes des articles 472 et 800-2 du code de procédure pénale à la prescription de trois mois de la loi de 1881",
+      "term": "Ultra petita",
+      "rubriques": [
+        "Formation professionnelle : un décret élargit le vivier des agents habilités à contrôler, après la loi contre les fraudes sociales et fiscales",
+        "Cass. crim., 1er juillet 2026, n° 26-82.275 : la nouvelle définition du viol issue de la loi du 6 novembre 2025 ne rétroagit pas",
+        "Strangulation érotique et fragmentation du consentement sexuel",
+        "10 novembre 1630 : la Journée des Dupes, Richelieu l'emporte sur Marie de Médicis",
+        "Calculer les délais de prescription en matière pénale : point de départ, interruption, exemples chiffrés",
+        "Pluies soutenues, vents forts et neige attendus en France à partir du 11 novembre"
+      ]
+    },
     {
       "date": "2026-11-09",
       "slot": "midi",
@@ -316,36 +331,6 @@
         "26 octobre 1795 : la Convention nationale se sépare, le Directoire prend le relais",
         "QPC : les délais à connaître devant les juridictions suprêmes et devant le Conseil constitutionnel",
         "Naturalisations : le Journal officiel du 25 octobre 2026 publie plusieurs centaines de décrets relatifs à la nationalité"
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "slot": "midi",
-      "file": "editions/2026-10-25-midi.json",
-      "essentiel": "Licenciement économique : une baisse de chiffre d'affaires, même sur la durée légale de référence, ne suffit pas à elle seule à caractériser des difficultés économiques",
-      "term": "Préjudice nécessaire",
-      "rubriques": [
-        "Commande publique : un décret remplace l'observatoire économique par un Conseil national de la commande publique",
-        "Prévention du harcèlement moral : l'action en réparation du manquement de l'employeur se prescrit par deux ans",
-        "Jurisprudence sociale : les décisions marquantes de la Cour de cassation de septembre 2026",
-        "25 octobre 1415 : la bataille d'Azincourt, désastre de la chevalerie française",
-        "Expulsion d'un réfugié sans retrait préalable du statut : ce que juge le Conseil d'État le 14 octobre 2026 et comment contester",
-        "Le calendrier de la fin d'année 2026 : les rendez-vous politiques, diplomatiques et sportifs à venir"
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "slot": "matin",
-      "file": "editions/2026-10-25-matin.json",
-      "essentiel": "Accidents du travail et maladies professionnelles : un décret fixe un nouveau plafond du salaire de référence des indemnités journalières à compter du 1er novembre 2026",
-      "term": "Résolution aux risques et périls du créancier",
-      "rubriques": [
-        "Infirmiers en pratique avancée : un décret du 23 octobre 2026 organise une expérimentation de prise en charge directe des patients au sein des CPTS",
-        "Vente d'un local commercial en violation du droit de préférence du locataire : la chambre commerciale retient la nullité, soumise à une prescription de deux ans",
-        "La résolution unilatérale du contrat dans les relations commerciales : le régime de l'article 1226 du Code civil précisé par la chambre commerciale (2023-2026)",
-        "25 octobre 1836 : l'obélisque de Louqsor est dressé place de la Concorde, à Paris",
-        "Cessation des paiements : les critères d'ouverture d'une procédure collective affinés par la chambre commerciale",
-        "Stocks stratégiques de gazole : un décret du 23 octobre 2026 en fixe les conditions économiques de libération"
       ]
     }
   ]
