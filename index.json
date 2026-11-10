@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-10",
-  "updatedSlot": "matin",
-  "count": 22,
+  "updatedSlot": "midi",
+  "count": 23,
   "editions": [
+    {
+      "date": "2026-11-10",
+      "slot": "midi",
+      "file": "editions/2026-11-10-midi.json",
+      "essentiel": "Harcèlement moral : l'action en réparation du manquement à l'obligation de prévention se prescrit par deux ans, non par cinq",
+      "term": "Péremption de l'instance",
+      "rubriques": [
+        "Cumul emploi-retraite : deux décrets des 2 novembre 2026 harmonisent le dispositif entre régimes",
+        "Cass. soc., 7 octobre 2026, n° 25-11.362 : prévention du harcèlement moral et délai de prescription biennal",
+        "Contrôle par le juge de la réalité des difficultés économiques",
+        "12 novembre 1851 : Auguste Mariette découvre le Sérapéum de Memphis à Saqqara",
+        "Chronique de jurisprudence de procédure civile",
+        "Vigilance Météo-France : des cartes plus précises par département depuis le 1er septembre 2026"
+      ]
+    },
     {
       "date": "2026-11-10",
       "slot": "matin",

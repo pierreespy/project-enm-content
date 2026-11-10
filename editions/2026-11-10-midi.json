@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Harcèlement moral : l'action en réparation du manquement à l'obligation de prévention se prescrit par deux ans, non par cinq",
+    "dek": "Dans un arrêt publié du 7 octobre 2026 (n° 25-11.362), la chambre sociale ouvre à l'employeur une fin de non-recevoir dont il ne disposait pas en pratique. Elle ne couvre pas la demande fondée sur les agissements de harcèlement eux-mêmes ; la cour d'appel d'Amiens, juridiction de renvoi, devra fixer le point de départ du délai.",
+    "source": "Cass. soc., 7 oct. 2026, n° 25-11.362, publié au Bulletin · Cabinet Kohen Avocats",
+    "url": "https://kohenavocats.fr/?p=2141895"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Cumul emploi-retraite : deux décrets des 2 novembre 2026 harmonisent le dispositif entre régimes",
+      "summary": "Publiés au JO du 3 novembre pour l'application de l'article 102 de la LFSS pour 2026, les décrets n° 2026-1016 et n° 2026-1017 fixent les modalités de réduction des pensions et les professions pouvant déroger à la cessation d'activité ; l'entrée en vigueur est à vérifier dans le texte.",
+      "source": "Le Monde du Droit · JORF du 3 nov. 2026",
+      "url": "https://www.lemondedudroit.fr/social/276-protection-sociale-cotisations/106488-cumul-emploi-retraite-harmonisation-des-regimes-de-retraite.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. soc., 7 octobre 2026, n° 25-11.362 : prévention du harcèlement moral et délai de prescription biennal",
+      "summary": "L'action en réparation du manquement de l'employeur à son obligation de prévention est soumise au délai de deux ans, tandis que la demande fondée sur les agissements de harcèlement n'est pas concernée.",
+      "source": "Cass. soc., 7 oct. 2026 · Cabinet Kohen Avocats",
+      "url": "https://kohenavocats.fr/?p=2141895",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Contrôle par le juge de la réalité des difficultés économiques",
+      "summary": "La Gazette du Palais commente l'arrêt de rejet du 7 octobre 2026 (n° 25-10.107, FS-B) sur l'office du juge face au motif économique du licenciement.",
+      "source": "Gazette du Palais, 2026, n° 34 · La Base Lextenso",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n34/controle-par-le-juge-de-la-realite-des-difficultes-economiques-GPL495s7",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "12 novembre 1851 : Auguste Mariette découvre le Sérapéum de Memphis à Saqqara",
+      "summary": "L'archéologue met au jour la nécropole des taureaux sacrés et fait de l'égyptologie la discipline prestigieuse qu'elle est devenue.",
+      "source": "Hérodote.net · almanach du 12 novembre",
+      "url": "https://www.herodote.net/12_novembre-almanach-1112.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Chronique de jurisprudence de procédure civile",
+      "summary": "La Gazette du Palais livre dans son numéro 34 de 2026 une chronique de jurisprudence de procédure civile, utile pour actualiser sa veille avant d'agir.",
+      "source": "Gazette du Palais, 2026, n° 34 · La Base Lextenso",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n34/chronique-de-jurisprudence-de-procedure-civile-GPL495s0/PDF-revue",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Vigilance Météo-France : des cartes plus précises par département depuis le 1er septembre 2026",
+      "summary": "Les cartes détaillées ne s'affichent pas par défaut : il faut choisir une carte thématique pour identifier les secteurs concernés par un phénomène.",
+      "source": "Météo-France · guide de la vigilance",
+      "url": "https://vigilance.meteofrance.fr/fr/guide-vigilance-meteo",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Péremption de l'instance",
+    "subtitle": "Procédure civile · Articles 386 et suivants du Code de procédure civile",
+    "defShort": "Extinction de l'instance, sans dessaisir le droit d'agir, lorsque aucune partie n'accomplit de diligences pendant deux ans. Elle se distingue de la prescription (qui éteint l'action) et de la caducité.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "L'instance est périmée lorsque aucune des parties n'accomplit de diligence pendant deux ans. La péremption éteint la procédure en cours, non le droit substantiel : le demandeur peut en principe réintroduire une instance, sous réserve de la prescription."
+      },
+      {
+        "h": "Fondement",
+        "body": "L'article 386 du Code de procédure civile pose le délai de deux ans à compter de la dernière diligence. Elle doit être demandée par une partie ; le juge ne la relève pas d'office (art. 388)."
+      },
+      {
+        "h": "Effets",
+        "body": "La péremption éteint l'instance sans éteindre le droit d'agir, mais son effet interruptif de prescription est réputé non avenu (art. 2243 du Code civil) : l'action peut donc se heurter à la prescription."
+      },
+      {
+        "h": "Portée",
+        "body": "Il faut la distinguer de la prescription, qui frappe l'action, et de la caducité de la citation. Les diligences utiles sont celles qui manifestent la volonté de faire progresser l'instance, ou qui sont mises à la charge des parties par le juge."
+      }
+    ],
+    "seeAlso": "Voir aussi — prescription extinctive · caducité de la citation · interruption de la prescription (art. 2241 s. C. civ.) · retrait du rôle"
+  },
+  "date": "2026-11-10",
+  "dateShort": "10 nov.",
+  "slot": "midi"
+}

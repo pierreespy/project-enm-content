@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Droit de la presse : la chambre criminelle soumet les demandes des articles 472 et 800-2 du code de procédure pénale à la prescription de trois mois de la loi de 1881",
-    "dek": "Par un avis du 6 octobre 2026 (n° 26-96.006, FS-B), saisie par la cour d'appel de Rennes, la Cour de cassation juge que ces demandes, formées dans une procédure de presse, relèvent de l'article 65 de la loi du 29 juillet 1881. Le prévenu relaxé qui n'a fait appel que du rejet de ces demandes doit citer lui-même la partie civile avant l'expiration du délai.",
-    "source": "Cass. crim., avis, 6 oct. 2026, n° 26-96.006, FS-B · Dalloz actualité",
-    "url": "https://www.dalloz-actualite.fr/document/crim-avis-6-oct-2026-fs-b-n-26-96006"
+    "title": "Harcèlement moral : l'action en réparation du manquement à l'obligation de prévention se prescrit par deux ans, non par cinq",
+    "dek": "Dans un arrêt publié du 7 octobre 2026 (n° 25-11.362), la chambre sociale ouvre à l'employeur une fin de non-recevoir dont il ne disposait pas en pratique. Elle ne couvre pas la demande fondée sur les agissements de harcèlement eux-mêmes ; la cour d'appel d'Amiens, juridiction de renvoi, devra fixer le point de départ du délai.",
+    "source": "Cass. soc., 7 oct. 2026, n° 25-11.362, publié au Bulletin · Cabinet Kohen Avocats",
+    "url": "https://kohenavocats.fr/?p=2141895"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Formation professionnelle : un décret élargit le vivier des agents habilités à contrôler, après la loi contre les fraudes sociales et fiscales",
-      "summary": "Le texte remplace la référence aux « fonctionnaires » par celle d'« agents » pour les contrôles de la formation professionnelle.",
-      "source": "Acteurs publics · Quoi de neuf au JO cette semaine",
-      "url": "https://acteurspublics.fr/articles/agents-de-controle-promotions-justice-quoi-de-neuf-au-jo-cette-semaine/",
+      "title": "Cumul emploi-retraite : deux décrets des 2 novembre 2026 harmonisent le dispositif entre régimes",
+      "summary": "Publiés au JO du 3 novembre pour l'application de l'article 102 de la LFSS pour 2026, les décrets n° 2026-1016 et n° 2026-1017 fixent les modalités de réduction des pensions et les professions pouvant déroger à la cessation d'activité ; l'entrée en vigueur est à vérifier dans le texte.",
+      "source": "Le Monde du Droit · JORF du 3 nov. 2026",
+      "url": "https://www.lemondedudroit.fr/social/276-protection-sociale-cotisations/106488-cumul-emploi-retraite-harmonisation-des-regimes-de-retraite.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass. crim., 1er juillet 2026, n° 26-82.275 : la nouvelle définition du viol issue de la loi du 6 novembre 2025 ne rétroagit pas",
-      "summary": "La chambre criminelle refuse d'appliquer aux faits antérieurs la définition du viol et des agressions sexuelles fondée sur le consentement, la réforme n'étant pas une simple loi interprétative.",
-      "source": "Cass. crim., 1er juill. 2026 · Cabinet Kohen Avocats",
-      "url": "https://kohenavocats.com/non-retroactivite-loi-consentement-crim-1er-juillet-2026/",
+      "title": "Cass. soc., 7 octobre 2026, n° 25-11.362 : prévention du harcèlement moral et délai de prescription biennal",
+      "summary": "L'action en réparation du manquement de l'employeur à son obligation de prévention est soumise au délai de deux ans, tandis que la demande fondée sur les agissements de harcèlement n'est pas concernée.",
+      "source": "Cass. soc., 7 oct. 2026 · Cabinet Kohen Avocats",
+      "url": "https://kohenavocats.fr/?p=2141895",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Strangulation érotique et fragmentation du consentement sexuel",
-      "summary": "La Gazette du Palais consacre une étude à la manière dont le consentement peut se décomposer en actes distincts.",
-      "source": "Gazette du Palais, 2026, n° 33 · La Base Lextenso",
-      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n33/strangulation-erotique-et-fragmentation-du-consentement-sexuel-GPL495g3",
+      "title": "Contrôle par le juge de la réalité des difficultés économiques",
+      "summary": "La Gazette du Palais commente l'arrêt de rejet du 7 octobre 2026 (n° 25-10.107, FS-B) sur l'office du juge face au motif économique du licenciement.",
+      "source": "Gazette du Palais, 2026, n° 34 · La Base Lextenso",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n34/controle-par-le-juge-de-la-realite-des-difficultes-economiques-GPL495s7",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "10 novembre 1630 : la Journée des Dupes, Richelieu l'emporte sur Marie de Médicis",
-      "summary": "Devant Louis XIII, le cardinal affronte la reine mère, son adversaire la plus déterminée, et obtient le lendemain l'éviction de celle-ci.",
-      "source": "Hérodote.net",
-      "url": "https://www.herodote.net/10_novembre_1630-evenement-16301110.php",
+      "title": "12 novembre 1851 : Auguste Mariette découvre le Sérapéum de Memphis à Saqqara",
+      "summary": "L'archéologue met au jour la nécropole des taureaux sacrés et fait de l'égyptologie la discipline prestigieuse qu'elle est devenue.",
+      "source": "Hérodote.net · almanach du 12 novembre",
+      "url": "https://www.herodote.net/12_novembre-almanach-1112.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Calculer les délais de prescription en matière pénale : point de départ, interruption, exemples chiffrés",
-      "summary": "Un guide pratique rappelle les mécanismes de computation des délais, utile pour contrôler une prescription avant d'agir.",
-      "source": "Simonnet Avocat",
-      "url": "https://www.simonnetavocat.fr/?p=279298",
+      "title": "Chronique de jurisprudence de procédure civile",
+      "summary": "La Gazette du Palais livre dans son numéro 34 de 2026 une chronique de jurisprudence de procédure civile, utile pour actualiser sa veille avant d'agir.",
+      "source": "Gazette du Palais, 2026, n° 34 · La Base Lextenso",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n34/chronique-de-jurisprudence-de-procedure-civile-GPL495s0/PDF-revue",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Pluies soutenues, vents forts et neige attendus en France à partir du 11 novembre",
-      "summary": "Un changement de temps est annoncé pour le jour de l'Armistice, avec précipitations durables et vent, selon Meteo-Paris.",
-      "source": "Meteo-Paris",
-      "url": "https://www.meteo-paris.com/actualites/pluies-soutenues-vents-forts-et-neige-en-france-pour-le-11-novembre",
+      "title": "Vigilance Météo-France : des cartes plus précises par département depuis le 1er septembre 2026",
+      "summary": "Les cartes détaillées ne s'affichent pas par défaut : il faut choisir une carte thématique pour identifier les secteurs concernés par un phénomène.",
+      "source": "Météo-France · guide de la vigilance",
+      "url": "https://vigilance.meteofrance.fr/fr/guide-vigilance-meteo",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Ultra petita",
-    "subtitle": "Procédure civile · Articles 5 et 464 du Code de procédure civile",
-    "defShort": "Vice de la décision du juge qui accorde plus que ce qui était demandé. Il se distingue de l'extra petita (statuer sur autre chose) et du infra petita (omettre de statuer sur un chef demandé).",
+    "term": "Péremption de l'instance",
+    "subtitle": "Procédure civile · Articles 386 et suivants du Code de procédure civile",
+    "defShort": "Extinction de l'instance, sans dessaisir le droit d'agir, lorsque aucune partie n'accomplit de diligences pendant deux ans. Elle se distingue de la prescription (qui éteint l'action) et de la caducité.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Statuer ultra petita, c'est allouer à une partie une somme ou un avantage excédant ses propres prétentions : le juge dépasse l'objet du litige tel que les parties l'ont fixé."
+        "body": "L'instance est périmée lorsque aucune des parties n'accomplit de diligence pendant deux ans. La péremption éteint la procédure en cours, non le droit substantiel : le demandeur peut en principe réintroduire une instance, sous réserve de la prescription."
       },
       {
         "h": "Fondement",
-        "body": "L'article 5 du Code de procédure civile impose au juge de se prononcer sur tout ce qui est demandé et seulement sur ce qui est demandé. Cette règle découle de l'article 4, qui fait des prétentions des parties l'objet du litige."
+        "body": "L'article 386 du Code de procédure civile pose le délai de deux ans à compter de la dernière diligence. Elle doit être demandée par une partie ; le juge ne la relève pas d'office (art. 388)."
       },
       {
-        "h": "Voies de recours",
-        "body": "Le vice ne relève pas de la requête en omission de statuer. Il s'agit d'une violation de la loi : la voie normale est l'appel ou le pourvoi en cassation. La requête en rectification d'erreur matérielle (art. 462) ne le répare pas, sauf erreur de plume."
+        "h": "Effets",
+        "body": "La péremption éteint l'instance sans éteindre le droit d'agir, mais son effet interruptif de prescription est réputé non avenu (art. 2243 du Code civil) : l'action peut donc se heurter à la prescription."
       },
       {
         "h": "Portée",
-        "body": "Il faut distinguer l'ultra petita de la simple requalification : le juge peut donner aux faits leur exacte qualification (art. 12) sans excéder l'objet du litige. La cassation n'est encourue que si le juge alloue plus, ou autre chose, que ce qui était demandé."
+        "body": "Il faut la distinguer de la prescription, qui frappe l'action, et de la caducité de la citation. Les diligences utiles sont celles qui manifestent la volonté de faire progresser l'instance, ou qui sont mises à la charge des parties par le juge."
       }
     ],
-    "seeAlso": "Voir aussi — extra petita · infra petita (omission de statuer, art. 463) · objet du litige (art. 4) · principe dispositif"
+    "seeAlso": "Voir aussi — prescription extinctive · caducité de la citation · interruption de la prescription (art. 2241 s. C. civ.) · retrait du rôle"
   },
   "date": "2026-11-10",
   "dateShort": "10 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 71,
     "title": "Quand la lumière traverse un nuage : l'absorption",
