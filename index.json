@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-10",
-  "updatedSlot": "midi",
-  "count": 23,
+  "updated": "2026-11-11",
+  "updatedSlot": "matin",
+  "count": 22,
   "editions": [
+    {
+      "date": "2026-11-11",
+      "slot": "matin",
+      "file": "editions/2026-11-11-matin.json",
+      "essentiel": "Mis en examen hors d'état de se défendre : la chambre criminelle abandonne le sursis à statuer sur le renvoi devant la juridiction de jugement",
+      "term": "Concours idéal d'infractions",
+      "rubriques": [
+        "Créances commerciales incontestées : le décret n° 2026-967 du 20 octobre 2026 fixe les modalités de la nouvelle procédure de recouvrement",
+        "Concours de qualifications : le cumul, devenu principe depuis l'arrêt du 15 décembre 2021, et ses exceptions",
+        "Résolution amiable des différends : vers une gouvernance unifiée et une modernisation du statut des conciliateurs de justice",
+        "11 novembre 1940 : les lycéens et étudiants de Paris défient l'occupant à l'Étoile",
+        "Classement sans suite des crimes graves : ce que change l'obligation de motivation imposée aux parquets",
+        "COP31 à Antalya : le segment des chefs d'État et de gouvernement s'ouvre les 11 et 12 novembre"
+      ]
+    },
     {
       "date": "2026-11-10",
       "slot": "midi",
@@ -316,36 +331,6 @@
         "27 octobre 1946 : la Constitution de la IVe République est promulguée",
         "Indivision immobilière : un indivisaire peut agir seul pour les actes conservatoires (art. 815-2 du Code civil)",
         "Météo : un pic de douceur ce mardi avant de nouvelles pluies"
-      ]
-    },
-    {
-      "date": "2026-10-26",
-      "slot": "midi",
-      "file": "editions/2026-10-26-midi.json",
-      "essentiel": "Pourvoi en cassation sans avocat : le Conseil d'État rejette, le 2 octobre 2026, le recours d'une commune non régularisé malgré invitation",
-      "term": "Concentration des prétentions en appel",
-      "rubriques": [
-        "Médecine légale et expertises médicales : un arrêté du 22 octobre 2026 établit la liste des personnes autorisées à exercer",
-        "Référé-suspension : le Conseil d'État rappelle que l'urgence s'apprécie concrètement, au regard des effets de l'acte contesté",
-        "Experts judiciaires : le revers de la médaille",
-        "26 octobre 1994 : Israël et la Jordanie signent le traité de paix de Wadi Araba",
-        "Tarifs réglementés des professions du droit : les arrêtés applicables du 1er mars 2026 au 29 février 2028",
-        "Vacances de la Toussaint : le calendrier officiel des départs et retours sur les routes"
-      ]
-    },
-    {
-      "date": "2026-10-26",
-      "slot": "matin",
-      "file": "editions/2026-10-26-matin.json",
-      "essentiel": "Vote électronique : l'expertise préalable doit porter à la fois sur le logiciel du prestataire et sur les conditions de son déploiement dans l'entreprise",
-      "term": "Contredit de compétence",
-      "rubriques": [
-        "Journal officiel du 25 octobre 2026 : des décrets du 23 octobre abrogent la reconnaissance d'utilité publique de plusieurs associations",
-        "Heures de travail contestées : l'employeur doit fournir au juge les éléments justifiant les horaires réellement accomplis",
-        "Laurent Fabius : la plateforme QPC360° est « un outil utile à tous les acteurs de la procédure »",
-        "26 octobre 1795 : la Convention nationale se sépare, le Directoire prend le relais",
-        "QPC : les délais à connaître devant les juridictions suprêmes et devant le Conseil constitutionnel",
-        "Naturalisations : le Journal officiel du 25 octobre 2026 publie plusieurs centaines de décrets relatifs à la nationalité"
       ]
     }
   ]

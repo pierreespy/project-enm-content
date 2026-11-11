@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Mis en examen hors d'état de se défendre : la chambre criminelle abandonne le sursis à statuer sur le renvoi devant la juridiction de jugement",
+    "dek": "Par un arrêt du 7 octobre 2026 (n° 26-84.139), publié au Bulletin, la Cour de cassation revient sur une position constante : l'altération des facultés qui empêche la personne de se défendre personnellement ne justifie plus qu'il soit sursis à son renvoi. La juridiction saisie pourra, après expertise constatant cette impossibilité, tenir une audience consacrée à la seule action civile, la personne y étant représentée par un avocat.",
+    "source": "Cass. crim., 7 oct. 2026, n° 26-84.139 (cassation CA Douai, 9 juin 2026) · Gazette du Palais, 2026, n° 33",
+    "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n33/mise-en-examen-d-un-majeur-sous-tutelle-equilibrage-des-interets-en-faveur-des-parties-civiles-GPL495p4"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Créances commerciales incontestées : le décret n° 2026-967 du 20 octobre 2026 fixe les modalités de la nouvelle procédure de recouvrement",
+      "summary": "Publié au JO du 21 octobre, le texte précise le fonctionnement de la procédure, qui entrera en vigueur à une date fixée par arrêté du garde des Sceaux et au plus tard le 31 décembre 2026.",
+      "source": "Décret n° 2026-967 du 20 oct. 2026 · Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/judiciaire/325-procedure-civile/106331-procedure-de-recouvrement-des-creances-commerciales-incontestees.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Concours de qualifications : le cumul, devenu principe depuis l'arrêt du 15 décembre 2021, et ses exceptions",
+      "summary": "En jugeant que l'interdiction de cumuler plusieurs qualifications pour les mêmes faits est désormais l'exception, la chambre criminelle a rompu avec sa jurisprudence de 2016 ; l'arrêt reste la référence pour apprécier les déclarations de culpabilité multiples.",
+      "source": "Cass. crim., 15 déc. 2021, n° 21-81.864 · Landot & associés",
+      "url": "https://blog.landot-avocats.net/2021/12/20/non-ne-bis-in-idem-la-cour-de-cassation-ajuste-lapplication-de-ce-principe-au-stade-de-la-declaration-de-culpabilite/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Résolution amiable des différends : vers une gouvernance unifiée et une modernisation du statut des conciliateurs de justice",
+      "summary": "Actu-Juridique analyse la réorganisation de la politique de l'amiable, entre magistrats coordonnateurs et statut rénové des conciliateurs.",
+      "source": "Actu-Juridique · MARL",
+      "url": "https://www.actu-juridique.fr/marl/resolution-amiable-des-differends-vers-une-gouvernance-unifiee-et-une-modernisation-du-statut-des-conciliateurs-de-justice/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "11 novembre 1940 : les lycéens et étudiants de Paris défient l'occupant à l'Étoile",
+      "summary": "Malgré l'interdiction allemande, quelques milliers de jeunes remontent les Champs-Élysées jusqu'à la tombe du Soldat inconnu ; la manifestation, durement réprimée, est tenue pour l'un des premiers actes publics de résistance.",
+      "source": "Hérodote.net",
+      "url": "https://www.herodote.net/11_novembre_1940-evenement-19401111.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Classement sans suite des crimes graves : ce que change l'obligation de motivation imposée aux parquets",
+      "summary": "Le décret n° 2026-907 du 30 septembre 2026 modifie le code de procédure pénale pour exiger des procureurs une motivation précise lorsqu'ils classent sans suite certains crimes graves.",
+      "source": "Décret n° 2026-907 du 30 sept. 2026 · Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/106005-classement-sans-suite-des-crimes-graves-de-nouvelles-exigences-de-motivation.html",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "COP31 à Antalya : le segment des chefs d'État et de gouvernement s'ouvre les 11 et 12 novembre",
+      "summary": "La conférence climat, présidée par la Turquie avec l'Australie à la tête des négociations, se tient jusqu'au 20 novembre, sans les États-Unis, sortis de l'accord de Paris en janvier 2026.",
+      "source": "Earth Negotiations Bulletin (IISD)",
+      "url": "https://enb.iisd.org/fr/antalya-un-climate-change-conference-cop31",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Concours idéal d'infractions",
+    "subtitle": "Droit pénal général · Cass. crim., 15 déc. 2021, n° 21-81.864",
+    "defShort": "Situation dans laquelle un fait unique est susceptible de recevoir plusieurs qualifications pénales. Il s'oppose au concours réel, où plusieurs faits distincts constituent plusieurs infractions.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Un même geste peut tomber sous plusieurs textes : une fausse facture produite pour obtenir un paiement relève du faux et de l'escroquerie. La question est de savoir si le juge retient une seule qualification ou les cumule dans la déclaration de culpabilité."
+      },
+      {
+        "h": "Fondement",
+        "body": "Aucun texte du code pénal ne règle le concours idéal : la solution est prétorienne et se rattache au principe ne bis in idem. Le concours réel, lui, est régi par les articles 132-2 et suivants du code pénal (plafonnement des peines de même nature)."
+      },
+      {
+        "h": "Le revirement de 2021",
+        "body": "Jusqu'alors, la chambre criminelle interdisait le cumul lorsque les faits procédaient d'une action unique animée d'une seule intention coupable. Depuis l'arrêt du 15 décembre 2021, le cumul est le principe ; il n'est écarté que si une qualification est un élément constitutif ou une circonstance aggravante de l'autre, ou si l'une incrimine une modalité particulière de l'action réprimée par l'autre."
+      },
+      {
+        "h": "Portée",
+        "body": "Le cumul de qualifications n'emporte pas cumul de peines : une seule peine est prononcée dans la limite du maximum le plus élevé. L'enjeu tient à l'inscription au casier, à la récidive, aux peines complémentaires propres à chaque qualification et à l'indemnisation des parties civiles."
+      }
+    ],
+    "seeAlso": "Voir aussi — concours réel d'infractions (art. 132-2 C. pén.) · ne bis in idem · qualifications alternatives · spécialité des incriminations"
+  },
+  "date": "2026-11-11",
+  "dateShort": "11 nov.",
+  "slot": "matin"
+}

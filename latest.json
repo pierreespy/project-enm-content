@@ -1,125 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Harcèlement moral : l'action en réparation du manquement à l'obligation de prévention se prescrit par deux ans, non par cinq",
-    "dek": "Dans un arrêt publié du 7 octobre 2026 (n° 25-11.362), la chambre sociale ouvre à l'employeur une fin de non-recevoir dont il ne disposait pas en pratique. Elle ne couvre pas la demande fondée sur les agissements de harcèlement eux-mêmes ; la cour d'appel d'Amiens, juridiction de renvoi, devra fixer le point de départ du délai.",
-    "source": "Cass. soc., 7 oct. 2026, n° 25-11.362, publié au Bulletin · Cabinet Kohen Avocats",
-    "url": "https://kohenavocats.fr/?p=2141895"
+    "title": "Mis en examen hors d'état de se défendre : la chambre criminelle abandonne le sursis à statuer sur le renvoi devant la juridiction de jugement",
+    "dek": "Par un arrêt du 7 octobre 2026 (n° 26-84.139), publié au Bulletin, la Cour de cassation revient sur une position constante : l'altération des facultés qui empêche la personne de se défendre personnellement ne justifie plus qu'il soit sursis à son renvoi. La juridiction saisie pourra, après expertise constatant cette impossibilité, tenir une audience consacrée à la seule action civile, la personne y étant représentée par un avocat.",
+    "source": "Cass. crim., 7 oct. 2026, n° 26-84.139 (cassation CA Douai, 9 juin 2026) · Gazette du Palais, 2026, n° 33",
+    "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n33/mise-en-examen-d-un-majeur-sous-tutelle-equilibrage-des-interets-en-faveur-des-parties-civiles-GPL495p4"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Cumul emploi-retraite : deux décrets des 2 novembre 2026 harmonisent le dispositif entre régimes",
-      "summary": "Publiés au JO du 3 novembre pour l'application de l'article 102 de la LFSS pour 2026, les décrets n° 2026-1016 et n° 2026-1017 fixent les modalités de réduction des pensions et les professions pouvant déroger à la cessation d'activité ; l'entrée en vigueur est à vérifier dans le texte.",
-      "source": "Le Monde du Droit · JORF du 3 nov. 2026",
-      "url": "https://www.lemondedudroit.fr/social/276-protection-sociale-cotisations/106488-cumul-emploi-retraite-harmonisation-des-regimes-de-retraite.html",
+      "title": "Créances commerciales incontestées : le décret n° 2026-967 du 20 octobre 2026 fixe les modalités de la nouvelle procédure de recouvrement",
+      "summary": "Publié au JO du 21 octobre, le texte précise le fonctionnement de la procédure, qui entrera en vigueur à une date fixée par arrêté du garde des Sceaux et au plus tard le 31 décembre 2026.",
+      "source": "Décret n° 2026-967 du 20 oct. 2026 · Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/judiciaire/325-procedure-civile/106331-procedure-de-recouvrement-des-creances-commerciales-incontestees.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass. soc., 7 octobre 2026, n° 25-11.362 : prévention du harcèlement moral et délai de prescription biennal",
-      "summary": "L'action en réparation du manquement de l'employeur à son obligation de prévention est soumise au délai de deux ans, tandis que la demande fondée sur les agissements de harcèlement n'est pas concernée.",
-      "source": "Cass. soc., 7 oct. 2026 · Cabinet Kohen Avocats",
-      "url": "https://kohenavocats.fr/?p=2141895",
+      "title": "Concours de qualifications : le cumul, devenu principe depuis l'arrêt du 15 décembre 2021, et ses exceptions",
+      "summary": "En jugeant que l'interdiction de cumuler plusieurs qualifications pour les mêmes faits est désormais l'exception, la chambre criminelle a rompu avec sa jurisprudence de 2016 ; l'arrêt reste la référence pour apprécier les déclarations de culpabilité multiples.",
+      "source": "Cass. crim., 15 déc. 2021, n° 21-81.864 · Landot & associés",
+      "url": "https://blog.landot-avocats.net/2021/12/20/non-ne-bis-in-idem-la-cour-de-cassation-ajuste-lapplication-de-ce-principe-au-stade-de-la-declaration-de-culpabilite/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Contrôle par le juge de la réalité des difficultés économiques",
-      "summary": "La Gazette du Palais commente l'arrêt de rejet du 7 octobre 2026 (n° 25-10.107, FS-B) sur l'office du juge face au motif économique du licenciement.",
-      "source": "Gazette du Palais, 2026, n° 34 · La Base Lextenso",
-      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n34/controle-par-le-juge-de-la-realite-des-difficultes-economiques-GPL495s7",
+      "title": "Résolution amiable des différends : vers une gouvernance unifiée et une modernisation du statut des conciliateurs de justice",
+      "summary": "Actu-Juridique analyse la réorganisation de la politique de l'amiable, entre magistrats coordonnateurs et statut rénové des conciliateurs.",
+      "source": "Actu-Juridique · MARL",
+      "url": "https://www.actu-juridique.fr/marl/resolution-amiable-des-differends-vers-une-gouvernance-unifiee-et-une-modernisation-du-statut-des-conciliateurs-de-justice/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "12 novembre 1851 : Auguste Mariette découvre le Sérapéum de Memphis à Saqqara",
-      "summary": "L'archéologue met au jour la nécropole des taureaux sacrés et fait de l'égyptologie la discipline prestigieuse qu'elle est devenue.",
-      "source": "Hérodote.net · almanach du 12 novembre",
-      "url": "https://www.herodote.net/12_novembre-almanach-1112.php",
+      "title": "11 novembre 1940 : les lycéens et étudiants de Paris défient l'occupant à l'Étoile",
+      "summary": "Malgré l'interdiction allemande, quelques milliers de jeunes remontent les Champs-Élysées jusqu'à la tombe du Soldat inconnu ; la manifestation, durement réprimée, est tenue pour l'un des premiers actes publics de résistance.",
+      "source": "Hérodote.net",
+      "url": "https://www.herodote.net/11_novembre_1940-evenement-19401111.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Chronique de jurisprudence de procédure civile",
-      "summary": "La Gazette du Palais livre dans son numéro 34 de 2026 une chronique de jurisprudence de procédure civile, utile pour actualiser sa veille avant d'agir.",
-      "source": "Gazette du Palais, 2026, n° 34 · La Base Lextenso",
-      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n34/chronique-de-jurisprudence-de-procedure-civile-GPL495s0/PDF-revue",
+      "title": "Classement sans suite des crimes graves : ce que change l'obligation de motivation imposée aux parquets",
+      "summary": "Le décret n° 2026-907 du 30 septembre 2026 modifie le code de procédure pénale pour exiger des procureurs une motivation précise lorsqu'ils classent sans suite certains crimes graves.",
+      "source": "Décret n° 2026-907 du 30 sept. 2026 · Le Monde du Droit",
+      "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/106005-classement-sans-suite-des-crimes-graves-de-nouvelles-exigences-de-motivation.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Vigilance Météo-France : des cartes plus précises par département depuis le 1er septembre 2026",
-      "summary": "Les cartes détaillées ne s'affichent pas par défaut : il faut choisir une carte thématique pour identifier les secteurs concernés par un phénomène.",
-      "source": "Météo-France · guide de la vigilance",
-      "url": "https://vigilance.meteofrance.fr/fr/guide-vigilance-meteo",
+      "title": "COP31 à Antalya : le segment des chefs d'État et de gouvernement s'ouvre les 11 et 12 novembre",
+      "summary": "La conférence climat, présidée par la Turquie avec l'Australie à la tête des négociations, se tient jusqu'au 20 novembre, sans les États-Unis, sortis de l'accord de Paris en janvier 2026.",
+      "source": "Earth Negotiations Bulletin (IISD)",
+      "url": "https://enb.iisd.org/fr/antalya-un-climate-change-conference-cop31",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Péremption de l'instance",
-    "subtitle": "Procédure civile · Articles 386 et suivants du Code de procédure civile",
-    "defShort": "Extinction de l'instance, sans dessaisir le droit d'agir, lorsque aucune partie n'accomplit de diligences pendant deux ans. Elle se distingue de la prescription (qui éteint l'action) et de la caducité.",
+    "term": "Concours idéal d'infractions",
+    "subtitle": "Droit pénal général · Cass. crim., 15 déc. 2021, n° 21-81.864",
+    "defShort": "Situation dans laquelle un fait unique est susceptible de recevoir plusieurs qualifications pénales. Il s'oppose au concours réel, où plusieurs faits distincts constituent plusieurs infractions.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'instance est périmée lorsque aucune des parties n'accomplit de diligence pendant deux ans. La péremption éteint la procédure en cours, non le droit substantiel : le demandeur peut en principe réintroduire une instance, sous réserve de la prescription."
+        "body": "Un même geste peut tomber sous plusieurs textes : une fausse facture produite pour obtenir un paiement relève du faux et de l'escroquerie. La question est de savoir si le juge retient une seule qualification ou les cumule dans la déclaration de culpabilité."
       },
       {
         "h": "Fondement",
-        "body": "L'article 386 du Code de procédure civile pose le délai de deux ans à compter de la dernière diligence. Elle doit être demandée par une partie ; le juge ne la relève pas d'office (art. 388)."
+        "body": "Aucun texte du code pénal ne règle le concours idéal : la solution est prétorienne et se rattache au principe ne bis in idem. Le concours réel, lui, est régi par les articles 132-2 et suivants du code pénal (plafonnement des peines de même nature)."
       },
       {
-        "h": "Effets",
-        "body": "La péremption éteint l'instance sans éteindre le droit d'agir, mais son effet interruptif de prescription est réputé non avenu (art. 2243 du Code civil) : l'action peut donc se heurter à la prescription."
+        "h": "Le revirement de 2021",
+        "body": "Jusqu'alors, la chambre criminelle interdisait le cumul lorsque les faits procédaient d'une action unique animée d'une seule intention coupable. Depuis l'arrêt du 15 décembre 2021, le cumul est le principe ; il n'est écarté que si une qualification est un élément constitutif ou une circonstance aggravante de l'autre, ou si l'une incrimine une modalité particulière de l'action réprimée par l'autre."
       },
       {
         "h": "Portée",
-        "body": "Il faut la distinguer de la prescription, qui frappe l'action, et de la caducité de la citation. Les diligences utiles sont celles qui manifestent la volonté de faire progresser l'instance, ou qui sont mises à la charge des parties par le juge."
+        "body": "Le cumul de qualifications n'emporte pas cumul de peines : une seule peine est prononcée dans la limite du maximum le plus élevé. L'enjeu tient à l'inscription au casier, à la récidive, aux peines complémentaires propres à chaque qualification et à l'indemnisation des parties civiles."
       }
     ],
-    "seeAlso": "Voir aussi — prescription extinctive · caducité de la citation · interruption de la prescription (art. 2241 s. C. civ.) · retrait du rôle"
+    "seeAlso": "Voir aussi — concours réel d'infractions (art. 132-2 C. pén.) · ne bis in idem · qualifications alternatives · spécialité des incriminations"
   },
-  "date": "2026-11-10",
-  "dateShort": "10 nov.",
-  "slot": "midi",
+  "date": "2026-11-11",
+  "dateShort": "11 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 71,
-    "title": "Quand la lumière traverse un nuage : l'absorption",
-    "subtitle": "Pourquoi la lumière d'un astre change en traversant de la matière sur son chemin",
+    "n": 72,
+    "title": "Ce que cachent les nuages de poussière",
+    "subtitle": "Pourquoi les régions les plus actives de la galaxie sont aussi les plus difficiles à voir",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Ce que la matière retient",
-        "body": "Entre un astre et nous, la lumière (jour 2) traverse parfois du gaz ou de la poussière. Cette matière peut en retenir une partie : c'est l'absorption, le fait qu'un obstacle prélève de la lumière au passage. Le gaz n'arrête pas tout : il retient des couleurs précises, celles que ses atomes sont capables d'absorber. C'est l'origine des raies spectrales (jour 15), ces marques sombres inscrites dans le spectre (jour 14) de la lumière reçue."
+        "h": "Un mélange de gaz et de grains",
+        "body": "Les nuages sombres que l'on aperçoit sur les photographies de la Voie lactée (jour 24) ne sont pas des trous dans le ciel. Ce sont des nuages moléculaires (jour 18) : du gaz froid, surtout de l'hydrogène, mêlé de poussière interstellaire (jour 71). Les grains ne pèsent qu'environ un centième de la masse du nuage, mais ils suffisent à arrêter la lumière visible des étoiles situées derrière. Ils sont faits pour l'essentiel de carbone et de silicates, une matière proche de celle des roches, parfois recouverte de glace."
       },
       {
-        "h": "La poussière qui rougit",
-        "body": "Entre les étoiles flotte aussi de la poussière interstellaire : de minuscules grains solides, bien plus petits qu'un grain de sable. Ces grains arrêtent mieux le bleu que le rouge. Une étoile vue à travers un nuage de poussière paraît donc à la fois plus pâle et plus rouge qu'elle ne l'est. Ce rougissement n'a rien à voir avec le décalage vers le rouge (jour 17), qui tient au mouvement : ici, la couleur change parce que la lumière est triée en chemin."
+        "h": "Là où naissent les étoiles",
+        "body": "Ces nuages ne sont pas de simples écrans. C'est en leur sein que le gaz s'effondre pour former des protoétoiles (jour 18). Les étoiles naissent donc précisément là où la lumière visible ne passe pas : leurs premiers temps échappent à l'œil comme aux télescopes ordinaires. La poussière joue en outre un rôle actif : sa surface sert de lieu de rencontre où des atomes s'assemblent en molécules, et elle aide le nuage à évacuer sa chaleur, ce qui facilite son effondrement."
       },
       {
-        "h": "Corriger ce que l'on voit",
-        "body": "Cette distinction compte : si l'on confondait les deux, on prêterait à un astre une température ou une distance fausses. Les astronomes mesurent donc l'effet de la poussière, puis le retirent pour retrouver la lumière réellement émise (le jour 13 montre qu'une couleur dit une température)."
+        "h": "Voir à travers",
+        "body": "La poussière n'arrête pas toutes les lumières de la même façon. Elle retient surtout le bleu (jour 71), et laisse beaucoup mieux passer l'infrarouge, une lumière plus « rouge que le rouge », invisible pour l'œil. Les télescopes (jour 31) qui captent l'infrarouge voient ainsi à travers les nuages et révèlent les étoiles en formation qu'ils cachent. La poussière elle-même, tiédie par ces étoiles, émet aussi en infrarouge : on peut donc cartographier ces nuages par leur propre lueur."
       }
     ],
     "keyTerms": [
       {
-        "term": "Absorption",
-        "def": "Fait pour de la matière de retenir une partie de la lumière qui la traverse."
+        "term": "Nuage sombre",
+        "def": "Nuage moléculaire assez riche en poussière pour masquer la lumière visible des étoiles situées derrière lui."
       },
       {
-        "term": "Poussière interstellaire",
-        "def": "Minuscules grains solides répartis entre les étoiles, qui arrêtent davantage le bleu que le rouge et rougissent la lumière."
+        "term": "Infrarouge",
+        "def": "Lumière invisible pour l'œil, au-delà du rouge, qui traverse beaucoup mieux la poussière que la lumière visible."
       }
     ],
-    "recap": "Gaz et poussière retiennent une partie de la lumière en chemin : il faut corriger cet effet avant de conclure sur la couleur d'un astre.",
-    "next": "Demain — les nuages de poussière eux-mêmes : de quoi sont-ils faits et que cachent-ils ?"
+    "recap": "Les nuages de poussière masquent les lieux de naissance des étoiles ; l'infrarouge, qui les traverse, permet de voir ce qu'ils cachent.",
+    "next": "Demain — l'infrarouge comme fenêtre sur l'univers : ce que les télescopes spatiaux comme James Webb y ont découvert."
   }
 }

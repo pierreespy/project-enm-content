@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10",
-  "count": 71,
+  "updated": "2026-11-11",
+  "count": 72,
   "lessons": [
     {
       "n": 1,
@@ -613,6 +613,15 @@
       "terms": [
         "Absorption",
         "Poussière interstellaire"
+      ]
+    },
+    {
+      "n": 72,
+      "file": "astro/lessons/072-ce-que-cachent-les-nuages-de-poussiere.json",
+      "title": "Ce que cachent les nuages de poussière",
+      "terms": [
+        "Nuage sombre",
+        "Infrarouge"
       ]
     }
   ]

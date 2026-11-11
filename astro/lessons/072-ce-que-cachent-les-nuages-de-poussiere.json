@@ -1,0 +1,32 @@
+{
+  "n": 72,
+  "title": "Ce que cachent les nuages de poussière",
+  "subtitle": "Pourquoi les régions les plus actives de la galaxie sont aussi les plus difficiles à voir",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un mélange de gaz et de grains",
+      "body": "Les nuages sombres que l'on aperçoit sur les photographies de la Voie lactée (jour 24) ne sont pas des trous dans le ciel. Ce sont des nuages moléculaires (jour 18) : du gaz froid, surtout de l'hydrogène, mêlé de poussière interstellaire (jour 71). Les grains ne pèsent qu'environ un centième de la masse du nuage, mais ils suffisent à arrêter la lumière visible des étoiles situées derrière. Ils sont faits pour l'essentiel de carbone et de silicates, une matière proche de celle des roches, parfois recouverte de glace."
+    },
+    {
+      "h": "Là où naissent les étoiles",
+      "body": "Ces nuages ne sont pas de simples écrans. C'est en leur sein que le gaz s'effondre pour former des protoétoiles (jour 18). Les étoiles naissent donc précisément là où la lumière visible ne passe pas : leurs premiers temps échappent à l'œil comme aux télescopes ordinaires. La poussière joue en outre un rôle actif : sa surface sert de lieu de rencontre où des atomes s'assemblent en molécules, et elle aide le nuage à évacuer sa chaleur, ce qui facilite son effondrement."
+    },
+    {
+      "h": "Voir à travers",
+      "body": "La poussière n'arrête pas toutes les lumières de la même façon. Elle retient surtout le bleu (jour 71), et laisse beaucoup mieux passer l'infrarouge, une lumière plus « rouge que le rouge », invisible pour l'œil. Les télescopes (jour 31) qui captent l'infrarouge voient ainsi à travers les nuages et révèlent les étoiles en formation qu'ils cachent. La poussière elle-même, tiédie par ces étoiles, émet aussi en infrarouge : on peut donc cartographier ces nuages par leur propre lueur."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Nuage sombre",
+      "def": "Nuage moléculaire assez riche en poussière pour masquer la lumière visible des étoiles situées derrière lui."
+    },
+    {
+      "term": "Infrarouge",
+      "def": "Lumière invisible pour l'œil, au-delà du rouge, qui traverse beaucoup mieux la poussière que la lumière visible."
+    }
+  ],
+  "recap": "Les nuages de poussière masquent les lieux de naissance des étoiles ; l'infrarouge, qui les traverse, permet de voir ce qu'ils cachent.",
+  "next": "Demain — l'infrarouge comme fenêtre sur l'univers : ce que les télescopes spatiaux comme James Webb y ont découvert."
+}
