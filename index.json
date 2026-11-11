@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-11",
-  "updatedSlot": "matin",
-  "count": 22,
+  "updatedSlot": "midi",
+  "count": 23,
   "editions": [
+    {
+      "date": "2026-11-11",
+      "slot": "midi",
+      "file": "editions/2026-11-11-midi.json",
+      "essentiel": "Ministère de la Justice : une direction des victimes et des usagers entre dans l'organigramme ce 11 novembre",
+      "term": "Action sociale ut singuli",
+      "rubriques": [
+        "Réduction générale dégressive unique : le décret n° 2026-1037 précise la prise en compte des minima de branche inférieurs au Smic",
+        "Cass. com., 4 nov. 2026, n° 25-14.332 : l'expertise de gestion ne suspend pas la prescription de l'action en responsabilité contre le dirigeant",
+        "Lanceurs d'alerte : la portée de la protection contre les mesures de représailles",
+        "11 novembre 1620 (calendrier julien) : les passagers du Mayflower signent le « Mayflower Compact »",
+        "Requête en nullité : l'expertise psychiatrique sans notification du droit de se taire et l'exploitation du téléphone saisi (Cass. crim., 10 nov. 2026)",
+        "A69 : l'autoroute Toulouse-Castres en service, avec un péage en flux libre à 20,40 € l'aller-retour"
+      ]
+    },
     {
       "date": "2026-11-11",
       "slot": "matin",

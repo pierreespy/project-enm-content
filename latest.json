@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Mis en examen hors d'état de se défendre : la chambre criminelle abandonne le sursis à statuer sur le renvoi devant la juridiction de jugement",
-    "dek": "Par un arrêt du 7 octobre 2026 (n° 26-84.139), publié au Bulletin, la Cour de cassation revient sur une position constante : l'altération des facultés qui empêche la personne de se défendre personnellement ne justifie plus qu'il soit sursis à son renvoi. La juridiction saisie pourra, après expertise constatant cette impossibilité, tenir une audience consacrée à la seule action civile, la personne y étant représentée par un avocat.",
-    "source": "Cass. crim., 7 oct. 2026, n° 26-84.139 (cassation CA Douai, 9 juin 2026) · Gazette du Palais, 2026, n° 33",
-    "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n33/mise-en-examen-d-un-majeur-sous-tutelle-equilibrage-des-interets-en-faveur-des-parties-civiles-GPL495p4"
+    "title": "Ministère de la Justice : une direction des victimes et des usagers entre dans l'organigramme ce 11 novembre",
+    "dek": "Le décret n° 2026-1036 du 9 novembre 2026, publié au JO du 10 novembre, modifie le décret n° 2008-689 du 9 juillet 2008 relatif à l'organisation du ministère : l'accès au droit et l'aide aux victimes quittent leur direction de rattachement pour une direction dédiée, confiée à Marie Grosset, membre du Conseil d'État. Un arrêté du même jour retouche en conséquence l'arrêté du 30 décembre 2019 sur le secrétariat général et les directions.",
+    "source": "Décret n° 2026-1036 du 9 nov. 2026 (JORF n° 0263 du 10 nov. 2026) · La Base Lextenso",
+    "url": "https://www.labase-lextenso.fr/breves/jo-creation-d-une-direction-des-victimes-et-des-usagers-au-sein-du-ministere-de-la-justice-BREVEBO622"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Créances commerciales incontestées : le décret n° 2026-967 du 20 octobre 2026 fixe les modalités de la nouvelle procédure de recouvrement",
-      "summary": "Publié au JO du 21 octobre, le texte précise le fonctionnement de la procédure, qui entrera en vigueur à une date fixée par arrêté du garde des Sceaux et au plus tard le 31 décembre 2026.",
-      "source": "Décret n° 2026-967 du 20 oct. 2026 · Le Monde du Droit",
-      "url": "https://www.lemondedudroit.fr/judiciaire/325-procedure-civile/106331-procedure-de-recouvrement-des-creances-commerciales-incontestees.html",
+      "title": "Réduction générale dégressive unique : le décret n° 2026-1037 précise la prise en compte des minima de branche inférieurs au Smic",
+      "summary": "Pris pour l'application du III bis de l'article L. 241-13 du code de la sécurité sociale, le texte fixe le mode de détermination du salaire minimum national professionnel des salariés sans qualification, qui servira de référence au calcul de l'allègement dans les branches concernées pour les périodes d'emploi courant à compter du 1er janvier 2027.",
+      "source": "Décret n° 2026-1037 du 6 nov. 2026 (JORF n° 0263 du 10 nov. 2026) · La Base Lextenso",
+      "url": "https://www.labase-lextenso.fr/breves/jo-reduction-generale-degressive-unique-les-modalites-de-prise-en-compte-des-minima-conventionnels-precisees-BREVEBO624",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Concours de qualifications : le cumul, devenu principe depuis l'arrêt du 15 décembre 2021, et ses exceptions",
-      "summary": "En jugeant que l'interdiction de cumuler plusieurs qualifications pour les mêmes faits est désormais l'exception, la chambre criminelle a rompu avec sa jurisprudence de 2016 ; l'arrêt reste la référence pour apprécier les déclarations de culpabilité multiples.",
-      "source": "Cass. crim., 15 déc. 2021, n° 21-81.864 · Landot & associés",
-      "url": "https://blog.landot-avocats.net/2021/12/20/non-ne-bis-in-idem-la-cour-de-cassation-ajuste-lapplication-de-ce-principe-au-stade-de-la-declaration-de-culpabilite/",
+      "title": "Cass. com., 4 nov. 2026, n° 25-14.332 : l'expertise de gestion ne suspend pas la prescription de l'action en responsabilité contre le dirigeant",
+      "summary": "La chambre commerciale refuse de voir dans l'expertise de l'article L. 225-231 du code de commerce une mesure d'instruction suspensive au sens de l'article 2239 du code civil : le délai triennal continue de courir et les fautes antérieures restent prescrites.",
+      "source": "Cass. com., 4 nov. 2026, n° 25-14.332 · Kohen Avocats",
+      "url": "https://kohenavocats.fr/2026/11/07/prescription-action-responsabilite-dirigeant-expertise-gestion-suspend-pas-delai-4-novembre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Résolution amiable des différends : vers une gouvernance unifiée et une modernisation du statut des conciliateurs de justice",
-      "summary": "Actu-Juridique analyse la réorganisation de la politique de l'amiable, entre magistrats coordonnateurs et statut rénové des conciliateurs.",
-      "source": "Actu-Juridique · MARL",
-      "url": "https://www.actu-juridique.fr/marl/resolution-amiable-des-differends-vers-une-gouvernance-unifiee-et-une-modernisation-du-statut-des-conciliateurs-de-justice/",
+      "title": "Lanceurs d'alerte : la portée de la protection contre les mesures de représailles",
+      "summary": "La Gazette du Palais revient sur l'étendue du régime protecteur des lanceurs d'alerte, et notamment sur ce que le juge administratif tient pour une mesure de représailles prohibée à l'égard d'un agent public.",
+      "source": "Gazette du Palais, 3 nov. 2026, n° 35",
+      "url": "https://www.labase-lextenso.fr/gazette-du-palais/2026-n35/lanceurs-d-alerte-portee-de-la-protection-contre-les-mesures-de-represailles-GPL496d3",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "11 novembre 1940 : les lycéens et étudiants de Paris défient l'occupant à l'Étoile",
-      "summary": "Malgré l'interdiction allemande, quelques milliers de jeunes remontent les Champs-Élysées jusqu'à la tombe du Soldat inconnu ; la manifestation, durement réprimée, est tenue pour l'un des premiers actes publics de résistance.",
+      "title": "11 novembre 1620 (calendrier julien) : les passagers du Mayflower signent le « Mayflower Compact »",
+      "summary": "Ancrés au large de Cape Cod, 41 hommes adultes s'engagent à former un « corps politique civil » et à obéir aux lois justes qu'il édictera : un pacte d'Église puritain transposé à l'ordre civil, resté en vigueur jusqu'à l'absorption de Plymouth dans la colonie de la baie du Massachusetts en 1691.",
       "source": "Hérodote.net",
-      "url": "https://www.herodote.net/11_novembre_1940-evenement-19401111.php",
+      "url": "https://www.herodote.net/Mayflower_Compact-article-341.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Classement sans suite des crimes graves : ce que change l'obligation de motivation imposée aux parquets",
-      "summary": "Le décret n° 2026-907 du 30 septembre 2026 modifie le code de procédure pénale pour exiger des procureurs une motivation précise lorsqu'ils classent sans suite certains crimes graves.",
-      "source": "Décret n° 2026-907 du 30 sept. 2026 · Le Monde du Droit",
-      "url": "https://www.lemondedudroit.fr/judiciaire/326-droit-penal/106005-classement-sans-suite-des-crimes-graves-de-nouvelles-exigences-de-motivation.html",
+      "title": "Requête en nullité : l'expertise psychiatrique sans notification du droit de se taire et l'exploitation du téléphone saisi (Cass. crim., 10 nov. 2026)",
+      "summary": "Rejetant le pourvoi n° 26-80.510, la chambre criminelle juge que l'absence de notification du droit de se taire par l'expert psychiatre n'emporte pas à elle seule la nullité de l'expertise, et que l'autorisation de perquisitionner le domicile couvre l'exploitation du téléphone qui y a été saisi.",
+      "source": "Cass. crim., 10 nov. 2026, n° 26-80.510 · Kohen Avocats",
+      "url": "https://kohenavocats.com/requete-nullite-expertise-psychiatrique-droit-se-taire-perquisition-telephone-arret-10-novembre-2026/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "COP31 à Antalya : le segment des chefs d'État et de gouvernement s'ouvre les 11 et 12 novembre",
-      "summary": "La conférence climat, présidée par la Turquie avec l'Australie à la tête des négociations, se tient jusqu'au 20 novembre, sans les États-Unis, sortis de l'accord de Paris en janvier 2026.",
-      "source": "Earth Negotiations Bulletin (IISD)",
-      "url": "https://enb.iisd.org/fr/antalya-un-climate-change-conference-cop31",
+      "title": "A69 : l'autoroute Toulouse-Castres en service, avec un péage en flux libre à 20,40 € l'aller-retour",
+      "summary": "Ouverte le 6 novembre après plusieurs reports, la liaison fait gagner jusqu'à vingt-cinq minutes, mais son tarif reste contesté par le département du Tarn après l'avis défavorable du Conseil d'État sur l'avenant de subventions censé le faire baisser.",
+      "source": "ICI Occitanie · France 3 Occitanie",
+      "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/l-autoroute-a69-entre-castres-et-toulouse-est-desormais-ouverte-7302070",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Concours idéal d'infractions",
-    "subtitle": "Droit pénal général · Cass. crim., 15 déc. 2021, n° 21-81.864",
-    "defShort": "Situation dans laquelle un fait unique est susceptible de recevoir plusieurs qualifications pénales. Il s'oppose au concours réel, où plusieurs faits distincts constituent plusieurs infractions.",
+    "term": "Action sociale ut singuli",
+    "subtitle": "Droit des sociétés · Art. L. 225-252 et L. 223-22 C. com. ; art. 1843-5 C. civ.",
+    "defShort": "Action en responsabilité exercée par un ou plusieurs associés, à titre individuel, contre les dirigeants pour obtenir réparation du préjudice subi par la société elle-même. Les dommages-intérêts sont versés à la société, non au demandeur.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Un même geste peut tomber sous plusieurs textes : une fausse facture produite pour obtenir un paiement relève du faux et de l'escroquerie. La question est de savoir si le juge retient une seule qualification ou les cumule dans la déclaration de culpabilité."
+        "body": "L'action sociale appartient en principe à la société, qui l'exerce par ses représentants légaux (action ut universi). Comme ceux-ci sont souvent les dirigeants fautifs, la loi permet à un associé de se substituer à eux : il agit « en tant que singulier », mais pour le compte de la personne morale."
       },
       {
-        "h": "Fondement",
-        "body": "Aucun texte du code pénal ne règle le concours idéal : la solution est prétorienne et se rattache au principe ne bis in idem. Le concours réel, lui, est régi par les articles 132-2 et suivants du code pénal (plafonnement des peines de même nature)."
+        "h": "Fondement et régime",
+        "body": "Ouverte dans toutes les sociétés par l'article 1843-5 du code civil, elle est déclinée pour la SARL (art. L. 223-22 C. com.) et la SA (art. L. 225-252). Les associés peuvent se grouper et charger l'un d'eux de les représenter ; la société doit être mise en cause. Toute clause statutaire qui subordonne l'action à un avis préalable de l'assemblée, ou qui y renonce par avance, est réputée non écrite, et aucune décision de l'assemblée ne peut l'éteindre."
       },
       {
-        "h": "Le revirement de 2021",
-        "body": "Jusqu'alors, la chambre criminelle interdisait le cumul lorsque les faits procédaient d'une action unique animée d'une seule intention coupable. Depuis l'arrêt du 15 décembre 2021, le cumul est le principe ; il n'est écarté que si une qualification est un élément constitutif ou une circonstance aggravante de l'autre, ou si l'une incrimine une modalité particulière de l'action réprimée par l'autre."
+        "h": "Ce qui la distingue",
+        "body": "Elle ne se confond pas avec l'action individuelle, par laquelle l'associé demande réparation d'un préjudice personnel, distinct de celui de la société : la simple dépréciation des titres, simple corollaire du dommage social, ne suffit pas à fonder cette dernière. Le demandeur ut singuli supporte les frais du procès mais n'en recueille pas directement le profit."
       },
       {
         "h": "Portée",
-        "body": "Le cumul de qualifications n'emporte pas cumul de peines : une seule peine est prononcée dans la limite du maximum le plus élevé. L'enjeu tient à l'inscription au casier, à la récidive, aux peines complémentaires propres à chaque qualification et à l'indemnisation des parties civiles."
+        "body": "L'action se prescrit par trois ans à compter du fait dommageable ou de sa révélation s'il a été dissimulé (art. L. 225-254 et L. 223-23 C. com.). L'expertise de gestion, souvent utilisée pour réunir les preuves en amont, ne suspend pas ce délai (Cass. com., 4 nov. 2026, n° 25-14.332) : l'associé minoritaire doit donc agir sans attendre le rapport."
       }
     ],
-    "seeAlso": "Voir aussi — concours réel d'infractions (art. 132-2 C. pén.) · ne bis in idem · qualifications alternatives · spécialité des incriminations"
+    "seeAlso": "Voir aussi — action ut universi · action individuelle de l'associé · expertise de gestion (art. L. 225-231 C. com.) · préjudice par ricochet de l'associé"
   },
   "date": "2026-11-11",
   "dateShort": "11 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 72,
     "title": "Ce que cachent les nuages de poussière",
