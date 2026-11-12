@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Digital Fairness Act : la Commission européenne propose un règlement contre les interfaces trompeuses et la conception addictive en ligne",
+    "dek": "Présenté le 11 novembre 2026, le texte prendrait la forme d'un règlement directement applicable, appelé à remplacer la directive de 2005 sur les pratiques commerciales déloyales : interdiction des « dark patterns » et des fausses alertes de rareté, transparence des prix y compris en monnaie virtuelle, désactivation des fonctionnalités addictives, encadrement du marketing d'influence. La Commission pourrait elle-même enquêter et infliger des amendes jusqu'à 6 % du chiffre d'affaires mondial dans les grandes affaires transfrontalières ; la proposition doit encore être adoptée par le Parlement européen et le Conseil.",
+    "source": "Commission européenne · communiqué du 11 nov. 2026",
+    "url": "https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Transport sanitaire : le décret n° 2026-1038 du 10 novembre 2026 crée une aide exceptionnelle par ambulance et par VSL",
+      "summary": "Publié au JO du 11 novembre, le texte ouvre aux entreprises agréées une aide forfaitaire versée en une fois (1 200 € par ambulance, 400 € par véhicule sanitaire léger), sous conditions de résultat et de régularité fiscale, à demander avant le 31 décembre 2026 et imputée sur les plafonds de minimis.",
+      "source": "Décret n° 2026-1038 du 10 nov. 2026 (JORF n° 0264) · Legifiscal",
+      "url": "https://www.legifiscal.fr/actualites-fiscales/4728-transport-sanitaire-aide-exceptionnelle-vehicule-demander-31-decembre.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. 1re civ., 14 oct. 2026, n° 25-15.106 : l'état antérieur de la victime ne réduit pas la réparation de son décès dès lors que la faute y a contribué",
+      "summary": "Par un arrêt publié au Bulletin, la première chambre civile rappelle que la prédisposition pathologique de la victime, qui ne s'était pas extériorisée avant le fait dommageable, ne permet pas de limiter l'indemnisation due par le responsable.",
+      "source": "Cass. 1re civ., 14 oct. 2026, n° 25-15.106, FS-B · Benezra avocats",
+      "url": "https://www.benezra.fr/jurisprudence-cass-civ1-14-octobre-2026-deces-etat-anterieur-reparation-integrale.html",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Faute inexcusable après le 1er novembre 2026 : que reste-t-il des arrêts d'Assemblée plénière du 20 janvier 2023 ?",
+      "summary": "La réforme de la rente AT/MP, reportée au 1er novembre 2026 par la LFSS pour 2026 et réservée aux victimes consolidées à compter de cette date, ne ruine pas selon l'auteure le raisonnement qui avait permis l'indemnisation distincte du déficit fonctionnel permanent.",
+      "source": "Village de la Justice · N. Le Bouard",
+      "url": "https://www.village-justice.com/articles/faute-inexcusable-apres-1er-novembre-2026-que-reste-des-arrets-assemblee,59832.html",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "12 novembre 1840 : naissance d'Auguste Rodin, rue de l'Arbalète à Paris",
+      "summary": "Fils d'un employé de la préfecture de police, trois fois refusé à l'École des beaux-arts, le sculpteur du Penseur et des Bourgeois de Calais est tenu pour le fondateur de la sculpture moderne ; il meurt à Meudon le 17 novembre 1917.",
+      "source": "Musée Rodin · chronologie",
+      "url": "https://boutique.musee-rodin.fr/en/content/39-chronology-of-auguste-rodin",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Décret de naturalisation : vérifier sa publication au JO et connaître le délai de deux ans ouvert au retrait",
+      "summary": "La publication fait courir le délai de deux ans pendant lequel l'administration peut rapporter le décret si les conditions légales n'étaient pas remplies, la fraude permettant un retrait dans les deux ans de sa découverte (art. 27-2 du code civil).",
+      "source": "Kohen Avocats · art. 27-2 C. civ.",
+      "url": "https://kohenavocats.com/decret-naturalisation-journal-officiel-publication-effets-retrait-recours-2026/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Tempête Charles : pluies orageuses et rafales jusqu'à 90 km/h attendues ce jeudi sur le Sud-Est",
+      "summary": "Remontant de la péninsule Ibérique, la dépression place plusieurs départements méditerranéens en vigilance jaune orages ou vagues-submersion, avant un temps plus frais et moins d'averses annoncé pour vendredi 13 novembre.",
+      "source": "France 3 Occitanie · Météo-France",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/vigilance-vagues-submersion-rafales-jusqu-a-90-km-h-et-fortes-pluies-la-tempete-charles-frappe-l-herault-et-le-gard-places-en-vigilance-jaune-3448038.html",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Opération complexe",
+    "subtitle": "Contentieux administratif · exception d'illégalité et actes non réglementaires",
+    "defShort": "Suite de décisions administratives successives, édictées en vue d'un résultat unique, dont la dernière ne peut intervenir qu'après les précédentes. Elle permet d'invoquer contre l'acte final l'illégalité d'un acte antérieur devenu définitif.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Par principe, l'illégalité d'une décision individuelle devenue définitive ne peut plus être invoquée par voie d'exception à l'appui d'un recours contre une décision ultérieure. La théorie de l'opération complexe fait exception : lorsque les actes forment une chaîne indissociable tendant à une seule fin, le requérant peut contester l'acte final en excipant de l'illégalité d'un maillon antérieur, même non attaqué dans les délais."
+      },
+      {
+        "h": "Fondement",
+        "body": "La notion est purement jurisprudentielle. Elle tempère la règle selon laquelle l'exception d'illégalité n'est perpétuelle qu'à l'encontre des actes réglementaires, tandis qu'elle ne peut viser un acte individuel que tant qu'il n'est pas devenu définitif. Le juge s'attache à la finalité commune des actes et au caractère nécessaire de l'acte antérieur à l'édiction du suivant."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Exemples classiques : en expropriation, la déclaration d'utilité publique et l'arrêté de cessibilité ; en matière de concours, la délibération du jury arrêtant la liste des admis et la nomination ; certaines procédures d'inscription sur une liste d'aptitude puis de promotion. À l'inverse, le permis de construire et les actes qu'il conditionne ne forment en principe pas une opération complexe."
+      },
+      {
+        "h": "Portée",
+        "body": "L'enjeu est contentieux : la qualification rouvre un moyen que la forclusion aurait éteint. Le juge en fait un usage mesuré pour préserver la sécurité juridique, d'autant qu'il a parallèlement restreint l'invocation, par voie d'exception, des vices de forme et de procédure des actes réglementaires (CE, Ass., 18 mai 2018, Fédération des finances et affaires économiques de la CFDT, n° 414583)."
+      }
+    ],
+    "seeAlso": "Voir aussi — exception d'illégalité · acte détachable · acte devenu définitif · forclusion · jurisprudence CFDT Finances (CE, Ass., 2018)"
+  },
+  "date": "2026-11-12",
+  "dateShort": "12 nov.",
+  "slot": "matin"
+}

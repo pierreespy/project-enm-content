@@ -1,0 +1,32 @@
+{
+  "n": 73,
+  "title": "L'infrarouge et le télescope James Webb",
+  "subtitle": "Pourquoi un télescope fait pour l'infrarouge doit être loin, et très froid",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Une lumière que l'air retient",
+      "body": "L'infrarouge (jour 72) traverse la poussière interstellaire, mais il traverse mal l'atmosphère terrestre : la vapeur d'eau et le gaz carbonique de l'air en absorbent (jour 71) une grande partie avant qu'il n'atteigne le sol. Les télescopes installés en montagne n'en recueillent donc qu'une fraction, dans quelques bandes étroites. Pour l'observer pleinement, il faut un télescope spatial, c'est-à-dire un télescope placé hors de l'atmosphère, dans l'espace. C'est le choix fait pour James Webb, lancé le 25 décembre 2021."
+    },
+    {
+      "h": "Le froid comme condition",
+      "body": "Tout corps tiède émet de l'infrarouge : la Terre, le Soleil, et le télescope lui-même. Un instrument chaud serait ébloui par sa propre lueur, comme on chercherait une bougie lointaine en tenant une lampe allumée devant les yeux. Webb est donc maintenu à environ moins 230 degrés. Il se tient à quelque 1,5 million de kilomètres de la Terre, du côté opposé au Soleil, et un pare-soleil de la taille d'un court de tennis, fait de cinq voiles superposés, le protège en permanence de la chaleur du Soleil, de la Terre et de la Lune."
+    },
+    {
+      "h": "Ce que l'infrarouge ouvre",
+      "body": "Avec un miroir de 6,5 mètres, Webb a un pouvoir collecteur (jour 31) environ six fois supérieur à celui de son prédécesseur Hubble. Il voit à l'intérieur des nuages sombres (jour 72) où naissent les étoiles, et il analyse le spectre (jour 14) de l'atmosphère de certaines exoplanètes (jour 30) lors de leur transit. Il voit aussi les galaxies les plus lointaines : leur lumière, émise dans le visible ou l'ultraviolet, a été tant étirée par le décalage vers le rouge (jour 17) qu'elle nous parvient en infrarouge."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Télescope spatial",
+      "def": "Télescope placé dans l'espace, hors de l'atmosphère, pour recevoir les lumières que l'air absorbe ou brouille."
+    },
+    {
+      "term": "Absorption atmosphérique",
+      "def": "Arrêt d'une partie de la lumière venue de l'espace par les gaz de l'air, en particulier la vapeur d'eau pour l'infrarouge."
+    }
+  ],
+  "recap": "L'infrarouge est en grande partie arrêté par l'air et brouillé par toute source tiède : c'est pourquoi Webb observe depuis l'espace, loin de la Terre et maintenu à très basse température.",
+  "next": "Demain — les premières galaxies vues par Webb : pourquoi certaines paraissent trop grandes et trop tôt formées."
+}

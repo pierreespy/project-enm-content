@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11",
-  "count": 72,
+  "updated": "2026-11-12",
+  "count": 73,
   "lessons": [
     {
       "n": 1,
@@ -622,6 +622,15 @@
       "terms": [
         "Nuage sombre",
         "Infrarouge"
+      ]
+    },
+    {
+      "n": 73,
+      "file": "astro/lessons/073-l-infrarouge-et-le-telescope-james-webb.json",
+      "title": "L'infrarouge et le télescope James Webb",
+      "terms": [
+        "Télescope spatial",
+        "Absorption atmosphérique"
       ]
     }
   ]

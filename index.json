@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-11",
-  "updatedSlot": "midi",
-  "count": 23,
+  "updated": "2026-11-12",
+  "updatedSlot": "matin",
+  "count": 22,
   "editions": [
+    {
+      "date": "2026-11-12",
+      "slot": "matin",
+      "file": "editions/2026-11-12-matin.json",
+      "essentiel": "Digital Fairness Act : la Commission européenne propose un règlement contre les interfaces trompeuses et la conception addictive en ligne",
+      "term": "Opération complexe",
+      "rubriques": [
+        "Transport sanitaire : le décret n° 2026-1038 du 10 novembre 2026 crée une aide exceptionnelle par ambulance et par VSL",
+        "Cass. 1re civ., 14 oct. 2026, n° 25-15.106 : l'état antérieur de la victime ne réduit pas la réparation de son décès dès lors que la faute y a contribué",
+        "Faute inexcusable après le 1er novembre 2026 : que reste-t-il des arrêts d'Assemblée plénière du 20 janvier 2023 ?",
+        "12 novembre 1840 : naissance d'Auguste Rodin, rue de l'Arbalète à Paris",
+        "Décret de naturalisation : vérifier sa publication au JO et connaître le délai de deux ans ouvert au retrait",
+        "Tempête Charles : pluies orageuses et rafales jusqu'à 90 km/h attendues ce jeudi sur le Sud-Est"
+      ]
+    },
     {
       "date": "2026-11-11",
       "slot": "midi",
@@ -316,36 +331,6 @@
         "28 octobre 1886 : la statue de la Liberté est inaugurée à New York",
         "Crédit immobilier : un arrêt de la première chambre civile publié au bulletin le 7 octobre 2026",
         "Journal officiel du 27 octobre 2026 : un décret du 26 octobre prévoit l'entrée en vigueur immédiate d'un arrêté"
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "slot": "midi",
-      "file": "editions/2026-10-27-midi.json",
-      "essentiel": "PLFSS 2027 : l'Assemblée nationale rejette le projet de loi en première lecture, la seconde partie n'ayant pas été adoptée le 23 octobre",
-      "term": "Réméré",
-      "rubriques": [
-        "Établissements sociaux et médico-sociaux expérimentaux : la loi du 21 octobre 2026 assouplit la procédure d'autorisation",
-        "Agence commerciale : les accords de sortie conclus pendant le préavis sont risqués, juge la CJUE",
-        "Cass. com., 7 octobre 2026 : cinq arrêts qui verrouillent la protection des tiers (cession, caution, dirigeant)",
-        "27 octobre 1904 : le métro de New York est inauguré",
-        "Discipline des avocats : la CEDH admet l'obligation de comparaître en personne, sous réserve d'entendre le représentant sur les motifs de l'absence",
-        "Météo-France : des cartes de vigilance désormais détaillées par secteur au sein d'un même département"
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "slot": "matin",
-      "file": "editions/2026-10-27-matin.json",
-      "essentiel": "Partage judiciaire : le décret du 18 octobre 2026 réécrit la procédure, avec avocat obligatoire devant le notaire commis et mission du notaire plafonnée à 18 mois",
-      "term": "Effet déclaratif du partage",
-      "rubriques": [
-        "Accès aux études de médecine, pharmacie, odontologie et maïeutique : un décret du 23 octobre 2026 modifie les conditions d'accès",
-        "Faute inexcusable : l'incapacité permanente fonctionnelle doit être indemnisée dans toutes ses composantes",
-        "Respect de la vie privée du salarié et loyauté : la Cour de cassation face à la preuve",
-        "27 octobre 1946 : la Constitution de la IVe République est promulguée",
-        "Indivision immobilière : un indivisaire peut agir seul pour les actes conservatoires (art. 815-2 du Code civil)",
-        "Météo : un pic de douceur ce mardi avant de nouvelles pluies"
       ]
     }
   ]
