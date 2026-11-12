@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-12",
-  "updatedSlot": "matin",
-  "count": 22,
+  "updatedSlot": "midi",
+  "count": 23,
   "editions": [
+    {
+      "date": "2026-11-12",
+      "slot": "midi",
+      "file": "editions/2026-11-12-midi.json",
+      "essentiel": "Grève : l'employeur peut réorganiser l'activité pour en assurer la continuité sans que la mesure soit, par principe, une rétorsion",
+      "term": "Subrogation réelle",
+      "rubriques": [
+        "Bonus écologique : l'arrêté du 9 novembre 2026 ajoute de nouvelles voitures électriques à la liste des modèles éligibles à compter de ce 12 novembre",
+        "Maladie hors tableau : l'employeur peut contester le taux d'incapacité permanente prévisible de 25 % (Cass. 2e civ., 15 oct. 2026)",
+        "Protéger les lieux de culte et le patrimoine religieux : l'étude de législation comparée n° 364 du Sénat sur quinze pays",
+        "12 novembre 1920 : le traité de Rapallo règle la frontière entre l'Italie et le royaume des Serbes, Croates et Slovènes",
+        "Article 455 du CPC : que faire lorsque la cour d'appel ne répond pas à vos conclusions ?",
+        "COP31 à Antalya : à mi-parcours, adaptation et transition juste restent les dossiers les plus disputés"
+      ]
+    },
     {
       "date": "2026-11-12",
       "slot": "matin",

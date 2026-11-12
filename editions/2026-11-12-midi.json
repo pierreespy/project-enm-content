@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Grève : l'employeur peut réorganiser l'activité pour en assurer la continuité sans que la mesure soit, par principe, une rétorsion",
+    "dek": "Dans un arrêt publié du 10 novembre 2026, la chambre sociale examine le transfert provisoire de réunions d'un site en grève vers d'autres établissements : l'entreprise peut chercher à maintenir son activité pendant le conflit, sous réserve des interdictions de recourir aux CDD et à l'intérim pour remplacer les grévistes. La mise en activité partielle de non-grévistes, régularisée après intervention de l'inspection du travail, a pesé dans l'appréciation d'une éventuelle mesure de rétorsion ; la cassation n'est que partielle.",
+    "source": "Cass. soc., 10 nov. 2026, n° 24-16.791, FS-B · Kohen Avocats",
+    "url": "https://kohenavocats.com/greve-employeur-deplacer-activite-autre-site-primes/"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Bonus écologique : l'arrêté du 9 novembre 2026 ajoute de nouvelles voitures électriques à la liste des modèles éligibles à compter de ce 12 novembre",
+      "summary": "Publié au JO du 10 novembre, le texte modifie l'arrêté du 14 décembre 2023 fixant les versions de voitures particulières électriques ayant atteint le score environnemental minimal qui conditionne l'accès aux aides à l'achat et à la location.",
+      "source": "Arrêté du 9 nov. 2026 (JORF n° 0263 du 10 nov. 2026) · Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075229",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Maladie hors tableau : l'employeur peut contester le taux d'incapacité permanente prévisible de 25 % (Cass. 2e civ., 15 oct. 2026)",
+      "summary": "La deuxième chambre civile admet que l'employeur discute, à l'appui de son recours en inopposabilité, le taux prévisible retenu par le service médical pour saisir le CRRMP, le juge devant vérifier lui-même que le seuil est atteint, au besoin par expertise — et non en se fondant sur le seul taux fixé après consolidation.",
+      "source": "Cass. 2e civ., 15 oct. 2026, n° 24-15.159 · Legisocial",
+      "url": "https://www.legisocial.fr/actualites-sociales/8221-maladies-professionnelles-tableaux-cour-cassation-ouvre-nouveau-droit-contestation-employeurs.html",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Protéger les lieux de culte et le patrimoine religieux : l'étude de législation comparée n° 364 du Sénat sur quinze pays",
+      "summary": "La division de la législation comparée conclut à l'absence de modèle unique : la protection combine le plus souvent normes constitutionnelles, droit des cultes, droit pénal, police administrative et droit du patrimoine, le seul caractère religieux d'un bien ne suffisant pas, dans plusieurs États, à justifier un régime propre.",
+      "source": "Sénat · Étude de législation comparée n° 364",
+      "url": "https://www.senat.fr/lc/lc364/LC364.pdf",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "12 novembre 1920 : le traité de Rapallo règle la frontière entre l'Italie et le royaume des Serbes, Croates et Slovènes",
+      "summary": "Signé deux ans après l'armistice, l'accord attribue l'Istrie et Zara à l'Italie, laisse la Dalmatie au nouvel État yougoslave et érige Fiume en État libre — un statut que Gabriele D'Annunzio, qui occupait la ville depuis 1919, refusera jusqu'à son expulsion au « Noël de sang ».",
+      "source": "Hérodote · almanach du 12 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1112.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Article 455 du CPC : que faire lorsque la cour d'appel ne répond pas à vos conclusions ?",
+      "summary": "Le défaut de réponse à conclusions équivaut à un défaut de motifs ouvrant la cassation, à condition que le moyen délaissé ait été opérant et formulé dans le dispositif ou les motifs des dernières écritures — une vigilance accrue alors qu'un projet de décret envisage d'expérimenter des arrêts d'appel non spécialement motivés.",
+      "source": "Kohen Avocats · art. 455 CPC",
+      "url": "https://kohenavocats.fr/2026/11/12/article-455-cour-appel-ne-repond-pas-conclusions/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "COP31 à Antalya : à mi-parcours, adaptation et transition juste restent les dossiers les plus disputés",
+      "summary": "Sous une présidence partagée entre la Turquie, hôte de la conférence, et l'Australie, chargée de conduire les négociations, les délégations doivent trancher les points laissés en suspens à Bonn en juin et lancer le deuxième bilan mondial d'ici la clôture prévue le 20 novembre.",
+      "source": "Climate Home News · briefing COP31",
+      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Subrogation réelle",
+    "subtitle": "Droit civil des biens · régimes matrimoniaux · art. 1406, 1407 et 1434 du Code civil",
+    "defShort": "Mécanisme par lequel un bien nouveau prend, dans un patrimoine ou une masse de biens, la place juridique d'un bien sorti, en recevant sa qualification et son régime. C'est la « chose » qui est remplacée, non la personne.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "À distinguer de la subrogation personnelle (paiement avec subrogation, art. 1346 C. civ.), où un tiers prend la place du créancier. Dans la subrogation réelle, le lien de droit demeure, mais il se reporte d'un bien sur un autre : le prix de vente, l'indemnité d'assurance ou le bien acquis en emploi est traité comme l'était le bien qu'il remplace."
+      },
+      {
+        "h": "Fondement",
+        "body": "Aucun texte général ne la consacre ; elle procède de dispositions éparses que la doctrine (Capitant, Henry) a systématisées. La jurisprudence distingue la subrogation de plein droit, qui joue automatiquement au sein d'une universalité (indemnités et biens acquis en échange d'un propre, art. 1406 et 1407), et la subrogation conventionnelle, subordonnée à des formalités, comme la déclaration d'emploi ou de remploi exigée par l'art. 1434."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Régime de communauté : le bien acquis avec des deniers propres reste propre si l'acte comporte la double déclaration d'origine des fonds et d'intention de remploi. Successions : le rapport et la réduction s'exercent sur le bien subrogé au bien donné (art. 860, 924-2). Sûretés : l'indemnité d'assurance est affectée aux créanciers privilégiés ou hypothécaires (art. L. 121-13 C. assur.). Fiducie et usufruit en fournissent d'autres applications."
+      },
+      {
+        "h": "Portée",
+        "body": "Elle assure la permanence d'une masse de biens malgré la circulation de ses éléments et protège ceux qui ont des droits sur elle. Mais, sauf texte, elle ne se présume pas hors des universalités : faute de déclaration de remploi, le bien acquis tombe en communauté, l'époux n'ayant plus qu'un droit à récompense — distinction décisive en liquidation."
+      }
+    ],
+    "seeAlso": "Voir aussi — remploi (art. 1434-1435) · récompense (art. 1433) · subrogation personnelle (art. 1346) · universalité de droit · quasi-usufruit"
+  },
+  "date": "2026-11-12",
+  "dateShort": "12 nov.",
+  "slot": "midi"
+}
