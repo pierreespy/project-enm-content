@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Intégrité publique : le Gouvernement dépose deux projets de loi qui font de la HATVP une « Haute Autorité pour l'intégrité publique »",
-    "dek": "Délibérés en Conseil des ministres le 10 novembre 2026 après avis du Conseil d'État, un projet de loi ordinaire et un projet de loi organique, déposés au Sénat (n° 163 et 164), reprennent le rapport remis en mai 2026 par Jean Maïa : pouvoir d'injonction assorti d'une astreinte administrative, contrôle renforcé des reconversions vers le privé en cas de risque d'influence étrangère, mais allègement des déclarations de patrimoine et de la période de référence. Les critiques y voient un recul sur la probité des élus ; l'examen parlementaire commence au Sénat.",
-    "source": "Compte rendu du Conseil des ministres · 10 nov. 2026 · Sénat, PJLO n° 164",
-    "url": "https://www.elysee.fr/emmanuel-macron/2026/11/10/compte-rendu-du-conseil-des-ministres-du-10-novembre-2026"
+    "title": "Justice pénale des mineurs : le Conseil constitutionnel valide, sous réserve, le renvoi au parquet du délit qui s'avère être un crime",
+    "dek": "Saisi par la chambre criminelle (arrêt du 26 août 2026), le Conseil déclare conforme, dans sa décision n° 2026-1232 QPC rendue publique ce 13 novembre, le premier alinéa de l'article L. 521-4 du code de la justice pénale des mineurs, qui oblige le juge des enfants et le tribunal pour enfants à renvoyer le ministère public à se pourvoir lorsque le fait poursuivi comme délit est de nature criminelle. Le requérant reprochait au texte de ne pas reprendre la limite applicable aux majeurs lorsque la juridiction est saisie par renvoi d'un juge d'instruction et que la victime, partie civile, était assistée d'un avocat ; la conformité est assortie d'une réserve d'interprétation (§ 12 et 13) et de conditions d'application fixées au § 14.",
+    "source": "Cons. const., déc. n° 2026-1232 QPC du 13 nov. 2026",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261232QPC.htm"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Stocks stratégiques de gazole : l'arrêté du 10 novembre 2026 fixe le contenu des bilans dus par les bénéficiaires de la cession à prix coûtant",
-      "summary": "Pris pour l'application de l'article 4 du décret n° 2026-981 du 23 octobre 2026, l'arrêté publié au JO du 11 novembre précise les bilans, à données cumulées depuis le 25 octobre, que les metteurs à la consommation et les entreprises ayant reçu ou rétrocédé l'avantage doivent transmettre aux ministres, avec une déclaration simplifiée pour ceux qui n'en ont tiré aucun bénéfice.",
-      "source": "Arrêté du 10 nov. 2026 (JORF n° 0264 du 11 nov. 2026) · décret n° 2026-981 · Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055011774",
+      "title": "Évaluation environnementale : le décret n° 2026-1039 du 10 novembre 2026 oblige l'autorité compétente à vérifier l'actualité de l'étude d'impact",
+      "summary": "Publié au JO du 13 novembre et en vigueur dès le 14, le décret modifie les parties réglementaires des codes de l'environnement et de l'urbanisme pour imposer un contrôle de l'actualité de l'étude d'impact au stade de l'autorisation et alléger la consultation des agences régionales de santé.",
+      "source": "Décret n° 2026-1039 du 10 nov. 2026 (JORF n° 0265 du 13 nov. 2026, texte n° 6) · Cabinet Gossement Avocats",
+      "url": "https://www.gossement-avocats.com/blog/evaluation-environnementale-le-decret-n-2026-1039-du-10-novembre-2026-impose-a-lautorite-competente-de-verifier-lactualite-de-letude-dimpact-et-simplifie-la-consultation-des-agences-re/",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass. com., 4 nov. 2026, n° 25-17.110 : pacte Dutreil et société à activité mixte, la prépondérance s'apprécie par un faisceau d'indices au jour de la transmission",
-      "summary": "Par un arrêt de rejet publié au Bulletin, la chambre commerciale approuve la cour d'appel d'avoir refusé l'exonération de 75 % à la donation de titres d'une société de marchand de biens et de promotion immobilière, l'activité patrimoniale l'emportant au regard du chiffre d'affaires et de l'actif brut à la date du fait générateur.",
-      "source": "Cass. com., 4 nov. 2026, n° 25-17.110, publié · Kohen Avocats",
-      "url": "https://kohenavocats.com/pacte-dutreil-societe-mixte-marchand-biens-preponderance-donation-4-novembre-2026/",
+      "title": "Cass. soc., 4 nov. 2026, n° 25-17.982 : entre régime conventionnel et décision unilatérale, la prévoyance la plus favorable se compare globalement, tous risques confondus",
+      "summary": "Dans cet arrêt publié au Bulletin, la chambre sociale refuse que le salarié combine les meilleures garanties de deux régimes de prévoyance concurrents : l'application du principe de faveur suppose une comparaison d'ensemble des avantages ayant le même objet, et non garantie par garantie.",
+      "source": "Cass. soc., 4 nov. 2026, n° 25-17.982, F-B · Voltaire Avocats",
+      "url": "https://www.voltaire-avocats.com/fr/prevoyance-la-comparaison-entre-regime-conventionnel-et-decision-unilaterale-sopere-globalement-tous-risques-confondus/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Avenir d'Eurojust : le Sénat soutient l'agence mais conteste la réforme de sa gouvernance proposée par la Commission",
-      "summary": "Le rapport d'information n° 151 de la commission des affaires européennes (MM. Chaillou et Hervé), déposé le 5 novembre 2026, défend le rôle opérationnel d'Eurojust dans la coordination des enquêtes et des mandats d'arrêt européens, et sous-tend la résolution, devenue définitive le 8 novembre, jugeant la proposition COM(2026) 570 contraire au principe de subsidiarité.",
-      "source": "Sénat · rapport d'information n° 151 (2026-2027), 5 nov. 2026",
-      "url": "https://www.senat.fr/notice-rapport/2026/r26-151-notice.html",
+      "title": "Atteintes à l'environnement : l'étude du Conseil d'État remise le 12 novembre 2026 propose de refondre l'échelle des sanctions",
+      "summary": "Commandée par le Gouvernement, l'étude constate le décalage entre la profusion d'incriminations et la faiblesse des contrôles et des condamnations, et recommande de réviser l'échelle des peines à la lumière de la directive de 2024, de mieux articuler sanctions administratives et pénales et de privilégier forfaitisation et remise en état.",
+      "source": "Conseil d'État · Ateliers de la simplification, « Atteintes à l'environnement », 12 nov. 2026",
+      "url": "https://www.conseil-etat.fr/publications-colloques/etudes/les-ateliers-de-la-simplification-du-conseil-d-etat/atelier-de-simplification-atteintes-a-l-environnement",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "13 novembre 1907 : près de Lisieux, Paul Cornu s'élève à 1,50 m à bord du premier hélicoptère piloté",
-      "summary": "Ce mécanicien normand, fils d'artisans, quitte le sol quelques secondes sur une machine à deux rotors de sa fabrication, mue par un moteur Antoinette de 24 chevaux, un exploit que l'absence de financement l'empêchera de prolonger.",
-      "source": "Hérodote · almanach du 13 novembre",
-      "url": "https://www.herodote.net/almanach-jour-1113.php",
+      "title": "13 novembre 1002 : le massacre de la Saint-Brice, ordonné par Æthelred contre les Danois d'Angleterre",
+      "summary": "Le roi anglo-saxon fait mettre à mort les colons danois établis dans son royaume, parmi lesquels des proches du roi Sven à la Barbe fourchue, qui en tirera prétexte pour des expéditions de représailles aboutissant, en 1013, à la conquête de l'Angleterre.",
+      "source": "Hérodote · « Ça s'est passé un 13 novembre »",
+      "url": "https://www.herodote.net/Ca_s_est_passe_un_13_novembre-almanach-jour-1113.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Partie civile aux assises : obtenir réparation malgré l'acquittement pour assassinat (Cass. crim., 12 nov. 2026, n° 25-86.538)",
-      "summary": "Lorsque l'accusé acquitté du crime est condamné pour une association de malfaiteurs ayant pour objet sa préparation, la cour statuant sur les intérêts civils peut examiner la demande de la victime, à condition de caractériser le lien entre l'infraction retenue et le dommage invoqué.",
-      "source": "Cass. crim., 12 nov. 2026, n° 25-86.538 · Kohen Avocats",
-      "url": "https://kohenavocats.com/indemnisation-partie-civile-assises-acquittement-assassinat-association-malfaiteurs/",
+      "title": "Haie à moins de deux mètres de la route : le riverain s'expose à des poursuites pour homicide involontaire (Cass. crim., 3 nov. 2026)",
+      "summary": "La chambre criminelle casse une relaxe en jugeant que l'interdiction de laisser croître arbres et haies à moins de deux mètres du domaine public routier constitue une obligation particulière de prudence ou de sécurité au sens de l'article 121-3 du code pénal, ce qui invite les propriétaires riverains à documenter leurs élagages.",
+      "source": "Cass. crim., 3 nov. 2026 · Kohen Avocats",
+      "url": "https://kohenavocats.com/haie-2-metres-route-homicide-involontaire-riverain-cassation-3-novembre-2026/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Crise fourragère : Annie Genevard demande aux chambres d'agriculture un recensement des besoins, territoire par territoire",
-      "summary": "Après une pousse cumulée des prairies inférieure de 42 % à la normale au 31 octobre, la ministre veut éviter une décapitalisation du cheptel d'ici février, porte le plan d'urgence CASI de 1,3 à 1,5 milliard d'euros et organise l'approvisionnement en fourrage depuis l'Espagne, la Bulgarie et l'Europe du Nord.",
-      "source": "La France Agricole · 12 nov. 2026",
-      "url": "https://www.lafranceagricole.fr/podcasts/article/905951/le-podcast-du-12-novembre-2026",
+      "title": "Fnac Darty : EP Group de Daniel Křetínský devient actionnaire de contrôle avec 69,3 % du capital",
+      "summary": "Selon le résultat publié par l'AMF, l'offre publique d'acquisition à 36 euros par action lancée en janvier franchit largement le seuil de caducité de 50 %, après le feu vert de la Commission européenne du 20 octobre.",
+      "source": "Boursier · AMF, résultat de l'OPA, 10 nov. 2026",
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/divers/fnac-darty-ep-group-devient-actionnaire-de-controle-avec-69-3-des-parts-boursier-baf53fcc499c3e6e806f02e9bc001d8cedffa844",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Faute civile démontrée dans la limite des faits de la poursuite",
-    "subtitle": "Procédure pénale · action civile · art. 372, 470-1 et 497 3° du Code de procédure pénale",
-    "defShort": "Faute que le juge répressif, saisi des seuls intérêts civils après un acquittement ou une relaxe, peut retenir pour indemniser la victime, à condition de la déduire des faits mêmes dont il était saisi — sans jamais requalifier ni déclarer l'auteur coupable.",
+    "term": "Fongibilité asymétrique",
+    "subtitle": "Finances publiques · Article 7, II, de la loi organique relative aux lois de finances (LOLF)",
+    "defShort": "Liberté reconnue au gestionnaire d'un programme budgétaire de redéployer ses crédits entre natures de dépenses, à une exception près : les crédits de personnel peuvent financer d'autres dépenses, mais aucune autre dépense ne peut abonder les crédits de personnel.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Principe : la juridiction pénale n'est compétente pour l'action civile qu'accessoirement à l'action publique ; la relaxe devrait donc emporter débouté. Le mécanisme y déroge : il dissocie la faute pénale, définitivement écartée, de la faute civile, que le juge peut encore constater pour allouer des dommages-intérêts, sans que la décision pénale ne soit remise en cause."
+        "body": "Depuis la LOLF du 1er août 2001, les crédits sont votés par programme et seulement indicatifs par titre (personnel, fonctionnement, investissement, intervention…). Le responsable de programme peut donc les déplacer d'un titre à l'autre : c'est la fongibilité. Elle est dite asymétrique parce qu'elle ne joue que dans un sens pour la masse salariale : les crédits du titre 2 sont un plafond qu'on peut alléger au profit d'autres titres, jamais relever en puisant ailleurs."
       },
       {
         "h": "Fondement",
-        "body": "Aux assises, l'article 372 permet à la partie civile, en cas d'acquittement, de demander réparation « du dommage résultant de la faute de l'accusé, telle qu'elle résulte des faits qui sont l'objet de l'accusation ». En matière correctionnelle, la chambre criminelle (Crim., 5 févr. 2014, n° 12-80.154) admet que la cour d'appel, saisie du seul appel de la partie civile contre une relaxe, retienne une faute civile « démontrée à partir et dans la limite des faits objet de la poursuite » (art. 497 3°). Pour les infractions non intentionnelles, l'article 470-1 autorise l'application des règles du droit civil."
+        "body": "L'article 7, II, de la LOLF dispose que les crédits ouverts sur le titre des dépenses de personnel de chaque programme constituent le plafond des dépenses de cette nature. S'y ajoute un plafond d'autorisation des emplois, voté par ministère. Le mécanisme se distingue des virements (entre programmes d'un même ministère) et des transferts (entre ministères), encadrés par l'article 12 et soumis à des plafonds et à l'information du Parlement."
       },
       {
         "h": "Cas visés",
-        "body": "Acquittement aux assises suivi d'un arrêt civil ; appel de la seule partie civile contre un jugement de relaxe devenu définitif sur l'action publique ; homicide ou blessures involontaires sans faute pénale caractérisée (art. 121-3 C. pén.) mais avec une faute civile d'imprudence, depuis la dissociation consacrée par la loi du 10 juillet 2000 (art. 4-1 CPP)."
+        "body": "Un programme qui sous-consomme sa masse salariale (postes vacants, recrutements décalés) peut affecter le reliquat à l'investissement ou au fonctionnement, sans texte réglementaire. À l'inverse, un dépassement des dépenses de personnel ne peut être couvert par redéploiement interne : il suppose un décret de virement ou de transfert, ou une loi de finances rectificative."
       },
       {
         "h": "Portée",
-        "body": "Deux verrous : le juge ne peut sortir des faits de la prévention ou de l'accusation, ni employer des termes qui imputent l'infraction à la personne relaxée, sous peine de méconnaître la présomption d'innocence (CEDH, Lagardère c. France, 12 avr. 2012). La motivation doit donc décrire un comportement fautif au sens de l'article 1240 du Code civil, et non une culpabilité déguisée."
+        "body": "L'asymétrie protège l'autorisation parlementaire sur la dépense la plus rigide de l'État, la masse salariale, dont toute hausse engage les budgets futurs. Elle incite à la gestion par la performance tout en neutralisant le risque de « fongibilité inversée » qui transformerait des crédits ponctuels en emplois pérennes. Les rapports de la Cour des comptes sur l'exécution budgétaire en contrôlent chaque année le respect."
       }
     ],
-    "seeAlso": "Voir aussi — autorité de la chose jugée au pénal sur le civil · dissociation des fautes pénale et civile (art. 4-1 CPP) · effet dévolutif de l'appel de la partie civile · intérêts civils (art. 464 CPP)"
+    "seeAlso": "Voir aussi — spécialité des crédits · plafond d'autorisation des emplois · décret de virement (art. 12 LOLF) · mise en réserve de précaution"
   },
   "date": "2026-11-13",
   "dateShort": "13 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 74,
     "title": "Les premières galaxies vues par Webb",
