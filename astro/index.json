@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12",
-  "count": 73,
+  "updated": "2026-11-13",
+  "count": 74,
   "lessons": [
     {
       "n": 1,
@@ -631,6 +631,15 @@
       "terms": [
         "Télescope spatial",
         "Absorption atmosphérique"
+      ]
+    },
+    {
+      "n": 74,
+      "file": "astro/lessons/074-les-premieres-galaxies-vues-par-webb.json",
+      "title": "Les premières galaxies vues par Webb",
+      "terms": [
+        "Galaxie primitive",
+        "Masse stellaire"
       ]
     }
   ]

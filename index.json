@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-12",
-  "updatedSlot": "midi",
-  "count": 23,
+  "updated": "2026-11-13",
+  "updatedSlot": "matin",
+  "count": 22,
   "editions": [
+    {
+      "date": "2026-11-13",
+      "slot": "matin",
+      "file": "editions/2026-11-13-matin.json",
+      "essentiel": "Intégrité publique : le Gouvernement dépose deux projets de loi qui font de la HATVP une « Haute Autorité pour l'intégrité publique »",
+      "term": "Faute civile démontrée dans la limite des faits de la poursuite",
+      "rubriques": [
+        "Stocks stratégiques de gazole : l'arrêté du 10 novembre 2026 fixe le contenu des bilans dus par les bénéficiaires de la cession à prix coûtant",
+        "Cass. com., 4 nov. 2026, n° 25-17.110 : pacte Dutreil et société à activité mixte, la prépondérance s'apprécie par un faisceau d'indices au jour de la transmission",
+        "Avenir d'Eurojust : le Sénat soutient l'agence mais conteste la réforme de sa gouvernance proposée par la Commission",
+        "13 novembre 1907 : près de Lisieux, Paul Cornu s'élève à 1,50 m à bord du premier hélicoptère piloté",
+        "Partie civile aux assises : obtenir réparation malgré l'acquittement pour assassinat (Cass. crim., 12 nov. 2026, n° 25-86.538)",
+        "Crise fourragère : Annie Genevard demande aux chambres d'agriculture un recensement des besoins, territoire par territoire"
+      ]
+    },
     {
       "date": "2026-11-12",
       "slot": "midi",
@@ -316,36 +331,6 @@
         "29 octobre 1929 : le « mardi noir » à Wall Street",
         "Suppléance et administration provisoire des cabinets d'avocats : le CNB lance une consultation",
         "Aide carburant de 100 euros : une nouvelle demande en ligne ouverte jusqu'au 31 décembre"
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "slot": "midi",
-      "file": "editions/2026-10-28-midi.json",
-      "essentiel": "Association : la Cour de cassation écarte, le 22 octobre 2026, l'application du principe non bis in idem aux sanctions prises par les associations",
-      "term": "Indivisibilité en matière d'appel",
-      "rubriques": [
-        "Casseurs-payeurs : le Sénat examine le 27 octobre le projet de loi, déjà durci en commission",
-        "Passerelle vers la profession d'avocat : la Cour de cassation rejette le pourvoi d'une juriste, l'exercice dans un service juridique spécialisé étant exigé",
-        "Situation de Marine Le Pen : quand les avis des plus hauts magistrats divergent",
-        "28 octobre 1962 : Khrouchtchev annonce le retrait des missiles soviétiques de Cuba",
-        "Avocats aux Conseils : « les avocats de la dernière chance »",
-        "Vacances de la Toussaint : Bison Futé classe ce mercredi 28 octobre en vert, vendredi 30 en orange"
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "slot": "matin",
-      "file": "editions/2026-10-28-matin.json",
-      "essentiel": "Fraude bancaire : la CJUE, le 15 octobre 2026, resserre l'exigence de négligence grave opposable à l'utilisateur de services de paiement",
-      "term": "Exception de nullité perpétuelle",
-      "rubriques": [
-        "Rétention administrative : un décret du 22 octobre 2026 modifie le Ceseda",
-        "Capitalisation des intérêts : la deuxième chambre civile rejette les pourvois dans un arrêt publié au bulletin",
-        "Veille jurisprudentielle d'octobre 2026 : les décisions sociales à retenir",
-        "28 octobre 1886 : la statue de la Liberté est inaugurée à New York",
-        "Crédit immobilier : un arrêt de la première chambre civile publié au bulletin le 7 octobre 2026",
-        "Journal officiel du 27 octobre 2026 : un décret du 26 octobre prévoit l'entrée en vigueur immédiate d'un arrêté"
       ]
     }
   ]

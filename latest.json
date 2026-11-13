@@ -1,125 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Grève : l'employeur peut réorganiser l'activité pour en assurer la continuité sans que la mesure soit, par principe, une rétorsion",
-    "dek": "Dans un arrêt publié du 10 novembre 2026, la chambre sociale examine le transfert provisoire de réunions d'un site en grève vers d'autres établissements : l'entreprise peut chercher à maintenir son activité pendant le conflit, sous réserve des interdictions de recourir aux CDD et à l'intérim pour remplacer les grévistes. La mise en activité partielle de non-grévistes, régularisée après intervention de l'inspection du travail, a pesé dans l'appréciation d'une éventuelle mesure de rétorsion ; la cassation n'est que partielle.",
-    "source": "Cass. soc., 10 nov. 2026, n° 24-16.791, FS-B · Kohen Avocats",
-    "url": "https://kohenavocats.com/greve-employeur-deplacer-activite-autre-site-primes/"
+    "title": "Intégrité publique : le Gouvernement dépose deux projets de loi qui font de la HATVP une « Haute Autorité pour l'intégrité publique »",
+    "dek": "Délibérés en Conseil des ministres le 10 novembre 2026 après avis du Conseil d'État, un projet de loi ordinaire et un projet de loi organique, déposés au Sénat (n° 163 et 164), reprennent le rapport remis en mai 2026 par Jean Maïa : pouvoir d'injonction assorti d'une astreinte administrative, contrôle renforcé des reconversions vers le privé en cas de risque d'influence étrangère, mais allègement des déclarations de patrimoine et de la période de référence. Les critiques y voient un recul sur la probité des élus ; l'examen parlementaire commence au Sénat.",
+    "source": "Compte rendu du Conseil des ministres · 10 nov. 2026 · Sénat, PJLO n° 164",
+    "url": "https://www.elysee.fr/emmanuel-macron/2026/11/10/compte-rendu-du-conseil-des-ministres-du-10-novembre-2026"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Bonus écologique : l'arrêté du 9 novembre 2026 ajoute de nouvelles voitures électriques à la liste des modèles éligibles à compter de ce 12 novembre",
-      "summary": "Publié au JO du 10 novembre, le texte modifie l'arrêté du 14 décembre 2023 fixant les versions de voitures particulières électriques ayant atteint le score environnemental minimal qui conditionne l'accès aux aides à l'achat et à la location.",
-      "source": "Arrêté du 9 nov. 2026 (JORF n° 0263 du 10 nov. 2026) · Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075229",
+      "title": "Stocks stratégiques de gazole : l'arrêté du 10 novembre 2026 fixe le contenu des bilans dus par les bénéficiaires de la cession à prix coûtant",
+      "summary": "Pris pour l'application de l'article 4 du décret n° 2026-981 du 23 octobre 2026, l'arrêté publié au JO du 11 novembre précise les bilans, à données cumulées depuis le 25 octobre, que les metteurs à la consommation et les entreprises ayant reçu ou rétrocédé l'avantage doivent transmettre aux ministres, avec une déclaration simplifiée pour ceux qui n'en ont tiré aucun bénéfice.",
+      "source": "Arrêté du 10 nov. 2026 (JORF n° 0264 du 11 nov. 2026) · décret n° 2026-981 · Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055011774",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Maladie hors tableau : l'employeur peut contester le taux d'incapacité permanente prévisible de 25 % (Cass. 2e civ., 15 oct. 2026)",
-      "summary": "La deuxième chambre civile admet que l'employeur discute, à l'appui de son recours en inopposabilité, le taux prévisible retenu par le service médical pour saisir le CRRMP, le juge devant vérifier lui-même que le seuil est atteint, au besoin par expertise — et non en se fondant sur le seul taux fixé après consolidation.",
-      "source": "Cass. 2e civ., 15 oct. 2026, n° 24-15.159 · Legisocial",
-      "url": "https://www.legisocial.fr/actualites-sociales/8221-maladies-professionnelles-tableaux-cour-cassation-ouvre-nouveau-droit-contestation-employeurs.html",
+      "title": "Cass. com., 4 nov. 2026, n° 25-17.110 : pacte Dutreil et société à activité mixte, la prépondérance s'apprécie par un faisceau d'indices au jour de la transmission",
+      "summary": "Par un arrêt de rejet publié au Bulletin, la chambre commerciale approuve la cour d'appel d'avoir refusé l'exonération de 75 % à la donation de titres d'une société de marchand de biens et de promotion immobilière, l'activité patrimoniale l'emportant au regard du chiffre d'affaires et de l'actif brut à la date du fait générateur.",
+      "source": "Cass. com., 4 nov. 2026, n° 25-17.110, publié · Kohen Avocats",
+      "url": "https://kohenavocats.com/pacte-dutreil-societe-mixte-marchand-biens-preponderance-donation-4-novembre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Protéger les lieux de culte et le patrimoine religieux : l'étude de législation comparée n° 364 du Sénat sur quinze pays",
-      "summary": "La division de la législation comparée conclut à l'absence de modèle unique : la protection combine le plus souvent normes constitutionnelles, droit des cultes, droit pénal, police administrative et droit du patrimoine, le seul caractère religieux d'un bien ne suffisant pas, dans plusieurs États, à justifier un régime propre.",
-      "source": "Sénat · Étude de législation comparée n° 364",
-      "url": "https://www.senat.fr/lc/lc364/LC364.pdf",
+      "title": "Avenir d'Eurojust : le Sénat soutient l'agence mais conteste la réforme de sa gouvernance proposée par la Commission",
+      "summary": "Le rapport d'information n° 151 de la commission des affaires européennes (MM. Chaillou et Hervé), déposé le 5 novembre 2026, défend le rôle opérationnel d'Eurojust dans la coordination des enquêtes et des mandats d'arrêt européens, et sous-tend la résolution, devenue définitive le 8 novembre, jugeant la proposition COM(2026) 570 contraire au principe de subsidiarité.",
+      "source": "Sénat · rapport d'information n° 151 (2026-2027), 5 nov. 2026",
+      "url": "https://www.senat.fr/notice-rapport/2026/r26-151-notice.html",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "12 novembre 1920 : le traité de Rapallo règle la frontière entre l'Italie et le royaume des Serbes, Croates et Slovènes",
-      "summary": "Signé deux ans après l'armistice, l'accord attribue l'Istrie et Zara à l'Italie, laisse la Dalmatie au nouvel État yougoslave et érige Fiume en État libre — un statut que Gabriele D'Annunzio, qui occupait la ville depuis 1919, refusera jusqu'à son expulsion au « Noël de sang ».",
-      "source": "Hérodote · almanach du 12 novembre",
-      "url": "https://www.herodote.net/almanach-jour-1112.php",
+      "title": "13 novembre 1907 : près de Lisieux, Paul Cornu s'élève à 1,50 m à bord du premier hélicoptère piloté",
+      "summary": "Ce mécanicien normand, fils d'artisans, quitte le sol quelques secondes sur une machine à deux rotors de sa fabrication, mue par un moteur Antoinette de 24 chevaux, un exploit que l'absence de financement l'empêchera de prolonger.",
+      "source": "Hérodote · almanach du 13 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1113.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Article 455 du CPC : que faire lorsque la cour d'appel ne répond pas à vos conclusions ?",
-      "summary": "Le défaut de réponse à conclusions équivaut à un défaut de motifs ouvrant la cassation, à condition que le moyen délaissé ait été opérant et formulé dans le dispositif ou les motifs des dernières écritures — une vigilance accrue alors qu'un projet de décret envisage d'expérimenter des arrêts d'appel non spécialement motivés.",
-      "source": "Kohen Avocats · art. 455 CPC",
-      "url": "https://kohenavocats.fr/2026/11/12/article-455-cour-appel-ne-repond-pas-conclusions/",
+      "title": "Partie civile aux assises : obtenir réparation malgré l'acquittement pour assassinat (Cass. crim., 12 nov. 2026, n° 25-86.538)",
+      "summary": "Lorsque l'accusé acquitté du crime est condamné pour une association de malfaiteurs ayant pour objet sa préparation, la cour statuant sur les intérêts civils peut examiner la demande de la victime, à condition de caractériser le lien entre l'infraction retenue et le dommage invoqué.",
+      "source": "Cass. crim., 12 nov. 2026, n° 25-86.538 · Kohen Avocats",
+      "url": "https://kohenavocats.com/indemnisation-partie-civile-assises-acquittement-assassinat-association-malfaiteurs/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "COP31 à Antalya : à mi-parcours, adaptation et transition juste restent les dossiers les plus disputés",
-      "summary": "Sous une présidence partagée entre la Turquie, hôte de la conférence, et l'Australie, chargée de conduire les négociations, les délégations doivent trancher les points laissés en suspens à Bonn en juin et lancer le deuxième bilan mondial d'ici la clôture prévue le 20 novembre.",
-      "source": "Climate Home News · briefing COP31",
-      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
+      "title": "Crise fourragère : Annie Genevard demande aux chambres d'agriculture un recensement des besoins, territoire par territoire",
+      "summary": "Après une pousse cumulée des prairies inférieure de 42 % à la normale au 31 octobre, la ministre veut éviter une décapitalisation du cheptel d'ici février, porte le plan d'urgence CASI de 1,3 à 1,5 milliard d'euros et organise l'approvisionnement en fourrage depuis l'Espagne, la Bulgarie et l'Europe du Nord.",
+      "source": "La France Agricole · 12 nov. 2026",
+      "url": "https://www.lafranceagricole.fr/podcasts/article/905951/le-podcast-du-12-novembre-2026",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Subrogation réelle",
-    "subtitle": "Droit civil des biens · régimes matrimoniaux · art. 1406, 1407 et 1434 du Code civil",
-    "defShort": "Mécanisme par lequel un bien nouveau prend, dans un patrimoine ou une masse de biens, la place juridique d'un bien sorti, en recevant sa qualification et son régime. C'est la « chose » qui est remplacée, non la personne.",
+    "term": "Faute civile démontrée dans la limite des faits de la poursuite",
+    "subtitle": "Procédure pénale · action civile · art. 372, 470-1 et 497 3° du Code de procédure pénale",
+    "defShort": "Faute que le juge répressif, saisi des seuls intérêts civils après un acquittement ou une relaxe, peut retenir pour indemniser la victime, à condition de la déduire des faits mêmes dont il était saisi — sans jamais requalifier ni déclarer l'auteur coupable.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "À distinguer de la subrogation personnelle (paiement avec subrogation, art. 1346 C. civ.), où un tiers prend la place du créancier. Dans la subrogation réelle, le lien de droit demeure, mais il se reporte d'un bien sur un autre : le prix de vente, l'indemnité d'assurance ou le bien acquis en emploi est traité comme l'était le bien qu'il remplace."
+        "body": "Principe : la juridiction pénale n'est compétente pour l'action civile qu'accessoirement à l'action publique ; la relaxe devrait donc emporter débouté. Le mécanisme y déroge : il dissocie la faute pénale, définitivement écartée, de la faute civile, que le juge peut encore constater pour allouer des dommages-intérêts, sans que la décision pénale ne soit remise en cause."
       },
       {
         "h": "Fondement",
-        "body": "Aucun texte général ne la consacre ; elle procède de dispositions éparses que la doctrine (Capitant, Henry) a systématisées. La jurisprudence distingue la subrogation de plein droit, qui joue automatiquement au sein d'une universalité (indemnités et biens acquis en échange d'un propre, art. 1406 et 1407), et la subrogation conventionnelle, subordonnée à des formalités, comme la déclaration d'emploi ou de remploi exigée par l'art. 1434."
+        "body": "Aux assises, l'article 372 permet à la partie civile, en cas d'acquittement, de demander réparation « du dommage résultant de la faute de l'accusé, telle qu'elle résulte des faits qui sont l'objet de l'accusation ». En matière correctionnelle, la chambre criminelle (Crim., 5 févr. 2014, n° 12-80.154) admet que la cour d'appel, saisie du seul appel de la partie civile contre une relaxe, retienne une faute civile « démontrée à partir et dans la limite des faits objet de la poursuite » (art. 497 3°). Pour les infractions non intentionnelles, l'article 470-1 autorise l'application des règles du droit civil."
       },
       {
         "h": "Cas visés",
-        "body": "Régime de communauté : le bien acquis avec des deniers propres reste propre si l'acte comporte la double déclaration d'origine des fonds et d'intention de remploi. Successions : le rapport et la réduction s'exercent sur le bien subrogé au bien donné (art. 860, 924-2). Sûretés : l'indemnité d'assurance est affectée aux créanciers privilégiés ou hypothécaires (art. L. 121-13 C. assur.). Fiducie et usufruit en fournissent d'autres applications."
+        "body": "Acquittement aux assises suivi d'un arrêt civil ; appel de la seule partie civile contre un jugement de relaxe devenu définitif sur l'action publique ; homicide ou blessures involontaires sans faute pénale caractérisée (art. 121-3 C. pén.) mais avec une faute civile d'imprudence, depuis la dissociation consacrée par la loi du 10 juillet 2000 (art. 4-1 CPP)."
       },
       {
         "h": "Portée",
-        "body": "Elle assure la permanence d'une masse de biens malgré la circulation de ses éléments et protège ceux qui ont des droits sur elle. Mais, sauf texte, elle ne se présume pas hors des universalités : faute de déclaration de remploi, le bien acquis tombe en communauté, l'époux n'ayant plus qu'un droit à récompense — distinction décisive en liquidation."
+        "body": "Deux verrous : le juge ne peut sortir des faits de la prévention ou de l'accusation, ni employer des termes qui imputent l'infraction à la personne relaxée, sous peine de méconnaître la présomption d'innocence (CEDH, Lagardère c. France, 12 avr. 2012). La motivation doit donc décrire un comportement fautif au sens de l'article 1240 du Code civil, et non une culpabilité déguisée."
       }
     ],
-    "seeAlso": "Voir aussi — remploi (art. 1434-1435) · récompense (art. 1433) · subrogation personnelle (art. 1346) · universalité de droit · quasi-usufruit"
+    "seeAlso": "Voir aussi — autorité de la chose jugée au pénal sur le civil · dissociation des fautes pénale et civile (art. 4-1 CPP) · effet dévolutif de l'appel de la partie civile · intérêts civils (art. 464 CPP)"
   },
-  "date": "2026-11-12",
-  "dateShort": "12 nov.",
-  "slot": "midi",
+  "date": "2026-11-13",
+  "dateShort": "13 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 73,
-    "title": "L'infrarouge et le télescope James Webb",
-    "subtitle": "Pourquoi un télescope fait pour l'infrarouge doit être loin, et très froid",
+    "n": 74,
+    "title": "Les premières galaxies vues par Webb",
+    "subtitle": "Pourquoi certaines semblent trop brillantes, et trop tôt formées",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Une lumière que l'air retient",
-        "body": "L'infrarouge (jour 72) traverse la poussière interstellaire, mais il traverse mal l'atmosphère terrestre : la vapeur d'eau et le gaz carbonique de l'air en absorbent (jour 71) une grande partie avant qu'il n'atteigne le sol. Les télescopes installés en montagne n'en recueillent donc qu'une fraction, dans quelques bandes étroites. Pour l'observer pleinement, il faut un télescope spatial, c'est-à-dire un télescope placé hors de l'atmosphère, dans l'espace. C'est le choix fait pour James Webb, lancé le 25 décembre 2021."
+        "h": "Remonter presque jusqu'au début",
+        "body": "Voir loin, c'est voir tôt (jour 5). Grâce à l'infrarouge (jour 72), Webb recueille la lumière de galaxies (jour 24) si lointaines que leur décalage vers le rouge (jour 17) la fait arriver jusqu'à nous dans cette lumière invisible. Les plus éloignées confirmées à ce jour sont vues telles qu'elles étaient moins de 300 millions d'années après le Big Bang (jour 27), soit environ 2 % de l'âge de l'univers (jour 48). On les appelle des galaxies primitives : des galaxies observées dans les toutes premières centaines de millions d'années de l'univers. Elles ne sont, sur les images, que des taches de quelques points lumineux : tout ce qu'on en sait passe par l'analyse de leur spectre (jour 14)."
       },
       {
-        "h": "Le froid comme condition",
-        "body": "Tout corps tiède émet de l'infrarouge : la Terre, le Soleil, et le télescope lui-même. Un instrument chaud serait ébloui par sa propre lueur, comme on chercherait une bougie lointaine en tenant une lampe allumée devant les yeux. Webb est donc maintenu à environ moins 230 degrés. Il se tient à quelque 1,5 million de kilomètres de la Terre, du côté opposé au Soleil, et un pare-soleil de la taille d'un court de tennis, fait de cinq voiles superposés, le protège en permanence de la chaleur du Soleil, de la Terre et de la Lune."
+        "h": "Une surprise de nombre et d'éclat",
+        "body": "Les modèles prévoyaient, à ces époques, des galaxies rares et peu lumineuses : la matière noire froide (jour 67) rassemble le gaz progressivement, et il faut du temps pour qu'il se condense en étoiles. Or Webb en trouve davantage que prévu, et de plus brillantes. Si leur luminosité (jour 41) traduit fidèlement leur masse stellaire, c'est-à-dire la masse totale des étoiles qu'elles contiennent, certaines auraient réuni très vite autant d'étoiles que des galaxies formées bien plus tard. Le contraste est d'autant plus frappant que, d'après ces mêmes modèles, l'univers n'aurait pas encore eu le temps de les bâtir."
       },
       {
-        "h": "Ce que l'infrarouge ouvre",
-        "body": "Avec un miroir de 6,5 mètres, Webb a un pouvoir collecteur (jour 31) environ six fois supérieur à celui de son prédécesseur Hubble. Il voit à l'intérieur des nuages sombres (jour 72) où naissent les étoiles, et il analyse le spectre (jour 14) de l'atmosphère de certaines exoplanètes (jour 30) lors de leur transit. Il voit aussi les galaxies les plus lointaines : leur lumière, émise dans le visible ou l'ultraviolet, a été tant étirée par le décalage vers le rouge (jour 17) qu'elle nous parvient en infrarouge."
+        "h": "Ce que l'on peut en conclure, et ce que l'on ne peut pas",
+        "body": "La masse stellaire n'est pas mesurée directement : on la déduit de la lumière reçue, en supposant un certain mélange d'étoiles jeunes et vieilles. Si ces galaxies forment leurs étoiles plus efficacement, si elles abritent davantage d'étoiles très massives et très lumineuses, ou si un trou noir supermassif (jour 50) en leur centre ajoute sa propre lueur, leur masse a été surestimée. Les spécialistes penchent aujourd'hui vers ces explications, qui touchent à la formation des galaxies et non au cadre du Big Bang lui-même. La question reste ouverte (jour 34) : seules des mesures plus fines, galaxie par galaxie, permettront de trancher."
       }
     ],
     "keyTerms": [
       {
-        "term": "Télescope spatial",
-        "def": "Télescope placé dans l'espace, hors de l'atmosphère, pour recevoir les lumières que l'air absorbe ou brouille."
+        "term": "Galaxie primitive",
+        "def": "Galaxie observée telle qu'elle était dans les premières centaines de millions d'années de l'univers, grâce au long trajet de sa lumière."
       },
       {
-        "term": "Absorption atmosphérique",
-        "def": "Arrêt d'une partie de la lumière venue de l'espace par les gaz de l'air, en particulier la vapeur d'eau pour l'infrarouge."
+        "term": "Masse stellaire",
+        "def": "Masse totale des étoiles d'une galaxie, déduite de sa lumière et non mesurée directement, ce qui la rend sensible aux hypothèses retenues."
       }
     ],
-    "recap": "L'infrarouge est en grande partie arrêté par l'air et brouillé par toute source tiède : c'est pourquoi Webb observe depuis l'espace, loin de la Terre et maintenu à très basse température.",
-    "next": "Demain — les premières galaxies vues par Webb : pourquoi certaines paraissent trop grandes et trop tôt formées."
+    "recap": "Webb voit des galaxies très anciennes plus nombreuses et plus brillantes que prévu ; leur masse, déduite de leur lumière, est peut-être surestimée, et c'est la formation des galaxies, plus que le Big Bang, qui est en débat.",
+    "next": "Demain — les quasars : quand un trou noir supermassif devient l'objet le plus lumineux de l'univers."
   }
 }

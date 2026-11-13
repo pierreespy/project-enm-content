@@ -1,0 +1,32 @@
+{
+  "n": 74,
+  "title": "Les premières galaxies vues par Webb",
+  "subtitle": "Pourquoi certaines semblent trop brillantes, et trop tôt formées",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Remonter presque jusqu'au début",
+      "body": "Voir loin, c'est voir tôt (jour 5). Grâce à l'infrarouge (jour 72), Webb recueille la lumière de galaxies (jour 24) si lointaines que leur décalage vers le rouge (jour 17) la fait arriver jusqu'à nous dans cette lumière invisible. Les plus éloignées confirmées à ce jour sont vues telles qu'elles étaient moins de 300 millions d'années après le Big Bang (jour 27), soit environ 2 % de l'âge de l'univers (jour 48). On les appelle des galaxies primitives : des galaxies observées dans les toutes premières centaines de millions d'années de l'univers. Elles ne sont, sur les images, que des taches de quelques points lumineux : tout ce qu'on en sait passe par l'analyse de leur spectre (jour 14)."
+    },
+    {
+      "h": "Une surprise de nombre et d'éclat",
+      "body": "Les modèles prévoyaient, à ces époques, des galaxies rares et peu lumineuses : la matière noire froide (jour 67) rassemble le gaz progressivement, et il faut du temps pour qu'il se condense en étoiles. Or Webb en trouve davantage que prévu, et de plus brillantes. Si leur luminosité (jour 41) traduit fidèlement leur masse stellaire, c'est-à-dire la masse totale des étoiles qu'elles contiennent, certaines auraient réuni très vite autant d'étoiles que des galaxies formées bien plus tard. Le contraste est d'autant plus frappant que, d'après ces mêmes modèles, l'univers n'aurait pas encore eu le temps de les bâtir."
+    },
+    {
+      "h": "Ce que l'on peut en conclure, et ce que l'on ne peut pas",
+      "body": "La masse stellaire n'est pas mesurée directement : on la déduit de la lumière reçue, en supposant un certain mélange d'étoiles jeunes et vieilles. Si ces galaxies forment leurs étoiles plus efficacement, si elles abritent davantage d'étoiles très massives et très lumineuses, ou si un trou noir supermassif (jour 50) en leur centre ajoute sa propre lueur, leur masse a été surestimée. Les spécialistes penchent aujourd'hui vers ces explications, qui touchent à la formation des galaxies et non au cadre du Big Bang lui-même. La question reste ouverte (jour 34) : seules des mesures plus fines, galaxie par galaxie, permettront de trancher."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Galaxie primitive",
+      "def": "Galaxie observée telle qu'elle était dans les premières centaines de millions d'années de l'univers, grâce au long trajet de sa lumière."
+    },
+    {
+      "term": "Masse stellaire",
+      "def": "Masse totale des étoiles d'une galaxie, déduite de sa lumière et non mesurée directement, ce qui la rend sensible aux hypothèses retenues."
+    }
+  ],
+  "recap": "Webb voit des galaxies très anciennes plus nombreuses et plus brillantes que prévu ; leur masse, déduite de leur lumière, est peut-être surestimée, et c'est la formation des galaxies, plus que le Big Bang, qui est en débat.",
+  "next": "Demain — les quasars : quand un trou noir supermassif devient l'objet le plus lumineux de l'univers."
+}
