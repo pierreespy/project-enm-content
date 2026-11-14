@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Affaire Michel Zecler : trois policiers jugés devant la cour criminelle de Paris pour violences et faux en écriture publique",
-    "dek": "Depuis le 9 novembre et jusqu'au 20 novembre 2026, un brigadier et deux gardiens de la paix comparaissent pour les coups portés en novembre 2020 au producteur de musique dans son studio du 17e arrondissement, mais surtout pour le procès-verbal qui le présentait comme leur agresseur : rédigé par des personnes dépositaires de l'autorité publique, ce faux est un crime, ce qui explique la saisine de la cour criminelle. La circonstance aggravante de racisme a été écartée à l'instruction ; les images de vidéosurveillance restent au cœur des débats.",
-    "source": "Cour criminelle de Paris · procès ouvert le 9 nov. 2026 · franceinfo",
-    "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/michel-zecler-le-proces-des-trois-policiers-accuses-de-l-avoir-passe-a-tabac-s-ouvre_8274560.html"
+    "title": "Garantie commerciale ou assurance déguisée : la chambre commerciale juge que couvrir un risque extérieur au produit est une opération d'assurance",
+    "dek": "Dans le litige qui opposait deux vendeurs de pneumatiques en ligne, Allopneus et Ad Tyres, la Cour de cassation retient que la « garantie » promettant le remplacement d'un pneu crevé ou vandalisé ne porte plus sur la conformité ou le fonctionnement du bien, mais sur un événement qui lui est extérieur : elle relève du monopole des entreprises d'assurance agréées, et non de la garantie commerciale du code de la consommation. L'arrêt, de cassation partielle, renvoie l'affaire devant la cour d'appel de Versailles et ouvre la voie à l'action en concurrence déloyale.",
+    "source": "Cass. com., 12 nov. 2026, n° 25-10.038 · Juriguide, 14 nov. 2026",
+    "url": "https://www.juriguide.com/2026/11/14/allopneus-garantie-commerciale-pneu-vandalise-assurance-cassation/"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Certificats d'économies d'énergie : un arrêté du 6 novembre 2026 crée des bonifications pour les « offres intégrées pompes à chaleur » retenues par l'Ademe",
-      "summary": "Publié au JO du 13 novembre avec un second arrêté qui complète, à compter du 15 novembre, la liste des modèles de pompes à chaleur agréés en matière de qualité et de résilience industrielle (décret n° 2026-413 du 29 mai 2026), le texte majore les certificats attribués aux opérations portées par les offres sélectionnées dans l'appel à candidatures de l'agence.",
-      "source": "Arrêtés du 6 nov. 2026 (JORF n° 0265 du 13 nov. 2026) · Légifrance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075355",
+      "title": "Défenseur des droits : un décret du 13 novembre 2026 nomme les adjoints de François-Noël Buffet, en fonctions depuis juillet",
+      "summary": "Publié au JO de ce samedi, le décret pris par le Premier ministre sur proposition du Défenseur, comme le prévoit l'article 11 de la loi organique du 29 mars 2011, met fin à près de quatre mois de vacance des adjoints chargés notamment des droits de l'enfant, de la déontologie de la sécurité, de la lutte contre les discriminations et des lanceurs d'alerte.",
+      "source": "Décret du 13 nov. 2026 (JORF n° 0266 du 14 nov. 2026) · Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/14/0266",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass. 1re civ., 21 oct. 2026, n° 25-10.590 : la concubine protégée par une ordonnance de protection peut devoir une indemnité d'occupation du logement indivis",
-      "summary": "Au visa des articles 515-11 et 815-9 du code civil, la Cour casse l'arrêt qui l'en dispensait : l'attribution de la jouissance du logement à la victime de violences n'emporte pas, par principe, sa gratuité, et l'exclusion de l'autre indivisaire caractérise une jouissance privative.",
-      "source": "Cass. 1re civ., 21 oct. 2026, n° 25-10.590 · Le Mag Juridique",
-      "url": "https://www.lemag-juridique.com/articles/patrimoine-successions-violences-conjugales-indemnite-doccupation-peut-etre-due-par-concubin-protege-12191.htm",
+      "title": "CE, 10 nov. 2026, n° 504547, Lebon : l'État ne peut conserver les dommages-intérêts payés par le gérant quand la société a déjà acquitté les rappels de TVA",
+      "summary": "Le Conseil d'État écarte toute faute de l'administration mais juge sans cause le paiement fait, au titre de l'action civile exercée devant le juge pénal, pour réparer un préjudice que le règlement des impositions par la société avait déjà effacé, et ouvre ainsi au gérant la répétition de l'indu.",
+      "source": "CE, 9e et 10e ch. réunies, 10 nov. 2026, n° 504547 · Légifrance",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000055079147",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Clause attributive de juridiction : désigner un tribunal ne lui confère pas une compétence exclusive si chaque partie garde son propre for",
-      "summary": "La note publiée le 10 novembre 2026 analyse un arrêt écartant l'exception d'incompétence tirée d'une clause désignant le tribunal de Sarrebruck, dès lors que la stipulation ménageait à chaque partie le droit d'agir devant la juridiction dont elle relève, ce qui invite les rédacteurs à dire expressément l'exclusivité voulue.",
-      "source": "Open Lefebvre Dalloz · 10 nov. 2026",
-      "url": "https://open.lefebvre-dalloz.fr/actualites/droit-affaires/clause-attributive-juridiction-donnant-competence-exclusive-tribunal-designe_fd91e2ad1-8c32-4173-9b05-20b199d1e58c",
+      "title": "SCI : la vente de l'immeuble peut relever de l'objet social par la combinaison des clauses statutaires",
+      "summary": "La note publiée le 13 novembre 2026 revient sur l'arrêt de la troisième chambre civile du 3 septembre 2026 qui refuse de s'arrêter à la seule clause « objet » : dès lors que d'autres stipulations rangent la cession des immeubles parmi les décisions d'assemblée ordinaire, la vente entre dans l'objet social et n'exige pas de modification des statuts.",
+      "source": "Open Lefebvre Dalloz · 13 nov. 2026",
+      "url": "https://open.lefebvre-dalloz.fr/actualites/droit-affaires/vente-immeuble-sci-relever-objet-social-combinaison-clauses-statutaires_fdec38a43-8563-43ab-b987-8e8540df2864",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "14 novembre 1913 : Marcel Proust publie à compte d'auteur « Du côté de chez Swann »",
-      "summary": "Refusé par plusieurs éditeurs, dont la NRF sur l'avis d'André Gide, le premier volume d'« À la recherche du temps perdu » paraît chez Bernard Grasset aux frais de l'auteur, cinq ans avant que le deuxième, « À l'ombre des jeunes filles en fleurs », ne reçoive le prix Goncourt.",
-      "source": "Hérodote · almanach du 14 novembre",
-      "url": "https://www.herodote.net/almanach-jour-1114.php",
+      "title": "14 novembre 1940 : la Luftwaffe rase le centre de Coventry et sa cathédrale Saint-Michel",
+      "summary": "Lors de l'opération « Sonate au clair de lune », plus de 500 bombardiers frappent pendant toute une nuit la ville industrielle des Midlands, tuant environ 570 personnes, et la propagande allemande forge le verbe « coventrieren » pour désigner l'anéantissement d'une ville.",
+      "source": "Wikipédia · Bombardement de Coventry",
+      "url": "https://fr.wikipedia.org/wiki/Bombardement_de_Coventry",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Condamné par la cour d'assises : dix jours pour faire appel, comme le tireur d'Amnéville après sa peine de 14 ans",
-      "summary": "Reconnu coupable le 13 novembre 2026 par la cour d'assises de la Moselle de tentatives de meurtre sur six policiers et une automobiliste, l'accusé dispose, comme le ministère public, du délai de l'article 380-9 du code de procédure pénale, courant à compter du prononcé, pour saisir une cour d'assises d'appel désignée par la chambre criminelle.",
-      "source": "Cour d'assises de la Moselle, 13 nov. 2026 · France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/proces-du-tireur-d-amneville-l-homme-accuse-d-avoir-tire-sur-des-policiers-et-une-automobiliste-condamne-a-14-ans-de-reclusion-criminelle-3449523.html",
+      "title": "Révision de la nomenclature Dintilhac : ce qu'un dossier de préjudice corporel en cours peut déjà en tirer",
+      "summary": "Le projet remis le 2 novembre 2026 par le groupe de travail de la Cour de cassation n'a aucune force contraignante : la nomenclature de 2005 reste la grille des expertises, offres et conclusions, mais les définitions révisées qui consacrent une jurisprudence déjà acquise peuvent être invoquées dès maintenant, arrêts à l'appui.",
+      "source": "Village Justice · Ruben Atlani, avocat",
+      "url": "https://www.village-justice.com/articles/revision-nomenclature-dintilhac-quelles-consequences-concretes-pour-les,60016.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Onze ans après les attentats du 13-Novembre, la France rend hommage aux victimes",
-      "summary": "Les cérémonies ont commencé devant le Stade de France, à Saint-Denis, avant de se poursuivre sur les lieux des attaques à Paris, et un hommage a été rendu avant le match France-Afrique du Sud.",
-      "source": "Euronews · 13 nov. 2026",
-      "url": "https://fr.euronews.com/2026/11/13/attentats-du-13-novembre-onze-ans-apres-la-france-rend-hommage-aux-victimes",
+      "title": "Vie chère, jeunesse, services publics : « acte V » de la mobilisation du samedi, sous la surveillance de 70 000 policiers et gendarmes",
+      "summary": "Entre 50 et 60 défilés sont annoncés en France pour ce cinquième samedi consécutif, dont un cortège unique de République à Nation à Paris, une semaine après les 146 000 manifestants recensés par le ministère de l'Intérieur le 7 novembre (250 000 selon les organisateurs).",
+      "source": "franceinfo · 13 nov. 2026",
+      "url": "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Mini-abus de droit",
-    "subtitle": "Droit fiscal · procédure · article L. 64 A du Livre des procédures fiscales",
-    "defShort": "Procédure qui permet à l'administration d'écarter un acte poursuivant un but « principalement » fiscal — et non plus « exclusivement » fiscal comme dans l'abus de droit classique — lorsqu'il recherche, contre l'intention du législateur, le bénéfice d'une application littérale des textes.",
+    "term": "Retrait litigieux",
+    "subtitle": "Droit civil · cession de créance · articles 1699 à 1701 du code civil",
+    "defShort": "Faculté reconnue au débiteur d'un droit litigieux cédé de s'en libérer en remboursant au cessionnaire le prix réel qu'il a payé, avec les frais, loyaux coûts et intérêts — et non le montant nominal du droit en litige.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'abus de droit de l'article L. 64 LPF vise les actes fictifs ou inspirés par un motif exclusivement fiscal. L'article L. 64 A abaisse le seuil : il suffit que l'éviction ou l'atténuation de l'impôt soit le motif principal de l'opération. Les deux branches restent cumulatives : avantage fiscal recherché, et contrariété aux objectifs poursuivis par les auteurs du texte (fraude à la loi)."
+        "body": "Lorsqu'un créancier cède, en cours de procès, la créance qu'il dispute à son débiteur, le cessionnaire l'acquiert souvent à vil prix en spéculant sur l'issue du litige. Le retrait permet au débiteur cédé d'éteindre le procès en se substituant à l'acquéreur : il lui rembourse ce que la cession lui a réellement coûté et se trouve « quitte » du droit litigieux. Le cessionnaire ne peut s'y opposer ; il est privé du bénéfice de son pari, mais non appauvri."
       },
       {
         "h": "Fondement",
-        "body": "Créé par l'article 109 de la loi de finances pour 2019 (loi n° 2018-1317 du 28 décembre 2018), il s'applique aux rectifications notifiées à compter du 1er janvier 2021 pour les actes passés depuis le 1er janvier 2020. Il reprend, pour tous les impôts, la logique de la clause anti-abus générale de la directive ATAD, déjà transposée en matière d'impôt sur les sociétés à l'article 205 A du CGI."
+        "body": "Article 1699 du code civil, inchangé par la réforme de 2016 et maintenu sous le titre de la vente. L'article 1700 définit le droit litigieux : la chose est censée litigieuse dès qu'il y a procès et contestation sur le fond du droit. La jurisprudence en déduit deux conditions cumulatives, appréciées au jour de la cession : une instance déjà engagée, et une contestation portant sur l'existence ou l'étendue du droit lui-même, non sur sa seule exécution."
       },
       {
         "h": "Cas visés",
-        "body": "Montages patrimoniaux et sociétaires dont la substance économique est réelle mais accessoire : apport-cession, interposition de holding, donations ou démembrements, choix d'un régime de faveur. L'administration a indiqué qu'elle n'entendait pas remettre en cause, sur ce fondement, la transmission anticipée de la nue-propriété avec réserve d'usufruit, dont le but fiscal est assumé par le législateur."
+        "body": "Le terrain d'élection est aujourd'hui le rachat de créances bancaires contestées par des fonds spécialisés, ainsi que les cessions de droits en cours d'expertise ou d'appel. L'article 1701 exclut le retrait lorsque la cession est faite à un cohéritier ou copropriétaire du droit cédé, à un créancier en paiement de ce qui lui est dû, ou au possesseur de l'héritage sujet au droit litigieux. La cession en bloc d'un portefeuille rend l'exercice délicat : encore faut-il que le prix propre à la créance retrayée soit déterminable."
       },
       {
         "h": "Portée",
-        "body": "La procédure de l'abus de droit s'applique (avis possible du comité de l'abus de droit fiscal, charge de la preuve renversée selon le sens de l'avis), mais la majoration spécifique de 80 % ou 40 % de l'article 1729 b du CGI est écartée, sans exclure la majoration pour manquement délibéré. Le contribuable peut sécuriser l'opération par le rescrit de l'article L. 64 B, le silence de l'administration pendant six mois valant accord."
+        "body": "Le retrait suppose que le litige ne soit pas encore tranché par une décision irrévocable : une fois le droit définitivement jugé, il n'est plus litigieux. Le débiteur doit offrir le remboursement intégral du prix réel, ce qui impose souvent d'obtenir la production de l'acte de cession. Institution d'ordre moral plus que technique, héritée des lois Per diversas et Ab Anastasio du droit romain tardif, elle reste l'une des rares limites légales à la spéculation sur les procès."
       }
     ],
-    "seeAlso": "Voir aussi — abus de droit par fraude à la loi (art. L. 64 LPF) · clause anti-abus de l'article 205 A du CGI · rescrit abus de droit (art. L. 64 B LPF) · acte anormal de gestion"
+    "seeAlso": "Voir aussi — cession de créance (art. 1321 C. civ.) · retrait successoral (ancien art. 841 C. civ.) · pacte de quota litis · subrogation conventionnelle"
   },
   "date": "2026-11-14",
   "dateShort": "14 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 75,
     "title": "Les quasars",
