@@ -1,125 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Justice pénale des mineurs : le Conseil constitutionnel valide, sous réserve, le renvoi au parquet du délit qui s'avère être un crime",
-    "dek": "Saisi par la chambre criminelle (arrêt du 26 août 2026), le Conseil déclare conforme, dans sa décision n° 2026-1232 QPC rendue publique ce 13 novembre, le premier alinéa de l'article L. 521-4 du code de la justice pénale des mineurs, qui oblige le juge des enfants et le tribunal pour enfants à renvoyer le ministère public à se pourvoir lorsque le fait poursuivi comme délit est de nature criminelle. Le requérant reprochait au texte de ne pas reprendre la limite applicable aux majeurs lorsque la juridiction est saisie par renvoi d'un juge d'instruction et que la victime, partie civile, était assistée d'un avocat ; la conformité est assortie d'une réserve d'interprétation (§ 12 et 13) et de conditions d'application fixées au § 14.",
-    "source": "Cons. const., déc. n° 2026-1232 QPC du 13 nov. 2026",
-    "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261232QPC.htm"
+    "title": "Affaire Michel Zecler : trois policiers jugés devant la cour criminelle de Paris pour violences et faux en écriture publique",
+    "dek": "Depuis le 9 novembre et jusqu'au 20 novembre 2026, un brigadier et deux gardiens de la paix comparaissent pour les coups portés en novembre 2020 au producteur de musique dans son studio du 17e arrondissement, mais surtout pour le procès-verbal qui le présentait comme leur agresseur : rédigé par des personnes dépositaires de l'autorité publique, ce faux est un crime, ce qui explique la saisine de la cour criminelle. La circonstance aggravante de racisme a été écartée à l'instruction ; les images de vidéosurveillance restent au cœur des débats.",
+    "source": "Cour criminelle de Paris · procès ouvert le 9 nov. 2026 · franceinfo",
+    "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/michel-zecler-le-proces-des-trois-policiers-accuses-de-l-avoir-passe-a-tabac-s-ouvre_8274560.html"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Évaluation environnementale : le décret n° 2026-1039 du 10 novembre 2026 oblige l'autorité compétente à vérifier l'actualité de l'étude d'impact",
-      "summary": "Publié au JO du 13 novembre et en vigueur dès le 14, le décret modifie les parties réglementaires des codes de l'environnement et de l'urbanisme pour imposer un contrôle de l'actualité de l'étude d'impact au stade de l'autorisation et alléger la consultation des agences régionales de santé.",
-      "source": "Décret n° 2026-1039 du 10 nov. 2026 (JORF n° 0265 du 13 nov. 2026, texte n° 6) · Cabinet Gossement Avocats",
-      "url": "https://www.gossement-avocats.com/blog/evaluation-environnementale-le-decret-n-2026-1039-du-10-novembre-2026-impose-a-lautorite-competente-de-verifier-lactualite-de-letude-dimpact-et-simplifie-la-consultation-des-agences-re/",
+      "title": "Certificats d'économies d'énergie : un arrêté du 6 novembre 2026 crée des bonifications pour les « offres intégrées pompes à chaleur » retenues par l'Ademe",
+      "summary": "Publié au JO du 13 novembre avec un second arrêté qui complète, à compter du 15 novembre, la liste des modèles de pompes à chaleur agréés en matière de qualité et de résilience industrielle (décret n° 2026-413 du 29 mai 2026), le texte majore les certificats attribués aux opérations portées par les offres sélectionnées dans l'appel à candidatures de l'agence.",
+      "source": "Arrêtés du 6 nov. 2026 (JORF n° 0265 du 13 nov. 2026) · Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075355",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass. soc., 4 nov. 2026, n° 25-17.982 : entre régime conventionnel et décision unilatérale, la prévoyance la plus favorable se compare globalement, tous risques confondus",
-      "summary": "Dans cet arrêt publié au Bulletin, la chambre sociale refuse que le salarié combine les meilleures garanties de deux régimes de prévoyance concurrents : l'application du principe de faveur suppose une comparaison d'ensemble des avantages ayant le même objet, et non garantie par garantie.",
-      "source": "Cass. soc., 4 nov. 2026, n° 25-17.982, F-B · Voltaire Avocats",
-      "url": "https://www.voltaire-avocats.com/fr/prevoyance-la-comparaison-entre-regime-conventionnel-et-decision-unilaterale-sopere-globalement-tous-risques-confondus/",
+      "title": "Cass. 1re civ., 21 oct. 2026, n° 25-10.590 : la concubine protégée par une ordonnance de protection peut devoir une indemnité d'occupation du logement indivis",
+      "summary": "Au visa des articles 515-11 et 815-9 du code civil, la Cour casse l'arrêt qui l'en dispensait : l'attribution de la jouissance du logement à la victime de violences n'emporte pas, par principe, sa gratuité, et l'exclusion de l'autre indivisaire caractérise une jouissance privative.",
+      "source": "Cass. 1re civ., 21 oct. 2026, n° 25-10.590 · Le Mag Juridique",
+      "url": "https://www.lemag-juridique.com/articles/patrimoine-successions-violences-conjugales-indemnite-doccupation-peut-etre-due-par-concubin-protege-12191.htm",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Atteintes à l'environnement : l'étude du Conseil d'État remise le 12 novembre 2026 propose de refondre l'échelle des sanctions",
-      "summary": "Commandée par le Gouvernement, l'étude constate le décalage entre la profusion d'incriminations et la faiblesse des contrôles et des condamnations, et recommande de réviser l'échelle des peines à la lumière de la directive de 2024, de mieux articuler sanctions administratives et pénales et de privilégier forfaitisation et remise en état.",
-      "source": "Conseil d'État · Ateliers de la simplification, « Atteintes à l'environnement », 12 nov. 2026",
-      "url": "https://www.conseil-etat.fr/publications-colloques/etudes/les-ateliers-de-la-simplification-du-conseil-d-etat/atelier-de-simplification-atteintes-a-l-environnement",
+      "title": "Clause attributive de juridiction : désigner un tribunal ne lui confère pas une compétence exclusive si chaque partie garde son propre for",
+      "summary": "La note publiée le 10 novembre 2026 analyse un arrêt écartant l'exception d'incompétence tirée d'une clause désignant le tribunal de Sarrebruck, dès lors que la stipulation ménageait à chaque partie le droit d'agir devant la juridiction dont elle relève, ce qui invite les rédacteurs à dire expressément l'exclusivité voulue.",
+      "source": "Open Lefebvre Dalloz · 10 nov. 2026",
+      "url": "https://open.lefebvre-dalloz.fr/actualites/droit-affaires/clause-attributive-juridiction-donnant-competence-exclusive-tribunal-designe_fd91e2ad1-8c32-4173-9b05-20b199d1e58c",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "13 novembre 1002 : le massacre de la Saint-Brice, ordonné par Æthelred contre les Danois d'Angleterre",
-      "summary": "Le roi anglo-saxon fait mettre à mort les colons danois établis dans son royaume, parmi lesquels des proches du roi Sven à la Barbe fourchue, qui en tirera prétexte pour des expéditions de représailles aboutissant, en 1013, à la conquête de l'Angleterre.",
-      "source": "Hérodote · « Ça s'est passé un 13 novembre »",
-      "url": "https://www.herodote.net/Ca_s_est_passe_un_13_novembre-almanach-jour-1113.php",
+      "title": "14 novembre 1913 : Marcel Proust publie à compte d'auteur « Du côté de chez Swann »",
+      "summary": "Refusé par plusieurs éditeurs, dont la NRF sur l'avis d'André Gide, le premier volume d'« À la recherche du temps perdu » paraît chez Bernard Grasset aux frais de l'auteur, cinq ans avant que le deuxième, « À l'ombre des jeunes filles en fleurs », ne reçoive le prix Goncourt.",
+      "source": "Hérodote · almanach du 14 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1114.php",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Haie à moins de deux mètres de la route : le riverain s'expose à des poursuites pour homicide involontaire (Cass. crim., 3 nov. 2026)",
-      "summary": "La chambre criminelle casse une relaxe en jugeant que l'interdiction de laisser croître arbres et haies à moins de deux mètres du domaine public routier constitue une obligation particulière de prudence ou de sécurité au sens de l'article 121-3 du code pénal, ce qui invite les propriétaires riverains à documenter leurs élagages.",
-      "source": "Cass. crim., 3 nov. 2026 · Kohen Avocats",
-      "url": "https://kohenavocats.com/haie-2-metres-route-homicide-involontaire-riverain-cassation-3-novembre-2026/",
+      "title": "Condamné par la cour d'assises : dix jours pour faire appel, comme le tireur d'Amnéville après sa peine de 14 ans",
+      "summary": "Reconnu coupable le 13 novembre 2026 par la cour d'assises de la Moselle de tentatives de meurtre sur six policiers et une automobiliste, l'accusé dispose, comme le ministère public, du délai de l'article 380-9 du code de procédure pénale, courant à compter du prononcé, pour saisir une cour d'assises d'appel désignée par la chambre criminelle.",
+      "source": "Cour d'assises de la Moselle, 13 nov. 2026 · France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/proces-du-tireur-d-amneville-l-homme-accuse-d-avoir-tire-sur-des-policiers-et-une-automobiliste-condamne-a-14-ans-de-reclusion-criminelle-3449523.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Fnac Darty : EP Group de Daniel Křetínský devient actionnaire de contrôle avec 69,3 % du capital",
-      "summary": "Selon le résultat publié par l'AMF, l'offre publique d'acquisition à 36 euros par action lancée en janvier franchit largement le seuil de caducité de 50 %, après le feu vert de la Commission européenne du 20 octobre.",
-      "source": "Boursier · AMF, résultat de l'OPA, 10 nov. 2026",
-      "url": "https://www.boursedirect.fr/fr/actualites/categorie/divers/fnac-darty-ep-group-devient-actionnaire-de-controle-avec-69-3-des-parts-boursier-baf53fcc499c3e6e806f02e9bc001d8cedffa844",
+      "title": "Onze ans après les attentats du 13-Novembre, la France rend hommage aux victimes",
+      "summary": "Les cérémonies ont commencé devant le Stade de France, à Saint-Denis, avant de se poursuivre sur les lieux des attaques à Paris, et un hommage a été rendu avant le match France-Afrique du Sud.",
+      "source": "Euronews · 13 nov. 2026",
+      "url": "https://fr.euronews.com/2026/11/13/attentats-du-13-novembre-onze-ans-apres-la-france-rend-hommage-aux-victimes",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Fongibilité asymétrique",
-    "subtitle": "Finances publiques · Article 7, II, de la loi organique relative aux lois de finances (LOLF)",
-    "defShort": "Liberté reconnue au gestionnaire d'un programme budgétaire de redéployer ses crédits entre natures de dépenses, à une exception près : les crédits de personnel peuvent financer d'autres dépenses, mais aucune autre dépense ne peut abonder les crédits de personnel.",
+    "term": "Mini-abus de droit",
+    "subtitle": "Droit fiscal · procédure · article L. 64 A du Livre des procédures fiscales",
+    "defShort": "Procédure qui permet à l'administration d'écarter un acte poursuivant un but « principalement » fiscal — et non plus « exclusivement » fiscal comme dans l'abus de droit classique — lorsqu'il recherche, contre l'intention du législateur, le bénéfice d'une application littérale des textes.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Depuis la LOLF du 1er août 2001, les crédits sont votés par programme et seulement indicatifs par titre (personnel, fonctionnement, investissement, intervention…). Le responsable de programme peut donc les déplacer d'un titre à l'autre : c'est la fongibilité. Elle est dite asymétrique parce qu'elle ne joue que dans un sens pour la masse salariale : les crédits du titre 2 sont un plafond qu'on peut alléger au profit d'autres titres, jamais relever en puisant ailleurs."
+        "body": "L'abus de droit de l'article L. 64 LPF vise les actes fictifs ou inspirés par un motif exclusivement fiscal. L'article L. 64 A abaisse le seuil : il suffit que l'éviction ou l'atténuation de l'impôt soit le motif principal de l'opération. Les deux branches restent cumulatives : avantage fiscal recherché, et contrariété aux objectifs poursuivis par les auteurs du texte (fraude à la loi)."
       },
       {
         "h": "Fondement",
-        "body": "L'article 7, II, de la LOLF dispose que les crédits ouverts sur le titre des dépenses de personnel de chaque programme constituent le plafond des dépenses de cette nature. S'y ajoute un plafond d'autorisation des emplois, voté par ministère. Le mécanisme se distingue des virements (entre programmes d'un même ministère) et des transferts (entre ministères), encadrés par l'article 12 et soumis à des plafonds et à l'information du Parlement."
+        "body": "Créé par l'article 109 de la loi de finances pour 2019 (loi n° 2018-1317 du 28 décembre 2018), il s'applique aux rectifications notifiées à compter du 1er janvier 2021 pour les actes passés depuis le 1er janvier 2020. Il reprend, pour tous les impôts, la logique de la clause anti-abus générale de la directive ATAD, déjà transposée en matière d'impôt sur les sociétés à l'article 205 A du CGI."
       },
       {
         "h": "Cas visés",
-        "body": "Un programme qui sous-consomme sa masse salariale (postes vacants, recrutements décalés) peut affecter le reliquat à l'investissement ou au fonctionnement, sans texte réglementaire. À l'inverse, un dépassement des dépenses de personnel ne peut être couvert par redéploiement interne : il suppose un décret de virement ou de transfert, ou une loi de finances rectificative."
+        "body": "Montages patrimoniaux et sociétaires dont la substance économique est réelle mais accessoire : apport-cession, interposition de holding, donations ou démembrements, choix d'un régime de faveur. L'administration a indiqué qu'elle n'entendait pas remettre en cause, sur ce fondement, la transmission anticipée de la nue-propriété avec réserve d'usufruit, dont le but fiscal est assumé par le législateur."
       },
       {
         "h": "Portée",
-        "body": "L'asymétrie protège l'autorisation parlementaire sur la dépense la plus rigide de l'État, la masse salariale, dont toute hausse engage les budgets futurs. Elle incite à la gestion par la performance tout en neutralisant le risque de « fongibilité inversée » qui transformerait des crédits ponctuels en emplois pérennes. Les rapports de la Cour des comptes sur l'exécution budgétaire en contrôlent chaque année le respect."
+        "body": "La procédure de l'abus de droit s'applique (avis possible du comité de l'abus de droit fiscal, charge de la preuve renversée selon le sens de l'avis), mais la majoration spécifique de 80 % ou 40 % de l'article 1729 b du CGI est écartée, sans exclure la majoration pour manquement délibéré. Le contribuable peut sécuriser l'opération par le rescrit de l'article L. 64 B, le silence de l'administration pendant six mois valant accord."
       }
     ],
-    "seeAlso": "Voir aussi — spécialité des crédits · plafond d'autorisation des emplois · décret de virement (art. 12 LOLF) · mise en réserve de précaution"
+    "seeAlso": "Voir aussi — abus de droit par fraude à la loi (art. L. 64 LPF) · clause anti-abus de l'article 205 A du CGI · rescrit abus de droit (art. L. 64 B LPF) · acte anormal de gestion"
   },
-  "date": "2026-11-13",
-  "dateShort": "13 nov.",
-  "slot": "midi",
+  "date": "2026-11-14",
+  "dateShort": "14 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 74,
-    "title": "Les premières galaxies vues par Webb",
-    "subtitle": "Pourquoi certaines semblent trop brillantes, et trop tôt formées",
+    "n": 75,
+    "title": "Les quasars",
+    "subtitle": "Quand l'abord d'un trou noir supermassif devient l'objet le plus lumineux de l'univers",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Remonter presque jusqu'au début",
-        "body": "Voir loin, c'est voir tôt (jour 5). Grâce à l'infrarouge (jour 72), Webb recueille la lumière de galaxies (jour 24) si lointaines que leur décalage vers le rouge (jour 17) la fait arriver jusqu'à nous dans cette lumière invisible. Les plus éloignées confirmées à ce jour sont vues telles qu'elles étaient moins de 300 millions d'années après le Big Bang (jour 27), soit environ 2 % de l'âge de l'univers (jour 48). On les appelle des galaxies primitives : des galaxies observées dans les toutes premières centaines de millions d'années de l'univers. Elles ne sont, sur les images, que des taches de quelques points lumineux : tout ce qu'on en sait passe par l'analyse de leur spectre (jour 14)."
+        "h": "Un point qui éclipse une galaxie",
+        "body": "Dans les années 1960, les astronomes repèrent des sources qui ressemblent à des étoiles : un simple point lumineux. Leur spectre (jour 14) les trahit pourtant : ses raies (jour 15) sont si décalées vers le rouge (jour 17) que ces objets se trouvent à des milliards d'années-lumière. Pour paraître aussi brillants de si loin, ils doivent avoir une luminosité (jour 41) colossale, souvent supérieure à celle de toutes les étoiles d'une grande galaxie réunies. On les appelle quasars : des cœurs de galaxies lointaines qui émettent, depuis une région minuscule, plus de lumière que la galaxie entière qui les abrite."
       },
       {
-        "h": "Une surprise de nombre et d'éclat",
-        "body": "Les modèles prévoyaient, à ces époques, des galaxies rares et peu lumineuses : la matière noire froide (jour 67) rassemble le gaz progressivement, et il faut du temps pour qu'il se condense en étoiles. Or Webb en trouve davantage que prévu, et de plus brillantes. Si leur luminosité (jour 41) traduit fidèlement leur masse stellaire, c'est-à-dire la masse totale des étoiles qu'elles contiennent, certaines auraient réuni très vite autant d'étoiles que des galaxies formées bien plus tard. Le contraste est d'autant plus frappant que, d'après ces mêmes modèles, l'univers n'aurait pas encore eu le temps de les bâtir."
+        "h": "Ce qui brille, ce n'est pas le trou noir",
+        "body": "Un trou noir ne laisse rien échapper, pas même la lumière : il ne peut donc pas briller lui-même. La lumière vient du gaz qui l'entoure. Au centre de ces galaxies se trouve un trou noir supermassif (jour 50). Le gaz qui s'en approche ne tombe pas droit dessus : comme une planète, il a un mouvement de côté qui le met en orbite (jour 9). Il forme alors un disque d'accrétion, c'est-à-dire un disque de gaz qui tourne autour du trou noir en se rapprochant peu à peu de lui. Les frottements entre ses couches le chauffent à des températures énormes, et c'est ce gaz brûlant qui rayonne."
       },
       {
-        "h": "Ce que l'on peut en conclure, et ce que l'on ne peut pas",
-        "body": "La masse stellaire n'est pas mesurée directement : on la déduit de la lumière reçue, en supposant un certain mélange d'étoiles jeunes et vieilles. Si ces galaxies forment leurs étoiles plus efficacement, si elles abritent davantage d'étoiles très massives et très lumineuses, ou si un trou noir supermassif (jour 50) en leur centre ajoute sa propre lueur, leur masse a été surestimée. Les spécialistes penchent aujourd'hui vers ces explications, qui touchent à la formation des galaxies et non au cadre du Big Bang lui-même. La question reste ouverte (jour 34) : seules des mesures plus fines, galaxie par galaxie, permettront de trancher."
+        "h": "Pourquoi on les voit surtout loin, donc tôt",
+        "body": "Un quasar ne brille que tant qu'il reçoit du gaz. Dans l'univers jeune, les galaxies en contenaient beaucoup, et leurs collisions en poussaient vers le centre. Aujourd'hui, la plupart des trous noirs supermassifs, dont celui de notre galaxie, sont presque à jeun et ne brillent guère. Comme voir loin, c'est voir tôt (jour 5), les quasars sont surtout observés à grande distance : ils racontent une époque où ces trous noirs grossissaient vite. Leur éclat permet aussi de les voir de très loin, à travers le gaz qui les sépare de nous, dont ils éclairent la composition."
       }
     ],
     "keyTerms": [
       {
-        "term": "Galaxie primitive",
-        "def": "Galaxie observée telle qu'elle était dans les premières centaines de millions d'années de l'univers, grâce au long trajet de sa lumière."
+        "term": "Quasar",
+        "def": "Cœur extrêmement lumineux d'une galaxie lointaine, où le gaz chauffé autour d'un trou noir supermassif rayonne plus que toutes les étoiles de la galaxie réunies."
       },
       {
-        "term": "Masse stellaire",
-        "def": "Masse totale des étoiles d'une galaxie, déduite de sa lumière et non mesurée directement, ce qui la rend sensible aux hypothèses retenues."
+        "term": "Disque d'accrétion",
+        "def": "Disque de gaz en orbite autour d'un astre compact, qui se rapproche peu à peu de lui en s'échauffant jusqu'à rayonner intensément."
       }
     ],
-    "recap": "Webb voit des galaxies très anciennes plus nombreuses et plus brillantes que prévu ; leur masse, déduite de leur lumière, est peut-être surestimée, et c'est la formation des galaxies, plus que le Big Bang, qui est en débat.",
-    "next": "Demain — les quasars : quand un trou noir supermassif devient l'objet le plus lumineux de l'univers."
+    "recap": "Un quasar est la lumière du gaz qui tourne et s'échauffe autour d'un trou noir supermassif bien alimenté ; fréquent dans l'univers jeune, il est devenu rare aujourd'hui.",
+    "next": "Demain — d'où viennent les trous noirs supermassifs, et pourquoi certains semblent avoir grandi trop vite."
   }
 }

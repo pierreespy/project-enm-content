@@ -1,0 +1,32 @@
+{
+  "n": 75,
+  "title": "Les quasars",
+  "subtitle": "Quand l'abord d'un trou noir supermassif devient l'objet le plus lumineux de l'univers",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un point qui éclipse une galaxie",
+      "body": "Dans les années 1960, les astronomes repèrent des sources qui ressemblent à des étoiles : un simple point lumineux. Leur spectre (jour 14) les trahit pourtant : ses raies (jour 15) sont si décalées vers le rouge (jour 17) que ces objets se trouvent à des milliards d'années-lumière. Pour paraître aussi brillants de si loin, ils doivent avoir une luminosité (jour 41) colossale, souvent supérieure à celle de toutes les étoiles d'une grande galaxie réunies. On les appelle quasars : des cœurs de galaxies lointaines qui émettent, depuis une région minuscule, plus de lumière que la galaxie entière qui les abrite."
+    },
+    {
+      "h": "Ce qui brille, ce n'est pas le trou noir",
+      "body": "Un trou noir ne laisse rien échapper, pas même la lumière : il ne peut donc pas briller lui-même. La lumière vient du gaz qui l'entoure. Au centre de ces galaxies se trouve un trou noir supermassif (jour 50). Le gaz qui s'en approche ne tombe pas droit dessus : comme une planète, il a un mouvement de côté qui le met en orbite (jour 9). Il forme alors un disque d'accrétion, c'est-à-dire un disque de gaz qui tourne autour du trou noir en se rapprochant peu à peu de lui. Les frottements entre ses couches le chauffent à des températures énormes, et c'est ce gaz brûlant qui rayonne."
+    },
+    {
+      "h": "Pourquoi on les voit surtout loin, donc tôt",
+      "body": "Un quasar ne brille que tant qu'il reçoit du gaz. Dans l'univers jeune, les galaxies en contenaient beaucoup, et leurs collisions en poussaient vers le centre. Aujourd'hui, la plupart des trous noirs supermassifs, dont celui de notre galaxie, sont presque à jeun et ne brillent guère. Comme voir loin, c'est voir tôt (jour 5), les quasars sont surtout observés à grande distance : ils racontent une époque où ces trous noirs grossissaient vite. Leur éclat permet aussi de les voir de très loin, à travers le gaz qui les sépare de nous, dont ils éclairent la composition."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Quasar",
+      "def": "Cœur extrêmement lumineux d'une galaxie lointaine, où le gaz chauffé autour d'un trou noir supermassif rayonne plus que toutes les étoiles de la galaxie réunies."
+    },
+    {
+      "term": "Disque d'accrétion",
+      "def": "Disque de gaz en orbite autour d'un astre compact, qui se rapproche peu à peu de lui en s'échauffant jusqu'à rayonner intensément."
+    }
+  ],
+  "recap": "Un quasar est la lumière du gaz qui tourne et s'échauffe autour d'un trou noir supermassif bien alimenté ; fréquent dans l'univers jeune, il est devenu rare aujourd'hui.",
+  "next": "Demain — d'où viennent les trous noirs supermassifs, et pourquoi certains semblent avoir grandi trop vite."
+}

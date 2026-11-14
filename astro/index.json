@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13",
-  "count": 74,
+  "updated": "2026-11-14",
+  "count": 75,
   "lessons": [
     {
       "n": 1,
@@ -640,6 +640,15 @@
       "terms": [
         "Galaxie primitive",
         "Masse stellaire"
+      ]
+    },
+    {
+      "n": 75,
+      "file": "astro/lessons/075-les-quasars.json",
+      "title": "Les quasars",
+      "terms": [
+        "Quasar",
+        "Disque d'accrétion"
       ]
     }
   ]

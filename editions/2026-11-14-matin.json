@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Affaire Michel Zecler : trois policiers jugés devant la cour criminelle de Paris pour violences et faux en écriture publique",
+    "dek": "Depuis le 9 novembre et jusqu'au 20 novembre 2026, un brigadier et deux gardiens de la paix comparaissent pour les coups portés en novembre 2020 au producteur de musique dans son studio du 17e arrondissement, mais surtout pour le procès-verbal qui le présentait comme leur agresseur : rédigé par des personnes dépositaires de l'autorité publique, ce faux est un crime, ce qui explique la saisine de la cour criminelle. La circonstance aggravante de racisme a été écartée à l'instruction ; les images de vidéosurveillance restent au cœur des débats.",
+    "source": "Cour criminelle de Paris · procès ouvert le 9 nov. 2026 · franceinfo",
+    "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/michel-zecler-le-proces-des-trois-policiers-accuses-de-l-avoir-passe-a-tabac-s-ouvre_8274560.html"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Certificats d'économies d'énergie : un arrêté du 6 novembre 2026 crée des bonifications pour les « offres intégrées pompes à chaleur » retenues par l'Ademe",
+      "summary": "Publié au JO du 13 novembre avec un second arrêté qui complète, à compter du 15 novembre, la liste des modèles de pompes à chaleur agréés en matière de qualité et de résilience industrielle (décret n° 2026-413 du 29 mai 2026), le texte majore les certificats attribués aux opérations portées par les offres sélectionnées dans l'appel à candidatures de l'agence.",
+      "source": "Arrêtés du 6 nov. 2026 (JORF n° 0265 du 13 nov. 2026) · Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075355",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. 1re civ., 21 oct. 2026, n° 25-10.590 : la concubine protégée par une ordonnance de protection peut devoir une indemnité d'occupation du logement indivis",
+      "summary": "Au visa des articles 515-11 et 815-9 du code civil, la Cour casse l'arrêt qui l'en dispensait : l'attribution de la jouissance du logement à la victime de violences n'emporte pas, par principe, sa gratuité, et l'exclusion de l'autre indivisaire caractérise une jouissance privative.",
+      "source": "Cass. 1re civ., 21 oct. 2026, n° 25-10.590 · Le Mag Juridique",
+      "url": "https://www.lemag-juridique.com/articles/patrimoine-successions-violences-conjugales-indemnite-doccupation-peut-etre-due-par-concubin-protege-12191.htm",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Clause attributive de juridiction : désigner un tribunal ne lui confère pas une compétence exclusive si chaque partie garde son propre for",
+      "summary": "La note publiée le 10 novembre 2026 analyse un arrêt écartant l'exception d'incompétence tirée d'une clause désignant le tribunal de Sarrebruck, dès lors que la stipulation ménageait à chaque partie le droit d'agir devant la juridiction dont elle relève, ce qui invite les rédacteurs à dire expressément l'exclusivité voulue.",
+      "source": "Open Lefebvre Dalloz · 10 nov. 2026",
+      "url": "https://open.lefebvre-dalloz.fr/actualites/droit-affaires/clause-attributive-juridiction-donnant-competence-exclusive-tribunal-designe_fd91e2ad1-8c32-4173-9b05-20b199d1e58c",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "14 novembre 1913 : Marcel Proust publie à compte d'auteur « Du côté de chez Swann »",
+      "summary": "Refusé par plusieurs éditeurs, dont la NRF sur l'avis d'André Gide, le premier volume d'« À la recherche du temps perdu » paraît chez Bernard Grasset aux frais de l'auteur, cinq ans avant que le deuxième, « À l'ombre des jeunes filles en fleurs », ne reçoive le prix Goncourt.",
+      "source": "Hérodote · almanach du 14 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1114.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Condamné par la cour d'assises : dix jours pour faire appel, comme le tireur d'Amnéville après sa peine de 14 ans",
+      "summary": "Reconnu coupable le 13 novembre 2026 par la cour d'assises de la Moselle de tentatives de meurtre sur six policiers et une automobiliste, l'accusé dispose, comme le ministère public, du délai de l'article 380-9 du code de procédure pénale, courant à compter du prononcé, pour saisir une cour d'assises d'appel désignée par la chambre criminelle.",
+      "source": "Cour d'assises de la Moselle, 13 nov. 2026 · France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/proces-du-tireur-d-amneville-l-homme-accuse-d-avoir-tire-sur-des-policiers-et-une-automobiliste-condamne-a-14-ans-de-reclusion-criminelle-3449523.html",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Onze ans après les attentats du 13-Novembre, la France rend hommage aux victimes",
+      "summary": "Les cérémonies ont commencé devant le Stade de France, à Saint-Denis, avant de se poursuivre sur les lieux des attaques à Paris, et un hommage a été rendu avant le match France-Afrique du Sud.",
+      "source": "Euronews · 13 nov. 2026",
+      "url": "https://fr.euronews.com/2026/11/13/attentats-du-13-novembre-onze-ans-apres-la-france-rend-hommage-aux-victimes",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Mini-abus de droit",
+    "subtitle": "Droit fiscal · procédure · article L. 64 A du Livre des procédures fiscales",
+    "defShort": "Procédure qui permet à l'administration d'écarter un acte poursuivant un but « principalement » fiscal — et non plus « exclusivement » fiscal comme dans l'abus de droit classique — lorsqu'il recherche, contre l'intention du législateur, le bénéfice d'une application littérale des textes.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "L'abus de droit de l'article L. 64 LPF vise les actes fictifs ou inspirés par un motif exclusivement fiscal. L'article L. 64 A abaisse le seuil : il suffit que l'éviction ou l'atténuation de l'impôt soit le motif principal de l'opération. Les deux branches restent cumulatives : avantage fiscal recherché, et contrariété aux objectifs poursuivis par les auteurs du texte (fraude à la loi)."
+      },
+      {
+        "h": "Fondement",
+        "body": "Créé par l'article 109 de la loi de finances pour 2019 (loi n° 2018-1317 du 28 décembre 2018), il s'applique aux rectifications notifiées à compter du 1er janvier 2021 pour les actes passés depuis le 1er janvier 2020. Il reprend, pour tous les impôts, la logique de la clause anti-abus générale de la directive ATAD, déjà transposée en matière d'impôt sur les sociétés à l'article 205 A du CGI."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Montages patrimoniaux et sociétaires dont la substance économique est réelle mais accessoire : apport-cession, interposition de holding, donations ou démembrements, choix d'un régime de faveur. L'administration a indiqué qu'elle n'entendait pas remettre en cause, sur ce fondement, la transmission anticipée de la nue-propriété avec réserve d'usufruit, dont le but fiscal est assumé par le législateur."
+      },
+      {
+        "h": "Portée",
+        "body": "La procédure de l'abus de droit s'applique (avis possible du comité de l'abus de droit fiscal, charge de la preuve renversée selon le sens de l'avis), mais la majoration spécifique de 80 % ou 40 % de l'article 1729 b du CGI est écartée, sans exclure la majoration pour manquement délibéré. Le contribuable peut sécuriser l'opération par le rescrit de l'article L. 64 B, le silence de l'administration pendant six mois valant accord."
+      }
+    ],
+    "seeAlso": "Voir aussi — abus de droit par fraude à la loi (art. L. 64 LPF) · clause anti-abus de l'article 205 A du CGI · rescrit abus de droit (art. L. 64 B LPF) · acte anormal de gestion"
+  },
+  "date": "2026-11-14",
+  "dateShort": "14 nov.",
+  "slot": "matin"
+}

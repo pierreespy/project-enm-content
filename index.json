@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-13",
-  "updatedSlot": "midi",
+  "updated": "2026-11-14",
+  "updatedSlot": "matin",
   "count": 23,
   "editions": [
+    {
+      "date": "2026-11-14",
+      "slot": "matin",
+      "file": "editions/2026-11-14-matin.json",
+      "essentiel": "Affaire Michel Zecler : trois policiers jugés devant la cour criminelle de Paris pour violences et faux en écriture publique",
+      "term": "Mini-abus de droit",
+      "rubriques": [
+        "Certificats d'économies d'énergie : un arrêté du 6 novembre 2026 crée des bonifications pour les « offres intégrées pompes à chaleur » retenues par l'Ademe",
+        "Cass. 1re civ., 21 oct. 2026, n° 25-10.590 : la concubine protégée par une ordonnance de protection peut devoir une indemnité d'occupation du logement indivis",
+        "Clause attributive de juridiction : désigner un tribunal ne lui confère pas une compétence exclusive si chaque partie garde son propre for",
+        "14 novembre 1913 : Marcel Proust publie à compte d'auteur « Du côté de chez Swann »",
+        "Condamné par la cour d'assises : dix jours pour faire appel, comme le tireur d'Amnéville après sa peine de 14 ans",
+        "Onze ans après les attentats du 13-Novembre, la France rend hommage aux victimes"
+      ]
+    },
     {
       "date": "2026-11-13",
       "slot": "midi",
@@ -331,21 +346,6 @@
         "Convention nationale des avocats de Toulouse : « l'avocat durable » au cœur des débats",
         "Procédure civile : ce qui change depuis le 1er octobre 2026 avec le décret « Magicobus III »",
         "Toussaint 2026 : un dimanche, donc pas de pont"
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "slot": "matin",
-      "file": "editions/2026-10-29-matin.json",
-      "essentiel": "Vente anticipée d'un bien saisi pénalement : le Conseil constitutionnel valide, sous réserve, l'article 706-152 du Code de procédure pénale malgré l'absence d'audience",
-      "term": "Réserve d'interprétation constructive",
-      "rubriques": [
-        "Troubles urbains des 17 et 18 octobre : un décret crée une aide exceptionnelle pour les entreprises de moins de 250 salariés",
-        "Inéligibilité des policiers : le Conseil constitutionnel juge conforme l'article L. 231 du Code électoral",
-        "Procédure disciplinaire des avocats : le CNB propose une nouvelle réforme",
-        "29 octobre 1929 : le « mardi noir » à Wall Street",
-        "Suppléance et administration provisoire des cabinets d'avocats : le CNB lance une consultation",
-        "Aide carburant de 100 euros : une nouvelle demande en ligne ouverte jusqu'au 31 décembre"
       ]
     }
   ]
