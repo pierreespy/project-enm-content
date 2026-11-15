@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14",
-  "count": 75,
+  "updated": "2026-11-15",
+  "count": 76,
   "lessons": [
     {
       "n": 1,
@@ -649,6 +649,15 @@
       "terms": [
         "Quasar",
         "Disque d'accrétion"
+      ]
+    },
+    {
+      "n": 76,
+      "file": "astro/lessons/076-l-enigme-des-trous-noirs-trop-precoces.json",
+      "title": "Des trous noirs géants trop tôt",
+      "terms": [
+        "Limite d'Eddington",
+        "Graine de trou noir"
       ]
     }
   ]

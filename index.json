@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-14",
-  "updatedSlot": "midi",
-  "count": 24,
+  "updated": "2026-11-15",
+  "updatedSlot": "matin",
+  "count": 25,
   "editions": [
+    {
+      "date": "2026-11-15",
+      "slot": "matin",
+      "file": "editions/2026-11-15-matin.json",
+      "essentiel": "Médecine esthétique : le décret du 12 novembre 2026 cantonne l'activité à visée esthétique des médecins à 30 % de leur temps de travail",
+      "term": "Théorie de la connaissance acquise",
+      "rubriques": [
+        "Anguille européenne : le moratoire national sur la pêche de loisir de l'anguille jaune en eau douce entre en vigueur ce 15 novembre",
+        "Cass. soc., 10 nov. 2026 : la communication des bulletins de paie des collègues doit être indispensable au droit à la preuve du salarié",
+        "Rescrit fiscal et revirement de l'administration : la garantie survit pour les impositions dont le fait générateur précède le changement de position",
+        "15 novembre 1920 : la première Assemblée de la Société des Nations s'ouvre à Genève",
+        "Durées maximales de travail dépassées : quand la demande d'indemnisation relève du pôle social et non du conseil de prud'hommes",
+        "COP31 à Antalya : à l'entame de la seconde semaine, l'Afrique réclame des financements climatiques à la hauteur de l'urgence"
+      ]
+    },
     {
       "date": "2026-11-14",
       "slot": "midi",

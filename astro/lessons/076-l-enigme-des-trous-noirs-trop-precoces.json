@@ -1,0 +1,32 @@
+{
+  "n": 76,
+  "title": "Des trous noirs géants trop tôt",
+  "subtitle": "D'où viennent les trous noirs supermassifs, et pourquoi certains semblent avoir grandi trop vite",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Le constat qui dérange",
+      "body": "Les quasars (jour 75) les plus lointains brillent alors que l'univers n'avait pas encore un milliard d'années. Pour rayonner autant, leur trou noir supermassif (jour 50) devait déjà peser environ un milliard de fois la masse du Soleil. Webb (jour 73) en repère même de plus massifs encore dans des galaxies primitives (jour 74). La question n'est donc pas seulement de savoir comment ces monstres se forment, mais comment ils ont eu le temps d'atteindre une telle masse aussi vite."
+    },
+    {
+      "h": "Grossir prend du temps",
+      "body": "Un trou noir grossit en avalant le gaz de son disque d'accrétion (jour 75). Mais ce gaz, en s'échauffant, émet une lumière intense dont la pression repousse le gaz qui arrive ensuite. Il existe donc un rythme de croissance qu'un trou noir ne peut guère dépasser durablement : on l'appelle la limite d'Eddington, du nom de l'astronome britannique qui l'a établie. À ce rythme, partir d'un trou noir laissé par une seule étoile morte (jour 23) et atteindre un milliard de masses solaires demande presque tout le temps disponible, sans la moindre interruption dans l'alimentation."
+    },
+    {
+      "h": "Deux pistes pour une graine",
+      "body": "Les astrophysiciens cherchent donc la graine, c'est-à-dire le trou noir de départ à partir duquel le géant a grandi. Première piste : des graines légères, issues des toutes premières étoiles, qui auraient connu des épisodes de croissance plus rapides que la limite, en avalant le gaz par à-coups. Seconde piste : des graines lourdes, nées de l'effondrement direct d'un immense nuage de gaz en trou noir, sans passer par le stade d'étoile, et pesant dès l'origine des dizaines de milliers de masses solaires. Les observations de Webb devraient permettre de départager ces scénarios."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Limite d'Eddington",
+      "def": "Rythme de croissance au-delà duquel la lumière émise par le gaz qui tombe sur un astre repousse le gaz suivant, ce qui freine durablement l'alimentation."
+    },
+    {
+      "term": "Graine de trou noir",
+      "def": "Trou noir initial, léger ou lourd, à partir duquel un trou noir supermassif a grandi en accumulant de la matière."
+    }
+  ],
+  "recap": "Certains trous noirs supermassifs étaient déjà énormes dans l'univers jeune, plus vite que ne le permet une croissance régulière ; on suppose des graines lourdes ou des phases de croissance accélérée.",
+  "next": "Demain — comment un trou noir supermassif agit sur toute sa galaxie, bien au-delà de son voisinage."
+}
