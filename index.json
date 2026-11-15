@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-15",
-  "updatedSlot": "matin",
-  "count": 25,
+  "updatedSlot": "midi",
+  "count": 26,
   "editions": [
+    {
+      "date": "2026-11-15",
+      "slot": "midi",
+      "file": "editions/2026-11-15-midi.json",
+      "essentiel": "Prisons InSERRE : un décret du 14 novembre 2026 crée les établissements pénitentiaires centrés sur la réinsertion par le travail",
+      "term": "Exception de recours parallèle",
+      "rubriques": [
+        "Mortiers d'artifice : un décret du 14 novembre 2026 en suspend la vente et l'utilisation jusqu'au 27 novembre",
+        "CE, 13 nov. 2026 : trois parcs éoliens définitivement annulés, dont le Mont des Quatre Faux, et un sursis à statuer strictement encadré",
+        "Politique de l'amiable : en validant la circulaire de politique civile, le Conseil d'État refuse d'y voir une atteinte à l'indépendance des juges",
+        "15 novembre 1630 : Johannes Kepler meurt à Ratisbonne, venu réclamer à la Diète des arriérés de traitement",
+        "Défendeur assigné à personne qui ne comparaît pas : depuis le 1er octobre 2026, le jugement peut ne pas être motivé",
+        "Emmanuel Macron au Cambodge : première visite d'État d'un président français depuis le général de Gaulle en 1966"
+      ]
+    },
     {
       "date": "2026-11-15",
       "slot": "matin",
