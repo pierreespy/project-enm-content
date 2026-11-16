@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-16",
-  "updatedSlot": "matin",
-  "count": 27,
+  "updatedSlot": "midi",
+  "count": 28,
   "editions": [
+    {
+      "date": "2026-11-16",
+      "slot": "midi",
+      "file": "editions/2026-11-16-midi.json",
+      "essentiel": "« Volets verts » : Gérard Depardieu se désiste de son appel le jour de l'audience, sa condamnation pour agressions sexuelles devient définitive",
+      "term": "Déchéance du droit aux intérêts",
+      "rubriques": [
+        "Découvert et facilité de caisse : à compter du 20 novembre 2026, ils entrent dans le régime du crédit à la consommation",
+        "Cass. soc., 10 nov. 2026, n° 25-14.863 : l'employeur qui reclasse par listes doit adresser chaque actualisation au salarié jusqu'à son licenciement",
+        "Présomption d'usage légitime de l'arme : à trois jours de l'examen au Sénat, une étude de droit comparé la dit « sans équivalent »",
+        "16 novembre 1532 : à Cajamarca, Francisco Pizarro capture l'empereur inca Atahualpa",
+        "Registre des bénéficiaires effectifs : depuis le 10 novembre, le greffe a douze jours ouvrables pour répondre à une demande fondée sur l'intérêt légitime",
+        "Francophonie : faute de consensus, le sommet de Phnom Penh reporte d'un an l'élection du secrétaire général et prolonge Louise Mushikiwabo"
+      ]
+    },
     {
       "date": "2026-11-16",
       "slot": "matin",

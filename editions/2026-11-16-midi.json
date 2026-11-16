@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "« Volets verts » : Gérard Depardieu se désiste de son appel le jour de l'audience, sa condamnation pour agressions sexuelles devient définitive",
+    "dek": "Le procès devait s'ouvrir ce lundi 16 novembre devant la cour d'appel de Paris ; par la voix de ses avocats, David-Olivier Kaminski et Delphine Meillet, l'acteur renonce à son recours et présente des excuses, ce qui rend définitive la peine de 18 mois d'emprisonnement avec sursis prononcée en mai 2025 pour deux agressions sexuelles commises en 2021 sur le tournage. Un autre volet reste pendant : la chambre de l'instruction doit statuer le 26 novembre sur son renvoi devant la cour criminelle de Paris pour des faits dénoncés en 2018.",
+    "source": "Cour d'appel de Paris · Ouest-France, 16 nov. 2026",
+    "url": "https://www.ouest-france.fr/cinema/gerard-depardieu/condamne-pour-agression-sexuelle-gerard-depardieu-se-desiste-de-son-proces-en-appel-et-presente-ses-excuses-f46cb3fe-e194-11f1-b029-43a761592972"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Découvert et facilité de caisse : à compter du 20 novembre 2026, ils entrent dans le régime du crédit à la consommation",
+      "summary": "Issue de la transposition de la directive (UE) 2023/2225 par l'ordonnance n° 2025-880 du 3 septembre 2025, la réforme n'interdit pas le découvert mais soumet les autorisations consenties à partir de cette date, y compris celles de moins de 200 euros ou remboursables sous un mois, à l'information précontractuelle et à l'évaluation de la solvabilité de l'emprunteur, avec un régime allégé pour les petits montants.",
+      "source": "Ord. n° 2025-880 du 3 sept. 2025 · Le Club des juristes, « En bref »",
+      "url": "https://www.leclubdesjuristes.com/en-bref/decouvert-bancaire-vers-un-encadrement-renforce-a-partir-de-novembre-2026-12692/",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. soc., 10 nov. 2026, n° 25-14.863 : l'employeur qui reclasse par listes doit adresser chaque actualisation au salarié jusqu'à son licenciement",
+      "summary": "Faute de prouver l'envoi de la liste mise à jour le 15 décembre, alors que celle du 8 décembre avait bien été transmise, l'employeur a manqué à son obligation de reclassement de l'article L. 1233-4 du code du travail, peu important que le salarié, dispensé d'activité, n'ait candidaté à aucune offre antérieure.",
+      "source": "Cass. soc., 10 nov. 2026, n° 25-14.863 · Dairia Avocats · LexisVeille",
+      "url": "https://www.dairia-avocats.com/blog/licenciement-economique-liste-postes-reclassement-actualisation-cass-soc-10-novembre-2026",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Présomption d'usage légitime de l'arme : à trois jours de l'examen au Sénat, une étude de droit comparé la dit « sans équivalent »",
+      "summary": "Avant la séance du 19 novembre sur la proposition de loi n° 866 adoptée par l'Assemblée le 7 juillet, Me William Laurent soutient qu'aucune démocratie comparable, ni les États-Unis — où la qualified immunity relève du contentieux civil et les doctrines castle doctrine et stand your ground ne déplacent pas la charge de la preuve —, ni l'Italie de la réforme Salvini, n'attache une présomption de justification à la seule qualité de l'auteur du tir.",
+      "source": "W. Laurent, « Une présomption sans équivalent » · Sénat, PPL n° 866 (2025-2026)",
+      "url": "https://consultation.avocat.fr/blog/william-laurent/article-2982355-une-presomption-sans-equivalent-la-presomption-de-legitime-defense-des-forces-de-l-ordre-a-l-epreuve-du-droit-compare.html",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "16 novembre 1532 : à Cajamarca, Francisco Pizarro capture l'empereur inca Atahualpa",
+      "summary": "Avec moins de deux cents hommes, le conquistador tend une embuscade sur la grand-place de la cité andine et s'empare de l'Inca, qui offrira en vain de remplir une salle d'or et deux d'argent pour sa rançon avant d'être exécuté en juillet 1533 au terme d'un simulacre de procès.",
+      "source": "Wikipédia, « Bataille de Cajamarca »",
+      "url": "https://fr.wikipedia.org/wiki/Bataille_de_Cajamarca",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Registre des bénéficiaires effectifs : depuis le 10 novembre, le greffe a douze jours ouvrables pour répondre à une demande fondée sur l'intérêt légitime",
+      "summary": "En application du décret n° 2026-310 du 24 avril 2026, le délai tombe à sept jours ouvrables pour le titulaire d'un certificat d'accès en cours de validité, peut être prorogé par périodes de douze jours en cas d'afflux de demandes, et le silence gardé à son terme vaut rejet : un point à intégrer dans le calendrier de toute diligence LCB-FT ou de tout contentieux qui suppose de connaître l'actionnariat réel.",
+      "source": "Décret n° 2026-310 du 24 avr. 2026 · Économie Matin",
+      "url": "https://www.economiematin.fr/?p=239506",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Francophonie : faute de consensus, le sommet de Phnom Penh reporte d'un an l'élection du secrétaire général et prolonge Louise Mushikiwabo",
+      "summary": "Le 20e Sommet de l'OIF s'est achevé ce lundi sans désignation, les États membres ayant écarté un scrutin à bulletin secret entre Coumba Ba, Dacian Cioloș, Juliana Lumumba et la sortante, sur fond de différend entre Kinshasa et Kigali ; la Rwandaise reste en fonctions jusqu'en novembre 2027 pour conduire des réformes institutionnelles.",
+      "source": "Anadolu · Gavroche Thaïlande, 16 nov. 2026",
+      "url": "https://www.aa.com.tr/fr/art-et-culture/francophonie-l%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-report%C3%A9e-dun-an-apr%C3%A8s-des-n%C3%A9gociations-tendues-%C3%A0-phnom-penh/4126299",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Déchéance du droit aux intérêts",
+    "subtitle": "Droit de la consommation · crédit · art. L. 341-1 et s. du Code de la consommation",
+    "defShort": "Sanction civile qui prive le prêteur, en tout ou partie, des intérêts conventionnels lorsqu'il a manqué à ses obligations légales lors de l'octroi d'un crédit à la consommation : l'emprunteur ne rembourse plus que le capital, sans que le contrat soit annulé.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "La déchéance n'est ni une nullité ni une résolution : le contrat subsiste, l'emprunteur conserve le bénéfice du terme et reste tenu du capital, mais le prêteur perd sa rémunération. Les sommes perçues au titre des intérêts sont restituées ou imputées sur le capital restant dû. Elle peut être totale ou, dans la mesure fixée par le juge, partielle."
+      },
+      {
+        "h": "Fondement",
+        "body": "Les articles L. 341-1 et suivants du Code de la consommation attachent cette sanction au défaut de remise de la fiche d'informations précontractuelles, d'évaluation de la solvabilité ou de consultation du fichier des incidents de remboursement (FICP), et à l'irrégularité de l'offre. Le juge peut la relever d'office (art. R. 632-1), et la CJUE exige qu'elle demeure effective et dissuasive : les intérêts au taux légal majoré ne doivent pas rapporter au prêteur presque autant que le taux contractuel (CJUE, 27 mars 2014, LCL Le Crédit Lyonnais, C-565/12)."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Elle est invoquée le plus souvent en défense, devant le juge des contentieux de la protection saisi par le prêteur en paiement après déchéance du terme : le juge vérifie alors, même d'office, la régularité de la formation du contrat avant de liquider la créance. Le prêteur qui agit doit lui-même respecter la forclusion biennale propre au crédit à la consommation, tandis que l'emprunteur qui prend l'initiative d'une action en déchéance se heurte au droit commun de la prescription."
+      },
+      {
+        "h": "Portée",
+        "body": "C'est la sanction cardinale du droit du crédit, d'autant plus redoutée que la charge de la preuve des diligences pèse sur le prêteur, à qui une clause type signée par l'emprunteur ne suffit pas. L'entrée du découvert dans le régime du crédit à la consommation, le 20 novembre 2026, étend mécaniquement le terrain de la sanction aux autorisations de découvert accordées sans évaluation de solvabilité. Elle ne se confond pas avec la déchéance du terme, qui rend exigible le capital restant dû."
+      }
+    ],
+    "seeAlso": "Voir aussi — déchéance du terme · fiche d'informations précontractuelles · FICP · TAEG · forclusion biennale (art. R. 312-35 C. consom.)"
+  },
+  "date": "2026-11-16",
+  "dateShort": "16 nov.",
+  "slot": "midi"
+}
