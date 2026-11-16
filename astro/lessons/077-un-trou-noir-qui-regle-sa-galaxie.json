@@ -1,0 +1,32 @@
+{
+  "n": 77,
+  "title": "Un trou noir qui règle sa galaxie",
+  "subtitle": "Comment un objet minuscule à l'échelle d'une galaxie peut freiner la naissance de ses étoiles",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Une disproportion vertigineuse",
+      "body": "Le trou noir supermassif (jour 50) qui occupe le centre d'une galaxie (jour 24) pèse en général moins d'un millième de la masse de ses étoiles, et son horizon des événements (jour 23) est des milliards de fois plus petit qu'elle. Sa gravitation (jour 8) ne compte qu'à son voisinage immédiat. Pourtant, les astronomes constatent que la masse de ce trou noir et celle des étoiles de la région centrale de sa galaxie évoluent de concert : plus l'une est grande, plus l'autre l'est aussi. Un lien de cette nature appelle une explication."
+    },
+    {
+      "h": "L'énergie du disque",
+      "body": "L'explication tient au disque d'accrétion (jour 75). Lorsqu'un trou noir supermassif s'alimente activement, on parle de noyau actif de galaxie : le centre de la galaxie émet alors une énergie considérable, sous forme de lumière, de vents de gaz projetés à grande vitesse et parfois de jets étroits qui s'étendent bien au-delà de la galaxie. Le quasar (jour 75) en est la version la plus lumineuse. Cette énergie ne reste pas sur place : elle chauffe le gaz de la galaxie et en chasse une partie."
+    },
+    {
+      "h": "Une boucle qui se referme",
+      "body": "Or les étoiles naissent de nuages moléculaires (jour 18), froids et denses. Un gaz chauffé ou expulsé ne peut plus s'effondrer pour en former de nouvelles. Le trou noir prive aussi son propre disque d'alimentation : en grossissant, il finit par couper ce qui le nourrit, puis s'apaise jusqu'à ce que du gaz revienne. On appelle rétroaction ce mécanisme par lequel l'activité du trou noir freine sa propre croissance et celle des étoiles de sa galaxie. C'est l'une des pistes privilégiées pour expliquer pourquoi les plus grosses galaxies cessent, à un moment de leur histoire, de produire des étoiles."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Noyau actif de galaxie",
+      "def": "Centre d'une galaxie dont le trou noir supermassif s'alimente activement et émet, par son disque d'accrétion, lumière, vents de gaz et parfois jets."
+    },
+    {
+      "term": "Rétroaction (d'un trou noir)",
+      "def": "Effet en retour par lequel l'énergie émise autour d'un trou noir supermassif chauffe ou chasse le gaz de sa galaxie, freinant à la fois sa croissance et la formation d'étoiles."
+    }
+  ],
+  "recap": "En chauffant et en chassant le gaz de sa galaxie, l'activité d'un trou noir supermassif limite la naissance de nouvelles étoiles et sa propre croissance : c'est la rétroaction.",
+  "next": "Demain — les jets : comment un trou noir projette de la matière à des centaines de milliers d'années-lumière."
+}

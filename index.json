@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-15",
-  "updatedSlot": "midi",
-  "count": 26,
+  "updated": "2026-11-16",
+  "updatedSlot": "matin",
+  "count": 27,
   "editions": [
+    {
+      "date": "2026-11-16",
+      "slot": "matin",
+      "file": "editions/2026-11-16-matin.json",
+      "essentiel": "Relance et décentralisation du logement : le projet de loi de Vincent Jeanbrun arrive dès ce lundi 16 novembre en séance à l'Assemblée nationale",
+      "term": "Obligation propter rem",
+      "rubriques": [
+        "Instances locales : le décret n° 2026-1051 du 14 novembre 2026 évite le scrutin de liste au CSFPT en cas de liste unique et garantit la place des petites communes au CNFEL",
+        "Cass. 2e civ., 12 nov. 2026, n° 23-20.333 : l'employeur redressé pour travail dissimulé peut se prévaloir de l'audition d'un salarié recueillie sans son consentement",
+        "Réviser la Constitution par l'article 11 : 110 constitutionnalistes jugent le procédé irrégulier",
+        "16 novembre 1945 : l'acte constitutif de l'Unesco est adopté à Londres",
+        "Apport d'affaires entre avocats : l'avant-projet du CNB ouvrirait une exception étroite, mais l'interdiction demeure pour l'heure",
+        "SpaceX rattrape pour la première fois l'étage supérieur de Starship avec les bras de sa tour de lancement"
+      ]
+    },
     {
       "date": "2026-11-15",
       "slot": "midi",

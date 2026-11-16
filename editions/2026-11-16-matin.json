@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Relance et décentralisation du logement : le projet de loi de Vincent Jeanbrun arrive dès ce lundi 16 novembre en séance à l'Assemblée nationale",
+    "dek": "Adopté en première lecture par le Sénat le 8 juillet puis par la commission des affaires économiques le 22 septembre, le texte, dont l'examen en séance a été avancé d'un jour, entend créer des « opérations d'intérêt local » dans les territoires tendus et doter un programme ANRU 3 de 5 milliards d'euros ; en commission, les députés ont rétabli l'obligation de travaux d'au moins 20 % du prix d'acquisition pour bénéficier de l'avantage fiscal « Jeanbrun » dans l'ancien.",
+    "source": "Projet de loi relance et décentralisation du logement · Immo Matin · Sénat (dossier pjl25-801)",
+    "url": "https://www.immomatin.com/juridique/relance-logement-l-examen-du-projet-de-loi-en-seance-a-l-assemblee-nationale-avance-au-16-novembre.html"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Instances locales : le décret n° 2026-1051 du 14 novembre 2026 évite le scrutin de liste au CSFPT en cas de liste unique et garantit la place des petites communes au CNFEL",
+      "summary": "Publié au JO du 15 novembre, le décret dispense de scrutin les collèges de représentants des collectivités au Conseil supérieur de la fonction publique territoriale lorsqu'une seule liste est déposée, et modifie l'article R. 1221-1 du CGCT pour assurer la représentation des communes de moins de 500 habitants au Conseil national de la formation des élus locaux.",
+      "source": "Décret n° 2026-1051 du 14 nov. 2026 (JORF du 15 nov. 2026) · Landot avocats",
+      "url": "https://blog.landot-avocats.net/2026/11/15/ajustements-pour-le-csfpt-et-le-cnefl/",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Cass. 2e civ., 12 nov. 2026, n° 23-20.333 : l'employeur redressé pour travail dissimulé peut se prévaloir de l'audition d'un salarié recueillie sans son consentement",
+      "summary": "La deuxième chambre civile admet que l'entreprise invoque le défaut de consentement préalable de la personne entendue exigé par l'article L. 8271-6-1 du code du travail, mais seuls les chefs de redressement fondés sur cette audition tombent : les pourvois sont rejetés et l'arrêt de Saint-Denis de La Réunion, qui laisse 72 349 euros à la charge de la société, est maintenu.",
+      "source": "Cass. 2e civ., 12 nov. 2026, n° 23-20.333 · Juriguide, 15 nov. 2026",
+      "url": "https://www.juriguide.com/2026/11/15/travail-dissimule-redressement-cotisations-audition-sans-consentement/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Réviser la Constitution par l'article 11 : 110 constitutionnalistes jugent le procédé irrégulier",
+      "summary": "À l'initiative du professeur Julien Bonnet, cent dix universitaires rappellent dans une tribune que la révision constitutionnelle relève de la seule procédure de l'article 89, qui suppose un vote en termes identiques des deux assemblées, et que le précédent de 1962 ne fait pas du référendum législatif une voie de révision.",
+      "source": "Le Club des juristes, « En bref » · tribune publiée dans Le Monde",
+      "url": "https://www.leclubdesjuristes.com/en-bref/reformer-la-constitution-par-larticle-11-110-constitutionnalistes-critiquent-le-projet-de-marine-le-pen-18376/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "16 novembre 1945 : l'acte constitutif de l'Unesco est adopté à Londres",
+      "summary": "Cinq mois après la Charte de San Francisco, une conférence réunissant 44 États adopte à Londres la Convention créant l'Organisation des Nations unies pour l'éducation, la science et la culture, dont le préambule pose que « les guerres prenant naissance dans l'esprit des hommes, c'est dans l'esprit des hommes que doivent être élevées les défenses de la paix ».",
+      "source": "Hérodote, almanach du 16 novembre",
+      "url": "https://www.herodote.net/almanach-jour-1116.php",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Apport d'affaires entre avocats : l'avant-projet du CNB ouvrirait une exception étroite, mais l'interdiction demeure pour l'heure",
+      "summary": "La consultation des ordres, syndicats et organismes techniques s'est close le 10 novembre et le rapport final est attendu à l'assemblée générale du 4 décembre 2026 : d'ici là, toute rémunération de l'apport d'affaires entre confrères reste prohibée par les règles déontologiques en vigueur.",
+      "source": "Village de la Justice · Conseil national des barreaux",
+      "url": "https://www.village-justice.com/articles/apport-affaires-entre-avocats-que-avant-projet-cnb-changerait-changerait-pas,59799.html",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "SpaceX rattrape pour la première fois l'étage supérieur de Starship avec les bras de sa tour de lancement",
+      "summary": "Au terme d'un vol d'environ 22 heures en orbite et du déploiement de 26 satellites Starlink, le vaisseau du vol 15 a été saisi le 14 novembre par la tour de Starbase, au Texas, tandis que le premier étage, qui devait lui aussi être récupéré, a fini par exploser dans le golfe du Mexique.",
+      "source": "EarthSky · Engadget, 14 nov. 2026",
+      "url": "https://earthsky.org/space/glorious-starship-capture-spacex-makes-spaceflight-history-again/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Obligation propter rem",
+    "subtitle": "Droit des biens · obligation réelle (art. 663, 698 et 699 du Code civil ; art. 10 de la loi du 10 juillet 1965)",
+    "defShort": "Obligation dont le débiteur est désigné non par sa personne mais par sa qualité de propriétaire ou de titulaire d'un droit réel sur une chose : elle suit le bien entre les mains de chaque acquéreur, et l'on peut s'en libérer en abandonnant la chose.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Littéralement « à cause de la chose », l'obligation propter rem est une obligation de faire ou de payer, donc un droit personnel, mais rattachée à un bien : est débiteur quiconque en est propriétaire au moment où elle est exigible. Elle occupe ainsi une zone intermédiaire entre le droit réel, qui porte sur la chose, et le droit de créance, qui lie deux personnes."
+      },
+      {
+        "h": "Fondement",
+        "body": "Aucun texte n'en pose le régime général : la catégorie est doctrinale et se reconstruit à partir d'hypothèses légales — obligation de contribuer à la clôture mitoyenne en ville (art. 663 C. civ.), frais des ouvrages nécessaires à une servitude mis à la charge du propriétaire du fonds servant par le titre (art. 698 et 699), contribution aux charges de copropriété attachée au lot (art. 10 de la loi du 10 juillet 1965). L'obligation réelle environnementale (art. L. 132-3 C. env.) en emprunte la logique de transmission aux propriétaires successifs."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Le trait distinctif est le délaissement (ou déguerpissement) : l'article 699 permet au propriétaire du fonds assujetti de s'affranchir de la charge des ouvrages en abandonnant le fonds au propriétaire du fonds dominant, preuve que la dette tient à la chose plus qu'à la personne. Corrélativement, l'acquéreur est tenu des échéances futures sans avoir consenti à l'engagement, et le vendeur cesse d'en répondre pour l'avenir."
+      },
+      {
+        "h": "Portée",
+        "body": "La qualification commande la transmission passive sans cession de dette ni accord du créancier, mais pas nécessairement celle des arriérés : pour les charges de copropriété, la dette échue reste en principe à la charge de celui qui était copropriétaire à la date d'exigibilité. Elle se distingue du droit réel de jouissance spéciale reconnu depuis l'arrêt Maison de Poésie (Cass. 3e civ., 31 oct. 2012), qui confère un droit sur la chose et non une créance contre son propriétaire."
+      }
+    ],
+    "seeAlso": "Voir aussi — servitude (art. 637 C. civ.) · délaissement · droit réel de jouissance spéciale · obligation réelle environnementale (art. L. 132-3 C. env.)"
+  },
+  "date": "2026-11-16",
+  "dateShort": "16 nov.",
+  "slot": "matin"
+}

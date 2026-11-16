@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15",
-  "count": 76,
+  "updated": "2026-11-16",
+  "count": 77,
   "lessons": [
     {
       "n": 1,
@@ -658,6 +658,15 @@
       "terms": [
         "Limite d'Eddington",
         "Graine de trou noir"
+      ]
+    },
+    {
+      "n": 77,
+      "file": "astro/lessons/077-un-trou-noir-qui-regle-sa-galaxie.json",
+      "title": "Un trou noir qui règle sa galaxie",
+      "terms": [
+        "Noyau actif de galaxie",
+        "Rétroaction (d'un trou noir)"
       ]
     }
   ]
