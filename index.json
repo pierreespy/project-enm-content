@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-16",
-  "updatedSlot": "midi",
-  "count": 28,
+  "updated": "2026-11-17",
+  "updatedSlot": "matin",
+  "count": 27,
   "editions": [
+    {
+      "date": "2026-11-17",
+      "slot": "matin",
+      "file": "editions/2026-11-17-matin.json",
+      "essentiel": "Assassinat de Brahim Kessaci : la cour d'assises des Bouches-du-Rhône condamne Amine Oualane et Karim Harrat à la réclusion criminelle à perpétuité",
+      "term": "Effet négatif du principe compétence-compétence",
+      "rubriques": [
+        "Officines : l'arrêté du 4 novembre 2026 remplace la liste des marchandises que les pharmaciens peuvent vendre, en vigueur depuis 2002",
+        "Cass. com., 21 oct. 2026, n° 24-22.201 : la clause compromissoire est manifestement inapplicable à l'action du liquidateur en réparation du préjudice collectif",
+        "Mannequin de CRS brûlé à Strasbourg : ce que la loi de 1881 permet, ou non, de poursuivre",
+        "17 novembre 1869 : l'impératrice Eugénie inaugure le canal de Suez à bord de l'Aigle",
+        "Bail commercial : un commandement qui mêle griefs disparates et obligations absentes du bail ne fait pas jouer la clause résolutoire (Cass. 3e civ., 5 nov. 2026, n° 25-15.479)",
+        "Cap-Vert : José Maria Neves réélu dès le premier tour avec 63,8 % des voix, sur fond de 68 % d'abstention"
+      ]
+    },
     {
       "date": "2026-11-16",
       "slot": "midi",
@@ -391,36 +406,6 @@
         "2 novembre 1960 : l'éditeur de « L'Amant de Lady Chatterley » est acquitté à Londres",
         "Élections du CNB 2026 : scrutin fixé au 24 novembre, professions de foi en ligne",
         "Retours de Toussaint : Bison Futé classe le dimanche 1er novembre en orange vers l'Île-de-France"
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "slot": "midi",
-      "file": "editions/2026-11-01-midi.json",
-      "essentiel": "Cour de cassation, 24 juin 2026 : un arrêt de droit des affaires commenté (pourvoi n° 24-21.626)",
-      "term": "Stellionat",
-      "rubriques": [
-        "Forêt : un décret du 8 octobre 2026 fixe les conditions d'attribution des aides au renouvellement forestier",
-        "Cour de cassation, 1er juillet 2026 : un arrêt de la chambre commerciale commenté en jurisprudence des affaires",
-        "Revue des revues de droit des affaires : le panorama doctrinal de juin 2026",
-        "1er novembre 1954 : la « Toussaint rouge » ouvre la guerre d'Algérie",
-        "Cour de cassation, 3 juin 2026 : un arrêt de droit des affaires commenté (pourvoi n° 24-22.130)",
-        "Novembre 2026 : deux jours fériés seulement, la Toussaint un dimanche et l'Armistice un mercredi"
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "slot": "matin",
-      "file": "editions/2026-11-01-matin.json",
-      "essentiel": "Assurance maladie complémentaire : le Conseil constitutionnel censure le gel des cotisations pour 2026",
-      "term": "Déchéance quadriennale",
-      "rubriques": [
-        "Partage judiciaire : un décret du 18 octobre 2026 simplifie et modernise la procédure",
-        "Contrôle judiciaire et interdiction de paraître : la chambre criminelle casse, le 20 octobre 2026, dans l'affaire du maire de Boisseuil",
-        "Arbitrage : clarification et modernisation de la procédure arbitrale",
-        "Convention nationale des avocats de Toulouse : « l'avocat durable » au cœur des débats",
-        "Procédure civile : ce qui change depuis le 1er octobre 2026 avec le décret « Magicobus III »",
-        "Toussaint 2026 : un dimanche, donc pas de pont"
       ]
     }
   ]

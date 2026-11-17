@@ -1,0 +1,32 @@
+{
+  "n": 78,
+  "title": "Les jets : un trou noir qui projette de la matière",
+  "subtitle": "Comment un objet qui retient tout peut lancer de la matière au-delà de sa galaxie",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Ce que montrent les images",
+      "body": "Certains noyaux actifs de galaxie (jour 77) présentent deux traits rectilignes, partant du centre dans des directions opposées. On appelle jet ce faisceau étroit de matière projeté à une vitesse proche de celle de la lumière (jour 3). Les plus longs s'étendent sur des centaines de milliers d'années-lumière (jour 4), soit plusieurs fois la taille de la galaxie (jour 24) qui les abrite. Ils sont surtout visibles en ondes radio, une forme de lumière (jour 2) invisible à l'œil, et parfois en rayons X (jour 70)."
+    },
+    {
+      "h": "Rien ne sort du trou noir",
+      "body": "Le paradoxe n'est qu'apparent. Rien ne franchit l'horizon des événements (jour 23) dans le sens de la sortie : la matière des jets ne vient pas de l'intérieur du trou noir, mais du disque d'accrétion (jour 75) qui tourne autour de lui, juste avant d'y tomber. Ce disque est traversé par un champ magnétique (jour 56) intense, que la rotation du gaz et celle du trou noir tordent et resserrent. Ce champ canalise une petite partie de la matière le long de l'axe de rotation, perpendiculairement au disque, et la lance vers l'extérieur."
+    },
+    {
+      "h": "Là où le jet s'arrête",
+      "body": "Un jet finit par rencontrer le gaz très ténu qui baigne l'espace entre les galaxies. Freiné, il s'élargit en deux vastes nuages de part et d'autre de la galaxie, appelés lobes radio, qui brillent eux aussi en ondes radio. En chemin, le jet chauffe le gaz qu'il traverse : c'est l'une des formes que prend la rétroaction (jour 77), lorsqu'un trou noir empêche le gaz de refroidir et de former de nouvelles étoiles."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Jet",
+      "def": "Faisceau étroit de matière lancé à une vitesse proche de celle de la lumière depuis les abords d'un trou noir, le long de son axe de rotation, et canalisé par le champ magnétique du disque d'accrétion."
+    },
+    {
+      "term": "Lobe radio",
+      "def": "Vaste nuage de matière, brillant en ondes radio, formé à l'extrémité d'un jet lorsque celui-ci est freiné par le gaz situé entre les galaxies."
+    }
+  ],
+  "recap": "Les jets ne sortent pas du trou noir : c'est la matière de son disque d'accrétion, canalisée par un champ magnétique, qui est projetée le long de son axe jusqu'à bien au-delà de la galaxie.",
+  "next": "Demain — pourquoi certains jets semblent aller plus vite que la lumière, sans violer aucune loi."
+}

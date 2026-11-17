@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16",
-  "count": 77,
+  "updated": "2026-11-17",
+  "count": 78,
   "lessons": [
     {
       "n": 1,
@@ -667,6 +667,15 @@
       "terms": [
         "Noyau actif de galaxie",
         "Rétroaction (d'un trou noir)"
+      ]
+    },
+    {
+      "n": 78,
+      "file": "astro/lessons/078-les-jets.json",
+      "title": "Les jets : un trou noir qui projette de la matière",
+      "terms": [
+        "Jet",
+        "Lobe radio"
       ]
     }
   ]
