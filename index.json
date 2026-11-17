@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-17",
-  "updatedSlot": "matin",
-  "count": 27,
+  "updatedSlot": "midi",
+  "count": 28,
   "editions": [
+    {
+      "date": "2026-11-17",
+      "slot": "midi",
+      "file": "editions/2026-11-17-midi.json",
+      "essentiel": "Génocide des Tutsi : le procès de Madjaliwa Safari s'ouvre devant la cour d'assises spéciale de Paris, pour un mois d'audience",
+      "term": "Trentième indivisible",
+      "rubriques": [
+        "PLFSS 2027 : dans la nuit, le Sénat supprime par 329 voix contre zéro le gel des pensions supérieures à 1 260 euros",
+        "CJUE, 5 nov. 2026, Ponner, C-716/24 : une insolvabilité ouverte hors de l'Union ne fait pas obstacle à l'ordonnance européenne de saisie conservatoire des comptes",
+        "Augmentation de capital réservée en SAS : le comité juridique de l'ANSA admet que les bénéficiaires signent l'acte unanime",
+        "17 novembre 1558 : à la mort de Marie Tudor, Élisabeth Ire devient reine d'Angleterre",
+        "Ordonnance sur requête de l'article 145 : trois mois pour l'exécuter à peine de caducité, un mois pour en demander la rétractation",
+        "Salaires dans la fonction publique : journée de grève et de manifestations ce 17 novembre, trains régionaux perturbés et stations de métro fermées à Paris"
+      ]
+    },
     {
       "date": "2026-11-17",
       "slot": "matin",

@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Assassinat de Brahim Kessaci : la cour d'assises des Bouches-du-Rhône condamne Amine Oualane et Karim Harrat à la réclusion criminelle à perpétuité",
-    "dek": "Au terme du procès du triple homicide commis fin 2020 près de Marseille sur fond de guerre du narcotrafic, la cour, siégeant à Aix-en-Provence, a retenu lundi 16 novembre que Karim Harrat avait donné l'ordre depuis Dubaï et qu'Amine Oualane avait dirigé l'équipe de tueurs, assortissant la perpétuité de périodes de sûreté de 20 et 22 ans ; le cinquième accusé, Nadjim Ahamada Mbae, écope de 18 ans. Les deux principaux accusés, qui niaient toute implication, peuvent faire appel devant une cour d'assises d'appel.",
-    "source": "Cour d'assises des Bouches-du-Rhône · ICI Provence, 16 nov. 2026",
-    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/proces-des-tueurs-presumes-du-frere-d-amine-kessaci-deux-figures-du-narcobanditisme-condamnees-a-la-perpetuite-5352483"
+    "title": "Génocide des Tutsi : le procès de Madjaliwa Safari s'ouvre devant la cour d'assises spéciale de Paris, pour un mois d'audience",
+    "dek": "Installé près de Tours, arrêté en juillet 2023 après quatre ans d'enquête de l'Office central de lutte contre les crimes contre l'humanité, ce commerçant d'une soixantaine d'années comparaît depuis ce mardi 17 novembre, et jusqu'au 18 décembre, pour génocide et crimes contre l'humanité : il lui est reproché d'avoir tenu la barrière dite « Chez Premier », où des Tutsi étaient identifiés puis tués, et d'avoir pris part à des massacres dans les anciennes préfectures de Gitarama et Butare en 1994. Il conteste les faits ; sa défense juge peu crédibles des témoins pour beaucoup condamnés eux-mêmes au Rwanda, qui avait vainement demandé son extradition.",
+    "source": "Cour d'assises spéciale de Paris · AFP · La Nouvelle République, 17 nov. 2026",
+    "url": "https://www.lagazettefrance.fr/article/genocide-au-rwanda-un-commercant-hutu-sera-juge-a-paris-pour-des-massacres-de-tutsi"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Officines : l'arrêté du 4 novembre 2026 remplace la liste des marchandises que les pharmaciens peuvent vendre, en vigueur depuis 2002",
-      "summary": "Pris sur le fondement de l'article L. 5125-24 du code de la santé publique et publié au JORF du 15 novembre, le texte abroge l'arrêté du 15 février 2002, réserve le conseil et la vente en officine aux seuls produits listés et y fait entrer notamment les tests rapides d'orientation diagnostique, les trousses de premiers secours, le matériel de rééducation et les prothèses capillaires.",
-      "source": "Arrêté du 4 nov. 2026, JORF n° 0267 du 15 nov. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055088804",
+      "title": "PLFSS 2027 : dans la nuit, le Sénat supprime par 329 voix contre zéro le gel des pensions supérieures à 1 260 euros",
+      "summary": "En première lecture, les sénateurs ont écarté l'article qui réservait la revalorisation du 1er janvier 2027 aux pensions totales inférieures à ce seuil, le ministre du Travail Jean-Pierre Farandou se disant prêt à suivre leur avis ; la majorité sénatoriale entend compenser la dépense par la suppression de l'abattement fiscal de 10 % sur les retraites dans le projet de loi de finances, avant le vote solennel sur l'ensemble du texte prévu ce mercredi 18 novembre.",
+      "source": "Sénat, PLFSS pour 2027, séance du 16 nov. 2026 · Économie Matin · Public Sénat",
+      "url": "https://www.economiematin.fr/retraites-senat-sous-indexation-pensions-2027-17-novembre-2026",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Cass. com., 21 oct. 2026, n° 24-22.201 : la clause compromissoire est manifestement inapplicable à l'action du liquidateur en réparation du préjudice collectif",
-      "summary": "Le liquidateur qui recherche, sur le fondement de l'article 1240 du code civil, la responsabilité des partenaires du débiteur pour des fautes ayant contribué à sa défaillance, sans invoquer aucun manquement aux obligations nées du contrat de partenariat, agit dans l'intérêt collectif des créanciers : la cour d'appel a pu écarter la clause d'arbitrage et retenir la compétence du tribunal de commerce.",
-      "source": "Cass. com., 21 oct. 2026, n° 24-22.201, B · Dalloz actualité, 16 nov. 2026",
-      "url": "https://www.dalloz-actualite.fr/flash/action-du-liquidateur-en-reparation-du-prejudice-collectif-inapplicabilite-manifeste-de-clause",
+      "title": "CJUE, 5 nov. 2026, Ponner, C-716/24 : une insolvabilité ouverte hors de l'Union ne fait pas obstacle à l'ordonnance européenne de saisie conservatoire des comptes",
+      "summary": "Saisie par l'Oberlandesgericht de Francfort-sur-le-Main, la Cour juge que la procédure d'insolvabilité ouverte dans un État tiers, même reconnue dans l'État du juge saisi, n'exclut pas à elle seule une demande fondée sur le règlement (UE) n° 655/2014, et que le créancier peut étayer l'existence d'un compte dans un État membre par un faisceau d'indices, sans en connaître l'IBAN.",
+      "source": "CJUE, 5 nov. 2026, Ponner, C-716/24 · Juriguide",
+      "url": "https://www.juriguide.com/2026/11/10/comptes-bancaires-insolvabilite-hors-ue-saisie-conservatoire-cjue-ponner-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Mannequin de CRS brûlé à Strasbourg : ce que la loi de 1881 permet, ou non, de poursuivre",
-      "summary": "Alors que le parquet de Strasbourg a ouvert une enquête préliminaire pour injure publique envers un corps constitué et provocation publique non suivie d'effet à des atteintes à l'intégrité physique, Le Club des juristes examine si l'incendie d'une effigie lors d'une manifestation relève de la liberté d'expression militante, rappelant le non-lieu obtenu en 2018 par les auteurs d'un mannequin d'Emmanuel Macron brûlé à Angoulême.",
-      "source": "Le Club des juristes · France 3 Grand Est, nov. 2026",
-      "url": "https://www.leclubdesjuristes.com/droit/la-justice-peut-elle-poursuivre-les-manifestants-qui-incendient-des-mannequins-a-leffigie-de-policiers-18432/",
+      "title": "Augmentation de capital réservée en SAS : le comité juridique de l'ANSA admet que les bénéficiaires signent l'acte unanime",
+      "summary": "Alors que les bénéficiaires d'une émission réservée sont légalement exclus du vote sur la suppression du droit préférentiel de souscription, l'ANSA estime qu'ils peuvent néanmoins être parties à l'acte unanime par lequel les associés de la SAS adoptent la décision lorsque les statuts prévoient ce mode de consultation — une sécurisation bienvenue de la pratique des levées de fonds.",
+      "source": "ANSA, comité juridique · Lexis Veille, 17 nov. 2026",
+      "url": "https://www.ansa.fr/derniers-avis-rendus-par-le-comite-juridique/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "17 novembre 1869 : l'impératrice Eugénie inaugure le canal de Suez à bord de l'Aigle",
-      "summary": "Fruit de dix ans de chantier conduit par Ferdinand de Lesseps sous concession du khédive, la voie de 164 km relie la Méditerranée à la mer Rouge sans écluse ; son statut international, posé par la convention de Constantinople de 1888, sera au cœur de la crise de 1956 après sa nationalisation par Nasser.",
-      "source": "Wikipédia, « Canal de Suez »",
-      "url": "https://fr.wikipedia.org/wiki/Canal_de_Suez",
+      "title": "17 novembre 1558 : à la mort de Marie Tudor, Élisabeth Ire devient reine d'Angleterre",
+      "summary": "Fille d'Henri VIII et d'Anne Boleyn, un temps déclarée illégitime puis emprisonnée à la Tour de Londres, la nouvelle souveraine rétablit dès 1559 l'Église d'Angleterre par les actes de Suprématie et d'Uniformité et règne quarante-quatre ans, au point que le jour de son avènement sera longtemps fêté comme une fête nationale.",
+      "source": "Wikipédia, « Élisabeth Ire »",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Ire",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Bail commercial : un commandement qui mêle griefs disparates et obligations absentes du bail ne fait pas jouer la clause résolutoire (Cass. 3e civ., 5 nov. 2026, n° 25-15.479)",
-      "summary": "Le bailleur qui somme à la fois de libérer un hangar non loué mais toléré, de démonter des travaux non individualisés et de respecter des horaires que le bail ne prévoit pas délivre un acte nul ; il conserve l'action en résiliation judiciaire et en remise en état, appréciée ouvrage par ouvrage — d'où l'intérêt de viser chaque manquement, clause par clause, dans le commandement de l'article L. 145-41 du code de commerce.",
-      "source": "Cass. 3e civ., 5 nov. 2026, n° 25-15.479 · Kohen Avocats, 16 nov. 2026",
-      "url": "https://kohenavocats.fr/2026/11/16/bail-commercial-travaux-sans-autorisation-bailleur-commandement-clause-resolutoire-annule-2026/",
+      "title": "Ordonnance sur requête de l'article 145 : trois mois pour l'exécuter à peine de caducité, un mois pour en demander la rétractation",
+      "summary": "Pour les ordonnances rendues depuis le 1er octobre 2026, le décret « Magicobus III » n° 2026-683 du 27 juillet 2026 impose l'exécution de la mesure dans les trois mois de la date de l'ordonnance — et non de sa signification —, sauf délai différent fixé par le juge, et enferme le référé-rétractation dans le mois de la signification : à prévoir dès la requête une demande motivée de délai plus long si le constat ou la saisie de pièces s'annonce complexe.",
+      "source": "Décret n° 2026-683 du 27 juill. 2026 · CNB, « Tout savoir sur Magicobus III »",
+      "url": "https://cnb.avocat.fr/actualite/tout-savoir-sur-magicobus-iii",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Cap-Vert : José Maria Neves réélu dès le premier tour avec 63,8 % des voix, sur fond de 68 % d'abstention",
-      "summary": "Selon les résultats provisoires de la présidentielle du 15 novembre, le chef de l'État sortant devance nettement l'avocate et ancienne ministre de la Justice Joana Rosa Amado (31,4 %), qui a reconnu sa défaite ; les résultats définitifs sont attendus d'ici la fin de la semaine.",
-      "source": "France 24 · AFP, 15 nov. 2026",
-      "url": "https://www.france24.com/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-d%C3%A9but-du-d%C3%A9pouillement-apr%C3%A8s-une-journ%C3%A9e-%C3%A9lectorale-calme",
+      "title": "Salaires dans la fonction publique : journée de grève et de manifestations ce 17 novembre, trains régionaux perturbés et stations de métro fermées à Paris",
+      "summary": "À l'appel lancé le 9 novembre par la CGT, l'Unsa, la FSU, Solidaires, la CFE-CGC et la FA-FP, rejoints par FO et la CFDT-Fonction publique ainsi que par des organisations lycéennes et étudiantes, les agents réclament une hausse du point d'indice, que la discussion d'un mois sur les bas salaires annoncée par Sébastien Lecornu n'a pas suffi à désamorcer.",
+      "source": "franceinfo, 17 nov. 2026",
+      "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Effet négatif du principe compétence-compétence",
-    "subtitle": "Droit de l'arbitrage · art. 1448 et 1465 du Code de procédure civile",
-    "defShort": "Règle de priorité chronologique qui interdit au juge étatique, saisi d'un litige relevant d'une convention d'arbitrage, de statuer sur la compétence de l'arbitre avant que celui-ci ne se soit lui-même prononcé — sauf nullité ou inapplicabilité manifeste de la clause.",
+    "term": "Trentième indivisible",
+    "subtitle": "Droit de la fonction publique · art. 4 de la loi n° 61-825 du 29 juillet 1961",
+    "defShort": "Règle propre à la fonction publique de l'État selon laquelle toute absence de service fait, même pendant une fraction de la journée — une heure de grève, par exemple —, entraîne la retenue d'un trentième entier du traitement mensuel, la journée de traitement étant regardée comme indivisible.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Le principe compétence-compétence a deux faces. L'effet positif (art. 1465 CPC) reconnaît au tribunal arbitral le pouvoir de trancher les contestations relatives à son propre pouvoir juridictionnel. L'effet négatif en est le corollaire pour le juge étatique : il doit se déclarer incompétent et renvoyer les parties devant l'arbitre, qui statuera le premier, le juge n'intervenant qu'ensuite, au stade du recours en annulation ou de l'exequatur."
+        "body": "Le traitement du fonctionnaire est la contrepartie du service fait ; il se liquide par mois et se décompose en trentièmes. Le trentième indivisible pousse la logique à son terme : l'agent de l'État qui cesse le travail une heure ou une demi-journée perd une journée complète de rémunération. La retenue n'est pas une sanction disciplinaire, mais une simple mesure comptable, qui n'exige ni procédure contradictoire ni motivation."
       },
       {
         "h": "Fondement",
-        "body": "L'article 1448, alinéa 1er, du CPC dispose que la juridiction de l'État saisie d'un litige relevant d'une convention d'arbitrage se déclare incompétente, sauf si le tribunal arbitral n'est pas encore saisi et si la convention est manifestement nulle ou manifestement inapplicable. Le juge ne peut relever d'office son incompétence (al. 2), et toute stipulation contraire est réputée non écrite (al. 3). La règle est applicable à l'arbitrage international par renvoi de l'article 1506."
+        "body": "La règle figure à l'article 4 de la loi de finances rectificative du 29 juillet 1961. Abandonnée en 1982 au profit d'une retenue proportionnelle à la durée de l'absence, elle a été rétablie par la loi n° 87-588 du 30 juillet 1987 (amendement dit « Lamassoure »), que le Conseil constitutionnel a jugée conforme à la Constitution (déc. n° 87-230 DC du 28 juill. 1987). Le Conseil d'État en a précisé le décompte : lorsque la grève couvre plusieurs jours, la retenue s'étend aux jours sans service compris dans la période, tels le week-end (CE, Ass., 7 juill. 1978, Omont)."
       },
       {
         "h": "Cas visés",
-        "body": "Tout tient au contrôle d'évidence exercé par le juge : une contestation sérieuse sur la portée ou l'opposabilité de la clause ne suffit pas, il faut que l'inapplicabilité saute aux yeux. La jurisprudence l'admet notamment pour les actions propres du liquidateur exercées dans l'intérêt collectif des créanciers (Com., 17 nov. 2015, n° 14-16.012 ; Com., 21 oct. 2026, n° 24-22.201), mais la refuse lorsqu'il exerce les droits contractuels du débiteur, par exemple en recouvrement de factures."
+        "body": "Elle s'applique aux fonctionnaires et agents contractuels de l'État et de ses établissements publics administratifs, pour la grève comme pour toute inexécution des obligations de service, y compris partielle — l'agent présent qui refuse d'accomplir une part substantielle de ses missions peut se voir retenir le trentième. Elle ne joue pas dans les fonctions publiques territoriale et hospitalière, faute de texte équivalent : la retenue y reste strictement proportionnelle à la durée de l'interruption."
       },
       {
         "h": "Portée",
-        "body": "Règle de pure procédure, elle ne tranche pas la compétence au fond : elle désigne seulement qui en décide d'abord. Le droit français la pousse plus loin que la plupart de ses voisins, dont les juges contrôlent souvent pleinement la clause dès le stade de l'exception. Son efficacité dissuade les manœuvres dilatoires, mais elle oblige le plaideur qui veut échapper à l'arbitrage à démontrer une évidence, et non à argumenter une thèse."
+        "body": "Le mécanisme rend la grève courte aussi coûteuse qu'une journée entière et décourage les débrayages d'une heure, ce qui explique sa sensibilité à chaque journée de mobilisation. Il crée en outre une inégalité de traitement assumée entre les trois versants de la fonction publique, et contraste avec le droit du travail, où la retenue sur salaire doit rester strictement proportionnelle à l'arrêt de travail, sous peine de constituer une sanction pécuniaire prohibée."
       }
     ],
-    "seeAlso": "Voir aussi — autonomie de la clause compromissoire · arbitrabilité · exception d'incompétence · recours en annulation (art. 1492 CPC) · juge d'appui"
+    "seeAlso": "Voir aussi — service fait · retenue proportionnelle · préavis de grève (art. L. 2512-2 C. trav.) · sanction pécuniaire prohibée (art. L. 1331-2 C. trav.) · continuité du service public"
   },
   "date": "2026-11-17",
   "dateShort": "17 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 78,
     "title": "Les jets : un trou noir qui projette de la matière",
