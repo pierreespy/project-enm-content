@@ -1,0 +1,28 @@
+{
+  "n": 79,
+  "title": "Des jets qui semblent aller plus vite que la lumière",
+  "subtitle": "Une vitesse apparente supérieure à celle de la lumière, sans qu'aucune loi soit violée",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Ce que l'on mesure",
+      "body": "Dans certains jets (jour 78), les astronomes repèrent des nœuds de matière plus brillants, qu'ils suivent d'une image à l'autre sur plusieurs années. En mesurant le déplacement d'un nœud sur le ciel et le temps écoulé entre deux images, on obtient une vitesse. Pour le jet du quasar (jour 75) 3C 273, observé dès les années 1970, le résultat dépasse plusieurs fois la vitesse de la lumière (jour 3). On parle de mouvement superluminique apparent : une vitesse qui paraît plus grande que celle de la lumière, sans l'être réellement."
+    },
+    {
+      "h": "Une illusion due au délai de la lumière",
+      "body": "L'explication tient au délai de la lumière (jour 5). Supposons un nœud lancé presque droit vers nous, à une vitesse proche de celle de la lumière, avec un léger angle. Il émet une première lumière, puis, quelques années plus tard, une seconde, alors qu'il s'est beaucoup rapproché de nous. Cette seconde lumière a moins de chemin à parcourir : elle arrive presque sur les talons de la première. Sur nos images, deux positions séparées de plusieurs années de trajet réel paraissent séparées de quelques mois seulement. Le déplacement sur le ciel est exact ; c'est la durée qui est comprimée, et la vitesse calculée s'en trouve gonflée."
+    },
+    {
+      "h": "Ce que l'illusion nous apprend",
+      "body": "L'effet n'apparaît que dans une configuration précise : un jet orienté presque vers nous, dont la matière va réellement à une vitesse très proche de celle de la lumière. Loin d'être une anomalie (jour 35), cette vitesse apparente est donc une preuve indirecte de la vitesse réelle des jets et de leur orientation. Aucune loi n'est contredite : rien, ici, ne voyage plus vite que la lumière."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Mouvement superluminique apparent",
+      "def": "Vitesse apparente supérieure à celle de la lumière, mesurée sur un jet orienté presque vers nous, qui résulte du raccourcissement des délais d'arrivée de sa lumière et non d'un déplacement réellement plus rapide que la lumière."
+    }
+  ],
+  "recap": "Un jet lancé presque vers nous à une vitesse proche de celle de la lumière paraît la dépasser : sa lumière récente arrive presque en même temps que l'ancienne, ce qui comprime les durées mesurées.",
+  "next": "Demain — pourquoi, des deux jets d'un même trou noir, l'un paraît souvent bien plus brillant que l'autre."
+}

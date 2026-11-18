@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17",
-  "count": 78,
+  "updated": "2026-11-18",
+  "count": 79,
   "lessons": [
     {
       "n": 1,
@@ -676,6 +676,14 @@
       "terms": [
         "Jet",
         "Lobe radio"
+      ]
+    },
+    {
+      "n": 79,
+      "file": "astro/lessons/079-des-jets-plus-rapides-que-la-lumiere.json",
+      "title": "Des jets qui semblent aller plus vite que la lumière",
+      "terms": [
+        "Mouvement superluminique apparent"
       ]
     }
   ]

@@ -1,125 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Génocide des Tutsi : le procès de Madjaliwa Safari s'ouvre devant la cour d'assises spéciale de Paris, pour un mois d'audience",
-    "dek": "Installé près de Tours, arrêté en juillet 2023 après quatre ans d'enquête de l'Office central de lutte contre les crimes contre l'humanité, ce commerçant d'une soixantaine d'années comparaît depuis ce mardi 17 novembre, et jusqu'au 18 décembre, pour génocide et crimes contre l'humanité : il lui est reproché d'avoir tenu la barrière dite « Chez Premier », où des Tutsi étaient identifiés puis tués, et d'avoir pris part à des massacres dans les anciennes préfectures de Gitarama et Butare en 1994. Il conteste les faits ; sa défense juge peu crédibles des témoins pour beaucoup condamnés eux-mêmes au Rwanda, qui avait vainement demandé son extradition.",
-    "source": "Cour d'assises spéciale de Paris · AFP · La Nouvelle République, 17 nov. 2026",
-    "url": "https://www.lagazettefrance.fr/article/genocide-au-rwanda-un-commercant-hutu-sera-juge-a-paris-pour-des-massacres-de-tutsi"
+    "title": "« Petite martyre de l'A10 » : trente-neuf ans après les faits, la cour d'assises du Loir-et-Cher condamne la mère d'Inass Touloub à vingt ans de réclusion et son père à quinze ans",
+    "dek": "Au terme de onze jours d'audience à Blois, la cour a reconnu mardi 17 novembre Halima El Bakhti coupable de tortures et actes de barbarie ayant entraîné la mort de sa fille de 4 ans, dont le corps avait été découvert en août 1987 au bord de l'autoroute A10, et retenu la complicité d'Ahmed Touloub, dont la défense plaidait l'acquittement en soutenant que seule une omission pouvait lui être reprochée. Le parquet avait requis vingt et quatorze ans ; les deux accusés, aujourd'hui septuagénaires, peuvent faire appel.",
+    "source": "Cour d'assises du Loir-et-Cher · ICI Orléans, 17 nov. 2026",
+    "url": "https://www.ici.fr/centre-val-de-loire/petite-martyre-de-l-a10-la-mere-et-le-pere-d-inass-touloub-respectivement-condamnes-a-20-et-15-ans-de-reclusion-4226760"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "PLFSS 2027 : dans la nuit, le Sénat supprime par 329 voix contre zéro le gel des pensions supérieures à 1 260 euros",
-      "summary": "En première lecture, les sénateurs ont écarté l'article qui réservait la revalorisation du 1er janvier 2027 aux pensions totales inférieures à ce seuil, le ministre du Travail Jean-Pierre Farandou se disant prêt à suivre leur avis ; la majorité sénatoriale entend compenser la dépense par la suppression de l'abattement fiscal de 10 % sur les retraites dans le projet de loi de finances, avant le vote solennel sur l'ensemble du texte prévu ce mercredi 18 novembre.",
-      "source": "Sénat, PLFSS pour 2027, séance du 16 nov. 2026 · Économie Matin · Public Sénat",
-      "url": "https://www.economiematin.fr/retraites-senat-sous-indexation-pensions-2027-17-novembre-2026",
+      "title": "Cybersécurité : l'Assemblée adopte par 464 voix contre 64 le projet de loi « Résilience » qui transpose la directive NIS 2",
+      "summary": "Adopté en première lecture le 17 novembre après le Sénat en mars, le texte relatif à la résilience des infrastructures critiques étend les obligations de cybersécurité à un nombre bien plus large d'organismes publics et privés et renforce les pouvoirs de contrôle de l'ANSSI ; une commission mixte paritaire doit désormais harmoniser les deux versions.",
+      "source": "Assemblée nationale, séance du 17 nov. 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/adoption-du-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-et-au-renforcement-de-la-cybersecurite",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "CJUE, 5 nov. 2026, Ponner, C-716/24 : une insolvabilité ouverte hors de l'Union ne fait pas obstacle à l'ordonnance européenne de saisie conservatoire des comptes",
-      "summary": "Saisie par l'Oberlandesgericht de Francfort-sur-le-Main, la Cour juge que la procédure d'insolvabilité ouverte dans un État tiers, même reconnue dans l'État du juge saisi, n'exclut pas à elle seule une demande fondée sur le règlement (UE) n° 655/2014, et que le créancier peut étayer l'existence d'un compte dans un État membre par un faisceau d'indices, sans en connaître l'IBAN.",
-      "source": "CJUE, 5 nov. 2026, Ponner, C-716/24 · Juriguide",
-      "url": "https://www.juriguide.com/2026/11/10/comptes-bancaires-insolvabilite-hors-ue-saisie-conservatoire-cjue-ponner-2026/",
+      "title": "Colocation à baux multiples : la surface minimale de décence s'apprécie sur les seules parties privatives du locataire (Cass. 3e civ., 1er oct. 2026, n° 25-15.395)",
+      "summary": "Censurant la cour d'appel de Paris qui avait ajouté à une chambre de 6,37 m² une quote-part des parties communes pour franchir le seuil de 9 m², la Cour de cassation juge que les espaces partagés n'entrent en ligne de compte que pour les autres critères de décence, non pour le calcul de la surface habitable du local loué.",
+      "source": "Cass. 3e civ., 1er oct. 2026, n° 25-15.395, F-D · Lexbase, Le Quotidien du 17 nov. 2026",
+      "url": "https://kohenavocats.fr/2026/10/31/colocation-baux-multiples-surface-minimale-9-m2-arret-1er-octobre-2026-parties-communes-recours/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Augmentation de capital réservée en SAS : le comité juridique de l'ANSA admet que les bénéficiaires signent l'acte unanime",
-      "summary": "Alors que les bénéficiaires d'une émission réservée sont légalement exclus du vote sur la suppression du droit préférentiel de souscription, l'ANSA estime qu'ils peuvent néanmoins être parties à l'acte unanime par lequel les associés de la SAS adoptent la décision lorsque les statuts prévoient ce mode de consultation — une sécurisation bienvenue de la pratique des levées de fonds.",
-      "source": "ANSA, comité juridique · Lexis Veille, 17 nov. 2026",
-      "url": "https://www.ansa.fr/derniers-avis-rendus-par-le-comite-juridique/",
+      "title": "SMIC relevé de 1,6 % au 1er décembre : un « coup de pouce » hors calendrier qui interroge",
+      "summary": "Le Club des juristes examine la revalorisation anticipée annoncée à l'issue de la conférence sociale du 9 novembre, et la place de ce « coup de pouce » discrétionnaire, le premier depuis 2012, à côté du mécanisme légal de revalorisation automatique prévu par le code du travail.",
+      "source": "Le Club des juristes, 17 nov. 2026",
+      "url": "https://www.leclubdesjuristes.com/droit/hausse-du-smic-de-16-au-1er-decembre-un-coup-de-pouce-qui-interroge-18450/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "17 novembre 1558 : à la mort de Marie Tudor, Élisabeth Ire devient reine d'Angleterre",
-      "summary": "Fille d'Henri VIII et d'Anne Boleyn, un temps déclarée illégitime puis emprisonnée à la Tour de Londres, la nouvelle souveraine rétablit dès 1559 l'Église d'Angleterre par les actes de Suprématie et d'Uniformité et règne quarante-quatre ans, au point que le jour de son avènement sera longtemps fêté comme une fête nationale.",
-      "source": "Wikipédia, « Élisabeth Ire »",
-      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Ire",
+      "title": "18 novembre 1803 : à Vertières, l'armée de Dessalines défait le corps expéditionnaire de Rochambeau",
+      "summary": "Dernière grande bataille de la révolution haïtienne, livrée près du Cap-Français, elle contraint les troupes françaises envoyées par Bonaparte pour rétablir l'ordre colonial à capituler, ouvrant la voie à la proclamation de l'indépendance d'Haïti le 1er janvier 1804.",
+      "source": "Wikipédia, « Bataille de Vertières »",
+      "url": "https://fr.wikipedia.org/wiki/Bataille_de_Verti%C3%A8res",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Ordonnance sur requête de l'article 145 : trois mois pour l'exécuter à peine de caducité, un mois pour en demander la rétractation",
-      "summary": "Pour les ordonnances rendues depuis le 1er octobre 2026, le décret « Magicobus III » n° 2026-683 du 27 juillet 2026 impose l'exécution de la mesure dans les trois mois de la date de l'ordonnance — et non de sa signification —, sauf délai différent fixé par le juge, et enferme le référé-rétractation dans le mois de la signification : à prévoir dès la requête une demande motivée de délai plus long si le constat ou la saisie de pièces s'annonce complexe.",
-      "source": "Décret n° 2026-683 du 27 juill. 2026 · CNB, « Tout savoir sur Magicobus III »",
-      "url": "https://cnb.avocat.fr/actualite/tout-savoir-sur-magicobus-iii",
+      "title": "Caducité de la déclaration d'appel : la deuxième chambre civile rappelle l'exigence d'une force majeure insurmontable au sens de l'article 910-3 du CPC",
+      "summary": "Faute d'établir une circonstance non imputable à l'appelant et ayant rendu impossible le dépôt de ses conclusions dans le délai de l'article 908, la caducité est maintenue — rappel que l'organisation interne du cabinet doit pallier l'empêchement d'un avocat, la force majeure n'étant admise qu'avec une grande parcimonie.",
+      "source": "Cass. 2e civ. · Dalloz actualité, 16 nov. 2026",
+      "url": "https://www.dalloz-actualite.fr/flash/force-majeure-cour-de-cassation-se-prononce-sur-l-application-de-l-article-910-3-du-code-de-pr",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Salaires dans la fonction publique : journée de grève et de manifestations ce 17 novembre, trains régionaux perturbés et stations de métro fermées à Paris",
-      "summary": "À l'appel lancé le 9 novembre par la CGT, l'Unsa, la FSU, Solidaires, la CFE-CGC et la FA-FP, rejoints par FO et la CFDT-Fonction publique ainsi que par des organisations lycéennes et étudiantes, les agents réclament une hausse du point d'indice, que la discussion d'un mois sur les bas salaires annoncée par Sébastien Lecornu n'a pas suffi à désamorcer.",
-      "source": "franceinfo, 17 nov. 2026",
-      "url": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html",
+      "title": "Shenzhen accueille ces 18 et 19 novembre le 33e sommet des dirigeants de l'APEC",
+      "summary": "Pour la troisième fois en Chine, après Shanghai en 2001 et Pékin en 2014, les vingt et une économies de l'Asie-Pacifique se réunissent sous la présidence de Xi Jinping autour de l'intégration commerciale, de l'économie numérique et de la stabilité financière.",
+      "source": "Le Petit Journal Pékin, nov. 2026",
+      "url": "https://lepetitjournal.com/pekin/shenzhen-en-chine-le-sommet-de-lapec-face-aux-defis-de-lasie-pacifique-457531",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Trentième indivisible",
-    "subtitle": "Droit de la fonction publique · art. 4 de la loi n° 61-825 du 29 juillet 1961",
-    "defShort": "Règle propre à la fonction publique de l'État selon laquelle toute absence de service fait, même pendant une fraction de la journée — une heure de grève, par exemple —, entraîne la retenue d'un trentième entier du traitement mensuel, la journée de traitement étant regardée comme indivisible.",
+    "term": "Complicité par abstention",
+    "subtitle": "Droit pénal général · art. 121-6 et 121-7 du Code pénal",
+    "defShort": "Hypothèse, admise seulement par exception, où une inaction est punie comme complicité : en principe la complicité suppose un acte positif d'aide, d'assistance ou de provocation, de sorte que celui qui laisse faire ne devient complice que s'il avait le devoir et le pouvoir d'empêcher l'infraction et s'est délibérément abstenu.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Le traitement du fonctionnaire est la contrepartie du service fait ; il se liquide par mois et se décompose en trentièmes. Le trentième indivisible pousse la logique à son terme : l'agent de l'État qui cesse le travail une heure ou une demi-journée perd une journée complète de rémunération. La retenue n'est pas une sanction disciplinaire, mais une simple mesure comptable, qui n'exige ni procédure contradictoire ni motivation."
+        "body": "L'article 121-7 du Code pénal vise celui qui, « sciemment, par aide ou assistance », a facilité la préparation ou la consommation d'un crime ou d'un délit, ou qui l'a provoqué ou a donné des instructions. Le texte décrit des comportements actifs : la doctrine classique en déduit que la simple passivité, même moralement blâmable, ne fait pas un complice. Le témoin qui assiste sans réagir n'est pas puni à ce titre."
       },
       {
         "h": "Fondement",
-        "body": "La règle figure à l'article 4 de la loi de finances rectificative du 29 juillet 1961. Abandonnée en 1982 au profit d'une retenue proportionnelle à la durée de l'absence, elle a été rétablie par la loi n° 87-588 du 30 juillet 1987 (amendement dit « Lamassoure »), que le Conseil constitutionnel a jugée conforme à la Constitution (déc. n° 87-230 DC du 28 juill. 1987). Le Conseil d'État en a précisé le décompte : lorsque la grève couvre plusieurs jours, la retenue s'étend aux jours sans service compris dans la période, tels le week-end (CE, Ass., 7 juill. 1978, Omont)."
+        "body": "La jurisprudence a néanmoins admis plusieurs tempéraments. L'abstention vaut complicité lorsqu'elle a été promise à l'avance à l'auteur, car elle se rattache alors à une entente préalable ; lorsque la présence passive, mais volontaire, sur les lieux encourage l'auteur et lui procure un soutien moral ; enfin lorsque la personne était tenue, par sa fonction ou sa qualité, d'une obligation juridique d'agir, et que son inaction délibérée a facilité la commission des faits."
       },
       {
         "h": "Cas visés",
-        "body": "Elle s'applique aux fonctionnaires et agents contractuels de l'État et de ses établissements publics administratifs, pour la grève comme pour toute inexécution des obligations de service, y compris partielle — l'agent présent qui refuse d'accomplir une part substantielle de ses missions peut se voir retenir le trentième. Elle ne joue pas dans les fonctions publiques territoriale et hospitalière, faute de texte équivalent : la retenue y reste strictement proportionnelle à la durée de l'interruption."
+        "body": "Les espèces types concernent des professionnels investis d'une mission de contrôle (commissaire aux comptes, préposé chargé de surveillance, agent public) qui laissent s'accomplir en connaissance de cause l'infraction qu'ils devaient prévenir, mais aussi, en matière familiale, le parent titulaire de l'autorité parentale qui assiste sans intervenir aux sévices infligés à l'enfant. La frontière avec la coaction ou la simple négligence se joue sur la connaissance de l'infraction et sur l'intention de s'y associer."
       },
       {
         "h": "Portée",
-        "body": "Le mécanisme rend la grève courte aussi coûteuse qu'une journée entière et décourage les débrayages d'une heure, ce qui explique sa sensibilité à chaque journée de mobilisation. Il crée en outre une inégalité de traitement assumée entre les trois versants de la fonction publique, et contraste avec le droit du travail, où la retenue sur salaire doit rester strictement proportionnelle à l'arrêt de travail, sous peine de constituer une sanction pécuniaire prohibée."
+        "body": "Lorsque la complicité n'est pas caractérisée, le législateur a prévu des incriminations autonomes d'omission : abstention d'empêcher un crime ou un délit contre l'intégrité corporelle et omission de porter secours (art. 223-6), non-dénonciation de mauvais traitements infligés à un mineur (art. 434-3). L'enjeu est considérable : le complice encourt la même peine que l'auteur, tandis que ces délits d'omission sont punis de quelques années d'emprisonnement — d'où la stratégie de défense qui consiste à requalifier la complicité en omission."
       }
     ],
-    "seeAlso": "Voir aussi — service fait · retenue proportionnelle · préavis de grève (art. L. 2512-2 C. trav.) · sanction pécuniaire prohibée (art. L. 1331-2 C. trav.) · continuité du service public"
+    "seeAlso": "Voir aussi — emprunt de criminalité · fait principal punissable · complicité par instigation · omission d'empêcher une infraction (art. 223-6) · coaction"
   },
-  "date": "2026-11-17",
-  "dateShort": "17 nov.",
-  "slot": "midi",
+  "date": "2026-11-18",
+  "dateShort": "18 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 78,
-    "title": "Les jets : un trou noir qui projette de la matière",
-    "subtitle": "Comment un objet qui retient tout peut lancer de la matière au-delà de sa galaxie",
+    "n": 79,
+    "title": "Des jets qui semblent aller plus vite que la lumière",
+    "subtitle": "Une vitesse apparente supérieure à celle de la lumière, sans qu'aucune loi soit violée",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Ce que montrent les images",
-        "body": "Certains noyaux actifs de galaxie (jour 77) présentent deux traits rectilignes, partant du centre dans des directions opposées. On appelle jet ce faisceau étroit de matière projeté à une vitesse proche de celle de la lumière (jour 3). Les plus longs s'étendent sur des centaines de milliers d'années-lumière (jour 4), soit plusieurs fois la taille de la galaxie (jour 24) qui les abrite. Ils sont surtout visibles en ondes radio, une forme de lumière (jour 2) invisible à l'œil, et parfois en rayons X (jour 70)."
+        "h": "Ce que l'on mesure",
+        "body": "Dans certains jets (jour 78), les astronomes repèrent des nœuds de matière plus brillants, qu'ils suivent d'une image à l'autre sur plusieurs années. En mesurant le déplacement d'un nœud sur le ciel et le temps écoulé entre deux images, on obtient une vitesse. Pour le jet du quasar (jour 75) 3C 273, observé dès les années 1970, le résultat dépasse plusieurs fois la vitesse de la lumière (jour 3). On parle de mouvement superluminique apparent : une vitesse qui paraît plus grande que celle de la lumière, sans l'être réellement."
       },
       {
-        "h": "Rien ne sort du trou noir",
-        "body": "Le paradoxe n'est qu'apparent. Rien ne franchit l'horizon des événements (jour 23) dans le sens de la sortie : la matière des jets ne vient pas de l'intérieur du trou noir, mais du disque d'accrétion (jour 75) qui tourne autour de lui, juste avant d'y tomber. Ce disque est traversé par un champ magnétique (jour 56) intense, que la rotation du gaz et celle du trou noir tordent et resserrent. Ce champ canalise une petite partie de la matière le long de l'axe de rotation, perpendiculairement au disque, et la lance vers l'extérieur."
+        "h": "Une illusion due au délai de la lumière",
+        "body": "L'explication tient au délai de la lumière (jour 5). Supposons un nœud lancé presque droit vers nous, à une vitesse proche de celle de la lumière, avec un léger angle. Il émet une première lumière, puis, quelques années plus tard, une seconde, alors qu'il s'est beaucoup rapproché de nous. Cette seconde lumière a moins de chemin à parcourir : elle arrive presque sur les talons de la première. Sur nos images, deux positions séparées de plusieurs années de trajet réel paraissent séparées de quelques mois seulement. Le déplacement sur le ciel est exact ; c'est la durée qui est comprimée, et la vitesse calculée s'en trouve gonflée."
       },
       {
-        "h": "Là où le jet s'arrête",
-        "body": "Un jet finit par rencontrer le gaz très ténu qui baigne l'espace entre les galaxies. Freiné, il s'élargit en deux vastes nuages de part et d'autre de la galaxie, appelés lobes radio, qui brillent eux aussi en ondes radio. En chemin, le jet chauffe le gaz qu'il traverse : c'est l'une des formes que prend la rétroaction (jour 77), lorsqu'un trou noir empêche le gaz de refroidir et de former de nouvelles étoiles."
+        "h": "Ce que l'illusion nous apprend",
+        "body": "L'effet n'apparaît que dans une configuration précise : un jet orienté presque vers nous, dont la matière va réellement à une vitesse très proche de celle de la lumière. Loin d'être une anomalie (jour 35), cette vitesse apparente est donc une preuve indirecte de la vitesse réelle des jets et de leur orientation. Aucune loi n'est contredite : rien, ici, ne voyage plus vite que la lumière."
       }
     ],
     "keyTerms": [
       {
-        "term": "Jet",
-        "def": "Faisceau étroit de matière lancé à une vitesse proche de celle de la lumière depuis les abords d'un trou noir, le long de son axe de rotation, et canalisé par le champ magnétique du disque d'accrétion."
-      },
-      {
-        "term": "Lobe radio",
-        "def": "Vaste nuage de matière, brillant en ondes radio, formé à l'extrémité d'un jet lorsque celui-ci est freiné par le gaz situé entre les galaxies."
+        "term": "Mouvement superluminique apparent",
+        "def": "Vitesse apparente supérieure à celle de la lumière, mesurée sur un jet orienté presque vers nous, qui résulte du raccourcissement des délais d'arrivée de sa lumière et non d'un déplacement réellement plus rapide que la lumière."
       }
     ],
-    "recap": "Les jets ne sortent pas du trou noir : c'est la matière de son disque d'accrétion, canalisée par un champ magnétique, qui est projetée le long de son axe jusqu'à bien au-delà de la galaxie.",
-    "next": "Demain — pourquoi certains jets semblent aller plus vite que la lumière, sans violer aucune loi."
+    "recap": "Un jet lancé presque vers nous à une vitesse proche de celle de la lumière paraît la dépasser : sa lumière récente arrive presque en même temps que l'ancienne, ce qui comprime les durées mesurées.",
+    "next": "Demain — pourquoi, des deux jets d'un même trou noir, l'un paraît souvent bien plus brillant que l'autre."
   }
 }

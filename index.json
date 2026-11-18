@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-17",
-  "updatedSlot": "midi",
+  "updated": "2026-11-18",
+  "updatedSlot": "matin",
   "count": 28,
   "editions": [
+    {
+      "date": "2026-11-18",
+      "slot": "matin",
+      "file": "editions/2026-11-18-matin.json",
+      "essentiel": "« Petite martyre de l'A10 » : trente-neuf ans après les faits, la cour d'assises du Loir-et-Cher condamne la mère d'Inass Touloub à vingt ans de réclusion et son père à quinze ans",
+      "term": "Complicité par abstention",
+      "rubriques": [
+        "Cybersécurité : l'Assemblée adopte par 464 voix contre 64 le projet de loi « Résilience » qui transpose la directive NIS 2",
+        "Colocation à baux multiples : la surface minimale de décence s'apprécie sur les seules parties privatives du locataire (Cass. 3e civ., 1er oct. 2026, n° 25-15.395)",
+        "SMIC relevé de 1,6 % au 1er décembre : un « coup de pouce » hors calendrier qui interroge",
+        "18 novembre 1803 : à Vertières, l'armée de Dessalines défait le corps expéditionnaire de Rochambeau",
+        "Caducité de la déclaration d'appel : la deuxième chambre civile rappelle l'exigence d'une force majeure insurmontable au sens de l'article 910-3 du CPC",
+        "Shenzhen accueille ces 18 et 19 novembre le 33e sommet des dirigeants de l'APEC"
+      ]
+    },
     {
       "date": "2026-11-17",
       "slot": "midi",
@@ -406,21 +421,6 @@
         "3 novembre 1957 : Spoutnik 2 place la chienne Laïka en orbite",
         "Assignations : ce qu'il faut modifier depuis le 1er octobre 2026 sous peine de nullité",
         "Cumul emploi-retraite : le durcissement entre en vigueur le 3 novembre 2026"
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "slot": "matin",
-      "file": "editions/2026-11-02-matin.json",
-      "essentiel": "Impartialité du juge ayant connu l'enfant victime : le Conseil constitutionnel se prononce par sa décision QPC du 1er octobre 2026",
-      "term": "Interversion de titre",
-      "rubriques": [
-        "SISPoPP : un décret du 26 octobre 2026 modifie le traitement de suivi des politiques pénales prioritaires",
-        "Indemnisation du déficit fonctionnel permanent : la deuxième chambre civile s'appuie sur l'Assemblée plénière de 2023",
-        "Dix ans de la réforme du droit des contrats : la Revue des contrats revient de l'ordonnance à la jurisprudence",
-        "2 novembre 1960 : l'éditeur de « L'Amant de Lady Chatterley » est acquitté à Londres",
-        "Élections du CNB 2026 : scrutin fixé au 24 novembre, professions de foi en ligne",
-        "Retours de Toussaint : Bison Futé classe le dimanche 1er novembre en orange vers l'Île-de-France"
       ]
     }
   ]
