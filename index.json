@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-18",
-  "updatedSlot": "matin",
-  "count": 28,
+  "updatedSlot": "midi",
+  "count": 29,
   "editions": [
+    {
+      "date": "2026-11-18",
+      "slot": "midi",
+      "file": "editions/2026-11-18-midi.json",
+      "essentiel": "« Legal privilege » à la française : deux décrets du 17 novembre 2026 rendent applicable la confidentialité des consultations des juristes d'entreprise",
+      "term": "Exception de nullité perpétuelle",
+      "rubriques": [
+        "Loi de fin de gestion 2026 : rejeté par l'Assemblée, le texte est examiné ce mercredi en séance au Sénat",
+        "MICAS contre des manifestants : par trois jugements du 17 novembre, le tribunal administratif de Paris annule les mesures prises pour les journées de mobilisation sociale",
+        "Prostitution des mineurs : un rapport parlementaire propose de faire peser sur le client la preuve de son ignorance de l'âge",
+        "18 novembre 1626 : Urbain VIII consacre la nouvelle basilique Saint-Pierre de Rome",
+        "Application des peines : le temps passé sous ARSE n'ouvre droit à aucune réduction de peine, et la réincarcération après 2023 fait basculer dans le nouveau régime (Cass. crim., 12 nov. 2026, n° 25-86.840)",
+        "Ukraine : la Commission européenne propose un nouveau prêt de 45 milliards d'euros pour 2027, remboursable par les réparations russes"
+      ]
+    },
     {
       "date": "2026-11-18",
       "slot": "matin",

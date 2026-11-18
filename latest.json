@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "« Petite martyre de l'A10 » : trente-neuf ans après les faits, la cour d'assises du Loir-et-Cher condamne la mère d'Inass Touloub à vingt ans de réclusion et son père à quinze ans",
-    "dek": "Au terme de onze jours d'audience à Blois, la cour a reconnu mardi 17 novembre Halima El Bakhti coupable de tortures et actes de barbarie ayant entraîné la mort de sa fille de 4 ans, dont le corps avait été découvert en août 1987 au bord de l'autoroute A10, et retenu la complicité d'Ahmed Touloub, dont la défense plaidait l'acquittement en soutenant que seule une omission pouvait lui être reprochée. Le parquet avait requis vingt et quatorze ans ; les deux accusés, aujourd'hui septuagénaires, peuvent faire appel.",
-    "source": "Cour d'assises du Loir-et-Cher · ICI Orléans, 17 nov. 2026",
-    "url": "https://www.ici.fr/centre-val-de-loire/petite-martyre-de-l-a10-la-mere-et-le-pere-d-inass-touloub-respectivement-condamnes-a-20-et-15-ans-de-reclusion-4226760"
+    "title": "« Legal privilege » à la française : deux décrets du 17 novembre 2026 rendent applicable la confidentialité des consultations des juristes d'entreprise",
+    "dek": "Publiés au Journal officiel de ce 18 novembre, les décrets n° 2026-1054 et 2026-1055 précisent les conditions de la protection créée par la loi n° 2026-122 du 23 février 2026 — formation aux règles éthiques, mention obligatoire, destinataires limités aux organes de direction, conservation des justificatifs, classement et intégrité des consultations — et organisent la commission, présidée par un magistrat judiciaire, chargée du référentiel de règles éthiques. La confidentialité reste inopposable en matière pénale et fiscale, et le dispositif ne sera pleinement opérationnel qu'en 2027, faute encore des arrêtés de nomination et de référentiel.",
+    "source": "JORF n° 0269 du 18 nov. 2026 · La Base Lextenso, 18 nov. 2026",
+    "url": "https://www.labase-lextenso.fr/breves/jo-confidentialite-des-juristes-d-entreprise-publication-de-deux-decrets-BREVEBO633"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Cybersécurité : l'Assemblée adopte par 464 voix contre 64 le projet de loi « Résilience » qui transpose la directive NIS 2",
-      "summary": "Adopté en première lecture le 17 novembre après le Sénat en mars, le texte relatif à la résilience des infrastructures critiques étend les obligations de cybersécurité à un nombre bien plus large d'organismes publics et privés et renforce les pouvoirs de contrôle de l'ANSSI ; une commission mixte paritaire doit désormais harmoniser les deux versions.",
-      "source": "Assemblée nationale, séance du 17 nov. 2026",
-      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/adoption-du-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-et-au-renforcement-de-la-cybersecurite",
+      "title": "Loi de fin de gestion 2026 : rejeté par l'Assemblée, le texte est examiné ce mercredi en séance au Sénat",
+      "summary": "Transmis le 13 novembre après son rejet par les députés, le projet de loi de finances de fin de gestion, rapporté par Christine Lavarde, ouvre quelque 7,18 milliards d'euros de crédits de paiement et soumet à ratification les décrets d'avance des 11 juin et 14 octobre 2026.",
+      "source": "Sénat, dossier législatif PJL n° 172 (2026-2027), séance du 18 nov. 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl26-172.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Colocation à baux multiples : la surface minimale de décence s'apprécie sur les seules parties privatives du locataire (Cass. 3e civ., 1er oct. 2026, n° 25-15.395)",
-      "summary": "Censurant la cour d'appel de Paris qui avait ajouté à une chambre de 6,37 m² une quote-part des parties communes pour franchir le seuil de 9 m², la Cour de cassation juge que les espaces partagés n'entrent en ligne de compte que pour les autres critères de décence, non pour le calcul de la surface habitable du local loué.",
-      "source": "Cass. 3e civ., 1er oct. 2026, n° 25-15.395, F-D · Lexbase, Le Quotidien du 17 nov. 2026",
-      "url": "https://kohenavocats.fr/2026/10/31/colocation-baux-multiples-surface-minimale-9-m2-arret-1er-octobre-2026-parties-communes-recours/",
+      "title": "MICAS contre des manifestants : par trois jugements du 17 novembre, le tribunal administratif de Paris annule les mesures prises pour les journées de mobilisation sociale",
+      "summary": "Faute pour le ministre de l'Intérieur d'avoir caractérisé une menace liée à un risque d'acte de terrorisme — le contexte général des mobilisations, des appels à la violence en ligne et une proximité supposée avec l'ultra-gauche ne suffisant pas —, ces mesures antiterroristes issues de la loi SILT ne pouvaient servir à tenir des militants à l'écart des cortèges ; Lyon et Grenoble ont statué dans le même sens.",
+      "source": "TA Paris, 17 nov. 2026 (trois jugements)",
+      "url": "https://paris.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/par-trois-jugements-du-17-novembre-2026-le-tribunal-annule-des-mesures-individuelles-de-controle-administratif-et-de-surveillance-adoptees-contre",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "SMIC relevé de 1,6 % au 1er décembre : un « coup de pouce » hors calendrier qui interroge",
-      "summary": "Le Club des juristes examine la revalorisation anticipée annoncée à l'issue de la conférence sociale du 9 novembre, et la place de ce « coup de pouce » discrétionnaire, le premier depuis 2012, à côté du mécanisme légal de revalorisation automatique prévu par le code du travail.",
-      "source": "Le Club des juristes, 17 nov. 2026",
-      "url": "https://www.leclubdesjuristes.com/droit/hausse-du-smic-de-16-au-1er-decembre-un-coup-de-pouce-qui-interroge-18450/",
+      "title": "Prostitution des mineurs : un rapport parlementaire propose de faire peser sur le client la preuve de son ignorance de l'âge",
+      "summary": "La délégation aux droits des enfants de l'Assemblée, présidée par Perrine Goulet, relève environ 11 000 mineurs victimes d'exploitation sexuelle en 2025 (+ 43 % depuis 2021) et suggère d'inverser la charge de la preuve de la connaissance de la minorité, une piste que le Club des juristes confronte aux exigences constitutionnelles en matière pénale.",
+      "source": "Assemblée nationale, délégation aux droits des enfants · Le Club des juristes, 18 nov. 2026",
+      "url": "https://www.leclubdesjuristes.com/en-bref/rapport-parlementaire-sur-la-prostitution-des-mineurs-vers-un-renversement-de-la-charge-de-la-preuve-18471/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "18 novembre 1803 : à Vertières, l'armée de Dessalines défait le corps expéditionnaire de Rochambeau",
-      "summary": "Dernière grande bataille de la révolution haïtienne, livrée près du Cap-Français, elle contraint les troupes françaises envoyées par Bonaparte pour rétablir l'ordre colonial à capituler, ouvrant la voie à la proclamation de l'indépendance d'Haïti le 1er janvier 1804.",
-      "source": "Wikipédia, « Bataille de Vertières »",
-      "url": "https://fr.wikipedia.org/wiki/Bataille_de_Verti%C3%A8res",
+      "title": "18 novembre 1626 : Urbain VIII consacre la nouvelle basilique Saint-Pierre de Rome",
+      "summary": "Cent vingt ans après la pose de la première pierre par Jules II, la consécration de l'édifice, auquel ont travaillé Bramante, Michel-Ange et Maderno, intervient au jour anniversaire de la dédicace de la basilique constantinienne qu'il remplace.",
+      "source": "Wikipédia, « Basilique Saint-Pierre »",
+      "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Pierre",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Caducité de la déclaration d'appel : la deuxième chambre civile rappelle l'exigence d'une force majeure insurmontable au sens de l'article 910-3 du CPC",
-      "summary": "Faute d'établir une circonstance non imputable à l'appelant et ayant rendu impossible le dépôt de ses conclusions dans le délai de l'article 908, la caducité est maintenue — rappel que l'organisation interne du cabinet doit pallier l'empêchement d'un avocat, la force majeure n'étant admise qu'avec une grande parcimonie.",
-      "source": "Cass. 2e civ. · Dalloz actualité, 16 nov. 2026",
-      "url": "https://www.dalloz-actualite.fr/flash/force-majeure-cour-de-cassation-se-prononce-sur-l-application-de-l-article-910-3-du-code-de-pr",
+      "title": "Application des peines : le temps passé sous ARSE n'ouvre droit à aucune réduction de peine, et la réincarcération après 2023 fait basculer dans le nouveau régime (Cass. crim., 12 nov. 2026, n° 25-86.840)",
+      "summary": "L'assignation à résidence avec surveillance électronique, qui n'emporte pas placement sous écrou, n'est assimilée à la détention provisoire que pour l'imputation de sa durée sur la peine ; quant au condamné détenu avant le 1er janvier 2023 puis réincarcéré dans la même procédure, il relève du régime de réduction de peine issu de la loi du 22 décembre 2021.",
+      "source": "Cass. crim., 12 nov. 2026, n° 25-86.840 · Le Mag juridique, 18 nov. 2026",
+      "url": "https://www.lemag-juridique.com/articles/assignation-residence-avec-surveillance-electronique-pas-reduction-peine-nouveau-regime-reincarceration-12265.htm",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Shenzhen accueille ces 18 et 19 novembre le 33e sommet des dirigeants de l'APEC",
-      "summary": "Pour la troisième fois en Chine, après Shanghai en 2001 et Pékin en 2014, les vingt et une économies de l'Asie-Pacifique se réunissent sous la présidence de Xi Jinping autour de l'intégration commerciale, de l'économie numérique et de la stabilité financière.",
-      "source": "Le Petit Journal Pékin, nov. 2026",
-      "url": "https://lepetitjournal.com/pekin/shenzhen-en-chine-le-sommet-de-lapec-face-aux-defis-de-lasie-pacifique-457531",
+      "title": "Ukraine : la Commission européenne propose un nouveau prêt de 45 milliards d'euros pour 2027, remboursable par les réparations russes",
+      "summary": "Présenté ce 18 novembre par Ursula von der Leyen, ce prêt à recours limité — 20 milliards d'aide budgétaire, 25 milliards pour l'achat d'armements — couvrirait environ les deux tiers du besoin de financement ukrainien de 2027 et sera discuté par les chefs d'État et de gouvernement lors du sommet de la semaine prochaine.",
+      "source": "Euronews, 18 nov. 2026",
+      "url": "https://www.euronews.com/2026/11/18/von-der-leyen-proposes-45bn-loan-to-ukraine-backed-by-joint-debt",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Complicité par abstention",
-    "subtitle": "Droit pénal général · art. 121-6 et 121-7 du Code pénal",
-    "defShort": "Hypothèse, admise seulement par exception, où une inaction est punie comme complicité : en principe la complicité suppose un acte positif d'aide, d'assistance ou de provocation, de sorte que celui qui laisse faire ne devient complice que s'il avait le devoir et le pouvoir d'empêcher l'infraction et s'est délibérément abstenu.",
+    "term": "Exception de nullité perpétuelle",
+    "subtitle": "Droit des contrats · art. 1185 du Code civil",
+    "defShort": "Règle selon laquelle la partie à qui l'on réclame l'exécution d'un contrat nul peut toujours opposer la nullité en défense, même après l'expiration du délai de prescription de l'action en nullité — à la condition que le contrat n'ait reçu aucun commencement d'exécution.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'article 121-7 du Code pénal vise celui qui, « sciemment, par aide ou assistance », a facilité la préparation ou la consommation d'un crime ou d'un délit, ou qui l'a provoqué ou a donné des instructions. Le texte décrit des comportements actifs : la doctrine classique en déduit que la simple passivité, même moralement blâmable, ne fait pas un complice. Le témoin qui assiste sans réagir n'est pas puni à ce titre."
+        "body": "L'action en nullité se prescrit, en principe par cinq ans (art. 2224 C. civ.). Mais celui qui n'a jamais exécuté un contrat vicié n'a aucune raison d'agir : il attend. Si l'on pouvait, une fois ce délai écoulé, lui réclamer l'exécution sans qu'il puisse se défendre, la prescription deviendrait une arme au service du cocontractant qui a laissé passer le temps à dessein. L'exception de nullité, invoquée en défense, échappe donc à la prescription : c'est l'adage quae temporalia sunt ad agendum, perpetua sunt ad excipiendum."
       },
       {
         "h": "Fondement",
-        "body": "La jurisprudence a néanmoins admis plusieurs tempéraments. L'abstention vaut complicité lorsqu'elle a été promise à l'avance à l'auteur, car elle se rattache alors à une entente préalable ; lorsque la présence passive, mais volontaire, sur les lieux encourage l'auteur et lui procure un soutien moral ; enfin lorsque la personne était tenue, par sa fonction ou sa qualité, d'une obligation juridique d'agir, et que son inaction délibérée a facilité la commission des faits."
+        "body": "Longtemps prétorienne, la règle est consacrée depuis l'ordonnance du 10 février 2016 par l'article 1185 du Code civil : « L'exception de nullité ne se prescrit pas si elle se rapporte à un contrat qui n'a reçu aucune exécution. » La jurisprudence antérieure l'appliquait indistinctement aux nullités relatives et absolues, et le texte nouveau ne distingue pas davantage."
       },
       {
-        "h": "Cas visés",
-        "body": "Les espèces types concernent des professionnels investis d'une mission de contrôle (commissaire aux comptes, préposé chargé de surveillance, agent public) qui laissent s'accomplir en connaissance de cause l'infraction qu'ils devaient prévenir, mais aussi, en matière familiale, le parent titulaire de l'autorité parentale qui assiste sans intervenir aux sévices infligés à l'enfant. La frontière avec la coaction ou la simple négligence se joue sur la connaissance de l'infraction et sur l'intention de s'y associer."
+        "h": "Conditions",
+        "body": "Deux conditions cumulatives. L'exception doit être soulevée en défense, pour faire échec à une demande d'exécution : elle ne permet pas d'obtenir des restitutions ni d'anéantir activement l'acte. Surtout, le contrat ne doit avoir reçu aucune exécution, même partielle — et la Cour de cassation apprécie strictement : un paiement, une livraison ou une prestation suffit à fermer la voie, quelle que soit la partie qui a commencé à exécuter."
       },
       {
         "h": "Portée",
-        "body": "Lorsque la complicité n'est pas caractérisée, le législateur a prévu des incriminations autonomes d'omission : abstention d'empêcher un crime ou un délit contre l'intégrité corporelle et omission de porter secours (art. 223-6), non-dénonciation de mauvais traitements infligés à un mineur (art. 434-3). L'enjeu est considérable : le complice encourt la même peine que l'auteur, tandis que ces délits d'omission sont punis de quelques années d'emprisonnement — d'où la stratégie de défense qui consiste à requalifier la complicité en omission."
+        "body": "Le mécanisme est redoutable en pratique pour les cautionnements, les reconnaissances de dette ou les promesses restées lettre morte : le débiteur poursuivi tardivement peut encore soulever le vice du consentement ou l'irrégularité de l'acte. À l'inverse, dès qu'il y a eu commencement d'exécution, le contractant qui n'a pas agi dans le délai perd tout moyen d'invoquer la nullité, même en défense — d'où l'intérêt, pour le créancier, de provoquer une exécution partielle, et pour le débiteur, d'agir à titre principal avant l'échéance."
       }
     ],
-    "seeAlso": "Voir aussi — emprunt de criminalité · fait principal punissable · complicité par instigation · omission d'empêcher une infraction (art. 223-6) · coaction"
+    "seeAlso": "Voir aussi — prescription quinquennale (art. 2224 C. civ.) · confirmation de l'acte nul (art. 1182) · action interrogatoire (art. 1183) · nullité relative et nullité absolue · restitutions (art. 1352 s.)"
   },
   "date": "2026-11-18",
   "dateShort": "18 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 79,
     "title": "Des jets qui semblent aller plus vite que la lumière",
