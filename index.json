@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-18",
-  "updatedSlot": "midi",
-  "count": 29,
+  "updated": "2026-11-19",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-11-19",
+      "slot": "matin",
+      "file": "editions/2026-11-19-matin.json",
+      "essentiel": "Mort d'Olivio Gomes : en appel, la cour d'assises des Hauts-de-Seine condamne le policier Gilles Guilbert à huit ans d'emprisonnement pour meurtre",
+      "term": "Théorie de l'acte détachable",
+      "rubriques": [
+        "PLFSS 2027 : le Sénat adopte en première lecture sa version du budget de la Sécurité sociale, par 201 voix contre 124",
+        "Lanceur d'alerte : la loi du 21 mars 2022 régit le licenciement prononcé après son entrée en vigueur, même si l'alerte est antérieure (Cass. soc., 10 nov. 2026, n° 25-19.212, FS-B+R)",
+        "Faute inexcusable de l'employeur : que reste-t-il des arrêts d'Assemblée plénière du 20 janvier 2023 pour les victimes consolidées depuis le 1er novembre 2026 ?",
+        "19 novembre 1863 : à Gettysburg, Abraham Lincoln prononce en deux minutes le discours qui définit la démocratie",
+        "Interdiction de sortie du territoire de l'enfant : demander au JAF de la cantonner au seul parent qui présente un risque de déplacement illicite",
+        "Golfe : en représailles à une frappe américaine sur l'île de Qeshm, l'Iran vise une base aérienne au Koweït et relance ses tirs sur Bahreïn"
+      ]
+    },
     {
       "date": "2026-11-18",
       "slot": "midi",

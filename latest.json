@@ -1,121 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "« Legal privilege » à la française : deux décrets du 17 novembre 2026 rendent applicable la confidentialité des consultations des juristes d'entreprise",
-    "dek": "Publiés au Journal officiel de ce 18 novembre, les décrets n° 2026-1054 et 2026-1055 précisent les conditions de la protection créée par la loi n° 2026-122 du 23 février 2026 — formation aux règles éthiques, mention obligatoire, destinataires limités aux organes de direction, conservation des justificatifs, classement et intégrité des consultations — et organisent la commission, présidée par un magistrat judiciaire, chargée du référentiel de règles éthiques. La confidentialité reste inopposable en matière pénale et fiscale, et le dispositif ne sera pleinement opérationnel qu'en 2027, faute encore des arrêtés de nomination et de référentiel.",
-    "source": "JORF n° 0269 du 18 nov. 2026 · La Base Lextenso, 18 nov. 2026",
-    "url": "https://www.labase-lextenso.fr/breves/jo-confidentialite-des-juristes-d-entreprise-publication-de-deux-decrets-BREVEBO633"
+    "title": "Mort d'Olivio Gomes : en appel, la cour d'assises des Hauts-de-Seine condamne le policier Gilles Guilbert à huit ans d'emprisonnement pour meurtre",
+    "dek": "Six ans après les trois tirs qui avaient tué le conducteur de 28 ans, en octobre 2020, au terme d'une filature par trois agents de la BAC parisienne, la cour d'assises d'appel réunie à Nanterre a rendu son verdict mercredi 18 novembre : elle confirme la culpabilité de l'ancien policier et ramène sa peine de dix à huit ans. Comme en première instance, la thèse de la légitime défense a été écartée, la cour ne retenant pas que l'usage de l'arme était absolument nécessaire au moment où la voiture redémarrait.",
+    "source": "Cour d'assises d'appel des Hauts-de-Seine · AFP / Boursorama, 18 nov. 2026",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/un-policier-condamne-en-appel-a-huit-ans-de-prison-pour-le-meurtre-d-olivio-gomes-au-volant-de-sa-voiture-1508e19b6d97d5fd55e19d828990fdac"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Loi de fin de gestion 2026 : rejeté par l'Assemblée, le texte est examiné ce mercredi en séance au Sénat",
-      "summary": "Transmis le 13 novembre après son rejet par les députés, le projet de loi de finances de fin de gestion, rapporté par Christine Lavarde, ouvre quelque 7,18 milliards d'euros de crédits de paiement et soumet à ratification les décrets d'avance des 11 juin et 14 octobre 2026.",
-      "source": "Sénat, dossier législatif PJL n° 172 (2026-2027), séance du 18 nov. 2026",
-      "url": "https://www.senat.fr/dossier-legislatif/pjl26-172.html",
+      "title": "PLFSS 2027 : le Sénat adopte en première lecture sa version du budget de la Sécurité sociale, par 201 voix contre 124",
+      "summary": "Rejeté à l'Assemblée le 23 octobre, le projet de loi de financement de la sécurité sociale a été voté le 18 novembre au Sénat dans une version profondément remaniée, qui porte le déficit prévu pour 2027 à 14 milliards d'euros au lieu des 12,7 milliards visés par le Gouvernement ; le texte repart à l'Assemblée, une commission mixte paritaire pouvant être réunie.",
+      "source": "Sénat, scrutin public du 18 nov. 2026 · Ouest-France, 18 nov. 2026",
+      "url": "https://www.ouest-france.fr/economie/budget-collectivites-etat/le-senat-adopte-le-budget-de-la-securite-sociale-2027-avec-plusieurs-modifications-de-la-copie-du-gouvernement-ade90de0-e34e-11f1-a3b1-0c6de532ce7d",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "MICAS contre des manifestants : par trois jugements du 17 novembre, le tribunal administratif de Paris annule les mesures prises pour les journées de mobilisation sociale",
-      "summary": "Faute pour le ministre de l'Intérieur d'avoir caractérisé une menace liée à un risque d'acte de terrorisme — le contexte général des mobilisations, des appels à la violence en ligne et une proximité supposée avec l'ultra-gauche ne suffisant pas —, ces mesures antiterroristes issues de la loi SILT ne pouvaient servir à tenir des militants à l'écart des cortèges ; Lyon et Grenoble ont statué dans le même sens.",
-      "source": "TA Paris, 17 nov. 2026 (trois jugements)",
-      "url": "https://paris.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/par-trois-jugements-du-17-novembre-2026-le-tribunal-annule-des-mesures-individuelles-de-controle-administratif-et-de-surveillance-adoptees-contre",
+      "title": "Lanceur d'alerte : la loi du 21 mars 2022 régit le licenciement prononcé après son entrée en vigueur, même si l'alerte est antérieure (Cass. soc., 10 nov. 2026, n° 25-19.212, FS-B+R)",
+      "summary": "Saisie du cas d'une salariée dont les signalements dataient de 2018, la chambre sociale juge que la protection issue de la loi Waserman s'applique à tout salarié sanctionné ou licencié après le 1er septembre 2022, quelle que soit la date de l'alerte, et censure la cour d'appel qui avait écarté le statut de lanceur d'alerte pour ce motif.",
+      "source": "Cass. soc., 10 nov. 2026, n° 25-19.212 · Village de la Justice, nov. 2026",
+      "url": "https://www.village-justice.com/articles/lanceur-alerte-loi-mars-2022-regit-licenciement-prononce-apres-son-entree,59977.html",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Prostitution des mineurs : un rapport parlementaire propose de faire peser sur le client la preuve de son ignorance de l'âge",
-      "summary": "La délégation aux droits des enfants de l'Assemblée, présidée par Perrine Goulet, relève environ 11 000 mineurs victimes d'exploitation sexuelle en 2025 (+ 43 % depuis 2021) et suggère d'inverser la charge de la preuve de la connaissance de la minorité, une piste que le Club des juristes confronte aux exigences constitutionnelles en matière pénale.",
-      "source": "Assemblée nationale, délégation aux droits des enfants · Le Club des juristes, 18 nov. 2026",
-      "url": "https://www.leclubdesjuristes.com/en-bref/rapport-parlementaire-sur-la-prostitution-des-mineurs-vers-un-renversement-de-la-charge-de-la-preuve-18471/",
+      "title": "Faute inexcusable de l'employeur : que reste-t-il des arrêts d'Assemblée plénière du 20 janvier 2023 pour les victimes consolidées depuis le 1er novembre 2026 ?",
+      "summary": "L'étude confronte la jurisprudence qui avait admis l'indemnisation distincte du déficit fonctionnel permanent, la rente n'étant plus réputée le réparer, au nouveau régime de la rente AT-MP applicable aux victimes consolidées à compter du 1er novembre 2026, et mesure ce que la réforme reprend, pour l'avenir, de ce gain jurisprudentiel.",
+      "source": "Village de la Justice, N. Le Bouard, nov. 2026",
+      "url": "https://www.village-justice.com/articles/faute-inexcusable-apres-1er-novembre-2026-que-reste-des-arrets-assemblee,59832.html",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "18 novembre 1626 : Urbain VIII consacre la nouvelle basilique Saint-Pierre de Rome",
-      "summary": "Cent vingt ans après la pose de la première pierre par Jules II, la consécration de l'édifice, auquel ont travaillé Bramante, Michel-Ange et Maderno, intervient au jour anniversaire de la dédicace de la basilique constantinienne qu'il remplace.",
-      "source": "Wikipédia, « Basilique Saint-Pierre »",
-      "url": "https://fr.wikipedia.org/wiki/Basilique_Saint-Pierre",
+      "title": "19 novembre 1863 : à Gettysburg, Abraham Lincoln prononce en deux minutes le discours qui définit la démocratie",
+      "summary": "Venu inaugurer le cimetière militaire du champ de bataille, le président américain conclut ses quelque 270 mots sur le « gouvernement du peuple, par le peuple, pour le peuple » — formule que l'article 2 de la Constitution du 4 octobre 1958 reprend mot pour mot comme principe de la République.",
+      "source": "Wikipédia, « Discours de Gettysburg » · Constitution de 1958, art. 2",
+      "url": "https://fr.wikipedia.org/wiki/Discours_de_Gettysburg",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Application des peines : le temps passé sous ARSE n'ouvre droit à aucune réduction de peine, et la réincarcération après 2023 fait basculer dans le nouveau régime (Cass. crim., 12 nov. 2026, n° 25-86.840)",
-      "summary": "L'assignation à résidence avec surveillance électronique, qui n'emporte pas placement sous écrou, n'est assimilée à la détention provisoire que pour l'imputation de sa durée sur la peine ; quant au condamné détenu avant le 1er janvier 2023 puis réincarcéré dans la même procédure, il relève du régime de réduction de peine issu de la loi du 22 décembre 2021.",
-      "source": "Cass. crim., 12 nov. 2026, n° 25-86.840 · Le Mag juridique, 18 nov. 2026",
-      "url": "https://www.lemag-juridique.com/articles/assignation-residence-avec-surveillance-electronique-pas-reduction-peine-nouveau-regime-reincarceration-12265.htm",
+      "title": "Interdiction de sortie du territoire de l'enfant : demander au JAF de la cantonner au seul parent qui présente un risque de déplacement illicite",
+      "summary": "Depuis que la première chambre civile a jugé, au visa de l'article 8 de la Convention européenne, que la mesure de l'article 373-2-6 du code civil n'est pas nécessairement bilatérale (Cass. 1re civ., 1er juill. 2026, n° 25-21.064, B), le parent qui ne présente aucun risque peut solliciter une interdiction unilatérale, et doit obtenir du juge une motivation sur la proportionnalité et la durée de la mesure.",
+      "source": "Village de la Justice, L. Dauguet, 18 nov. 2026",
+      "url": "https://www.village-justice.com/articles/interdiction-sortie-territoire-cour-cassation-met-fin-regle-tout-rien,60051.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Ukraine : la Commission européenne propose un nouveau prêt de 45 milliards d'euros pour 2027, remboursable par les réparations russes",
-      "summary": "Présenté ce 18 novembre par Ursula von der Leyen, ce prêt à recours limité — 20 milliards d'aide budgétaire, 25 milliards pour l'achat d'armements — couvrirait environ les deux tiers du besoin de financement ukrainien de 2027 et sera discuté par les chefs d'État et de gouvernement lors du sommet de la semaine prochaine.",
-      "source": "Euronews, 18 nov. 2026",
-      "url": "https://www.euronews.com/2026/11/18/von-der-leyen-proposes-45bn-loan-to-ukraine-backed-by-joint-debt",
+      "title": "Golfe : en représailles à une frappe américaine sur l'île de Qeshm, l'Iran vise une base aérienne au Koweït et relance ses tirs sur Bahreïn",
+      "summary": "Dans la nuit du 17 au 18 novembre, des drones iraniens ont visé la base d'Ali Al Salem, qui abrite des forces américaines, puis une installation radar à Bahreïn ; les défenses aériennes disent les avoir interceptés sans victime, et aucune médiation ne se dessine.",
+      "source": "The Hill · Reuters, 18 nov. 2026",
+      "url": "https://thehill.com/policy/defense/6227812-iran-attacks-us-air-base-kuwait/",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Exception de nullité perpétuelle",
-    "subtitle": "Droit des contrats · art. 1185 du Code civil",
-    "defShort": "Règle selon laquelle la partie à qui l'on réclame l'exécution d'un contrat nul peut toujours opposer la nullité en défense, même après l'expiration du délai de prescription de l'action en nullité — à la condition que le contrat n'ait reçu aucun commencement d'exécution.",
+    "term": "Théorie de l'acte détachable",
+    "subtitle": "Contentieux administratif · CE, 4 août 1905, Martin",
+    "defShort": "Construction jurisprudentielle qui isole, au sein d'une opération complexe insusceptible en elle-même de recours pour excès de pouvoir (contrat, acte de gouvernement, gestion privée), un acte administratif unilatéral qui peut, lui, être attaqué séparément.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'action en nullité se prescrit, en principe par cinq ans (art. 2224 C. civ.). Mais celui qui n'a jamais exécuté un contrat vicié n'a aucune raison d'agir : il attend. Si l'on pouvait, une fois ce délai écoulé, lui réclamer l'exécution sans qu'il puisse se défendre, la prescription deviendrait une arme au service du cocontractant qui a laissé passer le temps à dessein. L'exception de nullité, invoquée en défense, échappe donc à la prescription : c'est l'adage quae temporalia sunt ad agendum, perpetua sunt ad excipiendum."
+        "body": "Certaines opérations échappent au juge de l'excès de pouvoir : le contrat relève du juge du contrat, les relations internationales de l'immunité des actes de gouvernement, la gestion du domaine privé du juge judiciaire. La théorie de l'acte détachable permet d'en extraire une décision unilatérale — la délibération qui autorise à contracter, le décret d'extradition — et de la soumettre au contrôle de légalité, sans que le juge se prononce sur l'opération elle-même."
       },
       {
         "h": "Fondement",
-        "body": "Longtemps prétorienne, la règle est consacrée depuis l'ordonnance du 10 février 2016 par l'article 1185 du Code civil : « L'exception de nullité ne se prescrit pas si elle se rapporte à un contrat qui n'a reçu aucune exécution. » La jurisprudence antérieure l'appliquait indistinctement aux nullités relatives et absolues, et le texte nouveau ne distingue pas davantage."
+        "body": "Elle naît avec l'arrêt Martin (CE, 4 août 1905), qui ouvre aux conseillers généraux le recours pour excès de pouvoir contre les délibérations relatives à la passation d'un contrat de concession. Le juge l'étend ensuite aux actes de gouvernement : un décret d'extradition est détachable de la conduite des relations internationales (CE, Ass., 15 oct. 1993, Royaume-Uni et Gouverneur de Hong Kong). Les clauses réglementaires d'un contrat, elles, sont directement attaquables (CE, Ass., 10 juill. 1996, Cayzeele)."
       },
       {
-        "h": "Conditions",
-        "body": "Deux conditions cumulatives. L'exception doit être soulevée en défense, pour faire échec à une demande d'exécution : elle ne permet pas d'obtenir des restitutions ni d'anéantir activement l'acte. Surtout, le contrat ne doit avoir reçu aucune exécution, même partielle — et la Cour de cassation apprécie strictement : un paiement, une livraison ou une prestation suffit à fermer la voie, quelle que soit la partie qui a commencé à exécuter."
+        "h": "Cas visés",
+        "body": "Actes préalables à la conclusion d'un contrat (choix du cocontractant, délibération autorisant la signature, décision de signer), actes détachables de l'exécution du contrat, actes détachables de la gestion du domaine privé, décisions détachables de la conduite des relations diplomatiques ou des rapports entre pouvoirs publics. L'acte détachable reste un acte unilatéral : son annulation n'emporte pas, par elle-même, la disparition du contrat ou de l'opération."
       },
       {
         "h": "Portée",
-        "body": "Le mécanisme est redoutable en pratique pour les cautionnements, les reconnaissances de dette ou les promesses restées lettre morte : le débiteur poursuivi tardivement peut encore soulever le vice du consentement ou l'irrégularité de l'acte. À l'inverse, dès qu'il y a eu commencement d'exécution, le contractant qui n'a pas agi dans le délai perd tout moyen d'invoquer la nullité, même en défense — d'où l'intérêt, pour le créancier, de provoquer une exécution partielle, et pour le débiteur, d'agir à titre principal avant l'échéance."
+        "body": "En contentieux contractuel, la théorie a été largement refoulée : depuis CE, Ass., 4 avr. 2014, Département de Tarn-et-Garonne, les tiers ne contestent plus les actes préalables au contrat qu'à l'occasion d'un recours de plein contentieux contre le contrat lui-même, et le refus de résilier se conteste par la même voie (CE, Sect., 30 juin 2017, SMPAT). Elle conserve en revanche toute sa vigueur pour les contrats de droit privé des personnes publiques et pour les actes de gouvernement, dont elle réduit le périmètre."
       }
     ],
-    "seeAlso": "Voir aussi — prescription quinquennale (art. 2224 C. civ.) · confirmation de l'acte nul (art. 1182) · action interrogatoire (art. 1183) · nullité relative et nullité absolue · restitutions (art. 1352 s.)"
+    "seeAlso": "Voir aussi — opération complexe · acte de gouvernement · recours Tarn-et-Garonne · clause réglementaire (Cayzeele) · exception de recours parallèle"
   },
-  "date": "2026-11-18",
-  "dateShort": "18 nov.",
-  "slot": "midi",
+  "date": "2026-11-19",
+  "dateShort": "19 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 79,
-    "title": "Des jets qui semblent aller plus vite que la lumière",
-    "subtitle": "Une vitesse apparente supérieure à celle de la lumière, sans qu'aucune loi soit violée",
+    "n": 80,
+    "title": "Pourquoi l'un des deux jets paraît plus brillant",
+    "subtitle": "Un trou noir lance deux jets symétriques, mais on n'en voit souvent qu'un seul",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Ce que l'on mesure",
-        "body": "Dans certains jets (jour 78), les astronomes repèrent des nœuds de matière plus brillants, qu'ils suivent d'une image à l'autre sur plusieurs années. En mesurant le déplacement d'un nœud sur le ciel et le temps écoulé entre deux images, on obtient une vitesse. Pour le jet du quasar (jour 75) 3C 273, observé dès les années 1970, le résultat dépasse plusieurs fois la vitesse de la lumière (jour 3). On parle de mouvement superluminique apparent : une vitesse qui paraît plus grande que celle de la lumière, sans l'être réellement."
+        "h": "Deux jets, une seule trace",
+        "body": "Un trou noir actif lance en principe deux jets (jour 78), en sens opposés, de part et d'autre de son disque d'accrétion (jour 75). Ils naissent du même mécanisme et emportent des quantités de matière comparables. Pourtant, sur beaucoup d'images, l'un est éclatant et l'autre presque invisible. Celui qui se dirige vers nous est appelé le jet ; celui qui s'éloigne, le contre-jet. Le contraste peut être tel qu'on a longtemps cru certaines galaxies dotées d'un jet unique."
       },
       {
-        "h": "Une illusion due au délai de la lumière",
-        "body": "L'explication tient au délai de la lumière (jour 5). Supposons un nœud lancé presque droit vers nous, à une vitesse proche de celle de la lumière, avec un léger angle. Il émet une première lumière, puis, quelques années plus tard, une seconde, alors qu'il s'est beaucoup rapproché de nous. Cette seconde lumière a moins de chemin à parcourir : elle arrive presque sur les talons de la première. Sur nos images, deux positions séparées de plusieurs années de trajet réel paraissent séparées de quelques mois seulement. Le déplacement sur le ciel est exact ; c'est la durée qui est comprimée, et la vitesse calculée s'en trouve gonflée."
+        "h": "La lumière concentrée dans le sens de la course",
+        "body": "La cause tient à la vitesse de la matière, très proche de celle de la lumière (jour 79). À de telles vitesses, la lumière qu'émet le jet ne part plus de façon égale dans toutes les directions : elle se resserre vers l'avant, dans le sens du mouvement, comme le faisceau d'un phare. S'y ajoute l'effet Doppler (jour 16) : la lumière du jet qui approche nous arrive plus énergique et plus concentrée dans le temps, celle du contre-jet plus faible et plus étalée. Ce double effet s'appelle l'amplification relativiste : il renforce l'éclat apparent de ce qui vient vers nous et affaiblit celui de ce qui s'en éloigne."
       },
       {
-        "h": "Ce que l'illusion nous apprend",
-        "body": "L'effet n'apparaît que dans une configuration précise : un jet orienté presque vers nous, dont la matière va réellement à une vitesse très proche de celle de la lumière. Loin d'être une anomalie (jour 35), cette vitesse apparente est donc une preuve indirecte de la vitesse réelle des jets et de leur orientation. Aucune loi n'est contredite : rien, ici, ne voyage plus vite que la lumière."
+        "h": "Ce que le contraste permet de mesurer",
+        "body": "L'écart d'éclat entre le jet et le contre-jet n'est pas un défaut de l'image : il dépend de la vitesse réelle de la matière et de l'angle sous lequel nous voyons le jet. Comparer les deux, puis recouper avec le mouvement superluminique apparent (jour 79), permet d'estimer ces deux grandeurs indépendamment. Un jet orienté droit vers nous peut ainsi paraître des milliers de fois plus brillant qu'il ne l'est réellement."
       }
     ],
     "keyTerms": [
       {
-        "term": "Mouvement superluminique apparent",
-        "def": "Vitesse apparente supérieure à celle de la lumière, mesurée sur un jet orienté presque vers nous, qui résulte du raccourcissement des délais d'arrivée de sa lumière et non d'un déplacement réellement plus rapide que la lumière."
+        "term": "Amplification relativiste",
+        "def": "Renforcement de l'éclat apparent d'une matière qui se déplace vers nous à une vitesse proche de celle de la lumière, parce que sa lumière se concentre vers l'avant et nous parvient décalée par l'effet Doppler ; la matière qui s'éloigne paraît, à l'inverse, affaiblie."
+      },
+      {
+        "term": "Contre-jet",
+        "def": "Celui des deux jets d'un trou noir qui s'éloigne de l'observateur, rendu peu visible, voire invisible, par l'amplification relativiste qui joue à son détriment."
       }
     ],
-    "recap": "Un jet lancé presque vers nous à une vitesse proche de celle de la lumière paraît la dépasser : sa lumière récente arrive presque en même temps que l'ancienne, ce qui comprime les durées mesurées.",
-    "next": "Demain — pourquoi, des deux jets d'un même trou noir, l'un paraît souvent bien plus brillant que l'autre."
+    "recap": "Deux jets semblables n'ont pas le même éclat apparent : celui qui vient vers nous est amplifié, celui qui s'éloigne est atténué, et l'écart renseigne sur leur vitesse et leur orientation.",
+    "next": "Demain — les blazars : quand un jet est pointé exactement vers la Terre."
   }
 }

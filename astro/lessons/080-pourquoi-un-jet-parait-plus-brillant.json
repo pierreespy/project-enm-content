@@ -1,0 +1,32 @@
+{
+  "n": 80,
+  "title": "Pourquoi l'un des deux jets paraît plus brillant",
+  "subtitle": "Un trou noir lance deux jets symétriques, mais on n'en voit souvent qu'un seul",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Deux jets, une seule trace",
+      "body": "Un trou noir actif lance en principe deux jets (jour 78), en sens opposés, de part et d'autre de son disque d'accrétion (jour 75). Ils naissent du même mécanisme et emportent des quantités de matière comparables. Pourtant, sur beaucoup d'images, l'un est éclatant et l'autre presque invisible. Celui qui se dirige vers nous est appelé le jet ; celui qui s'éloigne, le contre-jet. Le contraste peut être tel qu'on a longtemps cru certaines galaxies dotées d'un jet unique."
+    },
+    {
+      "h": "La lumière concentrée dans le sens de la course",
+      "body": "La cause tient à la vitesse de la matière, très proche de celle de la lumière (jour 79). À de telles vitesses, la lumière qu'émet le jet ne part plus de façon égale dans toutes les directions : elle se resserre vers l'avant, dans le sens du mouvement, comme le faisceau d'un phare. S'y ajoute l'effet Doppler (jour 16) : la lumière du jet qui approche nous arrive plus énergique et plus concentrée dans le temps, celle du contre-jet plus faible et plus étalée. Ce double effet s'appelle l'amplification relativiste : il renforce l'éclat apparent de ce qui vient vers nous et affaiblit celui de ce qui s'en éloigne."
+    },
+    {
+      "h": "Ce que le contraste permet de mesurer",
+      "body": "L'écart d'éclat entre le jet et le contre-jet n'est pas un défaut de l'image : il dépend de la vitesse réelle de la matière et de l'angle sous lequel nous voyons le jet. Comparer les deux, puis recouper avec le mouvement superluminique apparent (jour 79), permet d'estimer ces deux grandeurs indépendamment. Un jet orienté droit vers nous peut ainsi paraître des milliers de fois plus brillant qu'il ne l'est réellement."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Amplification relativiste",
+      "def": "Renforcement de l'éclat apparent d'une matière qui se déplace vers nous à une vitesse proche de celle de la lumière, parce que sa lumière se concentre vers l'avant et nous parvient décalée par l'effet Doppler ; la matière qui s'éloigne paraît, à l'inverse, affaiblie."
+    },
+    {
+      "term": "Contre-jet",
+      "def": "Celui des deux jets d'un trou noir qui s'éloigne de l'observateur, rendu peu visible, voire invisible, par l'amplification relativiste qui joue à son détriment."
+    }
+  ],
+  "recap": "Deux jets semblables n'ont pas le même éclat apparent : celui qui vient vers nous est amplifié, celui qui s'éloigne est atténué, et l'écart renseigne sur leur vitesse et leur orientation.",
+  "next": "Demain — les blazars : quand un jet est pointé exactement vers la Terre."
+}

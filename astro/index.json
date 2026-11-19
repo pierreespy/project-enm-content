@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18",
-  "count": 79,
+  "updated": "2026-11-19",
+  "count": 80,
   "lessons": [
     {
       "n": 1,
@@ -684,6 +684,15 @@
       "title": "Des jets qui semblent aller plus vite que la lumière",
       "terms": [
         "Mouvement superluminique apparent"
+      ]
+    },
+    {
+      "n": 80,
+      "file": "astro/lessons/080-pourquoi-un-jet-parait-plus-brillant.json",
+      "title": "Pourquoi l'un des deux jets paraît plus brillant",
+      "terms": [
+        "Amplification relativiste",
+        "Contre-jet"
       ]
     }
   ]

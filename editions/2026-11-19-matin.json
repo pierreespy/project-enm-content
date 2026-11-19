@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Mort d'Olivio Gomes : en appel, la cour d'assises des Hauts-de-Seine condamne le policier Gilles Guilbert à huit ans d'emprisonnement pour meurtre",
+    "dek": "Six ans après les trois tirs qui avaient tué le conducteur de 28 ans, en octobre 2020, au terme d'une filature par trois agents de la BAC parisienne, la cour d'assises d'appel réunie à Nanterre a rendu son verdict mercredi 18 novembre : elle confirme la culpabilité de l'ancien policier et ramène sa peine de dix à huit ans. Comme en première instance, la thèse de la légitime défense a été écartée, la cour ne retenant pas que l'usage de l'arme était absolument nécessaire au moment où la voiture redémarrait.",
+    "source": "Cour d'assises d'appel des Hauts-de-Seine · AFP / Boursorama, 18 nov. 2026",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/un-policier-condamne-en-appel-a-huit-ans-de-prison-pour-le-meurtre-d-olivio-gomes-au-volant-de-sa-voiture-1508e19b6d97d5fd55e19d828990fdac"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "PLFSS 2027 : le Sénat adopte en première lecture sa version du budget de la Sécurité sociale, par 201 voix contre 124",
+      "summary": "Rejeté à l'Assemblée le 23 octobre, le projet de loi de financement de la sécurité sociale a été voté le 18 novembre au Sénat dans une version profondément remaniée, qui porte le déficit prévu pour 2027 à 14 milliards d'euros au lieu des 12,7 milliards visés par le Gouvernement ; le texte repart à l'Assemblée, une commission mixte paritaire pouvant être réunie.",
+      "source": "Sénat, scrutin public du 18 nov. 2026 · Ouest-France, 18 nov. 2026",
+      "url": "https://www.ouest-france.fr/economie/budget-collectivites-etat/le-senat-adopte-le-budget-de-la-securite-sociale-2027-avec-plusieurs-modifications-de-la-copie-du-gouvernement-ade90de0-e34e-11f1-a3b1-0c6de532ce7d",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Lanceur d'alerte : la loi du 21 mars 2022 régit le licenciement prononcé après son entrée en vigueur, même si l'alerte est antérieure (Cass. soc., 10 nov. 2026, n° 25-19.212, FS-B+R)",
+      "summary": "Saisie du cas d'une salariée dont les signalements dataient de 2018, la chambre sociale juge que la protection issue de la loi Waserman s'applique à tout salarié sanctionné ou licencié après le 1er septembre 2022, quelle que soit la date de l'alerte, et censure la cour d'appel qui avait écarté le statut de lanceur d'alerte pour ce motif.",
+      "source": "Cass. soc., 10 nov. 2026, n° 25-19.212 · Village de la Justice, nov. 2026",
+      "url": "https://www.village-justice.com/articles/lanceur-alerte-loi-mars-2022-regit-licenciement-prononce-apres-son-entree,59977.html",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Faute inexcusable de l'employeur : que reste-t-il des arrêts d'Assemblée plénière du 20 janvier 2023 pour les victimes consolidées depuis le 1er novembre 2026 ?",
+      "summary": "L'étude confronte la jurisprudence qui avait admis l'indemnisation distincte du déficit fonctionnel permanent, la rente n'étant plus réputée le réparer, au nouveau régime de la rente AT-MP applicable aux victimes consolidées à compter du 1er novembre 2026, et mesure ce que la réforme reprend, pour l'avenir, de ce gain jurisprudentiel.",
+      "source": "Village de la Justice, N. Le Bouard, nov. 2026",
+      "url": "https://www.village-justice.com/articles/faute-inexcusable-apres-1er-novembre-2026-que-reste-des-arrets-assemblee,59832.html",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "19 novembre 1863 : à Gettysburg, Abraham Lincoln prononce en deux minutes le discours qui définit la démocratie",
+      "summary": "Venu inaugurer le cimetière militaire du champ de bataille, le président américain conclut ses quelque 270 mots sur le « gouvernement du peuple, par le peuple, pour le peuple » — formule que l'article 2 de la Constitution du 4 octobre 1958 reprend mot pour mot comme principe de la République.",
+      "source": "Wikipédia, « Discours de Gettysburg » · Constitution de 1958, art. 2",
+      "url": "https://fr.wikipedia.org/wiki/Discours_de_Gettysburg",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Interdiction de sortie du territoire de l'enfant : demander au JAF de la cantonner au seul parent qui présente un risque de déplacement illicite",
+      "summary": "Depuis que la première chambre civile a jugé, au visa de l'article 8 de la Convention européenne, que la mesure de l'article 373-2-6 du code civil n'est pas nécessairement bilatérale (Cass. 1re civ., 1er juill. 2026, n° 25-21.064, B), le parent qui ne présente aucun risque peut solliciter une interdiction unilatérale, et doit obtenir du juge une motivation sur la proportionnalité et la durée de la mesure.",
+      "source": "Village de la Justice, L. Dauguet, 18 nov. 2026",
+      "url": "https://www.village-justice.com/articles/interdiction-sortie-territoire-cour-cassation-met-fin-regle-tout-rien,60051.html",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Golfe : en représailles à une frappe américaine sur l'île de Qeshm, l'Iran vise une base aérienne au Koweït et relance ses tirs sur Bahreïn",
+      "summary": "Dans la nuit du 17 au 18 novembre, des drones iraniens ont visé la base d'Ali Al Salem, qui abrite des forces américaines, puis une installation radar à Bahreïn ; les défenses aériennes disent les avoir interceptés sans victime, et aucune médiation ne se dessine.",
+      "source": "The Hill · Reuters, 18 nov. 2026",
+      "url": "https://thehill.com/policy/defense/6227812-iran-attacks-us-air-base-kuwait/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Théorie de l'acte détachable",
+    "subtitle": "Contentieux administratif · CE, 4 août 1905, Martin",
+    "defShort": "Construction jurisprudentielle qui isole, au sein d'une opération complexe insusceptible en elle-même de recours pour excès de pouvoir (contrat, acte de gouvernement, gestion privée), un acte administratif unilatéral qui peut, lui, être attaqué séparément.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Certaines opérations échappent au juge de l'excès de pouvoir : le contrat relève du juge du contrat, les relations internationales de l'immunité des actes de gouvernement, la gestion du domaine privé du juge judiciaire. La théorie de l'acte détachable permet d'en extraire une décision unilatérale — la délibération qui autorise à contracter, le décret d'extradition — et de la soumettre au contrôle de légalité, sans que le juge se prononce sur l'opération elle-même."
+      },
+      {
+        "h": "Fondement",
+        "body": "Elle naît avec l'arrêt Martin (CE, 4 août 1905), qui ouvre aux conseillers généraux le recours pour excès de pouvoir contre les délibérations relatives à la passation d'un contrat de concession. Le juge l'étend ensuite aux actes de gouvernement : un décret d'extradition est détachable de la conduite des relations internationales (CE, Ass., 15 oct. 1993, Royaume-Uni et Gouverneur de Hong Kong). Les clauses réglementaires d'un contrat, elles, sont directement attaquables (CE, Ass., 10 juill. 1996, Cayzeele)."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Actes préalables à la conclusion d'un contrat (choix du cocontractant, délibération autorisant la signature, décision de signer), actes détachables de l'exécution du contrat, actes détachables de la gestion du domaine privé, décisions détachables de la conduite des relations diplomatiques ou des rapports entre pouvoirs publics. L'acte détachable reste un acte unilatéral : son annulation n'emporte pas, par elle-même, la disparition du contrat ou de l'opération."
+      },
+      {
+        "h": "Portée",
+        "body": "En contentieux contractuel, la théorie a été largement refoulée : depuis CE, Ass., 4 avr. 2014, Département de Tarn-et-Garonne, les tiers ne contestent plus les actes préalables au contrat qu'à l'occasion d'un recours de plein contentieux contre le contrat lui-même, et le refus de résilier se conteste par la même voie (CE, Sect., 30 juin 2017, SMPAT). Elle conserve en revanche toute sa vigueur pour les contrats de droit privé des personnes publiques et pour les actes de gouvernement, dont elle réduit le périmètre."
+      }
+    ],
+    "seeAlso": "Voir aussi — opération complexe · acte de gouvernement · recours Tarn-et-Garonne · clause réglementaire (Cayzeele) · exception de recours parallèle"
+  },
+  "date": "2026-11-19",
+  "dateShort": "19 nov.",
+  "slot": "matin"
+}
