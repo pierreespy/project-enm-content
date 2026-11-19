@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-19",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-11-19",
+      "slot": "midi",
+      "file": "editions/2026-11-19-midi.json",
+      "essentiel": "Usage des armes par les forces de l'ordre : le Sénat examine ce jeudi la « présomption d'usage légal », qu'il entend voter sans modification",
+      "term": "Interversion de la prescription",
+      "rubriques": [
+        "Niche socialiste : l'Assemblée examine en séance la proposition de loi interdisant l'importation et la vente des produits des colonies israéliennes",
+        "Ordonnance « 145 » : le juge ne peut charger le commissaire de justice de trier les documents à caractère privé (Cass. com., 12 nov. 2026, n° 23-19.153, F-B)",
+        "Égalité salariale : à 10 h 51 ce jeudi, Les Glorieuses publient « L'écart de liberté », pour les dix ans de leur décompte du « travail gratuit » des femmes",
+        "19 novembre 1977 : Anouar el-Sadate atterrit en Israël, première visite d'un chef d'État arabe dans le pays",
+        "Élections au Conseil national des barreaux le 24 novembre : calendrier, collèges et modalités du vote électronique",
+        "Shenzhen : à l'issue d'un sommet tripartite inédit, Xi Jinping, Donald Trump et Vladimir Poutine adoptent une « déclaration de paix »"
+      ]
+    },
     {
       "date": "2026-11-19",
       "slot": "matin",

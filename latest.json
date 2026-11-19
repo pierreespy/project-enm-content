@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Mort d'Olivio Gomes : en appel, la cour d'assises des Hauts-de-Seine condamne le policier Gilles Guilbert à huit ans d'emprisonnement pour meurtre",
-    "dek": "Six ans après les trois tirs qui avaient tué le conducteur de 28 ans, en octobre 2020, au terme d'une filature par trois agents de la BAC parisienne, la cour d'assises d'appel réunie à Nanterre a rendu son verdict mercredi 18 novembre : elle confirme la culpabilité de l'ancien policier et ramène sa peine de dix à huit ans. Comme en première instance, la thèse de la légitime défense a été écartée, la cour ne retenant pas que l'usage de l'arme était absolument nécessaire au moment où la voiture redémarrait.",
-    "source": "Cour d'assises d'appel des Hauts-de-Seine · AFP / Boursorama, 18 nov. 2026",
-    "url": "https://www.boursorama.com/actualite-economique/actualites/un-policier-condamne-en-appel-a-huit-ans-de-prison-pour-le-meurtre-d-olivio-gomes-au-volant-de-sa-voiture-1508e19b6d97d5fd55e19d828990fdac"
+    "title": "Usage des armes par les forces de l'ordre : le Sénat examine ce jeudi la « présomption d'usage légal », qu'il entend voter sans modification",
+    "dek": "Adoptée par l'Assemblée nationale en juillet, la proposition de loi a été réécrite par le Gouvernement : il ne s'agit plus d'une présomption de légitime défense, mais d'une présomption simple que policiers et gendarmes faisant usage de leur arme ont agi dans le cadre de l'article L. 435-1 du code de la sécurité intérieure. La majorité sénatoriale, suivant sa rapporteure Lauriane Josende (LR), veut un vote conforme qui rendrait l'adoption définitive ; la gauche dénonce un « permis de tuer » et redoute un renversement de fait de la charge de la preuve dans les enquêtes.",
+    "source": "Sénat, séance publique du 19 nov. 2026 · AFP / France 24, 19 nov. 2026",
+    "url": "https://www.france24.com/fr/info-en-continu/20261119-usage-des-armes-par-la-police-un-vote-sous-haute-tension-au-s%C3%A9nat"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "PLFSS 2027 : le Sénat adopte en première lecture sa version du budget de la Sécurité sociale, par 201 voix contre 124",
-      "summary": "Rejeté à l'Assemblée le 23 octobre, le projet de loi de financement de la sécurité sociale a été voté le 18 novembre au Sénat dans une version profondément remaniée, qui porte le déficit prévu pour 2027 à 14 milliards d'euros au lieu des 12,7 milliards visés par le Gouvernement ; le texte repart à l'Assemblée, une commission mixte paritaire pouvant être réunie.",
-      "source": "Sénat, scrutin public du 18 nov. 2026 · Ouest-France, 18 nov. 2026",
-      "url": "https://www.ouest-france.fr/economie/budget-collectivites-etat/le-senat-adopte-le-budget-de-la-securite-sociale-2027-avec-plusieurs-modifications-de-la-copie-du-gouvernement-ade90de0-e34e-11f1-a3b1-0c6de532ce7d",
+      "title": "Niche socialiste : l'Assemblée examine en séance la proposition de loi interdisant l'importation et la vente des produits des colonies israéliennes",
+      "summary": "Adopté en commission le 9 novembre et cosigné par plus de cent députés de huit groupes, le texte prohibe l'importation, l'achat et la commercialisation des marchandises issues des colonies, ainsi que certains services, notamment financiers ou de location touristique, qui contribuent à leur développement ; soutenu par la gauche et le MoDem, combattu par les macronistes et le RN, il devra encore passer au Sénat.",
+      "source": "Assemblée nationale, séance du 19 nov. 2026 · LCP, nov. 2026",
+      "url": "https://lcp.fr/actualites/colonies-israeliennes-des-deputes-veulent-interdire-la-vente-de-certains-produits-en",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Lanceur d'alerte : la loi du 21 mars 2022 régit le licenciement prononcé après son entrée en vigueur, même si l'alerte est antérieure (Cass. soc., 10 nov. 2026, n° 25-19.212, FS-B+R)",
-      "summary": "Saisie du cas d'une salariée dont les signalements dataient de 2018, la chambre sociale juge que la protection issue de la loi Waserman s'applique à tout salarié sanctionné ou licencié après le 1er septembre 2022, quelle que soit la date de l'alerte, et censure la cour d'appel qui avait écarté le statut de lanceur d'alerte pour ce motif.",
-      "source": "Cass. soc., 10 nov. 2026, n° 25-19.212 · Village de la Justice, nov. 2026",
-      "url": "https://www.village-justice.com/articles/lanceur-alerte-loi-mars-2022-regit-licenciement-prononce-apres-son-entree,59977.html",
+      "title": "Ordonnance « 145 » : le juge ne peut charger le commissaire de justice de trier les documents à caractère privé (Cass. com., 12 nov. 2026, n° 23-19.153, F-B)",
+      "summary": "La chambre commerciale censure l'ordonnance qui autorisait le commissaire de justice à écarter lui-même les fichiers personnels : une telle mission impliquait qu'il qualifie juridiquement les pièces découvertes, ce qui excède les constatations purement matérielles auxquelles il est cantonné, de sorte que le juge de la requête a outrepassé ses pouvoirs.",
+      "source": "Cass. com., 12 nov. 2026, n° 23-19.153 · V. Simonnet, avocat, nov. 2026",
+      "url": "https://www.simonnetavocat.fr/clause-perso-prive-ordonnance-145-huissier-avis-juridique-cass-com-12-novembre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Faute inexcusable de l'employeur : que reste-t-il des arrêts d'Assemblée plénière du 20 janvier 2023 pour les victimes consolidées depuis le 1er novembre 2026 ?",
-      "summary": "L'étude confronte la jurisprudence qui avait admis l'indemnisation distincte du déficit fonctionnel permanent, la rente n'étant plus réputée le réparer, au nouveau régime de la rente AT-MP applicable aux victimes consolidées à compter du 1er novembre 2026, et mesure ce que la réforme reprend, pour l'avenir, de ce gain jurisprudentiel.",
-      "source": "Village de la Justice, N. Le Bouard, nov. 2026",
-      "url": "https://www.village-justice.com/articles/faute-inexcusable-apres-1er-novembre-2026-que-reste-des-arrets-assemblee,59832.html",
+      "title": "Égalité salariale : à 10 h 51 ce jeudi, Les Glorieuses publient « L'écart de liberté », pour les dix ans de leur décompte du « travail gratuit » des femmes",
+      "summary": "Fondée sur un écart de rémunération horaire de 11,8 % en France (11,1 % dans l'Union), l'étude mesure ce que cet écart retire aux femmes en choix de vie et plaide pour conditionner l'accès aux marchés publics et aux subventions au respect de l'égalité salariale, alors que le projet de loi sur la transparence des rémunérations, qui transpose la directive (UE) 2023/970, est toujours en discussion.",
+      "source": "Les Glorieuses · L'Info Durable / AFP, nov. 2026",
+      "url": "https://www.linfodurable.fr/le-19-novembre-partir-de-10h51-les-femmes-travailleront-gratuitement-selon-des-feministes-59621",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "19 novembre 1863 : à Gettysburg, Abraham Lincoln prononce en deux minutes le discours qui définit la démocratie",
-      "summary": "Venu inaugurer le cimetière militaire du champ de bataille, le président américain conclut ses quelque 270 mots sur le « gouvernement du peuple, par le peuple, pour le peuple » — formule que l'article 2 de la Constitution du 4 octobre 1958 reprend mot pour mot comme principe de la République.",
-      "source": "Wikipédia, « Discours de Gettysburg » · Constitution de 1958, art. 2",
-      "url": "https://fr.wikipedia.org/wiki/Discours_de_Gettysburg",
+      "title": "19 novembre 1977 : Anouar el-Sadate atterrit en Israël, première visite d'un chef d'État arabe dans le pays",
+      "summary": "Accueilli à l'aéroport Ben-Gourion par Menahem Begin, le président égyptien s'adresse le lendemain à la Knesset ; la visite ouvre la voie aux accords de Camp David de septembre 1978 et au traité de paix israélo-égyptien du 26 mars 1979, qui restitue le Sinaï à l'Égypte.",
+      "source": "Wikipédia, « Visite d'Anouar el-Sadate à Jérusalem »",
+      "url": "https://fr.wikipedia.org/wiki/Visite_d%27Anouar_el-Sadate_%C3%A0_J%C3%A9rusalem",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Interdiction de sortie du territoire de l'enfant : demander au JAF de la cantonner au seul parent qui présente un risque de déplacement illicite",
-      "summary": "Depuis que la première chambre civile a jugé, au visa de l'article 8 de la Convention européenne, que la mesure de l'article 373-2-6 du code civil n'est pas nécessairement bilatérale (Cass. 1re civ., 1er juill. 2026, n° 25-21.064, B), le parent qui ne présente aucun risque peut solliciter une interdiction unilatérale, et doit obtenir du juge une motivation sur la proportionnalité et la durée de la mesure.",
-      "source": "Village de la Justice, L. Dauguet, 18 nov. 2026",
-      "url": "https://www.village-justice.com/articles/interdiction-sortie-territoire-cour-cassation-met-fin-regle-tout-rien,60051.html",
+      "title": "Élections au Conseil national des barreaux le 24 novembre : calendrier, collèges et modalités du vote électronique",
+      "summary": "Les avocats élisent le 24 novembre leurs représentants au CNB, au sein du collège ordinal et du collège général, par un vote électronique à distance dont il faut vérifier en amont la réception des identifiants ; l'assemblée générale élective qui désignera le nouveau bureau se tiendra le 10 décembre 2026.",
+      "source": "ABF Avocats, nov. 2026 · CNB",
+      "url": "https://abf-avocats.fr/elections-cnb-24-novembre-2026-calendrier-et-modalites/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Golfe : en représailles à une frappe américaine sur l'île de Qeshm, l'Iran vise une base aérienne au Koweït et relance ses tirs sur Bahreïn",
-      "summary": "Dans la nuit du 17 au 18 novembre, des drones iraniens ont visé la base d'Ali Al Salem, qui abrite des forces américaines, puis une installation radar à Bahreïn ; les défenses aériennes disent les avoir interceptés sans victime, et aucune médiation ne se dessine.",
-      "source": "The Hill · Reuters, 18 nov. 2026",
-      "url": "https://thehill.com/policy/defense/6227812-iran-attacks-us-air-base-kuwait/",
+      "title": "Shenzhen : à l'issue d'un sommet tripartite inédit, Xi Jinping, Donald Trump et Vladimir Poutine adoptent une « déclaration de paix »",
+      "summary": "Réunis environ quatre-vingts minutes en marge de l'APEC, les trois dirigeants promettent de « préserver la stabilité » internationale ; Vladimir Poutine a mis l'accent sur l'Ukraine, Donald Trump sur le nucléaire après l'expiration en février du traité New START, sans qu'aucun engagement concret ne soit encore rendu public.",
+      "source": "France 24 · RTS, 19 nov. 2026",
+      "url": "https://www.france24.com/fr/asie-pacifique/20261119-sommet-apec-en-direct-rencontres-diplomatiques-attendues-shenzhen-trump-poutine-xi-jinping",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Théorie de l'acte détachable",
-    "subtitle": "Contentieux administratif · CE, 4 août 1905, Martin",
-    "defShort": "Construction jurisprudentielle qui isole, au sein d'une opération complexe insusceptible en elle-même de recours pour excès de pouvoir (contrat, acte de gouvernement, gestion privée), un acte administratif unilatéral qui peut, lui, être attaqué séparément.",
+    "term": "Interversion de la prescription",
+    "subtitle": "Droit civil · Articles 2231 du code civil, L. 111-4 du code des procédures civiles d'exécution et L. 511-78 du code de commerce",
+    "defShort": "Substitution, à la prescription qui gouvernait initialement une créance, d'une prescription d'une autre durée et d'une autre nature, par l'effet d'un événement qui change le fondement de l'action — typiquement un jugement de condamnation ou une reconnaissance de dette par acte séparé.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Certaines opérations échappent au juge de l'excès de pouvoir : le contrat relève du juge du contrat, les relations internationales de l'immunité des actes de gouvernement, la gestion du domaine privé du juge judiciaire. La théorie de l'acte détachable permet d'en extraire une décision unilatérale — la délibération qui autorise à contracter, le décret d'extradition — et de la soumettre au contrôle de légalité, sans que le juge se prononce sur l'opération elle-même."
+        "body": "L'interruption de la prescription fait en principe courir un nouveau délai de même durée que l'ancien. L'interversion va plus loin : le délai qui recommence n'est plus celui de la créance d'origine, mais celui, souvent plus long, attaché au nouveau titre. Elle se distingue donc à la fois de l'interruption, qui efface le temps écoulé sans changer la règle, et de la suspension, qui l'arrête temporairement."
       },
       {
         "h": "Fondement",
-        "body": "Elle naît avec l'arrêt Martin (CE, 4 août 1905), qui ouvre aux conseillers généraux le recours pour excès de pouvoir contre les délibérations relatives à la passation d'un contrat de concession. Le juge l'étend ensuite aux actes de gouvernement : un décret d'extradition est détachable de la conduite des relations internationales (CE, Ass., 15 oct. 1993, Royaume-Uni et Gouverneur de Hong Kong). Les clauses réglementaires d'un contrat, elles, sont directement attaquables (CE, Ass., 10 juill. 1996, Cayzeele)."
+        "body": "La loi du 17 juin 2008 a posé le principe inverse à l'article 2231 du code civil : « l'interruption efface le délai de prescription acquis. Elle fait courir un nouveau délai de même durée que l'ancien ». L'interversion ne subsiste qu'à titre d'exception, lorsque le titre lui-même change : le jugement, titre exécutoire, se prescrit par dix ans (art. L. 111-4 CPCE), quelle que soit la prescription de la créance qu'il consacre ; en droit cambiaire, les courtes prescriptions de l'article L. 511-78 du code de commerce cessent de jouer en cas de condamnation ou de reconnaissance de la dette par acte séparé."
       },
       {
         "h": "Cas visés",
-        "body": "Actes préalables à la conclusion d'un contrat (choix du cocontractant, délibération autorisant la signature, décision de signer), actes détachables de l'exécution du contrat, actes détachables de la gestion du domaine privé, décisions détachables de la conduite des relations diplomatiques ou des rapports entre pouvoirs publics. L'acte détachable reste un acte unilatéral : son annulation n'emporte pas, par elle-même, la disparition du contrat ou de l'opération."
+        "body": "Une créance de consommation soumise au délai biennal de l'article L. 218-2 du code de la consommation, une fois consacrée par jugement, s'exécute pendant dix ans ; en revanche, les intérêts échus après le jugement restent soumis, selon la jurisprudence, à la prescription quinquennale propre aux créances périodiques. Une simple reconnaissance de dette ne produit en principe qu'un effet interruptif ; ce n'est que si elle constitue un engagement nouveau, détaché du titre initial (acte séparé en matière d'effets de commerce, novation), qu'elle intervertit la prescription."
       },
       {
         "h": "Portée",
-        "body": "En contentieux contractuel, la théorie a été largement refoulée : depuis CE, Ass., 4 avr. 2014, Département de Tarn-et-Garonne, les tiers ne contestent plus les actes préalables au contrat qu'à l'occasion d'un recours de plein contentieux contre le contrat lui-même, et le refus de résilier se conteste par la même voie (CE, Sect., 30 juin 2017, SMPAT). Elle conserve en revanche toute sa vigueur pour les contrats de droit privé des personnes publiques et pour les actes de gouvernement, dont elle réduit le périmètre."
+        "body": "La qualification commande la stratégie du créancier : obtenir un titre exécutoire n'interrompt pas seulement la prescription, il en change le régime. Pour le débiteur, l'enjeu est de démontrer que l'acte invoqué n'a qu'une portée interruptive, faute de quoi la dette survit bien au-delà du délai d'origine. La notion, peu enseignée depuis la réforme de 2008, reste décisive en matière d'exécution forcée et de crédit à la consommation."
       }
     ],
-    "seeAlso": "Voir aussi — opération complexe · acte de gouvernement · recours Tarn-et-Garonne · clause réglementaire (Cayzeele) · exception de recours parallèle"
+    "seeAlso": "Voir aussi — interruption de la prescription (art. 2240 s. C. civ.) · suspension de la prescription (art. 2233 s.) · prescription des titres exécutoires (art. L. 111-4 CPCE) · novation (art. 1329 C. civ.)"
   },
   "date": "2026-11-19",
   "dateShort": "19 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 80,
     "title": "Pourquoi l'un des deux jets paraît plus brillant",
