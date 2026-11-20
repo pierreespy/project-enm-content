@@ -1,0 +1,32 @@
+{
+  "n": 81,
+  "title": "Les blazars : un jet pointé droit sur la Terre",
+  "subtitle": "Quand l'orientation d'un jet, et non sa puissance, fait d'une galaxie l'un des objets les plus brillants du ciel",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un cas limite d'orientation",
+      "body": "La veille, on a vu que l'éclat d'un jet dépend de l'angle sous lequel on le regarde : celui qui vient vers nous est amplifié, le contre-jet atténué (jour 80). Poussons le raisonnement à son terme. Parmi les millions de noyaux actifs de galaxie (jour 77), quelques-uns ont, par pur hasard, un jet orienté presque exactement dans notre direction, à quelques degrés près. On les appelle des blazars. Rien ne les distingue physiquement des autres : c'est la position de la Terre, et elle seule, qui les rend singuliers."
+    },
+    {
+      "h": "Ce que l'on voit alors",
+      "body": "Regarder un jet dans l'axe, c'est un peu comme regarder un phare en face plutôt que de profil. L'amplification relativiste joue à plein : la lumière du jet écrase celle de tout le reste, disque d'accrétion (jour 75) et étoiles de la galaxie compris. Le blazar apparaît comme un point très brillant, dont la galaxie hôte est souvent indiscernable. Son éclat varie aussi de façon spectaculaire, parfois en quelques heures : chaque sursaut du jet, déjà rapide, nous parvient encore accéléré et renforcé. Ces variations brusques sont la signature la plus sûre d'un blazar."
+    },
+    {
+      "h": "Un même objet sous plusieurs noms",
+      "body": "Pendant des décennies, les astronomes ont classé dans des catégories distinctes des objets qui n'en forment en réalité qu'une seule : vu de profil, un noyau actif montre ses deux jets et ses lobes radio (jour 78) ; vu de trois quarts, il prend l'allure d'un quasar (jour 75) ; vu dans l'axe, c'est un blazar. Comprendre que la diversité des apparences tient d'abord à l'angle de vue a été l'une des grandes simplifications de l'astrophysique de la fin du XXe siècle."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Blazar",
+      "def": "Noyau actif de galaxie dont l'un des jets est orienté presque exactement vers la Terre, ce qui le rend extrêmement brillant et très variable par amplification relativiste."
+    },
+    {
+      "term": "Variabilité",
+      "def": "Changement de l'éclat d'un astre au cours du temps ; chez un blazar, il peut être très marqué en quelques heures ou quelques jours."
+    }
+  ],
+  "recap": "Un blazar n'est pas un objet à part : c'est un noyau actif ordinaire dont le jet est pointé sur nous, et l'angle de vue suffit à expliquer son éclat et ses sautes brutales.",
+  "next": "Demain — pourquoi la rapidité d'un sursaut lumineux trahit la petite taille de ce qui l'émet."
+}

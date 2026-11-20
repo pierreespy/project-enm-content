@@ -1,125 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Usage des armes par les forces de l'ordre : le Sénat examine ce jeudi la « présomption d'usage légal », qu'il entend voter sans modification",
-    "dek": "Adoptée par l'Assemblée nationale en juillet, la proposition de loi a été réécrite par le Gouvernement : il ne s'agit plus d'une présomption de légitime défense, mais d'une présomption simple que policiers et gendarmes faisant usage de leur arme ont agi dans le cadre de l'article L. 435-1 du code de la sécurité intérieure. La majorité sénatoriale, suivant sa rapporteure Lauriane Josende (LR), veut un vote conforme qui rendrait l'adoption définitive ; la gauche dénonce un « permis de tuer » et redoute un renversement de fait de la charge de la preuve dans les enquêtes.",
-    "source": "Sénat, séance publique du 19 nov. 2026 · AFP / France 24, 19 nov. 2026",
-    "url": "https://www.france24.com/fr/info-en-continu/20261119-usage-des-armes-par-la-police-un-vote-sous-haute-tension-au-s%C3%A9nat"
+    "title": "Rohingya : pour la première fois, la Cour internationale de justice juge qu'un État a commis un génocide et condamne la Birmanie",
+    "dek": "Saisie par la Gambie en novembre 2019, avec le soutien de l'Organisation de la coopération islamique, la CIJ a rendu jeudi 19 novembre à La Haye son arrêt sur le fond, long de plus de 640 pages : elle juge que la Birmanie a violé la Convention de 1948, non seulement en manquant à son obligation de prévenir et de punir, mais en commettant elle-même un génocide contre les Rohingya, l'intention de détruire le groupe étant la seule déduction raisonnable des opérations militaires de 2016-2017. La Cour enjoint à l'État de faire cesser les violations, de poursuivre les responsables et de lui rendre compte, dans un délai de deux ans, des réparations envisagées. L'arrêt est définitif et sans recours.",
+    "source": "CIJ, 19 nov. 2026, Gambie c. Myanmar · France 24, 19 nov. 2026",
+    "url": "https://www.france24.com/fr/asie-pacifique/20261119-la-cij-juge-les-forces-birmanes-coupables-d-avoir-tu%C3%A9-des-milliers-de-civils-rohingyas"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Niche socialiste : l'Assemblée examine en séance la proposition de loi interdisant l'importation et la vente des produits des colonies israéliennes",
-      "summary": "Adopté en commission le 9 novembre et cosigné par plus de cent députés de huit groupes, le texte prohibe l'importation, l'achat et la commercialisation des marchandises issues des colonies, ainsi que certains services, notamment financiers ou de location touristique, qui contribuent à leur développement ; soutenu par la gauche et le MoDem, combattu par les macronistes et le RN, il devra encore passer au Sénat.",
-      "source": "Assemblée nationale, séance du 19 nov. 2026 · LCP, nov. 2026",
-      "url": "https://lcp.fr/actualites/colonies-israeliennes-des-deputes-veulent-interdire-la-vente-de-certains-produits-en",
+      "title": "Titres-restaurant : le Sénat vote à l'unanimité, par 344 voix contre zéro, la pérennisation de leur usage pour l'achat de produits alimentaires",
+      "summary": "Adoptée le 19 novembre, la proposition de loi du député Christophe Naegelen prolonge en 2027 la dérogation qui permet de régler en titres-restaurant des denrées non directement consommables, puis l'inscrit durablement dans le code du travail à compter du 1er janvier 2028.",
+      "source": "Sénat, scrutin du 19 nov. 2026 · Public Sénat, 19 nov. 2026",
+      "url": "https://www.publicsenat.fr/actualites/economie/le-senat-vote-la-perennisation-de-lutilisation-des-titres-restaurant-pour-lachat-des-produits-alimentaires",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Ordonnance « 145 » : le juge ne peut charger le commissaire de justice de trier les documents à caractère privé (Cass. com., 12 nov. 2026, n° 23-19.153, F-B)",
-      "summary": "La chambre commerciale censure l'ordonnance qui autorisait le commissaire de justice à écarter lui-même les fichiers personnels : une telle mission impliquait qu'il qualifie juridiquement les pièces découvertes, ce qui excède les constatations purement matérielles auxquelles il est cantonné, de sorte que le juge de la requête a outrepassé ses pouvoirs.",
-      "source": "Cass. com., 12 nov. 2026, n° 23-19.153 · V. Simonnet, avocat, nov. 2026",
-      "url": "https://www.simonnetavocat.fr/clause-perso-prive-ordonnance-145-huissier-avis-juridique-cass-com-12-novembre-2026/",
+      "title": "Travail dissimulé : des heures minorées sur le bulletin de paie s'apprécient à la date de sa remise, la régularisation tardive n'efface pas le délit (Cass. soc., 18 nov. 2026, FS-B)",
+      "summary": "La chambre sociale juge que la mention d'un nombre d'heures inférieur à celui réellement accompli caractérise l'élément matériel du travail dissimulé au jour où le bulletin devait être délivré, peu important toute régularisation ultérieure, et ouvre ainsi droit à l'indemnité forfaitaire de six mois de salaire lorsque l'intention est établie.",
+      "source": "Cass. soc., 18 nov. 2026 · Juriguide, 19 nov. 2026",
+      "url": "https://www.juriguide.com/2026/11/19/heures-supplementaires-fiches-paie-regularisation-travail-dissimule-cassation-novembre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Égalité salariale : à 10 h 51 ce jeudi, Les Glorieuses publient « L'écart de liberté », pour les dix ans de leur décompte du « travail gratuit » des femmes",
-      "summary": "Fondée sur un écart de rémunération horaire de 11,8 % en France (11,1 % dans l'Union), l'étude mesure ce que cet écart retire aux femmes en choix de vie et plaide pour conditionner l'accès aux marchés publics et aux subventions au respect de l'égalité salariale, alors que le projet de loi sur la transparence des rémunérations, qui transpose la directive (UE) 2023/970, est toujours en discussion.",
-      "source": "Les Glorieuses · L'Info Durable / AFP, nov. 2026",
-      "url": "https://www.linfodurable.fr/le-19-novembre-partir-de-10h51-les-femmes-travailleront-gratuitement-selon-des-feministes-59621",
+      "title": "Droits de l'enfant à l'ère numérique : le Défenseur des droits consacre son rapport annuel 2026 à la protection des mineurs en ligne",
+      "summary": "À la veille de la Journée internationale des droits de l'enfant, l'autorité tire de ses réclamations, d'auditions et de consultations de mineurs une série de recommandations sur l'exposition aux contenus violents, la vérification de l'âge, l'exploitation commerciale des données et l'effectivité des voies de saisine ouvertes aux enfants.",
+      "source": "Défenseur des droits, rapport annuel enfant 2026, nov. 2026",
+      "url": "https://www.defenseurdesdroits.fr/rapport-annuel-enfant-2026-le-defenseur-des-droits-publie-son-rapport-sur-le-respect-des-droits-des",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "19 novembre 1977 : Anouar el-Sadate atterrit en Israël, première visite d'un chef d'État arabe dans le pays",
-      "summary": "Accueilli à l'aéroport Ben-Gourion par Menahem Begin, le président égyptien s'adresse le lendemain à la Knesset ; la visite ouvre la voie aux accords de Camp David de septembre 1978 et au traité de paix israélo-égyptien du 26 mars 1979, qui restitue le Sinaï à l'Égypte.",
-      "source": "Wikipédia, « Visite d'Anouar el-Sadate à Jérusalem »",
-      "url": "https://fr.wikipedia.org/wiki/Visite_d%27Anouar_el-Sadate_%C3%A0_J%C3%A9rusalem",
+      "title": "20 novembre 1945 : à Nuremberg, le Tribunal militaire international ouvre le procès des principaux dirigeants nazis",
+      "summary": "Institué par l'accord de Londres du 8 août 1945, le tribunal des quatre puissances alliées juge vingt et un accusés présents dans la salle 600 du palais de justice, sur le fondement d'incriminations nouvelles — crimes contre la paix, crimes de guerre, crimes contre l'humanité — dont le génocide n'est pas encore une catégorie autonome : il faudra attendre la Convention du 9 décembre 1948.",
+      "source": "Mémorial de la Shoah · Encyclopédie de l'USHMM",
+      "url": "https://encyclopedia.ushmm.org/content/fr/article/international-military-tribunal-at-nuremberg",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Élections au Conseil national des barreaux le 24 novembre : calendrier, collèges et modalités du vote électronique",
-      "summary": "Les avocats élisent le 24 novembre leurs représentants au CNB, au sein du collège ordinal et du collège général, par un vote électronique à distance dont il faut vérifier en amont la réception des identifiants ; l'assemblée générale élective qui désignera le nouveau bureau se tiendra le 10 décembre 2026.",
-      "source": "ABF Avocats, nov. 2026 · CNB",
-      "url": "https://abf-avocats.fr/elections-cnb-24-novembre-2026-calendrier-et-modalites/",
+      "title": "Défendeur non comparant : ce que le décret du 27 juillet 2026 change à l'article 472 du CPC et à « l'admission rapide des demandes incontestées »",
+      "summary": "Le nouveau mécanisme permet au juge de première instance de faire droit plus rapidement aux prétentions du demandeur lorsque le défendeur ne comparaît pas, sous réserve qu'elles soient régulières, recevables et bien fondées ; l'auteure invite à soigner l'acte introductif et les pièces dès la saisine, faute de contradicteur pour combler les lacunes du dossier.",
+      "source": "Village de la Justice, É. Kalfon, 2026",
+      "url": "https://www.village-justice.com/articles/admission-rapide-des-demandes-incontestees-que-decret-juillet-2026-change,58609.html",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Shenzhen : à l'issue d'un sommet tripartite inédit, Xi Jinping, Donald Trump et Vladimir Poutine adoptent une « déclaration de paix »",
-      "summary": "Réunis environ quatre-vingts minutes en marge de l'APEC, les trois dirigeants promettent de « préserver la stabilité » internationale ; Vladimir Poutine a mis l'accent sur l'Ukraine, Donald Trump sur le nucléaire après l'expiration en février du traité New START, sans qu'aucun engagement concret ne soit encore rendu public.",
-      "source": "France 24 · RTS, 19 nov. 2026",
-      "url": "https://www.france24.com/fr/asie-pacifique/20261119-sommet-apec-en-direct-rencontres-diplomatiques-attendues-shenzhen-trump-poutine-xi-jinping",
+      "title": "Intempéries : quatre départements, des Landes au Pas-de-Calais, placés en vigilance orange pluies-inondations, avec des cumuls exceptionnels attendus",
+      "summary": "Météo-France a placé jeudi les Landes, la Seine-Maritime, la Somme et le Pas-de-Calais en vigilance orange, une vingtaine d'autres départements en jaune, tandis que 35 départements étaient en vigilance orages et cinq littoraux en vigilance vagues-submersion.",
+      "source": "Météo-France · franceinfo, 19 nov. 2026",
+      "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/vigilance-orange-pluies-inondations-cumuls-exceptionnels-attendus-dans-4-departements-ce-19-novembre-2026_8289473.html",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Interversion de la prescription",
-    "subtitle": "Droit civil · Articles 2231 du code civil, L. 111-4 du code des procédures civiles d'exécution et L. 511-78 du code de commerce",
-    "defShort": "Substitution, à la prescription qui gouvernait initialement une créance, d'une prescription d'une autre durée et d'une autre nature, par l'effet d'un événement qui change le fondement de l'action — typiquement un jugement de condamnation ou une reconnaissance de dette par acte séparé.",
+    "term": "Dol spécial (dolus specialis)",
+    "subtitle": "Droit international pénal · Convention du 9 déc. 1948, art. II · C. pén., art. 211-1",
+    "defShort": "Intention spécifique exigée, au-delà de la volonté de commettre l'acte matériel, pour caractériser certaines infractions : en matière de génocide, l'intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux comme tel.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'interruption de la prescription fait en principe courir un nouveau délai de même durée que l'ancien. L'interversion va plus loin : le délai qui recommence n'est plus celui de la créance d'origine, mais celui, souvent plus long, attaché au nouveau titre. Elle se distingue donc à la fois de l'interruption, qui efface le temps écoulé sans changer la règle, et de la suspension, qui l'arrête temporairement."
+        "body": "Le dol général est la conscience et la volonté d'accomplir l'acte incriminé ; le dol spécial y ajoute un but précis que l'auteur doit poursuivre. Le meurtre d'un membre d'un groupe, même massif et discriminatoire, n'est un génocide que s'il est commis dans l'intention de détruire ce groupe en tant que tel. C'est cette exigence qui distingue le génocide du crime contre l'humanité de persécution, et qui en fait l'infraction la plus difficile à prouver."
       },
       {
         "h": "Fondement",
-        "body": "La loi du 17 juin 2008 a posé le principe inverse à l'article 2231 du code civil : « l'interruption efface le délai de prescription acquis. Elle fait courir un nouveau délai de même durée que l'ancien ». L'interversion ne subsiste qu'à titre d'exception, lorsque le titre lui-même change : le jugement, titre exécutoire, se prescrit par dix ans (art. L. 111-4 CPCE), quelle que soit la prescription de la créance qu'il consacre ; en droit cambiaire, les courtes prescriptions de l'article L. 511-78 du code de commerce cessent de jouer en cas de condamnation ou de reconnaissance de la dette par acte séparé."
+        "body": "L'article II de la Convention pour la prévention et la répression du crime de génocide vise des actes « commis dans l'intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux, comme tel » ; l'article 6 du Statut de Rome reprend la formule. En droit interne, l'article 211-1 du code pénal exige l'exécution d'un « plan concerté » tendant à la destruction du groupe, formule qui objective en partie l'intention."
       },
       {
-        "h": "Cas visés",
-        "body": "Une créance de consommation soumise au délai biennal de l'article L. 218-2 du code de la consommation, une fois consacrée par jugement, s'exécute pendant dix ans ; en revanche, les intérêts échus après le jugement restent soumis, selon la jurisprudence, à la prescription quinquennale propre aux créances périodiques. Une simple reconnaissance de dette ne produit en principe qu'un effet interruptif ; ce n'est que si elle constitue un engagement nouveau, détaché du titre initial (acte séparé en matière d'effets de commerce, novation), qu'elle intervertit la prescription."
+        "h": "Preuve",
+        "body": "Faute d'aveu ou d'ordre écrit, l'intention se déduit d'un faisceau d'indices : ampleur et systématicité des atteintes, ciblage exclusif du groupe, propos des dirigeants, destruction des moyens de subsistance. La CIJ pose un critère exigeant : l'intention ne peut être inférée d'une ligne de conduite que si elle est la seule déduction raisonnable qui puisse en être tirée (CIJ, 3 févr. 2015, Croatie c. Serbie, après Bosnie-Herzégovine c. Serbie, 26 févr. 2007). C'est ce seuil que la Cour a jugé atteint pour la Birmanie le 19 novembre 2026."
       },
       {
         "h": "Portée",
-        "body": "La qualification commande la stratégie du créancier : obtenir un titre exécutoire n'interrompt pas seulement la prescription, il en change le régime. Pour le débiteur, l'enjeu est de démontrer que l'acte invoqué n'a qu'une portée interruptive, faute de quoi la dette survit bien au-delà du délai d'origine. La notion, peu enseignée depuis la réforme de 2008, reste décisive en matière d'exécution forcée et de crédit à la consommation."
+        "body": "Le dol spécial n'est pas propre au génocide : en droit pénal interne, il commande par exemple l'escroquerie (le but d'obtenir une remise), le faux (l'intention de nuire présumée de l'usage) ou l'association de malfaiteurs en vue de préparer un crime déterminé. Il ne se confond pas avec le mobile, en principe indifférent : on peut vouloir détruire un groupe pour s'emparer de ses terres, le mobile économique n'effaçant pas l'intention génocidaire."
       }
     ],
-    "seeAlso": "Voir aussi — interruption de la prescription (art. 2240 s. C. civ.) · suspension de la prescription (art. 2233 s.) · prescription des titres exécutoires (art. L. 111-4 CPCE) · novation (art. 1329 C. civ.)"
+    "seeAlso": "Voir aussi — dol général · mobile (indifférence du) · crime contre l'humanité (art. 212-1 C. pén.) · plan concerté · obligation de prévenir le génocide (Bosnie c. Serbie, 2007)"
   },
-  "date": "2026-11-19",
-  "dateShort": "19 nov.",
-  "slot": "midi",
+  "date": "2026-11-20",
+  "dateShort": "20 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 80,
-    "title": "Pourquoi l'un des deux jets paraît plus brillant",
-    "subtitle": "Un trou noir lance deux jets symétriques, mais on n'en voit souvent qu'un seul",
+    "n": 81,
+    "title": "Les blazars : un jet pointé droit sur la Terre",
+    "subtitle": "Quand l'orientation d'un jet, et non sa puissance, fait d'une galaxie l'un des objets les plus brillants du ciel",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Deux jets, une seule trace",
-        "body": "Un trou noir actif lance en principe deux jets (jour 78), en sens opposés, de part et d'autre de son disque d'accrétion (jour 75). Ils naissent du même mécanisme et emportent des quantités de matière comparables. Pourtant, sur beaucoup d'images, l'un est éclatant et l'autre presque invisible. Celui qui se dirige vers nous est appelé le jet ; celui qui s'éloigne, le contre-jet. Le contraste peut être tel qu'on a longtemps cru certaines galaxies dotées d'un jet unique."
+        "h": "Un cas limite d'orientation",
+        "body": "La veille, on a vu que l'éclat d'un jet dépend de l'angle sous lequel on le regarde : celui qui vient vers nous est amplifié, le contre-jet atténué (jour 80). Poussons le raisonnement à son terme. Parmi les millions de noyaux actifs de galaxie (jour 77), quelques-uns ont, par pur hasard, un jet orienté presque exactement dans notre direction, à quelques degrés près. On les appelle des blazars. Rien ne les distingue physiquement des autres : c'est la position de la Terre, et elle seule, qui les rend singuliers."
       },
       {
-        "h": "La lumière concentrée dans le sens de la course",
-        "body": "La cause tient à la vitesse de la matière, très proche de celle de la lumière (jour 79). À de telles vitesses, la lumière qu'émet le jet ne part plus de façon égale dans toutes les directions : elle se resserre vers l'avant, dans le sens du mouvement, comme le faisceau d'un phare. S'y ajoute l'effet Doppler (jour 16) : la lumière du jet qui approche nous arrive plus énergique et plus concentrée dans le temps, celle du contre-jet plus faible et plus étalée. Ce double effet s'appelle l'amplification relativiste : il renforce l'éclat apparent de ce qui vient vers nous et affaiblit celui de ce qui s'en éloigne."
+        "h": "Ce que l'on voit alors",
+        "body": "Regarder un jet dans l'axe, c'est un peu comme regarder un phare en face plutôt que de profil. L'amplification relativiste joue à plein : la lumière du jet écrase celle de tout le reste, disque d'accrétion (jour 75) et étoiles de la galaxie compris. Le blazar apparaît comme un point très brillant, dont la galaxie hôte est souvent indiscernable. Son éclat varie aussi de façon spectaculaire, parfois en quelques heures : chaque sursaut du jet, déjà rapide, nous parvient encore accéléré et renforcé. Ces variations brusques sont la signature la plus sûre d'un blazar."
       },
       {
-        "h": "Ce que le contraste permet de mesurer",
-        "body": "L'écart d'éclat entre le jet et le contre-jet n'est pas un défaut de l'image : il dépend de la vitesse réelle de la matière et de l'angle sous lequel nous voyons le jet. Comparer les deux, puis recouper avec le mouvement superluminique apparent (jour 79), permet d'estimer ces deux grandeurs indépendamment. Un jet orienté droit vers nous peut ainsi paraître des milliers de fois plus brillant qu'il ne l'est réellement."
+        "h": "Un même objet sous plusieurs noms",
+        "body": "Pendant des décennies, les astronomes ont classé dans des catégories distinctes des objets qui n'en forment en réalité qu'une seule : vu de profil, un noyau actif montre ses deux jets et ses lobes radio (jour 78) ; vu de trois quarts, il prend l'allure d'un quasar (jour 75) ; vu dans l'axe, c'est un blazar. Comprendre que la diversité des apparences tient d'abord à l'angle de vue a été l'une des grandes simplifications de l'astrophysique de la fin du XXe siècle."
       }
     ],
     "keyTerms": [
       {
-        "term": "Amplification relativiste",
-        "def": "Renforcement de l'éclat apparent d'une matière qui se déplace vers nous à une vitesse proche de celle de la lumière, parce que sa lumière se concentre vers l'avant et nous parvient décalée par l'effet Doppler ; la matière qui s'éloigne paraît, à l'inverse, affaiblie."
+        "term": "Blazar",
+        "def": "Noyau actif de galaxie dont l'un des jets est orienté presque exactement vers la Terre, ce qui le rend extrêmement brillant et très variable par amplification relativiste."
       },
       {
-        "term": "Contre-jet",
-        "def": "Celui des deux jets d'un trou noir qui s'éloigne de l'observateur, rendu peu visible, voire invisible, par l'amplification relativiste qui joue à son détriment."
+        "term": "Variabilité",
+        "def": "Changement de l'éclat d'un astre au cours du temps ; chez un blazar, il peut être très marqué en quelques heures ou quelques jours."
       }
     ],
-    "recap": "Deux jets semblables n'ont pas le même éclat apparent : celui qui vient vers nous est amplifié, celui qui s'éloigne est atténué, et l'écart renseigne sur leur vitesse et leur orientation.",
-    "next": "Demain — les blazars : quand un jet est pointé exactement vers la Terre."
+    "recap": "Un blazar n'est pas un objet à part : c'est un noyau actif ordinaire dont le jet est pointé sur nous, et l'angle de vue suffit à expliquer son éclat et ses sautes brutales.",
+    "next": "Demain — pourquoi la rapidité d'un sursaut lumineux trahit la petite taille de ce qui l'émet."
   }
 }

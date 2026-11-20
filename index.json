@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-19",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-11-20",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-11-20",
+      "slot": "matin",
+      "file": "editions/2026-11-20-matin.json",
+      "essentiel": "Rohingya : pour la première fois, la Cour internationale de justice juge qu'un État a commis un génocide et condamne la Birmanie",
+      "term": "Dol spécial (dolus specialis)",
+      "rubriques": [
+        "Titres-restaurant : le Sénat vote à l'unanimité, par 344 voix contre zéro, la pérennisation de leur usage pour l'achat de produits alimentaires",
+        "Travail dissimulé : des heures minorées sur le bulletin de paie s'apprécient à la date de sa remise, la régularisation tardive n'efface pas le délit (Cass. soc., 18 nov. 2026, FS-B)",
+        "Droits de l'enfant à l'ère numérique : le Défenseur des droits consacre son rapport annuel 2026 à la protection des mineurs en ligne",
+        "20 novembre 1945 : à Nuremberg, le Tribunal militaire international ouvre le procès des principaux dirigeants nazis",
+        "Défendeur non comparant : ce que le décret du 27 juillet 2026 change à l'article 472 du CPC et à « l'admission rapide des demandes incontestées »",
+        "Intempéries : quatre départements, des Landes au Pas-de-Calais, placés en vigilance orange pluies-inondations, avec des cumuls exceptionnels attendus"
+      ]
+    },
     {
       "date": "2026-11-19",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "5 novembre 1922 : Howard Carter découvre l'entrée du tombeau de Toutânkhamon",
         "Le Conseil constitutionnel tiendra une audience délocalisée de QPC au tribunal judiciaire de Bobigny le 24 novembre 2026",
         "Nuit de Guy Fawkes : le Royaume-Uni allume ses feux de joie, 421 ans après le complot des Poudres"
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "slot": "midi",
-      "file": "editions/2026-11-04-midi.json",
-      "essentiel": "Délais déraisonnables : le barreau de Bordeaux porte devant le tribunal, dès le 3 novembre 2026, les premières de 80 actions en responsabilité contre l'État",
-      "term": "Référé-rétractation",
-      "rubriques": [
-        "Crédit à la consommation : la réforme issue de la directive 2023/2225 s'appliquera à compter du 20 novembre 2026",
-        "Déchéance du terme en crédit à la consommation : la clause n'est pas illicite mais peut être abusive, et les juges du fond en tirent les conséquences en 2026",
-        "Réforme de l'ENM : le rapport de préfiguration rendu public le 3 novembre « ne refonde pas le modèle, il le recompose »",
-        "4 novembre 1956 : les chars soviétiques entrent dans Budapest et écrasent l'insurrection hongroise",
-        "Encadrement des loyers : le dispositif expérimental expire le 24 novembre 2026 et une prolongation de deux ans est évoquée",
-        "Les Taurides, pluie de météores de début novembre, sont attendues cette semaine"
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "slot": "matin",
-      "file": "editions/2026-11-04-matin.json",
-      "essentiel": "Fiscalité locale et libre administration : le Conseil constitutionnel statue, le 23 octobre 2026, sur la compensation de la réforme de la taxe professionnelle",
-      "term": "Délégation imparfaite",
-      "rubriques": [
-        "Nématode du pin : un décret du 2 novembre 2026 crée une aide pour les propriétaires de bois immobilisés",
-        "Chambre commerciale, 7 octobre 2026 : cinq arrêts sur la protection des tiers (cession, caution, dirigeant)",
-        "Dirigeants cautions : le 7 octobre 2026, la Cour de cassation a fermé deux portes de sortie",
-        "3 novembre 1957 : Spoutnik 2 place la chienne Laïka en orbite",
-        "Assignations : ce qu'il faut modifier depuis le 1er octobre 2026 sous peine de nullité",
-        "Cumul emploi-retraite : le durcissement entre en vigueur le 3 novembre 2026"
       ]
     }
   ]

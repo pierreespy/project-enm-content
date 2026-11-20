@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19",
-  "count": 80,
+  "updated": "2026-11-20",
+  "count": 81,
   "lessons": [
     {
       "n": 1,
@@ -693,6 +693,15 @@
       "terms": [
         "Amplification relativiste",
         "Contre-jet"
+      ]
+    },
+    {
+      "n": 81,
+      "file": "astro/lessons/081-les-blazars.json",
+      "title": "Les blazars : un jet pointé droit sur la Terre",
+      "terms": [
+        "Blazar",
+        "Variabilité"
       ]
     }
   ]
