@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Garde à vue des mineurs : le Conseil constitutionnel censure le silence de la loi sur l'information des parents en cas de prolongation",
+    "dek": "Saisi par la chambre criminelle d'une QPC soutenue par la Ligue des droits de l'homme, le Conseil constitutionnel relève, dans sa décision n° 2026-1233 QPC rendue ce vendredi 20 novembre, que si l'officier de police judiciaire doit aviser les représentants légaux du placement en garde à vue d'un mineur, ni l'article L. 413-10 du code de la justice pénale des mineurs ni aucune autre disposition législative ne l'obligent à les informer — non plus que la personne ou le service auquel l'enfant est confié — de la prolongation de la mesure. Cette incompétence négative méconnaît les droits de la défense et le principe fondamental reconnu par les lois de la République en matière de justice des mineurs. Le Conseil reporte l'abrogation dans le temps pour laisser au législateur le soin de combler la lacune.",
+    "source": "Cons. const., 20 nov. 2026, n° 2026-1233 QPC",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1233-qpc-du-20-novembre-2026-communique-de-presse"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Crédit à la consommation : depuis ce 20 novembre, le paiement en 3 ou 4 fois et le découvert de moins d'un mois entrent dans le champ du code de la consommation",
+      "summary": "Date d'application de l'ordonnance n° 2025-880 du 3 septembre 2025 transposant la directive (UE) 2023/2225, la réforme supprime les exclusions des crédits remboursables en moins de trois mois sans frais et des découverts inférieurs à 200 € ou à un mois, et soumet ces opérations — sous un régime partiellement allégé — à l'évaluation de solvabilité, à l'accord exprès et au droit de rétractation, les autorisations de découvert déjà consenties n'étant pas affectées.",
+      "source": "Ord. n° 2025-880 du 3 sept. 2025 · LSA, 20 nov. 2026 · Bercy, 23 oct. 2026",
+      "url": "https://www.lsa-conso.fr/metiers/paiement/des-ce-20-novembre-le-paiement-fractionne-est-reglemente-comme-un-credit-a-la-consommation.LWXUMQUJRRBZBE2IPGBHCWO6EI.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Contribution sur le chiffre d'affaires des laboratoires : le Conseil constitutionnel censure la validation rétroactive des montants versés de 2014 à 2024 (n° 2026-1234 QPC)",
+      "summary": "Saisi par Alexion Pharma France, rejointe par AbbVie et neuf autres entreprises, le Conseil juge que l'article 28 de la LFSS pour 2026, qui validait les sommes acquittées en neutralisant le contentieux ouvert sur la déduction des remises de l'assiette, n'est justifié par aucun motif impérieux d'intérêt général et porte atteinte à la garantie des droits de l'article 16 de la Déclaration de 1789.",
+      "source": "Cons. const., 20 nov. 2026, n° 2026-1234 QPC",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1234-qpc-du-20-novembre-2026-communique-de-presse",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Réseau social « gratuit » : pour l'avocate générale Laila Medina, la fourniture de données personnelles exploitées commercialement peut constituer un paiement",
+      "summary": "Dans des conclusions présentées le 19 novembre devant la CJUE, l'avocate générale propose de reconnaître que l'accès à un service en ligne conditionné à l'exploitation des données de l'utilisateur relève d'une contrepartie au sens du droit de la consommation — une analyse qui, si la Cour la suit, prolongerait la logique de la directive 2019/770 sur les contenus numériques et pèserait sur le débat « pay or consent ».",
+      "source": "CJUE, concl. L. Medina, 19 nov. 2026 · Juriguide, 20 nov. 2026",
+      "url": "https://www.juriguide.com/2026/11/20/facebook-gratuit-donnees-paiement-conclusions-cjue-medina-19-novembre-2026/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "20 novembre 1989 : l'Assemblée générale des Nations unies adopte, sans vote, la Convention relative aux droits de l'enfant",
+      "summary": "Adoptée par la résolution 44/25, trente ans jour pour jour après la Déclaration des droits de l'enfant de 1959, la convention de New York compte 54 articles, entre en vigueur le 2 septembre 1990 et devient le traité relatif aux droits de l'homme le plus ratifié au monde — la Cour de cassation lui reconnaissant depuis 2005 un effet direct pour plusieurs de ses stipulations, dont l'intérêt supérieur de l'enfant.",
+      "source": "UNICEF · Nations unies, rés. 44/25 du 20 nov. 1989",
+      "url": "https://www.unicef.org/fr/convention-droits-enfant/texte-convention",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Référé-liberté contre une interdiction de manifester : ce qu'enseigne la suspension par le TA de Paris de l'arrêté visant quinze lycées et sites universitaires",
+      "summary": "En suspendant le 17 novembre l'arrêté du préfet de police qui interdisait tout rassemblement non déclaré dans un rayon de 100 mètres autour des établissements jusqu'au 20 novembre, le juge des référés rappelle qu'une telle mesure ne peut être prise qu'en dernier recours : pour le praticien, l'argumentation se joue sur l'imprécision de la notion de « rassemblement », la généralité du périmètre et l'insuffisance de la justification tirée des seuls besoins en effectifs.",
+      "source": "TA Paris, réf., 17 nov. 2026 · Le Club des juristes",
+      "url": "https://bayouavocat.fr/refere-liberte-paris-interdiction-rassemblements-lycees-suspendue/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Jeux vidéo : sorti jeudi sur PS5 et Xbox Series, GTA VI arrive en tête des précommandes de l'histoire du secteur",
+      "summary": "Le titre de Rockstar Games, attendu depuis plus de dix ans et lancé le 19 novembre au prix standard de 79,99 €, totalisait selon Sensor Tower près de 9,7 millions de précommandes numériques, les analystes tablant sur plusieurs milliards de dollars de recettes dès la première semaine — aucune version PC n'étant encore annoncée.",
+      "source": "Tech Insider · Sensor Tower, nov. 2026",
+      "url": "https://tech-insider.org/fr/gta-6-date-de-sortie-19-novembre-2026/",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Validation législative",
+    "subtitle": "Droit constitutionnel et contentieux public · Article 16 de la Déclaration de 1789",
+    "defShort": "Intervention du législateur qui, pour neutraliser un contentieux né ou à naître, déclare valides des actes ou des impositions exposés à l'annulation ou à la restitution, en privant d'effet le vice qui les affecte.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "La validation n'est pas une simple loi rétroactive : elle vise des actes déterminés — décisions administratives, délibérations de jury, impositions déjà perçues — et a pour objet de les soustraire à la censure du juge en purgeant le vice dont ils sont entachés. Elle intervient typiquement après une décision de justice défavorable à l'administration ou lorsqu'un contentieux de masse menace les finances publiques."
+      },
+      {
+        "h": "Fondement",
+        "body": "Le Conseil constitutionnel l'admet sous conditions cumulatives, fixées depuis la décision n° 80-119 DC du 22 juillet 1980 et resserrées par la décision n° 2013-366 QPC du 14 février 2014 : poursuivre un motif impérieux d'intérêt général (et non un simple intérêt financier), respecter les décisions de justice passées en force de chose jugée et le principe de non-rétroactivité des sanctions, ne pas valider un acte contraire à une règle constitutionnelle (sauf si le motif impérieux est lui-même constitutionnel), et définir strictement la portée de la validation. Le contrôle se rattache à la garantie des droits de l'article 16 de la Déclaration."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Validations de concours administratifs après annulation d'un jury, d'opérations d'urbanisme, de prêts bancaires à TEG irrégulier, et surtout d'impositions : c'est le terrain de la décision n° 2026-1234 QPC du 20 novembre 2026, qui censure la validation des contributions pharmaceutiques versées de 2014 à 2024 faute de motif impérieux. La Cour européenne des droits de l'homme exerce un contrôle parallèle, et souvent plus exigeant, sur le fondement du droit au procès équitable (CEDH, Zielinski et Pradal c. France, 28 oct. 1999)."
+      },
+      {
+        "h": "Portée",
+        "body": "Le juge ne peut écarter une loi de validation déclarée conforme à la Constitution, mais il peut l'écarter comme contraire à l'article 6 § 1 de la Convention européenne dans le cadre du contrôle de conventionnalité — d'où une double vulnérabilité. Le simple enjeu budgétaire, même important, ne suffit plus : le motif doit tenir à la continuité du service public, à la sécurité juridique d'un ensemble de situations ou à l'objectif de valeur constitutionnelle de lutte contre la fraude."
+      }
+    ],
+    "seeAlso": "Voir aussi — loi interprétative · motif impérieux d'intérêt général · garantie des droits (art. 16 DDHC) · rétroactivité in mitius · abrogation différée (art. 62, al. 2, Constitution)"
+  },
+  "date": "2026-11-20",
+  "dateShort": "20 nov.",
+  "slot": "midi"
+}

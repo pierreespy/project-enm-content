@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-20",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-11-20",
+      "slot": "midi",
+      "file": "editions/2026-11-20-midi.json",
+      "essentiel": "Garde à vue des mineurs : le Conseil constitutionnel censure le silence de la loi sur l'information des parents en cas de prolongation",
+      "term": "Validation législative",
+      "rubriques": [
+        "Crédit à la consommation : depuis ce 20 novembre, le paiement en 3 ou 4 fois et le découvert de moins d'un mois entrent dans le champ du code de la consommation",
+        "Contribution sur le chiffre d'affaires des laboratoires : le Conseil constitutionnel censure la validation rétroactive des montants versés de 2014 à 2024 (n° 2026-1234 QPC)",
+        "Réseau social « gratuit » : pour l'avocate générale Laila Medina, la fourniture de données personnelles exploitées commercialement peut constituer un paiement",
+        "20 novembre 1989 : l'Assemblée générale des Nations unies adopte, sans vote, la Convention relative aux droits de l'enfant",
+        "Référé-liberté contre une interdiction de manifester : ce qu'enseigne la suspension par le TA de Paris de l'arrêté visant quinze lycées et sites universitaires",
+        "Jeux vidéo : sorti jeudi sur PS5 et Xbox Series, GTA VI arrive en tête des précommandes de l'histoire du secteur"
+      ]
+    },
     {
       "date": "2026-11-20",
       "slot": "matin",
