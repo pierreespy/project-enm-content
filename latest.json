@@ -1,125 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Garde à vue des mineurs : le Conseil constitutionnel censure le silence de la loi sur l'information des parents en cas de prolongation",
-    "dek": "Saisi par la chambre criminelle d'une QPC soutenue par la Ligue des droits de l'homme, le Conseil constitutionnel relève, dans sa décision n° 2026-1233 QPC rendue ce vendredi 20 novembre, que si l'officier de police judiciaire doit aviser les représentants légaux du placement en garde à vue d'un mineur, ni l'article L. 413-10 du code de la justice pénale des mineurs ni aucune autre disposition législative ne l'obligent à les informer — non plus que la personne ou le service auquel l'enfant est confié — de la prolongation de la mesure. Cette incompétence négative méconnaît les droits de la défense et le principe fondamental reconnu par les lois de la République en matière de justice des mineurs. Le Conseil reporte l'abrogation dans le temps pour laisser au législateur le soin de combler la lacune.",
-    "source": "Cons. const., 20 nov. 2026, n° 2026-1233 QPC",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1233-qpc-du-20-novembre-2026-communique-de-presse"
+    "title": "Présidentielle 2027 : l'Arcom étend pour la première fois les règles de pluralisme politique aux grands créateurs de contenus",
+    "dek": "Annoncé le 19 novembre par son président Martin Ajdari, le dispositif soumettra les créateurs de contenus les plus suivis — dont les interviews politiques diffusées en ligne échappaient jusqu'ici aux obligations des chaînes de télévision — à des règles de pluralisme calquées sur celles de l'audiovisuel, avec une période d'équité entre le 16 mars et le 4 avril 2027, avant les deux tours fixés aux 18 avril et 2 mai. Le périmètre sera apprécié au cas par cas selon trois critères — le contenu, l'impact et la régularité — et le régulateur prévient que des sanctions sont possibles. Reste à savoir sur quelle base légale exacte l'autorité, compétente pour les services de médias audiovisuels, pourra contraindre des acteurs qui n'en relèvent pas tous.",
+    "source": "Arcom, annonce du 19 nov. 2026 · France 24, 19 nov. 2026",
+    "url": "https://www.france24.com/fr/france/20261119-pr%C3%A9sidentielle-cr%C3%A9ateurs-contenus-somm%C3%A9s-respecter-pluralisme-arcom"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Crédit à la consommation : depuis ce 20 novembre, le paiement en 3 ou 4 fois et le découvert de moins d'un mois entrent dans le champ du code de la consommation",
-      "summary": "Date d'application de l'ordonnance n° 2025-880 du 3 septembre 2025 transposant la directive (UE) 2023/2225, la réforme supprime les exclusions des crédits remboursables en moins de trois mois sans frais et des découverts inférieurs à 200 € ou à un mois, et soumet ces opérations — sous un régime partiellement allégé — à l'évaluation de solvabilité, à l'accord exprès et au droit de rétractation, les autorisations de découvert déjà consenties n'étant pas affectées.",
-      "source": "Ord. n° 2025-880 du 3 sept. 2025 · LSA, 20 nov. 2026 · Bercy, 23 oct. 2026",
-      "url": "https://www.lsa-conso.fr/metiers/paiement/des-ce-20-novembre-le-paiement-fractionne-est-reglemente-comme-un-credit-a-la-consommation.LWXUMQUJRRBZBE2IPGBHCWO6EI.html",
+      "title": "Commerces dégradés en marge des manifestations : le décret n° 2026-1064 du 19 novembre crée une aide de 1 000 à 10 000 euros pour les entreprises de moins de 50 salariés",
+      "summary": "Publié au Journal officiel du 20 novembre, le texte ouvre une subvention aux petites entreprises sinistrées lors des troubles urbains survenus entre le 17 octobre et le 19 novembre 2026, sous condition d'une perte d'au moins 25 % du chiffre d'affaires, la demande devant être déposée en ligne avant le 31 décembre et instruite par une commission présidée par le préfet de région.",
+      "source": "Décret n° 2026-1064 du 19 nov. 2026, JORF n° 271 du 20 nov. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055111490",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Contribution sur le chiffre d'affaires des laboratoires : le Conseil constitutionnel censure la validation rétroactive des montants versés de 2014 à 2024 (n° 2026-1234 QPC)",
-      "summary": "Saisi par Alexion Pharma France, rejointe par AbbVie et neuf autres entreprises, le Conseil juge que l'article 28 de la LFSS pour 2026, qui validait les sommes acquittées en neutralisant le contentieux ouvert sur la déduction des remises de l'assiette, n'est justifié par aucun motif impérieux d'intérêt général et porte atteinte à la garantie des droits de l'article 16 de la Déclaration de 1789.",
-      "source": "Cons. const., 20 nov. 2026, n° 2026-1234 QPC",
-      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1234-qpc-du-20-novembre-2026-communique-de-presse",
+      "title": "Vices cachés : l'assureur de responsabilité du vendeur n'a pas à rembourser le prix, la restitution n'étant pas un dommage (Cass. com., 18 nov. 2026)",
+      "summary": "La chambre commerciale distingue nettement la restitution du prix, conséquence de l'anéantissement de la vente qui pèse sur le seul vendeur, de l'indemnisation des préjudices, seule couverte par la police, et laisse au vendeur qui connaissait le vice la charge des frais de reprise du bien, l'affaire étant renvoyée devant la cour d'appel de Grenoble.",
+      "source": "Cass. com., 18 nov. 2026 · Juriguide, 19 nov. 2026",
+      "url": "https://www.juriguide.com/2026/11/19/vices-caches-assureur-restitution-prix-cassation-18-novembre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Réseau social « gratuit » : pour l'avocate générale Laila Medina, la fourniture de données personnelles exploitées commercialement peut constituer un paiement",
-      "summary": "Dans des conclusions présentées le 19 novembre devant la CJUE, l'avocate générale propose de reconnaître que l'accès à un service en ligne conditionné à l'exploitation des données de l'utilisateur relève d'une contrepartie au sens du droit de la consommation — une analyse qui, si la Cour la suit, prolongerait la logique de la directive 2019/770 sur les contenus numériques et pèserait sur le débat « pay or consent ».",
-      "source": "CJUE, concl. L. Medina, 19 nov. 2026 · Juriguide, 20 nov. 2026",
-      "url": "https://www.juriguide.com/2026/11/20/facebook-gratuit-donnees-paiement-conclusions-cjue-medina-19-novembre-2026/",
+      "title": "Loi « intégrale » contre les violences sexistes et sexuelles : la CNCDH soutient l'ambition du texte mais demande de le compléter et d'en garantir le financement",
+      "summary": "Dans un avis présenté le 17 novembre sur la proposition de loi adoptée en première lecture par l'Assemblée nationale le 13 octobre, la Commission nationale consultative des droits de l'homme salue une approche globale — prévention, accompagnement, répression — tout en jugeant son effectivité suspendue à des moyens budgétaires que le texte ne garantit pas.",
+      "source": "CNCDH, avis du 17 nov. 2026 · Lexis Veille",
+      "url": "https://www.lexisveille.fr/violences-sexuelles-et-sexistes-la-cncdh-appelle-completer-la-proposition-de-loi-et-garantir-son",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "20 novembre 1989 : l'Assemblée générale des Nations unies adopte, sans vote, la Convention relative aux droits de l'enfant",
-      "summary": "Adoptée par la résolution 44/25, trente ans jour pour jour après la Déclaration des droits de l'enfant de 1959, la convention de New York compte 54 articles, entre en vigueur le 2 septembre 1990 et devient le traité relatif aux droits de l'homme le plus ratifié au monde — la Cour de cassation lui reconnaissant depuis 2005 un effet direct pour plusieurs de ses stipulations, dont l'intérêt supérieur de l'enfant.",
-      "source": "UNICEF · Nations unies, rés. 44/25 du 20 nov. 1989",
-      "url": "https://www.unicef.org/fr/convention-droits-enfant/texte-convention",
+      "title": "21 novembre 1995 : à Dayton (Ohio), les présidents bosnien, croate et serbe paraphent l'accord-cadre qui met fin à la guerre de Bosnie-Herzégovine",
+      "summary": "Négocié pendant trois semaines sur la base aérienne de Wright-Patterson puis signé à Paris le 14 décembre, l'accord comporte en son annexe 4 la Constitution de l'État bosnien — un rare exemple de loi fondamentale née d'un traité international — et une annexe 6 instituant une Chambre des droits de l'homme mixte, nationale et internationale.",
+      "source": "Accord-cadre général pour la paix en Bosnie-Herzégovine, 21 nov. / 14 déc. 1995",
+      "url": "https://fr.wikipedia.org/wiki/Accords_de_Dayton",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Référé-liberté contre une interdiction de manifester : ce qu'enseigne la suspension par le TA de Paris de l'arrêté visant quinze lycées et sites universitaires",
-      "summary": "En suspendant le 17 novembre l'arrêté du préfet de police qui interdisait tout rassemblement non déclaré dans un rayon de 100 mètres autour des établissements jusqu'au 20 novembre, le juge des référés rappelle qu'une telle mesure ne peut être prise qu'en dernier recours : pour le praticien, l'argumentation se joue sur l'imprécision de la notion de « rassemblement », la généralité du périmètre et l'insuffisance de la justification tirée des seuls besoins en effectifs.",
-      "source": "TA Paris, réf., 17 nov. 2026 · Le Club des juristes",
-      "url": "https://bayouavocat.fr/refere-liberte-paris-interdiction-rassemblements-lycees-suspendue/",
+      "title": "Remboursement anticipé d'un crédit à la consommation : la CJUE admet que le droit national limite la réduction aux seuls frais qui dépendent de la durée du contrat (Fincontinuo, 19 nov. 2026)",
+      "summary": "Saisie par un juge de Palerme (aff. jointes C-239/25 et C-355/25), la Cour juge compatible avec la directive une règle nationale qui ne fait baisser, au prorata, que les coûts liés à la durée restant à courir, ce qui invite les praticiens à ventiler précisément, dans les offres et les contentieux, frais récurrents et frais initiaux.",
+      "source": "CJUE, 19 nov. 2026, Fincontinuo, C-239/25 et C-355/25 · Juriguide, 20 nov. 2026",
+      "url": "https://www.juriguide.com/2026/11/20/cjue-credit-remboursement-anticipe-frais-fincontinuo-19-novembre-2026/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Jeux vidéo : sorti jeudi sur PS5 et Xbox Series, GTA VI arrive en tête des précommandes de l'histoire du secteur",
-      "summary": "Le titre de Rockstar Games, attendu depuis plus de dix ans et lancé le 19 novembre au prix standard de 79,99 €, totalisait selon Sensor Tower près de 9,7 millions de précommandes numériques, les analystes tablant sur plusieurs milliards de dollars de recettes dès la première semaine — aucune version PC n'étant encore annoncée.",
-      "source": "Tech Insider · Sensor Tower, nov. 2026",
-      "url": "https://tech-insider.org/fr/gta-6-date-de-sortie-19-novembre-2026/",
+      "title": "Slovaquie : pour l'anniversaire de la Révolution de velours, des milliers de manifestants dénoncent la politique prorusse de Robert Fico",
+      "summary": "Réunis le 17 novembre à Bratislava et dans plusieurs villes à l'appel du parti d'opposition Slovaquie progressiste, les manifestants ont protesté contre la reprise en main des médias et de la culture, les restrictions visant les personnes LGBTQ+ et la proximité du Premier ministre avec Moscou, à un an des législatives.",
+      "source": "Euronews, 18 nov. 2026",
+      "url": "https://fr.euronews.com/2026/11/18/des-milliers-de-slovaques-manifestent-contre-le-premier-ministre-pro-russe-fico",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Validation législative",
-    "subtitle": "Droit constitutionnel et contentieux public · Article 16 de la Déclaration de 1789",
-    "defShort": "Intervention du législateur qui, pour neutraliser un contentieux né ou à naître, déclare valides des actes ou des impositions exposés à l'annulation ou à la restitution, en privant d'effet le vice qui les affecte.",
+    "term": "Action estimatoire",
+    "subtitle": "Droit civil des contrats spéciaux · Art. 1644 du Code civil",
+    "defShort": "Option ouverte à l'acheteur d'une chose atteinte d'un vice caché qui, plutôt que de rendre la chose et se faire restituer le prix (action rédhibitoire), choisit de la garder et de se faire rendre une partie du prix, arbitrée par experts.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "La validation n'est pas une simple loi rétroactive : elle vise des actes déterminés — décisions administratives, délibérations de jury, impositions déjà perçues — et a pour objet de les soustraire à la censure du juge en purgeant le vice dont ils sont entachés. Elle intervient typiquement après une décision de justice défavorable à l'administration ou lorsqu'un contentieux de masse menace les finances publiques."
+        "body": "L'article 1644 du Code civil laisse à l'acheteur un choix discrétionnaire entre deux actions : la rédhibitoire, qui anéantit la vente et entraîne des restitutions réciproques, et l'estimatoire, qui maintient la vente mais en réduit le prix à proportion de la moins-value causée par le vice. Ce n'est pas une indemnisation : la somme rendue est une fraction du prix, non la réparation d'un dommage, ce qui explique qu'elle échappe en principe à l'assurance de responsabilité du vendeur."
       },
       {
         "h": "Fondement",
-        "body": "Le Conseil constitutionnel l'admet sous conditions cumulatives, fixées depuis la décision n° 80-119 DC du 22 juillet 1980 et resserrées par la décision n° 2013-366 QPC du 14 février 2014 : poursuivre un motif impérieux d'intérêt général (et non un simple intérêt financier), respecter les décisions de justice passées en force de chose jugée et le principe de non-rétroactivité des sanctions, ne pas valider un acte contraire à une règle constitutionnelle (sauf si le motif impérieux est lui-même constitutionnel), et définir strictement la portée de la validation. Le contrôle se rattache à la garantie des droits de l'article 16 de la Déclaration."
+        "body": "Le texte précise que la part du prix restituée est « arbitrée par experts ». La jurisprudence en déduit que le juge doit évaluer la réduction par référence à la diminution de valeur de la chose, sans pouvoir y substituer forfaitairement le coût des réparations, même si celui-ci en constitue souvent un indice. L'action doit être exercée dans les deux ans de la découverte du vice (art. 1648), délai qui court lui-même à l'intérieur du délai butoir de droit commun."
       },
       {
         "h": "Cas visés",
-        "body": "Validations de concours administratifs après annulation d'un jury, d'opérations d'urbanisme, de prêts bancaires à TEG irrégulier, et surtout d'impositions : c'est le terrain de la décision n° 2026-1234 QPC du 20 novembre 2026, qui censure la validation des contributions pharmaceutiques versées de 2014 à 2024 faute de motif impérieux. La Cour européenne des droits de l'homme exerce un contrôle parallèle, et souvent plus exigeant, sur le fondement du droit au procès équitable (CEDH, Zielinski et Pradal c. France, 28 oct. 1999)."
+        "body": "L'acheteur n'a pas à justifier son choix : la Cour de cassation juge de longue date que le juge ne peut lui imposer l'une ou l'autre voie, même si le vice est mineur ou aisément réparable. Le choix n'est pas irrévocable tant qu'il n'a pas été accepté par le vendeur ou consacré par une décision passée en force de chose jugée. L'estimatoire se cumule avec des dommages et intérêts lorsque le vendeur connaissait le vice (art. 1645), présumé pour le vendeur professionnel."
       },
       {
         "h": "Portée",
-        "body": "Le juge ne peut écarter une loi de validation déclarée conforme à la Constitution, mais il peut l'écarter comme contraire à l'article 6 § 1 de la Convention européenne dans le cadre du contrôle de conventionnalité — d'où une double vulnérabilité. Le simple enjeu budgétaire, même important, ne suffit plus : le motif doit tenir à la continuité du service public, à la sécurité juridique d'un ensemble de situations ou à l'objectif de valeur constitutionnelle de lutte contre la fraude."
+        "body": "L'action estimatoire est l'instrument naturel lorsque la chose reste utilisable ou que sa restitution est devenue impossible ou absurde — bien transformé, revendu, intégré à un ensemble. Elle oblige le praticien à distinguer avec rigueur trois postes que les écritures confondent souvent : la réduction du prix (estimatoire), la restitution intégrale (rédhibitoire) et la réparation des préjudices consécutifs (art. 1645 et 1646), chacun obéissant à son propre régime de preuve, de débiteur et d'assurance."
       }
     ],
-    "seeAlso": "Voir aussi — loi interprétative · motif impérieux d'intérêt général · garantie des droits (art. 16 DDHC) · rétroactivité in mitius · abrogation différée (art. 62, al. 2, Constitution)"
+    "seeAlso": "Voir aussi — action rédhibitoire (art. 1644) · action quanti minoris (droit romain) · bref délai de l'art. 1648 · réduction du prix (art. 1223)"
   },
-  "date": "2026-11-20",
-  "dateShort": "20 nov.",
-  "slot": "midi",
+  "date": "2026-11-21",
+  "dateShort": "21 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 81,
-    "title": "Les blazars : un jet pointé droit sur la Terre",
-    "subtitle": "Quand l'orientation d'un jet, et non sa puissance, fait d'une galaxie l'un des objets les plus brillants du ciel",
+    "n": 82,
+    "title": "Un sursaut rapide trahit une petite source",
+    "subtitle": "Comment la durée d'une variation d'éclat fixe une limite à la taille de ce qui l'émet",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Un cas limite d'orientation",
-        "body": "La veille, on a vu que l'éclat d'un jet dépend de l'angle sous lequel on le regarde : celui qui vient vers nous est amplifié, le contre-jet atténué (jour 80). Poussons le raisonnement à son terme. Parmi les millions de noyaux actifs de galaxie (jour 77), quelques-uns ont, par pur hasard, un jet orienté presque exactement dans notre direction, à quelques degrés près. On les appelle des blazars. Rien ne les distingue physiquement des autres : c'est la position de la Terre, et elle seule, qui les rend singuliers."
+        "h": "Le problème des retards",
+        "body": "La veille, on a vu que l'éclat d'un blazar peut varier en quelques heures (jour 81). Ce simple fait livre une information précieuse : la taille de la région qui brille. Imaginons une source grande comme une ville, qui s'allumerait d'un coup sur toute sa surface. La lumière émise par le bord le plus proche de nous arrive la première ; celle du bord opposé, plus éloigné, arrive plus tard, avec le retard qu'il lui faut pour traverser la source (jour 5). Vu de la Terre, l'allumage instantané s'étale donc dans le temps."
       },
       {
-        "h": "Ce que l'on voit alors",
-        "body": "Regarder un jet dans l'axe, c'est un peu comme regarder un phare en face plutôt que de profil. L'amplification relativiste joue à plein : la lumière du jet écrase celle de tout le reste, disque d'accrétion (jour 75) et étoiles de la galaxie compris. Le blazar apparaît comme un point très brillant, dont la galaxie hôte est souvent indiscernable. Son éclat varie aussi de façon spectaculaire, parfois en quelques heures : chaque sursaut du jet, déjà rapide, nous parvient encore accéléré et renforcé. Ces variations brusques sont la signature la plus sûre d'un blazar."
+        "h": "La règle qui en découle",
+        "body": "Il en résulte une règle simple : une source ne peut pas paraître changer d'éclat plus vite que le temps mis par la lumière pour la traverser. Si une variation dure une journée, la région qui l'émet ne mesure pas plus d'environ un jour-lumière, soit environ 175 fois la distance de la Terre au Soleil (jour 7). Le raisonnement ne suppose rien sur la nature de l'objet : il ne repose que sur la vitesse finie de la lumière. On parle d'argument de causalité, parce qu'aucune partie de la source ne peut être informée du changement d'une autre partie plus vite que la lumière."
       },
       {
-        "h": "Un même objet sous plusieurs noms",
-        "body": "Pendant des décennies, les astronomes ont classé dans des catégories distinctes des objets qui n'en forment en réalité qu'une seule : vu de profil, un noyau actif montre ses deux jets et ses lobes radio (jour 78) ; vu de trois quarts, il prend l'allure d'un quasar (jour 75) ; vu dans l'axe, c'est un blazar. Comprendre que la diversité des apparences tient d'abord à l'angle de vue a été l'une des grandes simplifications de l'astrophysique de la fin du XXe siècle."
+        "h": "Ce que cela révèle",
+        "body": "Appliqué aux quasars et aux blazars, l'argument est saisissant : une puissance supérieure à celle de toutes les étoiles d'une galaxie sort d'une région à peine plus grande que notre système solaire. Seul un trou noir supermassif entouré de son disque d'accrétion (jour 75) peut concentrer autant d'énergie dans un si petit volume. Une réserve, toutefois : dans un jet dirigé vers nous, l'amplification relativiste (jour 80) accélère aussi les variations apparentes, si bien que la règle doit alors être corrigée."
       }
     ],
     "keyTerms": [
       {
-        "term": "Blazar",
-        "def": "Noyau actif de galaxie dont l'un des jets est orienté presque exactement vers la Terre, ce qui le rend extrêmement brillant et très variable par amplification relativiste."
+        "term": "Argument de causalité",
+        "def": "Raisonnement selon lequel une source ne peut pas varier en éclat plus vite que le temps mis par la lumière pour la traverser, ce qui fixe une limite supérieure à sa taille."
       },
       {
-        "term": "Variabilité",
-        "def": "Changement de l'éclat d'un astre au cours du temps ; chez un blazar, il peut être très marqué en quelques heures ou quelques jours."
+        "term": "Jour-lumière",
+        "def": "Distance parcourue par la lumière en un jour, soit environ 26 milliards de kilomètres, ou près de 175 fois la distance de la Terre au Soleil."
       }
     ],
-    "recap": "Un blazar n'est pas un objet à part : c'est un noyau actif ordinaire dont le jet est pointé sur nous, et l'angle de vue suffit à expliquer son éclat et ses sautes brutales.",
-    "next": "Demain — pourquoi la rapidité d'un sursaut lumineux trahit la petite taille de ce qui l'émet."
+    "recap": "Plus un astre change d'éclat vite, plus la région qui émet cette lumière est petite : la durée d'un sursaut donne la taille maximale de sa source.",
+    "next": "Demain — comment une région aussi petite peut produire autant d'énergie : le rendement de la chute de matière vers un trou noir."
   }
 }

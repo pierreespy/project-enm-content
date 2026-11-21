@@ -1,0 +1,32 @@
+{
+  "n": 82,
+  "title": "Un sursaut rapide trahit une petite source",
+  "subtitle": "Comment la durée d'une variation d'éclat fixe une limite à la taille de ce qui l'émet",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Le problème des retards",
+      "body": "La veille, on a vu que l'éclat d'un blazar peut varier en quelques heures (jour 81). Ce simple fait livre une information précieuse : la taille de la région qui brille. Imaginons une source grande comme une ville, qui s'allumerait d'un coup sur toute sa surface. La lumière émise par le bord le plus proche de nous arrive la première ; celle du bord opposé, plus éloigné, arrive plus tard, avec le retard qu'il lui faut pour traverser la source (jour 5). Vu de la Terre, l'allumage instantané s'étale donc dans le temps."
+    },
+    {
+      "h": "La règle qui en découle",
+      "body": "Il en résulte une règle simple : une source ne peut pas paraître changer d'éclat plus vite que le temps mis par la lumière pour la traverser. Si une variation dure une journée, la région qui l'émet ne mesure pas plus d'environ un jour-lumière, soit environ 175 fois la distance de la Terre au Soleil (jour 7). Le raisonnement ne suppose rien sur la nature de l'objet : il ne repose que sur la vitesse finie de la lumière. On parle d'argument de causalité, parce qu'aucune partie de la source ne peut être informée du changement d'une autre partie plus vite que la lumière."
+    },
+    {
+      "h": "Ce que cela révèle",
+      "body": "Appliqué aux quasars et aux blazars, l'argument est saisissant : une puissance supérieure à celle de toutes les étoiles d'une galaxie sort d'une région à peine plus grande que notre système solaire. Seul un trou noir supermassif entouré de son disque d'accrétion (jour 75) peut concentrer autant d'énergie dans un si petit volume. Une réserve, toutefois : dans un jet dirigé vers nous, l'amplification relativiste (jour 80) accélère aussi les variations apparentes, si bien que la règle doit alors être corrigée."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Argument de causalité",
+      "def": "Raisonnement selon lequel une source ne peut pas varier en éclat plus vite que le temps mis par la lumière pour la traverser, ce qui fixe une limite supérieure à sa taille."
+    },
+    {
+      "term": "Jour-lumière",
+      "def": "Distance parcourue par la lumière en un jour, soit environ 26 milliards de kilomètres, ou près de 175 fois la distance de la Terre au Soleil."
+    }
+  ],
+  "recap": "Plus un astre change d'éclat vite, plus la région qui émet cette lumière est petite : la durée d'un sursaut donne la taille maximale de sa source.",
+  "next": "Demain — comment une région aussi petite peut produire autant d'énergie : le rendement de la chute de matière vers un trou noir."
+}

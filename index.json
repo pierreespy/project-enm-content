@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-20",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-11-21",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-11-21",
+      "slot": "matin",
+      "file": "editions/2026-11-21-matin.json",
+      "essentiel": "Présidentielle 2027 : l'Arcom étend pour la première fois les règles de pluralisme politique aux grands créateurs de contenus",
+      "term": "Action estimatoire",
+      "rubriques": [
+        "Commerces dégradés en marge des manifestations : le décret n° 2026-1064 du 19 novembre crée une aide de 1 000 à 10 000 euros pour les entreprises de moins de 50 salariés",
+        "Vices cachés : l'assureur de responsabilité du vendeur n'a pas à rembourser le prix, la restitution n'étant pas un dommage (Cass. com., 18 nov. 2026)",
+        "Loi « intégrale » contre les violences sexistes et sexuelles : la CNCDH soutient l'ambition du texte mais demande de le compléter et d'en garantir le financement",
+        "21 novembre 1995 : à Dayton (Ohio), les présidents bosnien, croate et serbe paraphent l'accord-cadre qui met fin à la guerre de Bosnie-Herzégovine",
+        "Remboursement anticipé d'un crédit à la consommation : la CJUE admet que le droit national limite la réduction aux seuls frais qui dépendent de la durée du contrat (Fincontinuo, 19 nov. 2026)",
+        "Slovaquie : pour l'anniversaire de la Révolution de velours, des milliers de manifestants dénoncent la politique prorusse de Robert Fico"
+      ]
+    },
     {
       "date": "2026-11-20",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "6 novembre 1975 : la « Marche verte » conduit 200 000 Marocains vers le Sahara espagnol",
         "Baux commerciaux en 2026 : évolutions et décisions à repérer, webinaire du 12 novembre à 10 h",
         "Vigilance météorologique : des cartes plus fines, mises à jour à 6 h et 16 h, pour une semaine de début novembre fraîche"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "slot": "midi",
-      "file": "editions/2026-11-05-midi.json",
-      "essentiel": "Justice criminelle : la loi du 23 juillet 2026 et l'extension des cours criminelles départementales au cœur du débat",
-      "term": "Purge des nullités",
-      "rubriques": [
-        "Réécriture du code de procédure pénale : le projet de loi de ratification est déposé au Sénat",
-        "Motivation de la peine correctionnelle : la gravité des faits ne suffit pas",
-        "Cours criminelles départementales : l'extension, « leurre » derrière le plaider-coupable criminel ?",
-        "6 novembre 1860 : Abraham Lincoln est élu président des États-Unis",
-        "Cours d'assises et cours criminelles départementales : le statut de ces juridictions précisé en cassation",
-        "Météo : une nouvelle carte de vigilance depuis le 1er septembre 2026"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "slot": "matin",
-      "file": "editions/2026-11-05-matin.json",
-      "essentiel": "Élections sénatoriales de septembre 2026 : onze recours sont pendants devant le Conseil constitutionnel, juge de l'élection",
-      "term": "Moyen mélangé de fait et de droit",
-      "rubriques": [
-        "Loi de finances pour 2026 : le Conseil constitutionnel en valide l'essentiel avant sa publication au JO du 20 février 2026",
-        "Licenciement pour désorganisation liée aux absences maladie : l'insuffisance de preuve du motif ne caractérise pas à elle seule une discrimination",
-        "QPC : irrecevabilité d'une saisine directe du Conseil constitutionnel",
-        "5 novembre 1922 : Howard Carter découvre l'entrée du tombeau de Toutânkhamon",
-        "Le Conseil constitutionnel tiendra une audience délocalisée de QPC au tribunal judiciaire de Bobigny le 24 novembre 2026",
-        "Nuit de Guy Fawkes : le Royaume-Uni allume ses feux de joie, 421 ans après le complot des Poudres"
       ]
     }
   ]

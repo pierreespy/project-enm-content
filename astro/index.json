@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20",
-  "count": 81,
+  "updated": "2026-11-21",
+  "count": 82,
   "lessons": [
     {
       "n": 1,
@@ -702,6 +702,15 @@
       "terms": [
         "Blazar",
         "Variabilité"
+      ]
+    },
+    {
+      "n": 82,
+      "file": "astro/lessons/082-la-rapidite-d-un-sursaut-trahit-la-taille.json",
+      "title": "Un sursaut rapide trahit une petite source",
+      "terms": [
+        "Argument de causalité",
+        "Jour-lumière"
       ]
     }
   ]
