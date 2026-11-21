@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-21",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-11-21",
+      "slot": "midi",
+      "file": "editions/2026-11-21-midi.json",
+      "essentiel": "Affaire Michel Zecler : la cour criminelle de Paris retient le caractère raciste des violences et condamne les trois policiers à des peines d'un à deux ans ferme",
+      "term": "Correctionnalisation judiciaire",
+      "rubriques": [
+        "OGC Nice – PSG ce samedi : l'arrêté ministériel du 17 novembre interdit tout déplacement des supporters parisiens entre l'Île-de-France et Nice",
+        "Éoliennes et espèces protégées : le juge doit apprécier le risque au vu de l'intégralité des mesures de bridage proposées (CE, 17 nov. 2026, n° 499819)",
+        "« Actualité du droit de la famille 2026 » : la Revue AJ Famille a réuni ce vendredi à Paris son colloque annuel",
+        "21 novembre 1806 : à Berlin, Napoléon signe le décret qui déclare les îles Britanniques « en état de blocus »",
+        "Soignants suspendus faute de vaccination : quelles voies d'indemnisation après l'arrêt de la CEDH du 19 novembre ?",
+        "Ukraine : après des frappes russes qui ont endommagé deux ambassades européennes à Kiev, Paris demande une réunion du Conseil de sécurité"
+      ]
+    },
     {
       "date": "2026-11-21",
       "slot": "matin",
