@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Soupçons de fuites vers le RN : le préfet du Loiret Hugues Moutouh demande à être relevé de ses fonctions, au cœur d'une information judiciaire pour violation du secret de l'enquête",
+    "dek": "Convoqué vendredi place Beauvau par le ministre de l'Intérieur Laurent Nuñez, le préfet de la région Centre-Val de Loire, ancien secrétaire général du ministère, a demandé samedi à quitter ses fonctions en dénonçant une « campagne de déstabilisation ». Il est mis en cause dans l'information judiciaire ouverte le 27 juillet par le parquet de Paris pour violation du secret professionnel et du secret de l'enquête et recel, après la découverte d'un document confidentiel du ministère ; sa demande ne vaut pas cessation de fonctions, la décision relevant d'un décret du président de la République délibéré en conseil des ministres.",
+    "source": "franceinfo / AFP · 21-22 nov. 2026",
+    "url": "https://www.franceinfo.fr/politique/front-national/soupconne-de-fuites-vers-le-rn-le-prefet-du-loiret-hugues-moutouh-demande-a-etre-demis-de-ses-fonctions_8294663.html"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Entrée en vigueur « dès publication » : le décret n° 2026-1068 du 20 novembre 2026 rend immédiatement applicable l'interdiction de déplacement des supporters lyonnais à Lille",
+      "summary": "Publié au Journal officiel du 21 novembre pour un match joué le soir même, ce décret d'une ligne illustre le mécanisme de l'article 1er, alinéa 2, du code civil, qui permet au Gouvernement, en cas d'urgence, d'écarter le délai d'un jour franc et de rendre un acte opposable dès sa mise en ligne.",
+      "source": "Décret n° 2026-1068 du 20 nov. 2026, JORF n° 272 du 21 nov. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118006",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Centre « Pausa » de Bayonne : le Conseil d'État annule la condamnation de l'État à rembourser 836 740 € à l'agglomération Pays basque",
+      "summary": "Revenant sur l'arrêt de la CAA de Bordeaux du 13 février 2025, qui avait retenu une carence de l'État dans l'hébergement d'urgence des migrants, le Conseil d'État juge que la collectivité qui finance un tel dispositif au titre de son action sociale facultative ne peut en réclamer la charge à l'État, à qui l'hébergement d'urgence incombe pourtant en principe.",
+      "source": "CE, 17 nov. 2026 · Landot & associés, mise à jour du 18 nov. 2026",
+      "url": "https://blog.landot-avocats.net/2026/11/18/hebergement-durgence-departements-metropoles-et-ccas-peuvent-ils-se-retourner-contre-letat-mise-a-jour-au-18-novembre-2026/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Accidentés de la route : l'indemnisation coûte trois fois plus cher qu'il y a vingt ans, et les assureurs dénoncent une « judiciarisation »",
+      "summary": "L'enquête publiée ce dimanche par Le Monde, qui chiffre d'après France Assureurs à près de 6,7 milliards d'euros la charge de 2025 (+ 9 %), décrit la montée en puissance des avocats de victimes et pose, quarante ans après la loi Badinter, la question de l'équilibre entre réparation intégrale et mutualisation du risque.",
+      "source": "Le Monde, 22 nov. 2026 · Kohen Avocats",
+      "url": "https://kohenavocats.com/honoraires-resultat-avocat-pourcentage-demarchage-victimes-accident-route/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "22 novembre 1963 : John F. Kennedy est assassiné à Dallas, et la commission Warren conclura à l'action d'un tireur isolé",
+      "summary": "Abattu sur Dealey Plaza, le 35e président des États-Unis meurt à l'hôpital Parkland ; l'assassinat de Lee Harvey Oswald deux jours plus tard prive l'affaire de tout procès et laisse à une commission d'enquête présidée par le Chief Justice Earl Warren le soin d'établir des faits qui restent, depuis, l'objet de controverses.",
+      "source": "Wikipédia · Assassinat de John F. Kennedy",
+      "url": "https://fr.wikipedia.org/wiki/Assassinat_de_John_F._Kennedy",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Jurisprudence inventée par l'IA : la CEDH interdit pour deux ans à une avocate roumaine de représenter des requérants devant elle",
+      "summary": "Sur proposition motivée d'une chambre, la Cour a sanctionné « un schéma de nombreuses erreurs substantielles répétées » — arrêts inexistants, passages fictifs prêtés à de vrais arrêts — et rappelle que toute référence doit être vérifiée dans HUDOC avant dépôt, une exigence qui vaut pour tout conseil utilisant des outils génératifs.",
+      "source": "CEDH, communiqué du 19 nov. 2026 · The Irish Times",
+      "url": "https://www.irishtimes.com/crime-law/2026/11/19/lawyer-barred-from-european-court-over-numerous-errors-in-submissions-drafted-using-ai/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Cargo échoué dans les Landes : le remorquage du Miro-G retardé par la météo, onze personnes hélitreuillées samedi soir",
+      "summary": "Échoué depuis jeudi soir à Lit-et-Mixe avec une centaine de tonnes de gazole à bord, le vraquier de 169 mètres sous pavillon maltais ne peut être approché à moins de 900 mètres par l'Abeille Bretagne, qui devra déployer une remorque d'un kilomètre — une opération que la préfecture maritime estime à plusieurs jours.",
+      "source": "ICI Nouvelle-Aquitaine · préfecture maritime de l'Atlantique",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/landes-40/lit-et-mixe/un-cargo-s-echoue-sur-le-littoral-landais-a-lit-et-mixe-une-operation-de-sauvetage-en-cours-pour-evacuer-l-equipage-6625766",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Emploi à la décision du Gouvernement",
+    "subtitle": "Droit de la fonction publique · Art. 13 de la Constitution · Art. L. 341-1 du code général de la fonction publique",
+    "defShort": "Emploi supérieur dont la nomination et la fin de fonctions sont laissées à l'appréciation discrétionnaire du Gouvernement, sans que le titulaire puisse se prévaloir d'un droit à y être maintenu.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Préfets, recteurs, ambassadeurs ou directeurs d'administration centrale occupent des emplois dits « à la décision » (ou « à la discrétion ») du Gouvernement. Leur titulaire peut être nommé hors des règles ordinaires d'avancement et, surtout, être relevé à tout moment, la mesure n'ayant pas à être motivée ni à reposer sur une faute."
+      },
+      {
+        "h": "Fondement",
+        "body": "L'article 13 de la Constitution prévoit la nomination des préfets et des ambassadeurs en conseil des ministres ; le code général de la fonction publique (art. L. 341-1) renvoie à un décret en Conseil d'État la liste des emplois supérieurs concernés, reprise du décret n° 85-779 du 24 juillet 1985. Le statut des préfets relève par ailleurs du décret n° 64-805 du 29 juillet 1964."
+      },
+      {
+        "h": "Contrôle du juge",
+        "body": "Le juge administratif n'exerce qu'un contrôle restreint sur ces décisions : erreur de droit, exactitude matérielle des faits, détournement de pouvoir. Le caractère discrétionnaire de la mesure ne la soustrait donc pas à tout contrôle : une fin de fonctions dictée par un motif étranger à l'intérêt du service, ou fondée sur des faits matériellement inexacts, encourt l'annulation."
+      },
+      {
+        "h": "Portée",
+        "body": "Le retrait de l'emploi n'emporte pas la perte de la qualité de fonctionnaire : l'agent qui était titulaire de son corps conserve son grade et ses droits statutaires. D'où la distinction, cruciale dans une affaire comme celle du préfet du Loiret, entre la fin de fonctions, mesure de gestion discrétionnaire, et la sanction disciplinaire, qui suppose une procédure contradictoire et une faute établie."
+      }
+    ],
+    "seeAlso": "Voir aussi — mesure prise en considération de la personne (loi du 22 avril 1905, art. 65) · détournement de pouvoir · contrôle restreint · obligation de loyalisme du fonctionnaire"
+  },
+  "date": "2026-11-22",
+  "dateShort": "22 nov.",
+  "slot": "midi"
+}

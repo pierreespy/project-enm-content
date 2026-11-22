@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-22",
-  "updatedSlot": "matin",
-  "count": 30,
+  "updatedSlot": "midi",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-11-22",
+      "slot": "midi",
+      "file": "editions/2026-11-22-midi.json",
+      "essentiel": "Soupçons de fuites vers le RN : le préfet du Loiret Hugues Moutouh demande à être relevé de ses fonctions, au cœur d'une information judiciaire pour violation du secret de l'enquête",
+      "term": "Emploi à la décision du Gouvernement",
+      "rubriques": [
+        "Entrée en vigueur « dès publication » : le décret n° 2026-1068 du 20 novembre 2026 rend immédiatement applicable l'interdiction de déplacement des supporters lyonnais à Lille",
+        "Centre « Pausa » de Bayonne : le Conseil d'État annule la condamnation de l'État à rembourser 836 740 € à l'agglomération Pays basque",
+        "Accidentés de la route : l'indemnisation coûte trois fois plus cher qu'il y a vingt ans, et les assureurs dénoncent une « judiciarisation »",
+        "22 novembre 1963 : John F. Kennedy est assassiné à Dallas, et la commission Warren conclura à l'action d'un tireur isolé",
+        "Jurisprudence inventée par l'IA : la CEDH interdit pour deux ans à une avocate roumaine de représenter des requérants devant elle",
+        "Cargo échoué dans les Landes : le remorquage du Miro-G retardé par la météo, onze personnes hélitreuillées samedi soir"
+      ]
+    },
     {
       "date": "2026-11-22",
       "slot": "matin",
