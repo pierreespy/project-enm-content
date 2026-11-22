@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21",
-  "count": 82,
+  "updated": "2026-11-22",
+  "count": 83,
   "lessons": [
     {
       "n": 1,
@@ -711,6 +711,14 @@
       "terms": [
         "Argument de causalité",
         "Jour-lumière"
+      ]
+    },
+    {
+      "n": 83,
+      "file": "astro/lessons/083-le-rendement-de-la-chute-vers-un-trou-noir.json",
+      "title": "Tomber vers un trou noir : la source d'énergie la plus efficace",
+      "terms": [
+        "Rendement (d'une source d'énergie)"
       ]
     }
   ]

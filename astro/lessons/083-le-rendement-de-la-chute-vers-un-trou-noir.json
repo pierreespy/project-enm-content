@@ -1,0 +1,28 @@
+{
+  "n": 83,
+  "title": "Tomber vers un trou noir : la source d'énergie la plus efficace",
+  "subtitle": "Pourquoi le gaz qui s'approche d'un trou noir libère bien plus d'énergie que la fusion au cœur des étoiles",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Comparer des sources d'énergie",
+      "body": "La veille, on a vu qu'un quasar tire une puissance colossale d'une région à peine plus grande que le système solaire (jour 82). Pour comprendre comment, il faut une notion simple : le rendement. Le rendement d'une source d'énergie, c'est la part de la matière qu'elle consomme qui se trouve effectivement transformée en énergie. Les physiciens savent depuis Einstein que la masse elle-même est une réserve d'énergie, et la question est de savoir quelle fraction de cette réserve chaque processus parvient à libérer. Brûler du charbon n'en libère qu'une part infime, de l'ordre d'un milliardième."
+    },
+    {
+      "h": "La fusion fait mieux, la chute bien mieux encore",
+      "body": "La fusion nucléaire (jour 11) est déjà bien plus efficace : en transformant l'hydrogène en hélium, une étoile convertit en énergie environ 0,7 % de la masse consommée. C'est ce qui permet au Soleil de briller pendant des milliards d'années. Le gaz qui tombe vers un trou noir fait mieux encore. En descendant vers lui dans le disque d'accrétion (jour 75), il gagne une vitesse énorme ; les frottements transforment ce mouvement en chaleur, puis en lumière. Avant de franchir l'horizon des événements (jour 23), le gaz a ainsi rayonné de 6 % à plus de 30 % de sa masse, selon la vitesse de rotation du trou noir : dix à quarante fois le rendement de la fusion."
+    },
+    {
+      "h": "Ce que cela explique",
+      "body": "Ce rendement exceptionnel lève le mystère des quasars. Pour expliquer leur éclat, il suffit qu'un trou noir supermassif (jour 50) avale quelques masses solaires de gaz par an, ce qui est modeste à l'échelle d'une galaxie. Aucun ensemble d'étoiles ne pourrait produire autant d'énergie dans un si petit volume. Une limite demeure, toutefois : si le gaz arrive trop vite, la lumière qu'il émet le repousse, ce qui plafonne la croissance du trou noir, conformément à la limite d'Eddington (jour 76)."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Rendement (d'une source d'énergie)",
+      "def": "Part de la masse consommée par un processus qui est effectivement transformée en énergie : environ 0,7 % pour la fusion de l'hydrogène, de 6 % à plus de 30 % pour la chute de matière vers un trou noir."
+    }
+  ],
+  "recap": "La matière qui tombe vers un trou noir convertit en lumière une part de sa masse dix à quarante fois plus grande que la fusion : c'est ce qui permet aux quasars de briller autant depuis un si petit volume.",
+  "next": "Demain — pourquoi la rotation d'un trou noir change la quantité d'énergie que l'on peut en tirer."
+}

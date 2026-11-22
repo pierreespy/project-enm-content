@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-21",
-  "updatedSlot": "midi",
-  "count": 31,
+  "updated": "2026-11-22",
+  "updatedSlot": "matin",
+  "count": 30,
   "editions": [
+    {
+      "date": "2026-11-22",
+      "slot": "matin",
+      "file": "editions/2026-11-22-matin.json",
+      "essentiel": "Adoption après kafala : la Cour de cassation refuse de reconnaître une adoption plénière étrangère qui ne dit rien du consentement (Cass. 1re civ., 18 nov. 2026, FS-B)",
+      "term": "Effet atténué de l'ordre public international",
+      "rubriques": [
+        "Infiltration civile : le décret n° 2026-1061 du 18 novembre 2026 confie au SIAT l'évaluation des personnes appelées à devenir « infiltrés civils »",
+        "Abus de confiance et blanchiment de fraude fiscale : la chambre criminelle rectifie deux raisonnements d'une cour d'appel (Cass. crim., 18 nov. 2026, n° 25-85.828, B)",
+        "Finances publiques : la Cour des comptes recense 18 mesures susceptibles de rapporter de 32 à 38 milliards d'euros dès 2027",
+        "22 novembre 1975 : deux jours après la mort de Franco, Juan Carlos de Bourbon est proclamé roi d'Espagne devant les Cortes",
+        "Un avocat pour chaque enfant en assistance éducative : la loi n° 2026-630 entre en vigueur le 6 janvier 2027, et les barreaux alertent sur son financement",
+        "Sommet de Bruxelles : l'Union européenne et le Royaume-Uni d'Andy Burnham signent un accord de rapprochement qualifié d'« historique »"
+      ]
+    },
     {
       "date": "2026-11-21",
       "slot": "midi",
@@ -436,36 +451,6 @@
         "7 novembre 1917 (25 octobre du calendrier julien) : la « Révolution d'Octobre » porte les bolcheviks au pouvoir à Petrograd",
         "Opération de paiement non autorisée : la banque doit d'abord rembourser, même en cas de négligence grave du client (Cass., 8 octobre 2026)",
         "Novembre 2026 : seize changements récents ou à venir en France à connaître"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "slot": "midi",
-      "file": "editions/2026-11-06-midi.json",
-      "essentiel": "Justice criminelle : Gérald Darmanin relance le dialogue avec le Conseil national des barreaux sur le projet de loi",
-      "term": "Obligation in solidum",
-      "rubriques": [
-        "Renforcement de la chaîne pénale criminelle et modernisation du corps judiciaire : le texte adopté par le Sénat",
-        "Cass., 3 septembre 2026, n° 25-12.962 : un arrêt désormais commenté",
-        "Projet de loi sur la justice criminelle : mobilisation et dialogue pour la profession d'avocat",
-        "7 novembre 1659 : le traité des Pyrénées met fin à la guerre entre la France et l'Espagne",
-        "La Convention Lefebvre Dalloz Avocats : le programme 2026",
-        "Sénégal : le Conseil constitutionnel invalide la loi de révision constitutionnelle n° 18/2026"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "slot": "matin",
-      "file": "editions/2026-11-06-matin.json",
-      "essentiel": "Rentrée 2026 du Conseil d'État : le communiqué de presse et le discours du vice-président sur l'évolution des missions de l'institution",
-      "term": "Quasi-usufruit",
-      "rubriques": [
-        "Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique : le texte au programme de l'actualité du droit des sociétés",
-        "Cass. 1re civ., 8 juillet 2026, n° 24-16.567 : une cassation partielle commentée",
-        "Chronique de jurisprudence du Conseil d'État : contentieux administratif et Convention européenne des droits de l'homme",
-        "6 novembre 1975 : la « Marche verte » conduit 200 000 Marocains vers le Sahara espagnol",
-        "Baux commerciaux en 2026 : évolutions et décisions à repérer, webinaire du 12 novembre à 10 h",
-        "Vigilance météorologique : des cartes plus fines, mises à jour à 6 h et 16 h, pour une semaine de début novembre fraîche"
       ]
     }
   ]
