@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-23",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-11-23",
+      "slot": "midi",
+      "file": "editions/2026-11-23-midi.json",
+      "essentiel": "Narchomicides de la Duchère : la cour d'assises spéciale du Rhône ouvre sous très haute sécurité un procès de quatre semaines… sans son principal accusé, toujours détenu en Colombie",
+      "term": "Défaut criminel",
+      "rubriques": [
+        "PLF 2027 : après le rejet à l'Assemblée, le Sénat poursuit ce lundi l'examen des articles de la première partie, sur le texte initial du Gouvernement",
+        "Rupture conventionnelle d'un salarié protégé homologuée sans autorisation : le délai de douze mois pour agir en nullité court dès l'homologation (Cass. soc., 10 nov. 2026, n° 23-23.782, B)",
+        "Prêts en francs suisses aux frontaliers : ce qui distingue l'arrêt du 4 novembre 2026 de celui du 9 juillet 2025",
+        "23 novembre 1944 : la 2e DB du général Leclerc libère Strasbourg et accomplit le serment de Koufra",
+        "Congrès des maires : ouvert ce lundi à Paris, le premier congrès du nouveau mandat consacre un forum à la responsabilité pénale des élus après la loi sur le statut de l'élu",
+        "« Choose France – Édition France » : Bercy réunit ce lundi les entreprises françaises qui investissent sur le territoire, pour la deuxième édition du sommet"
+      ]
+    },
     {
       "date": "2026-11-23",
       "slot": "matin",
