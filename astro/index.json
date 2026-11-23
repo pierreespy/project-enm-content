@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22",
-  "count": 83,
+  "updated": "2026-11-23",
+  "count": 84,
   "lessons": [
     {
       "n": 1,
@@ -719,6 +719,15 @@
       "title": "Tomber vers un trou noir : la source d'énergie la plus efficace",
       "terms": [
         "Rendement (d'une source d'énergie)"
+      ]
+    },
+    {
+      "n": 84,
+      "file": "astro/lessons/084-la-rotation-d-un-trou-noir.json",
+      "title": "Un trou noir qui tourne rend plus d'énergie",
+      "terms": [
+        "Dernière orbite stable",
+        "Spin (d'un trou noir)"
       ]
     }
   ]

@@ -1,121 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Soupçons de fuites vers le RN : le préfet du Loiret Hugues Moutouh demande à être relevé de ses fonctions, au cœur d'une information judiciaire pour violation du secret de l'enquête",
-    "dek": "Convoqué vendredi place Beauvau par le ministre de l'Intérieur Laurent Nuñez, le préfet de la région Centre-Val de Loire, ancien secrétaire général du ministère, a demandé samedi à quitter ses fonctions en dénonçant une « campagne de déstabilisation ». Il est mis en cause dans l'information judiciaire ouverte le 27 juillet par le parquet de Paris pour violation du secret professionnel et du secret de l'enquête et recel, après la découverte d'un document confidentiel du ministère ; sa demande ne vaut pas cessation de fonctions, la décision relevant d'un décret du président de la République délibéré en conseil des ministres.",
-    "source": "franceinfo / AFP · 21-22 nov. 2026",
-    "url": "https://www.franceinfo.fr/politique/front-national/soupconne-de-fuites-vers-le-rn-le-prefet-du-loiret-hugues-moutouh-demande-a-etre-demis-de-ses-fonctions_8294663.html"
+    "title": "Féminicide de Chahinez Daoud : condamné à la perpétuité en première instance, Mounir Boutaa rejugé à partir de ce lundi par la cour d'assises d'appel de la Dordogne",
+    "dek": "Cinq ans après la mort de Chahinez Daoud, 31 ans, brûlée vive en pleine rue à Mérignac le 4 mai 2021, son ex-mari comparaît jusqu'au 27 novembre devant la cour d'assises de Périgueux, saisie de l'appel qu'il a formé contre l'arrêt de la cour d'assises de la Gironde du 28 mars 2025, qui l'avait condamné à la réclusion criminelle à perpétuité assortie d'une période de sûreté de vingt-deux ans. La préméditation, le quantum de la peine et la durée de la sûreté seront à nouveau débattus devant une cour qui, l'appel étant dévolutif, rejuge l'entier dossier — une affaire devenue emblématique des défaillances de la chaîne pénale dans la protection des victimes de violences conjugales.",
+    "source": "Cour d'assises d'appel de la Dordogne, 23-27 nov. 2026 · Ouest-France · ICI Périgord",
+    "url": "https://www.ouest-france.fr/societe/justice/lex-mari-de-chahinez-daoud-brulee-vive-en-2021-en-gironde-juge-en-appel-bf7d82d8-e593-11f1-bd4e-6f30b8f49e21"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Entrée en vigueur « dès publication » : le décret n° 2026-1068 du 20 novembre 2026 rend immédiatement applicable l'interdiction de déplacement des supporters lyonnais à Lille",
-      "summary": "Publié au Journal officiel du 21 novembre pour un match joué le soir même, ce décret d'une ligne illustre le mécanisme de l'article 1er, alinéa 2, du code civil, qui permet au Gouvernement, en cas d'urgence, d'écarter le délai d'un jour franc et de rendre un acte opposable dès sa mise en ligne.",
-      "source": "Décret n° 2026-1068 du 20 nov. 2026, JORF n° 272 du 21 nov. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118006",
+      "title": "Rapports locatifs : la loi n° 2026-1072 du 21 novembre 2026, publiée au Journal officiel du 22 novembre, sauve l'encadrement des loyers à la veille de son extinction",
+      "summary": "Adoptée conforme par l'Assemblée le 19 novembre, la loi « pour retrouver la confiance et l'équilibre dans les rapports locatifs » prolonge le dispositif expérimental qui expirait le 23 novembre, ramène à un an le délai pour agir en diminution du loyer ou contester un complément de loyer — sans disposition transitoire, ce qui promet du contentieux sur les baux en cours — et généralise la déclaration des loyers par tous les bailleurs.",
+      "source": "Loi n° 2026-1072 du 21 nov. 2026, JORF n° 273 du 22 nov. 2026 · Landot avocats",
+      "url": "https://blog.landot-avocats.net/2026/11/22/survol-de-la-loi-du-21-novembre-2026-confiance-dans-les-rapports-locatifs/",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Centre « Pausa » de Bayonne : le Conseil d'État annule la condamnation de l'État à rembourser 836 740 € à l'agglomération Pays basque",
-      "summary": "Revenant sur l'arrêt de la CAA de Bordeaux du 13 février 2025, qui avait retenu une carence de l'État dans l'hébergement d'urgence des migrants, le Conseil d'État juge que la collectivité qui finance un tel dispositif au titre de son action sociale facultative ne peut en réclamer la charge à l'État, à qui l'hébergement d'urgence incombe pourtant en principe.",
-      "source": "CE, 17 nov. 2026 · Landot & associés, mise à jour du 18 nov. 2026",
-      "url": "https://blog.landot-avocats.net/2026/11/18/hebergement-durgence-departements-metropoles-et-ccas-peuvent-ils-se-retourner-contre-letat-mise-a-jour-au-18-novembre-2026/",
+      "title": "Fraude à la TVA : l'État qui a été payé deux fois du même préjudice doit restituer 257 257 € au gérant condamné, sur le fondement de l'enrichissement sans cause (CE, 10 nov. 2026, n° 504547, Lebon)",
+      "summary": "Après avoir écarté la responsabilité de l'État, le Conseil d'État accueille la demande subsidiaire : chacun des deux versements — les rappels acquittés par la société et les dommages-intérêts payés par le dirigeant condamné au pénal — avait une cause lorsqu'il a été fait, mais la conservation du second, une fois la perte du Trésor entièrement réparée, enrichit l'État sans cause au détriment du dirigeant.",
+      "source": "CE, 9e et 10e ch. réunies, 10 nov. 2026, n° 504547, publié au Recueil Lebon",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000055079147",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Accidentés de la route : l'indemnisation coûte trois fois plus cher qu'il y a vingt ans, et les assureurs dénoncent une « judiciarisation »",
-      "summary": "L'enquête publiée ce dimanche par Le Monde, qui chiffre d'après France Assureurs à près de 6,7 milliards d'euros la charge de 2025 (+ 9 %), décrit la montée en puissance des avocats de victimes et pose, quarante ans après la loi Badinter, la question de l'équilibre entre réparation intégrale et mutualisation du risque.",
-      "source": "Le Monde, 22 nov. 2026 · Kohen Avocats",
-      "url": "https://kohenavocats.com/honoraires-resultat-avocat-pourcentage-demarchage-victimes-accident-route/",
+      "title": "Budget de la justice pour 2027 : malgré une hausse de 4 %, le rapporteur spécial du Sénat dénonce une « paupérisation persistante » et une surpopulation carcérale « alarmante »",
+      "summary": "Dans son rapport sur la mission « Justice », dont l'examen a débuté au Sénat vendredi après le rejet du projet de loi de finances en première lecture à l'Assemblée, Antoine Lefèvre relève que les crédits passent de 10,5 à 11 milliards d'euros mais que le taux d'occupation moyen des prisons atteint 178,9 %, et dépasse 200 % dans certains établissements.",
+      "source": "Sénat, rapport spécial mission « Justice », PLF 2027 · Public Sénat, 20 nov. 2026",
+      "url": "https://www.publicsenat.fr/actualites/institutions/justice-malgre-un-budget-en-hausse-le-senat-alerte-sur-laugmentation-alarmante-de-la-surpopulation-carcerale",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "22 novembre 1963 : John F. Kennedy est assassiné à Dallas, et la commission Warren conclura à l'action d'un tireur isolé",
-      "summary": "Abattu sur Dealey Plaza, le 35e président des États-Unis meurt à l'hôpital Parkland ; l'assassinat de Lee Harvey Oswald deux jours plus tard prive l'affaire de tout procès et laisse à une commission d'enquête présidée par le Chief Justice Earl Warren le soin d'établir des faits qui restent, depuis, l'objet de controverses.",
-      "source": "Wikipédia · Assassinat de John F. Kennedy",
-      "url": "https://fr.wikipedia.org/wiki/Assassinat_de_John_F._Kennedy",
+      "title": "23 novembre 1407 : Louis d'Orléans, frère de Charles VI, est assassiné rue Vieille-du-Temple sur ordre de Jean sans Peur",
+      "summary": "Plutôt que de nier, le duc de Bourgogne fait plaider devant la cour, le 8 mars 1408, la « Justification » du théologien Jean Petit, qui présente le meurtre comme l'exécution licite d'un tyran : première grande théorisation française du tyrannicide, condamnée par l'Université et le concile de Constance, elle ouvre la guerre civile entre Armagnacs et Bourguignons.",
+      "source": "B. Guenée, Un meurtre, une société, Gallimard, 1992 · A. Coville, Jean Petit, 1932",
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_Louis_I,_Duke_of_Orl%C3%A9ans",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Jurisprudence inventée par l'IA : la CEDH interdit pour deux ans à une avocate roumaine de représenter des requérants devant elle",
-      "summary": "Sur proposition motivée d'une chambre, la Cour a sanctionné « un schéma de nombreuses erreurs substantielles répétées » — arrêts inexistants, passages fictifs prêtés à de vrais arrêts — et rappelle que toute référence doit être vérifiée dans HUDOC avant dépôt, une exigence qui vaut pour tout conseil utilisant des outils génératifs.",
-      "source": "CEDH, communiqué du 19 nov. 2026 · The Irish Times",
-      "url": "https://www.irishtimes.com/crime-law/2026/11/19/lawyer-barred-from-european-court-over-numerous-errors-in-submissions-drafted-using-ai/",
+      "title": "QPC hors les murs : le Conseil constitutionnel tient demain à Bobigny sa quatorzième audience délocalisée, sur la détention provisoire des parents et les frais de garde des animaux saisis",
+      "summary": "Mardi 24 novembre à 11 heures, en salle d'assises du tribunal judiciaire de Bobigny, le Conseil entendra les plaidoiries sur les conditions du placement en détention provisoire d'une personne exerçant l'autorité parentale sur un mineur de moins de seize ans, et sur les frais de pension mis à la charge du propriétaire condamné pour mauvais traitements envers un animal ; l'audience est publique (arrivée avant 10 h 30) et retransmise en direct.",
+      "source": "Conseil constitutionnel, communiqué · audience délocalisée du 24 nov. 2026",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/le-conseil-constitutionnel-a-bobigny-pour-une-nouvelle-audience-delocalisee-de-question-prioritaire",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Cargo échoué dans les Landes : le remorquage du Miro-G retardé par la météo, onze personnes hélitreuillées samedi soir",
-      "summary": "Échoué depuis jeudi soir à Lit-et-Mixe avec une centaine de tonnes de gazole à bord, le vraquier de 169 mètres sous pavillon maltais ne peut être approché à moins de 900 mètres par l'Abeille Bretagne, qui devra déployer une remorque d'un kilomètre — une opération que la préfecture maritime estime à plusieurs jours.",
-      "source": "ICI Nouvelle-Aquitaine · préfecture maritime de l'Atlantique",
-      "url": "https://www.ici.fr/nouvelle-aquitaine/landes-40/lit-et-mixe/un-cargo-s-echoue-sur-le-littoral-landais-a-lit-et-mixe-une-operation-de-sauvetage-en-cours-pour-evacuer-l-equipage-6625766",
+      "title": "Climat : après 49 heures de prolongation, la COP31 d'Antalya s'achève sans accord, l'Union européenne rejetant un texte muet sur la sortie des énergies fossiles",
+      "summary": "Devenue la plus longue conférence climatique de l'histoire, la COP31 a vu sa présidence turque retirer dimanche le projet de « Pacte d'Antalya » face à l'opposition de l'UE, du Panama et d'autres délégations, le secrétaire général de l'ONU se disant « profondément déçu ».",
+      "source": "France 24 · franceinfo, 22 nov. 2026",
+      "url": "https://www.france24.com/fr/asie-pacifique/20261122-climat-accord-incertain-%C3%A0-la-cop31-des-pays-d%C3%A9noncent-l-absence-de-sortie-des-%C3%A9nergies-fossiles",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Emploi à la décision du Gouvernement",
-    "subtitle": "Droit de la fonction publique · Art. 13 de la Constitution · Art. L. 341-1 du code général de la fonction publique",
-    "defShort": "Emploi supérieur dont la nomination et la fin de fonctions sont laissées à l'appréciation discrétionnaire du Gouvernement, sans que le titulaire puisse se prévaloir d'un droit à y être maintenu.",
+    "term": "Subsidiarité de l'action de in rem verso",
+    "subtitle": "Droit civil et droit administratif · Art. 1303 à 1303-4 C. civ. · Cass. req., 15 juin 1892, Patureau-Miran (Boudier) · CE, 1961, Société Dauphin",
+    "defShort": "Règle selon laquelle l'action fondée sur l'enrichissement injustifié ne peut être exercée que si l'appauvri ne dispose d'aucune autre action pour obtenir satisfaction, ni ne peut s'en servir pour contourner un obstacle de droit qui ferme cette autre action.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Préfets, recteurs, ambassadeurs ou directeurs d'administration centrale occupent des emplois dits « à la décision » (ou « à la discrétion ») du Gouvernement. Leur titulaire peut être nommé hors des règles ordinaires d'avancement et, surtout, être relevé à tout moment, la mesure n'ayant pas à être motivée ni à reposer sur une faute."
+        "body": "L'action de in rem verso, consacrée par l'arrêt Boudier (1892) puis codifiée en 2016 sous le nom d'« enrichissement injustifié » (art. 1303 C. civ.), permet à celui qui s'est appauvri d'obtenir une indemnité de celui qui s'est enrichi à son détriment sans cause légitime. Parce qu'elle repose sur l'équité et non sur un titre, elle est subsidiaire : c'est une action de dernier recours, qui comble les vides du droit des obligations sans jamais se substituer aux actions qu'il organise."
       },
       {
         "h": "Fondement",
-        "body": "L'article 13 de la Constitution prévoit la nomination des préfets et des ambassadeurs en conseil des ministres ; le code général de la fonction publique (art. L. 341-1) renvoie à un décret en Conseil d'État la liste des emplois supérieurs concernés, reprise du décret n° 85-779 du 24 juillet 1985. Le statut des préfets relève par ailleurs du décret n° 64-805 du 29 juillet 1964."
+        "body": "L'article 1303-3 du code civil dispose que l'appauvri « n'a pas d'action sur ce fondement lorsqu'une autre action lui est ouverte ou se heurte à un obstacle de droit, tel que la prescription ». La subsidiarité a donc deux faces : l'action est irrecevable si une autre voie existe (contrat, responsabilité, répétition de l'indu), et elle l'est encore si cette autre voie existait mais s'est fermée par la faute de l'appauvri — prescription, forclusion, défaut de preuve d'un contrat. L'obstacle de fait (l'insolvabilité du débiteur contractuel, par exemple) n'interdit pas, en revanche, de se retourner contre l'enrichi."
       },
       {
-        "h": "Contrôle du juge",
-        "body": "Le juge administratif n'exerce qu'un contrôle restreint sur ces décisions : erreur de droit, exactitude matérielle des faits, détournement de pouvoir. Le caractère discrétionnaire de la mesure ne la soustrait donc pas à tout contrôle : une fin de fonctions dictée par un motif étranger à l'intérêt du service, ou fondée sur des faits matériellement inexacts, encourt l'annulation."
+        "h": "Cas visés",
+        "body": "Le juge administratif applique le même principe, au titre des principes généraux, notamment au profit du cocontractant d'un contrat déclaré nul, qui peut obtenir le remboursement des dépenses utiles à la personne publique. La subsidiarité explique aussi l'ordre des moyens : le requérant invoque d'abord la responsabilité, et n'obtient gain de cause sur l'enrichissement sans cause qu'à titre subsidiaire, une fois la première voie écartée — exactement la démarche suivie par le Conseil d'État le 10 novembre 2026 pour l'État payé deux fois du même préjudice fiscal."
       },
       {
         "h": "Portée",
-        "body": "Le retrait de l'emploi n'emporte pas la perte de la qualité de fonctionnaire : l'agent qui était titulaire de son corps conserve son grade et ses droits statutaires. D'où la distinction, cruciale dans une affaire comme celle du préfet du Loiret, entre la fin de fonctions, mesure de gestion discrétionnaire, et la sanction disciplinaire, qui suppose une procédure contradictoire et une faute établie."
+        "body": "La règle protège la cohérence du système : sans elle, l'enrichissement injustifié permettrait de ressusciter une créance prescrite ou de contourner les conditions d'une action spéciale. Le praticien doit donc toujours plaider l'action principale en premier et ne présenter l'action de in rem verso qu'à titre subsidiaire, en démontrant qu'aucune autre voie n'était ouverte — et non qu'elle a été perdue par négligence. Depuis 2016, l'indemnité est en outre égale à la moins élevée des deux sommes, enrichissement ou appauvrissement (art. 1303), et peut être modérée en cas de faute de l'appauvri (art. 1303-2)."
       }
     ],
-    "seeAlso": "Voir aussi — mesure prise en considération de la personne (loi du 22 avril 1905, art. 65) · détournement de pouvoir · contrôle restreint · obligation de loyalisme du fonctionnaire"
+    "seeAlso": "Voir aussi — enrichissement injustifié (art. 1303 C. civ.) · répétition de l'indu (art. 1302-1) · gestion d'affaires (art. 1301) · dépenses utiles du cocontractant d'un contrat nul (droit administratif)"
   },
-  "date": "2026-11-22",
-  "dateShort": "22 nov.",
-  "slot": "midi",
+  "date": "2026-11-23",
+  "dateShort": "23 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 83,
-    "title": "Tomber vers un trou noir : la source d'énergie la plus efficace",
-    "subtitle": "Pourquoi le gaz qui s'approche d'un trou noir libère bien plus d'énergie que la fusion au cœur des étoiles",
+    "n": 84,
+    "title": "Un trou noir qui tourne rend plus d'énergie",
+    "subtitle": "Pourquoi la rotation d'un trou noir fait varier de 6 % à plus de 30 % la part de la matière convertie en lumière",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Comparer des sources d'énergie",
-        "body": "La veille, on a vu qu'un quasar tire une puissance colossale d'une région à peine plus grande que le système solaire (jour 82). Pour comprendre comment, il faut une notion simple : le rendement. Le rendement d'une source d'énergie, c'est la part de la matière qu'elle consomme qui se trouve effectivement transformée en énergie. Les physiciens savent depuis Einstein que la masse elle-même est une réserve d'énergie, et la question est de savoir quelle fraction de cette réserve chaque processus parvient à libérer. Brûler du charbon n'en libère qu'une part infime, de l'ordre d'un milliardième."
+        "h": "Le dernier virage avant la chute",
+        "body": "On a vu que le gaz qui tombe vers un trou noir rayonne une part de sa masse bien plus grande que la fusion, entre 6 % et plus de 30 % (jour 83). Cet écart tient à un endroit précis : la dernière orbite stable. C'est la distance la plus courte à laquelle de la matière peut encore tourner autour d'un trou noir sans tomber ; plus près, aucune orbite ne tient, et le gaz plonge directement vers l'horizon des événements (jour 23). Tant qu'il tourne dans le disque d'accrétion (jour 75), il s'échauffe et rayonne ; une fois cette limite franchie, il disparaît sans presque plus rien émettre."
       },
       {
-        "h": "La fusion fait mieux, la chute bien mieux encore",
-        "body": "La fusion nucléaire (jour 11) est déjà bien plus efficace : en transformant l'hydrogène en hélium, une étoile convertit en énergie environ 0,7 % de la masse consommée. C'est ce qui permet au Soleil de briller pendant des milliards d'années. Le gaz qui tombe vers un trou noir fait mieux encore. En descendant vers lui dans le disque d'accrétion (jour 75), il gagne une vitesse énorme ; les frottements transforment ce mouvement en chaleur, puis en lumière. Avant de franchir l'horizon des événements (jour 23), le gaz a ainsi rayonné de 6 % à plus de 30 % de sa masse, selon la vitesse de rotation du trou noir : dix à quarante fois le rendement de la fusion."
+        "h": "La rotation rapproche la limite",
+        "body": "Un trou noir peut tourner sur lui-même, comme l'étoile dont il est souvent issu : en s'effondrant, elle a conservé et même accéléré sa rotation. Les astronomes appellent spin ce degré de rotation. Or, d'après la relativité générale (jour 36), la rotation entraîne avec elle l'espace-temps voisin (jour 37), ce qui permet au gaz qui tourne dans le même sens que le trou noir de tenir sur des orbites plus serrées. Autour d'un trou noir immobile, la dernière orbite stable se situe à trois fois la taille de l'horizon ; autour d'un trou noir qui tourne au maximum, elle descend presque jusqu'à l'horizon lui-même."
       },
       {
-        "h": "Ce que cela explique",
-        "body": "Ce rendement exceptionnel lève le mystère des quasars. Pour expliquer leur éclat, il suffit qu'un trou noir supermassif (jour 50) avale quelques masses solaires de gaz par an, ce qui est modeste à l'échelle d'une galaxie. Aucun ensemble d'étoiles ne pourrait produire autant d'énergie dans un si petit volume. Une limite demeure, toutefois : si le gaz arrive trop vite, la lumière qu'il émet le repousse, ce qui plafonne la croissance du trou noir, conformément à la limite d'Eddington (jour 76)."
+        "h": "Plus près, plus de lumière",
+        "body": "Un gaz qui peut descendre plus bas avant de plonger a plus longtemps pour s'échauffer et rayonner : c'est toute la différence entre 6 % et plus de 30 %. Le spin d'un trou noir n'est donc pas un détail : il règle le rendement de la machine. Il se mesure d'ailleurs à partir de la lumière du disque, dont la partie la plus interne trahit la position de la dernière orbite stable. Les trous noirs supermassifs observés tournent souvent vite, ce qui renseigne aussi sur la façon dont ils ont grossi."
       }
     ],
     "keyTerms": [
       {
-        "term": "Rendement (d'une source d'énergie)",
-        "def": "Part de la masse consommée par un processus qui est effectivement transformée en énergie : environ 0,7 % pour la fusion de l'hydrogène, de 6 % à plus de 30 % pour la chute de matière vers un trou noir."
+        "term": "Dernière orbite stable",
+        "def": "Distance la plus courte à laquelle de la matière peut encore tourner autour d'un trou noir ; en deçà, elle plonge vers l'horizon sans presque plus rayonner."
+      },
+      {
+        "term": "Spin (d'un trou noir)",
+        "def": "Degré de rotation d'un trou noir sur lui-même ; plus il est élevé, plus la dernière orbite stable se rapproche de l'horizon et plus la matière qui tombe rayonne d'énergie."
       }
     ],
-    "recap": "La matière qui tombe vers un trou noir convertit en lumière une part de sa masse dix à quarante fois plus grande que la fusion : c'est ce qui permet aux quasars de briller autant depuis un si petit volume.",
-    "next": "Demain — pourquoi la rotation d'un trou noir change la quantité d'énergie que l'on peut en tirer."
+    "recap": "Un trou noir qui tourne permet au gaz de tourner plus près de lui avant de plonger : celui-ci rayonne alors davantage, ce qui fait passer le rendement de 6 % à plus de 30 %.",
+    "next": "Demain — comment la rotation d'un trou noir renseigne sur la manière dont il a grossi."
   }
 }

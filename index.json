@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-22",
-  "updatedSlot": "midi",
+  "updated": "2026-11-23",
+  "updatedSlot": "matin",
   "count": 31,
   "editions": [
+    {
+      "date": "2026-11-23",
+      "slot": "matin",
+      "file": "editions/2026-11-23-matin.json",
+      "essentiel": "Féminicide de Chahinez Daoud : condamné à la perpétuité en première instance, Mounir Boutaa rejugé à partir de ce lundi par la cour d'assises d'appel de la Dordogne",
+      "term": "Subsidiarité de l'action de in rem verso",
+      "rubriques": [
+        "Rapports locatifs : la loi n° 2026-1072 du 21 novembre 2026, publiée au Journal officiel du 22 novembre, sauve l'encadrement des loyers à la veille de son extinction",
+        "Fraude à la TVA : l'État qui a été payé deux fois du même préjudice doit restituer 257 257 € au gérant condamné, sur le fondement de l'enrichissement sans cause (CE, 10 nov. 2026, n° 504547, Lebon)",
+        "Budget de la justice pour 2027 : malgré une hausse de 4 %, le rapporteur spécial du Sénat dénonce une « paupérisation persistante » et une surpopulation carcérale « alarmante »",
+        "23 novembre 1407 : Louis d'Orléans, frère de Charles VI, est assassiné rue Vieille-du-Temple sur ordre de Jean sans Peur",
+        "QPC hors les murs : le Conseil constitutionnel tient demain à Bobigny sa quatorzième audience délocalisée, sur la détention provisoire des parents et les frais de garde des animaux saisis",
+        "Climat : après 49 heures de prolongation, la COP31 d'Antalya s'achève sans accord, l'Union européenne rejetant un texte muet sur la sortie des énergies fossiles"
+      ]
+    },
     {
       "date": "2026-11-22",
       "slot": "midi",
@@ -451,21 +466,6 @@
         "8 novembre 1519 : Hernán Cortés entre dans Tenochtitlan, capitale de l'empire aztèque",
         "Retrouver une décision par son numéro de pourvoi : la recherche Judilibre de la Cour de cassation",
         "8 novembre 1895 : Wilhelm Röntgen découvre les rayons X à Würzburg"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "slot": "matin",
-      "file": "editions/2026-11-07-matin.json",
-      "essentiel": "Code noir : la loi du 2 novembre 2026 abroge l'ordonnance de 1685 et les textes qui l'ont étendue",
-      "term": "Clause réputée non écrite",
-      "rubriques": [
-        "Décret n° 2026-1032 du 3 novembre 2026 : la feuille d'audience transmise à l'administration pénitentiaire",
-        "Cass. 3e civ., 3 septembre 2026, n° 25-14.904 : la hausse forfaitaire du loyer commercial, sans plafond ni durée, est réputée non écrite",
-        "Abrogation symbolique du Code noir : la portée juridique d'un texte sans effet sur le droit positif",
-        "7 novembre 1917 (25 octobre du calendrier julien) : la « Révolution d'Octobre » porte les bolcheviks au pouvoir à Petrograd",
-        "Opération de paiement non autorisée : la banque doit d'abord rembourser, même en cas de négligence grave du client (Cass., 8 octobre 2026)",
-        "Novembre 2026 : seize changements récents ou à venir en France à connaître"
       ]
     }
   ]

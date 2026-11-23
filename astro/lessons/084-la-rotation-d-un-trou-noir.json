@@ -1,0 +1,32 @@
+{
+  "n": 84,
+  "title": "Un trou noir qui tourne rend plus d'énergie",
+  "subtitle": "Pourquoi la rotation d'un trou noir fait varier de 6 % à plus de 30 % la part de la matière convertie en lumière",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Le dernier virage avant la chute",
+      "body": "On a vu que le gaz qui tombe vers un trou noir rayonne une part de sa masse bien plus grande que la fusion, entre 6 % et plus de 30 % (jour 83). Cet écart tient à un endroit précis : la dernière orbite stable. C'est la distance la plus courte à laquelle de la matière peut encore tourner autour d'un trou noir sans tomber ; plus près, aucune orbite ne tient, et le gaz plonge directement vers l'horizon des événements (jour 23). Tant qu'il tourne dans le disque d'accrétion (jour 75), il s'échauffe et rayonne ; une fois cette limite franchie, il disparaît sans presque plus rien émettre."
+    },
+    {
+      "h": "La rotation rapproche la limite",
+      "body": "Un trou noir peut tourner sur lui-même, comme l'étoile dont il est souvent issu : en s'effondrant, elle a conservé et même accéléré sa rotation. Les astronomes appellent spin ce degré de rotation. Or, d'après la relativité générale (jour 36), la rotation entraîne avec elle l'espace-temps voisin (jour 37), ce qui permet au gaz qui tourne dans le même sens que le trou noir de tenir sur des orbites plus serrées. Autour d'un trou noir immobile, la dernière orbite stable se situe à trois fois la taille de l'horizon ; autour d'un trou noir qui tourne au maximum, elle descend presque jusqu'à l'horizon lui-même."
+    },
+    {
+      "h": "Plus près, plus de lumière",
+      "body": "Un gaz qui peut descendre plus bas avant de plonger a plus longtemps pour s'échauffer et rayonner : c'est toute la différence entre 6 % et plus de 30 %. Le spin d'un trou noir n'est donc pas un détail : il règle le rendement de la machine. Il se mesure d'ailleurs à partir de la lumière du disque, dont la partie la plus interne trahit la position de la dernière orbite stable. Les trous noirs supermassifs observés tournent souvent vite, ce qui renseigne aussi sur la façon dont ils ont grossi."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Dernière orbite stable",
+      "def": "Distance la plus courte à laquelle de la matière peut encore tourner autour d'un trou noir ; en deçà, elle plonge vers l'horizon sans presque plus rayonner."
+    },
+    {
+      "term": "Spin (d'un trou noir)",
+      "def": "Degré de rotation d'un trou noir sur lui-même ; plus il est élevé, plus la dernière orbite stable se rapproche de l'horizon et plus la matière qui tombe rayonne d'énergie."
+    }
+  ],
+  "recap": "Un trou noir qui tourne permet au gaz de tourner plus près de lui avant de plonger : celui-ci rayonne alors davantage, ce qui fait passer le rendement de 6 % à plus de 30 %.",
+  "next": "Demain — comment la rotation d'un trou noir renseigne sur la manière dont il a grossi."
+}
