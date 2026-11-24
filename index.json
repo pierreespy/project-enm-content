@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-24",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-11-24",
+      "slot": "midi",
+      "file": "editions/2026-11-24-midi.json",
+      "essentiel": "Mort de Nahel : la cour d'appel de Versailles renvoie finalement le policier devant la cour d'assises des Hauts-de-Seine pour meurtre",
+      "term": "Effet de purge de la décision de mise en accusation",
+      "rubriques": [
+        "Relance et décentralisation du logement : l'Assemblée nationale procède cet après-midi au vote solennel sur le projet de loi, adopté par le Sénat en juillet",
+        "Surendettement : la recevabilité du dossier ne remet pas en cause une saisie-attribution antérieure dont l'effet attributif était déjà acquis (Cass. 2e civ., 19 nov. 2026, n° 24-10.115, B)",
+        "« Empêchement administratif individuel de manifester : quel régime ? » : pour Didier Truchet, l'usage des MICAS contre des manifestants relève du détournement de procédure",
+        "24 novembre 1832 : la Caroline du Sud adopte l'ordonnance de nullification et déclare inapplicables sur son sol les tarifs douaniers fédéraux",
+        "Surendettement des personnes âgées : recevabilité devant la commission, prise en compte des frais de dépendance et d'hébergement, préservation du logement",
+        "Pharmacie : Sanofi annonce le rachat de l'américain Insmed pour environ 41 milliards de dollars, la plus grosse acquisition de son histoire"
+      ]
+    },
     {
       "date": "2026-11-24",
       "slot": "matin",

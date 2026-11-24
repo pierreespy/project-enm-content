@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Contribution des laboratoires pharmaceutiques : le Conseil constitutionnel censure la validation rétroactive, pour 2014 à 2024, des sommes versées par l'industrie",
-    "dek": "Saisi par Alexion Pharma France, rejointe notamment par AbbVie et neuf autres entreprises, le Conseil juge que le paragraphe V de l'article 28 de la LFSS pour 2026, qui validait les contributions calculées sans déduire les remises consenties au CEPS, n'est justifié par aucun motif impérieux d'intérêt général : le risque financier des contentieux en cours ne menace pas l'équilibre de la sécurité sociale. Publiée au Journal officiel du 21 novembre, la censure joue immédiatement dans toutes les instances non définitivement jugées — sans pour autant valoir remboursement automatique.",
-    "source": "Cons. const., déc. n° 2026-1234 QPC du 20 nov. 2026 · communiqué de presse",
-    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1234-qpc-du-20-novembre-2026-communique-de-presse"
+    "title": "Mort de Nahel : la cour d'appel de Versailles renvoie finalement le policier devant la cour d'assises des Hauts-de-Seine pour meurtre",
+    "dek": "Statuant sur renvoi après la cassation du 10 juin 2026, la chambre de l'instruction autrement composée écarte la requalification en violences volontaires ayant entraîné la mort sans intention de la donner, retenue en mars, et ordonne la mise en accusation de Florian M. pour meurtre — crime passible de trente ans de réclusion et jugé par un jury populaire, non par la cour criminelle départementale. La défense annonce un nouveau pourvoi ; les proches de l'adolescent saluent « une partie de la bataille gagnée ».",
+    "source": "CA Versailles, ch. de l'instruction, 24 nov. 2026 · franceinfo",
+    "url": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/mort-de-nahel-merzouk-en-2023-la-cour-d-appel-de-versailles-confirme-le-renvoi-du-policier-devant-les-assises-pour-meurtre_8295785.html"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Loi de finances de fin de gestion pour 2026 : le Sénat examine cet après-midi les conclusions de la commission mixte paritaire, avant de reprendre le PLF 2027",
-      "summary": "Inscrites à 14 h 30 à l'ordre du jour de ce mardi, les conclusions de la CMP sur le texte de fin de gestion — rejeté par l'Assemblée nationale après engagement de la procédure accélérée — précèdent la suite de la discussion de la première partie du projet de loi de finances pour 2027, programmée jusqu'au vendredi 27 novembre.",
-      "source": "Sénat, ordre du jour de la séance publique, 24 nov. 2026 · Vie-publique, PLFG pour 2026",
-      "url": "https://www.vie-publique.fr/loi/305234-projet-de-loi-de-finances-de-fin-de-gestion-pour-2026",
+      "title": "Relance et décentralisation du logement : l'Assemblée nationale procède cet après-midi au vote solennel sur le projet de loi, adopté par le Sénat en juillet",
+      "summary": "Après deux semaines de débats marqués par l'adoption d'un amendement remettant en cause, à l'article 6, le calendrier d'interdiction de location des passoires thermiques, les députés se prononcent à 16 h 30 sur un texte qui crée les « opérations d'intérêt local » dérogatoires aux règles d'urbanisme et vise deux millions de logements d'ici 2030, avant une commission mixte paritaire espérée d'ici la fin de l'année.",
+      "source": "Assemblée nationale, dossier législatif · ordre du jour du 24 nov. 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Congé triennal pour démolir et reconstruire : le bailleur commercial ne peut, en cours d'instance, substituer à ce motif la dangerosité de l'immeuble (Cass. 3e civ., 19 nov. 2026, n° 25-17.299, B)",
-      "summary": "La troisième chambre civile fige le fondement choisi dans le congé délivré au titre de l'article L. 145-18 du code de commerce : le péril de l'immeuble relève d'un autre régime, celui du refus de renouvellement à l'échéance, et ne peut être invoqué après coup pour échapper au cadre de la reprise pour reconstruction.",
-      "source": "Cass. 3e civ., 19 nov. 2026, n° 25-17.299, publié au Bulletin · Kohen avocats",
-      "url": "https://kohenavocats.fr/2026/11/19/conge-bail-commercial-demolir-reconstruire-periode-triennale-l145-18-peril-motif-fige-cassation-19-novembre-2026/",
+      "title": "Surendettement : la recevabilité du dossier ne remet pas en cause une saisie-attribution antérieure dont l'effet attributif était déjà acquis (Cass. 2e civ., 19 nov. 2026, n° 24-10.115, B)",
+      "summary": "La deuxième chambre civile rejette le pourvoi du débiteur : la suspension et l'interdiction des procédures d'exécution attachées à la décision de recevabilité valent pour l'avenir, alors que la saisie-attribution pratiquée auparavant a, dès sa signification, fait sortir la créance saisie de son patrimoine au profit du créancier saisissant.",
+      "source": "Cass. 2e civ., 19 nov. 2026, n° 24-10.115, publié au Bulletin · Kohen avocats",
+      "url": "https://kohenavocats.fr/2026/11/24/garantie-visale-et-surendettement-impayes-loyer-subrogation-action-logement-clause-resolutoire-effacement/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "« QPC : premier arrivé, seul servi (sauf vraie nouveauté) » : le gel des questions sérielles décrypté",
-      "summary": "Sur le blog de Landot & associés, l'auteur montre, à partir d'un non-lieu du Conseil d'État du 14 octobre 2026 (n° 517850) rendu dans le sillage de l'affaire n° 2026-1225 QPC, qu'une question portant sur une disposition déjà soumise au Conseil constitutionnel sans grief réellement distinct est neutralisée, son auteur ne pouvant plus qu'intervenir dans l'affaire pilote.",
-      "source": "Blog Landot & associés, 23 nov. 2026",
-      "url": "https://blog.landot-avocats.net/2026/11/23/qpc-premier-arrive-seul-servi-sauf-vraie-nouveaute/",
+      "title": "« Empêchement administratif individuel de manifester : quel régime ? » : pour Didier Truchet, l'usage des MICAS contre des manifestants relève du détournement de procédure",
+      "summary": "Le professeur émérite de Paris-Panthéon-Assas rappelle que les mesures des articles L. 228-1 et suivants du code de la sécurité intérieure sont réservées à la prévention du terrorisme et que, hors état d'urgence et depuis la censure de 2019 (n° 2019-780 DC), l'autorité administrative n'a aucun pouvoir d'empêcher une personne de rejoindre une manifestation déclarée.",
+      "source": "Le Club des juristes, Didier Truchet",
+      "url": "https://www.leclubdesjuristes.com/?p=18328",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "24 novembre 1859 : Charles Darwin publie à Londres De l'origine des espèces",
-      "summary": "Tiré à 1 250 exemplaires chez John Murray et épuisé dès le premier jour selon la tradition, l'ouvrage expose la théorie de l'évolution par la sélection naturelle, fruit de plus de vingt ans de travail depuis le voyage du Beagle, et déclenche une controverse scientifique et religieuse qui dépassera largement le cercle des naturalistes.",
-      "source": "Wikipédia, « L'Origine des espèces »",
-      "url": "https://fr.wikipedia.org/wiki/L%27Origine_des_esp%C3%A8ces",
+      "title": "24 novembre 1832 : la Caroline du Sud adopte l'ordonnance de nullification et déclare inapplicables sur son sol les tarifs douaniers fédéraux",
+      "summary": "Réunie en convention, la Caroline du Sud proclame « nuls et non avenus » les tarifs de 1828 et 1832 en invoquant la doctrine de John C. Calhoun, selon laquelle un État peut neutraliser une loi fédérale qu'il juge inconstitutionnelle ; la crise, close en 1833 par un tarif de compromis et la menace d'une intervention armée d'Andrew Jackson, préfigure le débat sur la souveraineté des États qui mènera à la Sécession.",
+      "source": "Wikipédia, « Crise de la nullification »",
+      "url": "https://fr.wikipedia.org/wiki/Crise_de_la_nullification",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Élections au Conseil national des barreaux : les avocats votent ce mardi, en ligne, de 5 h à 22 h, pour la mandature 2027-2029",
-      "summary": "Le scrutin électronique se tient le même jour pour le collège ordinal et le collège général, avec une assistance téléphonique dédiée ; les résultats seront proclamés demain et l'assemblée générale élective du nouveau CNB est fixée au 10 décembre 2026.",
-      "source": "Conseil national des barreaux · Barreau de Paris",
-      "url": "https://cnb.avocat.fr/elections-du-conseil-national-des-barreaux-2026",
+      "title": "Surendettement des personnes âgées : recevabilité devant la commission, prise en compte des frais de dépendance et d'hébergement, préservation du logement",
+      "summary": "Guide à l'usage des praticiens qui accompagnent un débiteur âgé : constitution du dossier devant la commission de la Banque de France, intégration des frais d'EHPAD et de dépendance dans le calcul du reste à vivre, arbitrage entre maintien dans le logement et vente, et conditions d'accès au rétablissement personnel en l'absence de capacité de remboursement.",
+      "source": "Kohen avocats, 24 nov. 2026",
+      "url": "https://kohenavocats.fr/2026/11/24/dossier-de-surendettement-des-personnes-agees-recevabilite-frais-dependance-hebergement-logement-retablissement-personnel/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Choose France – Édition France : 273 projets et 42,5 milliards d'euros d'investissements annoncés par les entreprises françaises",
-      "summary": "Au terme du sommet organisé lundi à Bercy, le ministre de l'Économie Roland Lescure a fait état de près de deux fois plus de projets que l'an dernier (151), dont 81 inédits représentant 14,9 milliards d'euros, dans un contexte de ralentissement de l'activité du secteur privé.",
-      "source": "franceinfo, 23 nov. 2026",
-      "url": "https://www.franceinfo.fr/economie/sommet-choose-france-2026-on-a-a-la-fois-plus-de-projets-et-plus-de-montants-investis-souligne-le-ministre-de-l-economie-roland-lescure_8295686.html",
+      "title": "Pharmacie : Sanofi annonce le rachat de l'américain Insmed pour environ 41 milliards de dollars, la plus grosse acquisition de son histoire",
+      "summary": "Le groupe français offre 175 dollars par action en numéraire, soit une prime d'environ 46 % sur le cours du 18 novembre, veille des premières informations de presse, pour mettre la main sur le Brinsupri, traitement respiratoire appelé à dépasser le milliard de dollars de ventes dès 2026, au moment où approche l'expiration des brevets de son produit phare, le Dupixent.",
+      "source": "Insmed, communiqué (SEC, formulaire 8-K) · Fierce Pharma",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001104506/000114036126045364/ef20086426_ex99-1.htm",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Droit de repentir",
-    "subtitle": "Baux commerciaux · Article L. 145-58 du code de commerce",
-    "defShort": "Faculté pour le bailleur qui a refusé le renouvellement d'un bail commercial de revenir sur ce refus et de consentir finalement au renouvellement, afin de se soustraire au paiement de l'indemnité d'éviction, à condition que le locataire soit encore dans les lieux.",
+    "term": "Effet de purge de la décision de mise en accusation",
+    "subtitle": "Procédure pénale · Articles 181 et 595 du code de procédure pénale",
+    "defShort": "Règle selon laquelle la décision renvoyant l'accusé devant la cour d'assises, une fois devenue définitive, « couvre » les vices de la procédure d'instruction : aucune nullité antérieure ne peut plus être soulevée devant la juridiction de jugement.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Le bailleur qui refuse le renouvellement doit en principe verser au preneur une indemnité d'éviction égale au préjudice causé, souvent considérable puisqu'elle couvre la valeur du fonds. Le droit de repentir lui offre une porte de sortie : tant que l'indemnité n'est pas payée et que le locataire n'a pas quitté les lieux, il peut « se repentir » et offrir le renouvellement, ce qui le libère de l'indemnité mais le condamne aux frais de l'instance."
+        "body": "L'instruction est le seul moment où les nullités de la procédure préparatoire peuvent être discutées. Lorsque l'ordonnance du juge d'instruction ou l'arrêt de la chambre de l'instruction portant mise en accusation devient définitif — faute de recours, ou après rejet du pourvoi —, il purge la procédure : la cour d'assises ne peut ni constater ni même examiner une irrégularité antérieure, aussi grave soit-elle."
       },
       {
         "h": "Fondement",
-        "body": "Article L. 145-58 du code de commerce : le droit s'exerce jusqu'à l'expiration d'un délai de quinze jours à compter de la date à laquelle la décision fixant l'indemnité est passée en force de chose jugée. Il est d'ordre public et l'exercice en est irrévocable : le bailleur qui s'est repenti ne peut plus revenir à son refus. Le nouveau bail court à compter de la notification du repentir."
+        "body": "L'article 181 du code de procédure pénale prévoit que l'ordonnance de mise en accusation devenue définitive couvre, s'il en existe, les vices de la procédure ; l'article 595 pose la même règle pour la décision de renvoi devant la cour d'assises et interdit aux parties de soulever devant elle les nullités de l'information. L'article 385 en est l'équivalent atténué devant le tribunal correctionnel, et l'article 574 ouvre le pourvoi contre l'arrêt de mise en accusation, ultime occasion de faire juger ces griefs."
       },
       {
         "h": "Cas visés et limites",
-        "body": "Le repentir est fermé lorsque le locataire, sur la foi du refus, a déjà quitté les lieux, ou lorsqu'il a acheté ou loué un autre immeuble destiné à sa réinstallation (art. L. 145-58, al. 1er) : la jurisprudence apprécie strictement ce point de non-retour, qui doit être antérieur à la notification du repentir. Le repentir exercé de mauvaise foi, pour simplement retarder l'éviction ou faire pression sur le preneur, peut être sanctionné comme abusif."
+        "body": "La purge vise les irrégularités de forme et de fond de l'information : actes d'enquête, auditions, perquisitions, mises en examen. Elle ne couvre ni l'incompétence d'ordre public de la juridiction de jugement, ni les vices affectant la décision de renvoi elle-même lorsqu'ils peuvent encore être critiqués par la voie du pourvoi, ni bien sûr les irrégularités postérieures, commises lors des débats. La qualification retenue lie la cour d'assises quant à sa saisine, mais pas son appréciation des faits, qu'elle juge souverainement."
       },
       {
         "h": "Portée",
-        "body": "Mécanisme original, sans équivalent général en droit des contrats, il illustre la logique du statut des baux commerciaux : le refus de renouvellement n'est pas une rupture définitive mais une option financière, que le bailleur peut réévaluer au vu du montant de l'indemnité fixée par le juge. Il ne doit pas être confondu avec le droit de repentir de l'auteur (art. L. 121-4 CPI), qui permet à l'écrivain ou à l'artiste de retirer son œuvre après cession, moyennant indemnisation du cessionnaire."
+        "body": "Le mécanisme explique l'enjeu des pourvois formés contre les arrêts de mise en accusation, comme celui qu'annonce la défense dans l'affaire Nahel : c'est la dernière fenêtre pour contester la régularité de l'instruction. Il assure la stabilité de la saisine d'une juridiction dont le jury populaire ne peut être exposé à un procès annulé pour une irrégularité ancienne, au prix d'une lourde charge de vigilance pour les avocats dès la phase d'instruction (art. 173-1 et 175 CPP)."
       }
     ],
-    "seeAlso": "Voir aussi — indemnité d'éviction (art. L. 145-14 C. com.) · droit de maintien dans les lieux (art. L. 145-28) · congé pour reconstruire (art. L. 145-18) · droit de repentir de l'auteur (art. L. 121-4 CPI)"
+    "seeAlso": "Voir aussi — forclusion des nullités (art. 173-1 CPP) · avis de fin d'information (art. 175 CPP) · pourvoi contre l'arrêt de mise en accusation (art. 574 CPP) · purge des nullités devant le tribunal correctionnel (art. 385 CPP)"
   },
   "date": "2026-11-24",
   "dateShort": "24 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 85,
     "title": "La rotation d'un trou noir garde la trace de sa croissance",
