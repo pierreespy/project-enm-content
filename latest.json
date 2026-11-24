@@ -1,125 +1,125 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Narchomicides de la Duchère : la cour d'assises spéciale du Rhône ouvre sous très haute sécurité un procès de quatre semaines… sans son principal accusé, toujours détenu en Colombie",
-    "dek": "Depuis ce lundi et jusqu'au 18 décembre, une dizaine d'accusés comparaissent devant une cour composée exclusivement de magistrats professionnels pour la mort de deux adolescents et trois fusillades liées au trafic de stupéfiants à la Duchère en 2022. Le commanditaire présumé, Karim Ben Addi, dit « Fiston », incarcéré à la prison de la Picota à Bogota, n'a pu être extradé à temps : la cour doit dire si elle disjoint son cas pour le juger plus tard ou s'il est jugé en son absence, sous le régime du défaut criminel.",
-    "source": "Cour d'assises spéciale du Rhône, 23 nov.-18 déc. 2026 · ICI Lyon · Lyon Mag",
-    "url": "https://www.ici.fr/auvergne-rhone-alpes/rhone-69/lyon/narcobanditisme-a-lyon-un-proces-sous-tres-haute-securite-s-ouvre-sans-son-principal-accuse-reste-en-colombie-1160719"
+    "title": "Contribution des laboratoires pharmaceutiques : le Conseil constitutionnel censure la validation rétroactive, pour 2014 à 2024, des sommes versées par l'industrie",
+    "dek": "Saisi par Alexion Pharma France, rejointe notamment par AbbVie et neuf autres entreprises, le Conseil juge que le paragraphe V de l'article 28 de la LFSS pour 2026, qui validait les contributions calculées sans déduire les remises consenties au CEPS, n'est justifié par aucun motif impérieux d'intérêt général : le risque financier des contentieux en cours ne menace pas l'équilibre de la sécurité sociale. Publiée au Journal officiel du 21 novembre, la censure joue immédiatement dans toutes les instances non définitivement jugées — sans pour autant valoir remboursement automatique.",
+    "source": "Cons. const., déc. n° 2026-1234 QPC du 20 nov. 2026 · communiqué de presse",
+    "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-1234-qpc-du-20-novembre-2026-communique-de-presse"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "PLF 2027 : après le rejet à l'Assemblée, le Sénat poursuit ce lundi l'examen des articles de la première partie, sur le texte initial du Gouvernement",
-      "summary": "La commission des finances, sur le rapport de la rapporteure générale Christine Lavarde, a examiné dès 8 h 30 les amendements de séance déposés jusqu'au 19 novembre, avant la reprise de la discussion en séance publique à 10 h 30 : le projet de loi de finances ayant été rejeté en première lecture par les députés, les sénateurs repartent du texte déposé par le Gouvernement, enrichi des amendements adoptés par la commission le 12 novembre.",
-      "source": "Sénat, ordre du jour de la séance publique, 23 nov. 2026 · PLF pour 2027, n° 155 (2026-2027)",
-      "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+      "title": "Loi de finances de fin de gestion pour 2026 : le Sénat examine cet après-midi les conclusions de la commission mixte paritaire, avant de reprendre le PLF 2027",
+      "summary": "Inscrites à 14 h 30 à l'ordre du jour de ce mardi, les conclusions de la CMP sur le texte de fin de gestion — rejeté par l'Assemblée nationale après engagement de la procédure accélérée — précèdent la suite de la discussion de la première partie du projet de loi de finances pour 2027, programmée jusqu'au vendredi 27 novembre.",
+      "source": "Sénat, ordre du jour de la séance publique, 24 nov. 2026 · Vie-publique, PLFG pour 2026",
+      "url": "https://www.vie-publique.fr/loi/305234-projet-de-loi-de-finances-de-fin-de-gestion-pour-2026",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Rupture conventionnelle d'un salarié protégé homologuée sans autorisation : le délai de douze mois pour agir en nullité court dès l'homologation (Cass. soc., 10 nov. 2026, n° 23-23.782, B)",
-      "summary": "La chambre sociale juge que le recours en nullité doit être formé dans les douze mois de l'autorisation de l'inspecteur du travail ou, à défaut, de la décision d'homologation, et déclare prescrite, par une cassation partielle sans renvoi, l'action d'une élue dont la rupture avait été simplement homologuée au mépris de l'article L. 1237-15 du code du travail.",
-      "source": "Cass. soc., 10 nov. 2026, n° 23-23.782, publié au Bulletin · Dairia avocats",
-      "url": "https://www.dairia-avocats.com/blog/rupture-conventionnelle-salarie-protege-delai-recours-nullite-cass-soc-10-novembre-2026",
+      "title": "Congé triennal pour démolir et reconstruire : le bailleur commercial ne peut, en cours d'instance, substituer à ce motif la dangerosité de l'immeuble (Cass. 3e civ., 19 nov. 2026, n° 25-17.299, B)",
+      "summary": "La troisième chambre civile fige le fondement choisi dans le congé délivré au titre de l'article L. 145-18 du code de commerce : le péril de l'immeuble relève d'un autre régime, celui du refus de renouvellement à l'échéance, et ne peut être invoqué après coup pour échapper au cadre de la reprise pour reconstruction.",
+      "source": "Cass. 3e civ., 19 nov. 2026, n° 25-17.299, publié au Bulletin · Kohen avocats",
+      "url": "https://kohenavocats.fr/2026/11/19/conge-bail-commercial-demolir-reconstruire-periode-triennale-l145-18-peril-motif-fige-cassation-19-novembre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "Prêts en francs suisses aux frontaliers : ce qui distingue l'arrêt du 4 novembre 2026 de celui du 9 juillet 2025",
-      "summary": "Au Village de la Justice, David Dana montre que la première chambre civile, qui casse un arrêt ayant écarté le caractère abusif de la clause de change au seul motif que les emprunteurs étaient payés en francs suisses, exige que le juge tienne compte du bien financé, situé en France — un arrêt non publié qui ne déclare pas la clause abusive mais renvoie à la cour d'appel de Lyon la recherche omise.",
-      "source": "D. Dana, Village de la Justice, nov. 2026 · Cass. 1re civ., 4 nov. 2026, n° 25-16.097",
-      "url": "https://www.village-justice.com/articles/prets-francs-suisses-credit-agricole-des-savoie-consentis-aux-emprunteurs,60149.html",
+      "title": "« QPC : premier arrivé, seul servi (sauf vraie nouveauté) » : le gel des questions sérielles décrypté",
+      "summary": "Sur le blog de Landot & associés, l'auteur montre, à partir d'un non-lieu du Conseil d'État du 14 octobre 2026 (n° 517850) rendu dans le sillage de l'affaire n° 2026-1225 QPC, qu'une question portant sur une disposition déjà soumise au Conseil constitutionnel sans grief réellement distinct est neutralisée, son auteur ne pouvant plus qu'intervenir dans l'affaire pilote.",
+      "source": "Blog Landot & associés, 23 nov. 2026",
+      "url": "https://blog.landot-avocats.net/2026/11/23/qpc-premier-arrive-seul-servi-sauf-vraie-nouveaute/",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "23 novembre 1944 : la 2e DB du général Leclerc libère Strasbourg et accomplit le serment de Koufra",
-      "summary": "En faisant hisser le drapeau tricolore sur la cathédrale, Leclerc tient la promesse faite à ses hommes le 2 mars 1941 dans l'oasis libyenne de Koufra — ne déposer les armes que lorsque les couleurs flotteraient sur Strasbourg —, rendant à la France la capitale d'une Alsace annexée de fait depuis 1940 et soumise au droit allemand.",
-      "source": "Wikipédia, « Libération de Strasbourg » · Ordre de la Libération",
-      "url": "https://fr.wikipedia.org/wiki/Lib%C3%A9ration_de_Strasbourg",
+      "title": "24 novembre 1859 : Charles Darwin publie à Londres De l'origine des espèces",
+      "summary": "Tiré à 1 250 exemplaires chez John Murray et épuisé dès le premier jour selon la tradition, l'ouvrage expose la théorie de l'évolution par la sélection naturelle, fruit de plus de vingt ans de travail depuis le voyage du Beagle, et déclenche une controverse scientifique et religieuse qui dépassera largement le cercle des naturalistes.",
+      "source": "Wikipédia, « L'Origine des espèces »",
+      "url": "https://fr.wikipedia.org/wiki/L%27Origine_des_esp%C3%A8ces",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Congrès des maires : ouvert ce lundi à Paris, le premier congrès du nouveau mandat consacre un forum à la responsabilité pénale des élus après la loi sur le statut de l'élu",
-      "summary": "Du 23 au 26 novembre, l'AMF fait le point avec les élus sur les régimes de responsabilité auxquels ils sont exposés et sur les outils de prévention — référent déontologue, déport en cas de conflit d'intérêts, protection fonctionnelle — tels que les a remaniés la loi du 22 décembre 2025 portant création du statut de l'élu local.",
-      "source": "AMF, programme du 108e Congrès des maires, 23-26 nov. 2026 · DGCL, Guide du maire 2026",
-      "url": "https://www.amf.asso.fr/m/congres26/programme.php",
+      "title": "Élections au Conseil national des barreaux : les avocats votent ce mardi, en ligne, de 5 h à 22 h, pour la mandature 2027-2029",
+      "summary": "Le scrutin électronique se tient le même jour pour le collège ordinal et le collège général, avec une assistance téléphonique dédiée ; les résultats seront proclamés demain et l'assemblée générale élective du nouveau CNB est fixée au 10 décembre 2026.",
+      "source": "Conseil national des barreaux · Barreau de Paris",
+      "url": "https://cnb.avocat.fr/elections-du-conseil-national-des-barreaux-2026",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "« Choose France – Édition France » : Bercy réunit ce lundi les entreprises françaises qui investissent sur le territoire, pour la deuxième édition du sommet",
-      "summary": "Lancée par Roland Lescure, cette déclinaison nationale du sommet de Versailles met en avant les projets industriels et d'innovation portés par des groupes français, après une première édition qui avait recensé 30,4 milliards d'euros d'investissements annoncés par 200 entreprises.",
-      "source": "Ministère de l'Économie, DGE, 23 nov. 2026",
-      "url": "https://www.entreprises.gouv.fr/la-dge/actualites/choose-france-edition-france-un-nouveau-sommet-destine-valoriser-les-entreprises",
+      "title": "Choose France – Édition France : 273 projets et 42,5 milliards d'euros d'investissements annoncés par les entreprises françaises",
+      "summary": "Au terme du sommet organisé lundi à Bercy, le ministre de l'Économie Roland Lescure a fait état de près de deux fois plus de projets que l'an dernier (151), dont 81 inédits représentant 14,9 milliards d'euros, dans un contexte de ralentissement de l'activité du secteur privé.",
+      "source": "franceinfo, 23 nov. 2026",
+      "url": "https://www.franceinfo.fr/economie/sommet-choose-france-2026-on-a-a-la-fois-plus-de-projets-et-plus-de-montants-investis-souligne-le-ministre-de-l-economie-roland-lescure_8295686.html",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Défaut criminel",
-    "subtitle": "Procédure pénale · Articles 379-2 à 379-6 du Code de procédure pénale",
-    "defShort": "Procédure par laquelle la cour d'assises juge un accusé absent sans excuse valable à l'ouverture de l'audience ; l'arrêt rendu est anéanti de plein droit si le condamné est arrêté ou se constitue prisonnier avant la prescription de la peine.",
+    "term": "Droit de repentir",
+    "subtitle": "Baux commerciaux · Article L. 145-58 du code de commerce",
+    "defShort": "Faculté pour le bailleur qui a refusé le renouvellement d'un bail commercial de revenir sur ce refus et de consentir finalement au renouvellement, afin de se soustraire au paiement de l'indemnité d'éviction, à condition que le locataire soit encore dans les lieux.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Créé par la loi n° 2004-204 du 9 mars 2004 (dite Perben II), le défaut criminel a remplacé l'ancienne contumace. Lorsque l'accusé ne comparaît pas sans excuse valable, la cour d'assises peut le juger en son absence plutôt que de renvoyer l'affaire ; son avocat peut désormais le représenter et plaider pour lui, ce que la contumace interdisait."
+        "body": "Le bailleur qui refuse le renouvellement doit en principe verser au preneur une indemnité d'éviction égale au préjudice causé, souvent considérable puisqu'elle couvre la valeur du fonds. Le droit de repentir lui offre une porte de sortie : tant que l'indemnité n'est pas payée et que le locataire n'a pas quitté les lieux, il peut « se repentir » et offrir le renouvellement, ce qui le libère de l'indemnité mais le condamne aux frais de l'instance."
       },
       {
         "h": "Fondement",
-        "body": "Articles 379-2 à 379-6 du CPP. La réforme tire les conséquences de la condamnation de la France par la CEDH (Krombach c. France, 13 févr. 2001), qui avait jugé contraire à l'article 6 de la Convention l'impossibilité pour l'accusé contumax d'être défendu. Selon l'article 379-3, la cour statue sans l'assistance des jurés, sauf si d'autres accusés sont jugés simultanément ou si l'absence n'a été constatée qu'après le début des débats."
+        "body": "Article L. 145-58 du code de commerce : le droit s'exerce jusqu'à l'expiration d'un délai de quinze jours à compter de la date à laquelle la décision fixant l'indemnité est passée en force de chose jugée. Il est d'ordre public et l'exercice en est irrévocable : le bailleur qui s'est repenti ne peut plus revenir à son refus. Le nouveau bail court à compter de la notification du repentir."
       },
       {
-        "h": "Cas visés",
-        "body": "L'accusé en fuite, ou qui refuse de comparaître sans motif légitime. L'excuse valable (maladie dûment justifiée, détention que l'accusé ne peut lever) conduit au contraire à un renvoi ou à une disjonction. Dans un procès à plusieurs accusés, la cour peut ainsi choisir entre disjoindre le cas de l'absent pour le juger ultérieurement et le juger par défaut en même temps que les autres — dilemme posé aujourd'hui à la cour d'assises spéciale du Rhône."
+        "h": "Cas visés et limites",
+        "body": "Le repentir est fermé lorsque le locataire, sur la foi du refus, a déjà quitté les lieux, ou lorsqu'il a acheté ou loué un autre immeuble destiné à sa réinstallation (art. L. 145-58, al. 1er) : la jurisprudence apprécie strictement ce point de non-retour, qui doit être antérieur à la notification du repentir. Le repentir exercé de mauvaise foi, pour simplement retarder l'éviction ou faire pression sur le preneur, peut être sanctionné comme abusif."
       },
       {
         "h": "Portée",
-        "body": "Le mécanisme de la « purge » distingue le défaut criminel du défaut correctionnel : la personne condamnée ne peut faire ni opposition ni appel (art. 379-5), mais si elle est arrêtée ou se constitue prisonnière avant la prescription de la peine, l'arrêt est non avenu dans toutes ses dispositions et elle est rejugée (art. 379-4). D'ici là, la décision par défaut n'est pas lettre morte : elle permet de rechercher le condamné et substitue la prescription de la peine (vingt ans en matière criminelle) à celle de l'action publique."
+        "body": "Mécanisme original, sans équivalent général en droit des contrats, il illustre la logique du statut des baux commerciaux : le refus de renouvellement n'est pas une rupture définitive mais une option financière, que le bailleur peut réévaluer au vu du montant de l'indemnité fixée par le juge. Il ne doit pas être confondu avec le droit de repentir de l'auteur (art. L. 121-4 CPI), qui permet à l'écrivain ou à l'artiste de retirer son œuvre après cession, moyennant indemnisation du cessionnaire."
       }
     ],
-    "seeAlso": "Voir aussi — contumace (procédure abrogée) · jugement par défaut et opposition (art. 489 CPP) · disjonction des poursuites · cour d'assises spéciale (art. 698-6 et 706-27 CPP)"
+    "seeAlso": "Voir aussi — indemnité d'éviction (art. L. 145-14 C. com.) · droit de maintien dans les lieux (art. L. 145-28) · congé pour reconstruire (art. L. 145-18) · droit de repentir de l'auteur (art. L. 121-4 CPI)"
   },
-  "date": "2026-11-23",
-  "dateShort": "23 nov.",
-  "slot": "midi",
+  "date": "2026-11-24",
+  "dateShort": "24 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 84,
-    "title": "Un trou noir qui tourne rend plus d'énergie",
-    "subtitle": "Pourquoi la rotation d'un trou noir fait varier de 6 % à plus de 30 % la part de la matière convertie en lumière",
+    "n": 85,
+    "title": "La rotation d'un trou noir garde la trace de sa croissance",
+    "subtitle": "Pourquoi un trou noir nourri toujours dans le même sens tourne vite, et un trou noir nourri au hasard tourne lentement",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Le dernier virage avant la chute",
-        "body": "On a vu que le gaz qui tombe vers un trou noir rayonne une part de sa masse bien plus grande que la fusion, entre 6 % et plus de 30 % (jour 83). Cet écart tient à un endroit précis : la dernière orbite stable. C'est la distance la plus courte à laquelle de la matière peut encore tourner autour d'un trou noir sans tomber ; plus près, aucune orbite ne tient, et le gaz plonge directement vers l'horizon des événements (jour 23). Tant qu'il tourne dans le disque d'accrétion (jour 75), il s'échauffe et rayonne ; une fois cette limite franchie, il disparaît sans presque plus rien émettre."
+        "h": "Chaque apport modifie la rotation",
+        "body": "Un trou noir supermassif grossit de deux façons : en avalant le gaz de son disque d'accrétion (jour 75), ou en fusionnant avec un autre trou noir lorsque deux galaxies se rencontrent. Chaque apport modifie son spin (jour 84). Le gaz qui tourne dans le même sens que le trou noir lui apporte de la rotation et l'accélère ; le gaz qui tourne en sens inverse le freine, et une fusion transmet au trou noir final une partie de la rotation des deux trous noirs qui s'unissent comme de leur mouvement l'un autour de l'autre. Le spin d'aujourd'hui est donc la somme de tous ces apports successifs, un peu comme un solde de compte résume l'historique des opérations sans les détailler une à une."
       },
       {
-        "h": "La rotation rapproche la limite",
-        "body": "Un trou noir peut tourner sur lui-même, comme l'étoile dont il est souvent issu : en s'effondrant, elle a conservé et même accéléré sa rotation. Les astronomes appellent spin ce degré de rotation. Or, d'après la relativité générale (jour 36), la rotation entraîne avec elle l'espace-temps voisin (jour 37), ce qui permet au gaz qui tourne dans le même sens que le trou noir de tenir sur des orbites plus serrées. Autour d'un trou noir immobile, la dernière orbite stable se situe à trois fois la taille de l'horizon ; autour d'un trou noir qui tourne au maximum, elle descend presque jusqu'à l'horizon lui-même."
+        "h": "Deux histoires, deux résultats",
+        "body": "Si le gaz arrive longtemps du même côté, en un flux régulier et toujours orienté de la même manière, les apports s'additionnent : le trou noir finit par tourner près du maximum possible. Les astronomes parlent d'accrétion cohérente. Si au contraire il se nourrit par une multitude de petits épisodes venus de directions quelconques, les accélérations et les freinages se compensent en grande partie : le spin reste modeste. On parle alors d'accrétion chaotique. Les fusions donnent un résultat intermédiaire : deux trous noirs qui se rejoignent produisent en général un trou noir qui tourne assez vite, mais rarement au maximum."
       },
       {
-        "h": "Plus près, plus de lumière",
-        "body": "Un gaz qui peut descendre plus bas avant de plonger a plus longtemps pour s'échauffer et rayonner : c'est toute la différence entre 6 % et plus de 30 %. Le spin d'un trou noir n'est donc pas un détail : il règle le rendement de la machine. Il se mesure d'ailleurs à partir de la lumière du disque, dont la partie la plus interne trahit la position de la dernière orbite stable. Les trous noirs supermassifs observés tournent souvent vite, ce qui renseigne aussi sur la façon dont ils ont grossi."
+        "h": "Lire le passé dans un seul chiffre",
+        "body": "Mesurer le spin, à partir de la lumière du disque, revient donc à interroger l'histoire du trou noir. Les spins élevés observés sur de nombreux trous noirs supermassifs plaident pour des périodes d'alimentation longues et bien orientées. Cette indication compte pour l'énigme des trous noirs trop précoces (jour 76) : un trou noir qui tourne vite rayonne davantage, et ce rayonnement repousse une partie du gaz qui tombe, ce qui peut ralentir sa croissance. La rotation est ainsi à la fois une trace du passé et un frein possible pour la suite."
       }
     ],
     "keyTerms": [
       {
-        "term": "Dernière orbite stable",
-        "def": "Distance la plus courte à laquelle de la matière peut encore tourner autour d'un trou noir ; en deçà, elle plonge vers l'horizon sans presque plus rayonner."
+        "term": "Accrétion cohérente",
+        "def": "Croissance d'un trou noir par un apport de gaz régulier et toujours orienté dans le même sens, qui accélère sa rotation jusqu'à la rapprocher du maximum."
       },
       {
-        "term": "Spin (d'un trou noir)",
-        "def": "Degré de rotation d'un trou noir sur lui-même ; plus il est élevé, plus la dernière orbite stable se rapproche de l'horizon et plus la matière qui tombe rayonne d'énergie."
+        "term": "Accrétion chaotique",
+        "def": "Croissance d'un trou noir par de nombreux petits apports venus de directions quelconques, dont les effets sur la rotation se compensent et laissent un spin modeste."
       }
     ],
-    "recap": "Un trou noir qui tourne permet au gaz de tourner plus près de lui avant de plonger : celui-ci rayonne alors davantage, ce qui fait passer le rendement de 6 % à plus de 30 %.",
-    "next": "Demain — comment la rotation d'un trou noir renseigne sur la manière dont il a grossi."
+    "recap": "Le spin d'un trou noir résume l'orientation de tout ce qu'il a avalé : élevé s'il a été nourri longtemps dans le même sens, modeste si les apports sont venus au hasard.",
+    "next": "Demain — pourquoi la lumière d'un trou noir qui grossit peut freiner sa propre croissance."
   }
 }

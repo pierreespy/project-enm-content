@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23",
-  "count": 84,
+  "updated": "2026-11-24",
+  "count": 85,
   "lessons": [
     {
       "n": 1,
@@ -728,6 +728,15 @@
       "terms": [
         "Dernière orbite stable",
         "Spin (d'un trou noir)"
+      ]
+    },
+    {
+      "n": 85,
+      "file": "astro/lessons/085-ce-que-la-rotation-dit-de-la-croissance.json",
+      "title": "La rotation d'un trou noir garde la trace de sa croissance",
+      "terms": [
+        "Accrétion cohérente",
+        "Accrétion chaotique"
       ]
     }
   ]

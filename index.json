@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-23",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-11-24",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-11-24",
+      "slot": "matin",
+      "file": "editions/2026-11-24-matin.json",
+      "essentiel": "Contribution des laboratoires pharmaceutiques : le Conseil constitutionnel censure la validation rétroactive, pour 2014 à 2024, des sommes versées par l'industrie",
+      "term": "Droit de repentir",
+      "rubriques": [
+        "Loi de finances de fin de gestion pour 2026 : le Sénat examine cet après-midi les conclusions de la commission mixte paritaire, avant de reprendre le PLF 2027",
+        "Congé triennal pour démolir et reconstruire : le bailleur commercial ne peut, en cours d'instance, substituer à ce motif la dangerosité de l'immeuble (Cass. 3e civ., 19 nov. 2026, n° 25-17.299, B)",
+        "« QPC : premier arrivé, seul servi (sauf vraie nouveauté) » : le gel des questions sérielles décrypté",
+        "24 novembre 1859 : Charles Darwin publie à Londres De l'origine des espèces",
+        "Élections au Conseil national des barreaux : les avocats votent ce mardi, en ligne, de 5 h à 22 h, pour la mandature 2027-2029",
+        "Choose France – Édition France : 273 projets et 42,5 milliards d'euros d'investissements annoncés par les entreprises françaises"
+      ]
+    },
     {
       "date": "2026-11-23",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "9 novembre 1953 : le Cambodge accède à l'indépendance, mettant fin au protectorat français",
         "Partage judiciaire : le décret du 18 octobre 2026 simplifie la procédure",
         "Météo : une semaine du 9 au 15 novembre plutôt humide et venteuse sur la majorité du pays"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "slot": "midi",
-      "file": "editions/2026-11-08-midi.json",
-      "essentiel": "Affaire Towercast : la Cour de cassation casse partiellement l'arrêt d'appel et rejette le pourvoi de TDF/Tivana",
-      "term": "Substitution de motifs",
-      "rubriques": [
-        "Décret n° 2026-955 du 13 octobre 2026 : les actes professionnels des infirmiers harmonisés",
-        "Cass., 10 juin 2026, n° 24-10.363 : un arrêt commenté sur La Base Lextenso",
-        "Conseil d'État, rapport public 2025 : le bilan annuel de l'institution, publié en mai 2026",
-        "9 novembre 1989 : la chute du mur de Berlin, au soir d'une conférence de presse",
-        "Publication du décret sur les attachés et les assistants de justice",
-        "Météo : un temps frais à très frais en ce début novembre"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "slot": "matin",
-      "file": "editions/2026-11-08-matin.json",
-      "essentiel": "Titres de séjour : le Conseil d'État enjoint à l'État de corriger les dysfonctionnements du renouvellement, notamment sur la plateforme Anef",
-      "term": "Tierce opposition",
-      "rubriques": [
-        "JORF du 8 novembre 2026 : le sommaire du Journal officiel du jour",
-        "Cass. 1re civ., 7 octobre 2026, n° 25-11.954 : cassation partielle, arrêt FS-B, dans un litige opposant des emprunteurs au Crédit immobilier de France développement",
-        "Revue des revues de droit des affaires, septembre 2026 : le panorama de la doctrine du mois",
-        "8 novembre 1519 : Hernán Cortés entre dans Tenochtitlan, capitale de l'empire aztèque",
-        "Retrouver une décision par son numéro de pourvoi : la recherche Judilibre de la Cour de cassation",
-        "8 novembre 1895 : Wilhelm Röntgen découvre les rayons X à Würzburg"
       ]
     }
   ]

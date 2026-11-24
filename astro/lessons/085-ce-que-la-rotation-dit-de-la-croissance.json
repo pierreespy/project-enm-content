@@ -1,0 +1,32 @@
+{
+  "n": 85,
+  "title": "La rotation d'un trou noir garde la trace de sa croissance",
+  "subtitle": "Pourquoi un trou noir nourri toujours dans le même sens tourne vite, et un trou noir nourri au hasard tourne lentement",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Chaque apport modifie la rotation",
+      "body": "Un trou noir supermassif grossit de deux façons : en avalant le gaz de son disque d'accrétion (jour 75), ou en fusionnant avec un autre trou noir lorsque deux galaxies se rencontrent. Chaque apport modifie son spin (jour 84). Le gaz qui tourne dans le même sens que le trou noir lui apporte de la rotation et l'accélère ; le gaz qui tourne en sens inverse le freine, et une fusion transmet au trou noir final une partie de la rotation des deux trous noirs qui s'unissent comme de leur mouvement l'un autour de l'autre. Le spin d'aujourd'hui est donc la somme de tous ces apports successifs, un peu comme un solde de compte résume l'historique des opérations sans les détailler une à une."
+    },
+    {
+      "h": "Deux histoires, deux résultats",
+      "body": "Si le gaz arrive longtemps du même côté, en un flux régulier et toujours orienté de la même manière, les apports s'additionnent : le trou noir finit par tourner près du maximum possible. Les astronomes parlent d'accrétion cohérente. Si au contraire il se nourrit par une multitude de petits épisodes venus de directions quelconques, les accélérations et les freinages se compensent en grande partie : le spin reste modeste. On parle alors d'accrétion chaotique. Les fusions donnent un résultat intermédiaire : deux trous noirs qui se rejoignent produisent en général un trou noir qui tourne assez vite, mais rarement au maximum."
+    },
+    {
+      "h": "Lire le passé dans un seul chiffre",
+      "body": "Mesurer le spin, à partir de la lumière du disque, revient donc à interroger l'histoire du trou noir. Les spins élevés observés sur de nombreux trous noirs supermassifs plaident pour des périodes d'alimentation longues et bien orientées. Cette indication compte pour l'énigme des trous noirs trop précoces (jour 76) : un trou noir qui tourne vite rayonne davantage, et ce rayonnement repousse une partie du gaz qui tombe, ce qui peut ralentir sa croissance. La rotation est ainsi à la fois une trace du passé et un frein possible pour la suite."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Accrétion cohérente",
+      "def": "Croissance d'un trou noir par un apport de gaz régulier et toujours orienté dans le même sens, qui accélère sa rotation jusqu'à la rapprocher du maximum."
+    },
+    {
+      "term": "Accrétion chaotique",
+      "def": "Croissance d'un trou noir par de nombreux petits apports venus de directions quelconques, dont les effets sur la rotation se compensent et laissent un spin modeste."
+    }
+  ],
+  "recap": "Le spin d'un trou noir résume l'orientation de tout ce qu'il a avalé : élevé s'il a été nourri longtemps dans le même sens, modeste si les apports sont venus au hasard.",
+  "next": "Demain — pourquoi la lumière d'un trou noir qui grossit peut freiner sa propre croissance."
+}
