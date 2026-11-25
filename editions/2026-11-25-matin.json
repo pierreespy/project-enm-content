@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Migrations « instrumentalisées » : la Grande Chambre de la CEDH admet que les États refoulent à leur frontière les migrants envoyés par la Biélorussie",
+    "dek": "Dans trois arrêts du 24 novembre 2026 (A.R. c. Pologne, H.M.M. c. Lettonie, C.O.C.G. c. Lituanie), rendus sur les renvois sommaires de 2021-2022 vers la Biélorussie, la Cour juge que l'interdiction des expulsions collectives ne fait pas obstacle, par principe, au refoulement de personnes poussées vers la frontière par un État qui instrumentalise la migration. Elle impose en revanche aux autorités nationales d'identifier les personnes particulièrement vulnérables ou exposées à des mauvais traitements, et constate à ce titre des manquements, notamment pour le renvoi de familles avec de jeunes enfants. Ces arrêts de Grande Chambre sont définitifs.",
+    "source": "CEDH, Grande Chambre, 24 nov. 2026, A.R. c. Pologne, H.M.M. c. Lettonie et C.O.C.G. c. Lituanie · Conseil de l'Europe",
+    "url": "https://www.coe.int/en/web/portal/-/european-court-issues-landmark-judgments-on-instrumentalisation-of-migration"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Projet de loi logement : adopté par 362 voix contre 118, le texte sort de l'Assemblée sans l'interdiction progressive de louer les « passoires » énergétiques",
+      "summary": "Un amendement adopté en séance supprime le calendrier d'interdiction de mise en location des logements les plus énergivores, issu de la loi Climat et résilience, alors que le texte, qui vise 400 000 logements par an, doit désormais passer en commission mixte paritaire avant un vote définitif annoncé pour le 15 décembre.",
+      "source": "franceinfo, 24 nov. 2026",
+      "url": "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Bail commercial conclu sans les diagnostics et annexes obligatoires : pas de nullité de plein droit (Cass. 3e civ., 19 nov. 2026, n° 25-17.245, B)",
+      "summary": "Saisie par une pharmacie installée dans un centre commercial qui contestait le loyer de son bail renouvelé, la troisième chambre civile juge que l'absence du diagnostic de performance énergétique ou de l'inventaire des charges ne suffit pas, à elle seule, à entraîner la nullité du bail, le preneur devant se placer sur le terrain des sanctions propres à chaque obligation d'information.",
+      "source": "Cass. 3e civ., 19 nov. 2026, n° 25-17.245, publié au Bulletin · Kohen avocats",
+      "url": "https://kohenavocats.fr/2026/11/19/diagnostics-obligatoires-bail-commercial-dpe-inventaire-charges-manquants-nullite-cassation-19-novembre-2026/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Analyses du Conseil d'État du 1er au 15 novembre 2026 : abrogation des actes réglementaires illégaux et sanction disciplinaire non transmissible au cessionnaire",
+      "summary": "La fiche mensuelle mise en ligne le 24 novembre rappelle que l'autorité saisie d'une demande d'abrogation d'un acte réglementaire illégal est tenue d'y faire droit, sauf si l'illégalité a cessé, et précise que la sanction prononcée contre un exploitant d'établissement vétérinaire ne se transmet pas, par le seul effet de la cession, à la société qui le rachète.",
+      "source": "Conseil d'État, analyses de jurisprudence, 1er-15 nov. 2026",
+      "url": "https://www.conseil-etat.fr/decisions-de-justice/jurisprudence/analyses-de-jurisprudence/fiches-mensuelles-d-analyse-de-jurisprudence/analyses-du-conseil-d-etat-du-1er-au-15-novembre-2026",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "25 novembre 1915 : Albert Einstein présente à l'Académie de Prusse les équations définitives de la relativité générale",
+      "summary": "Au terme de quatre communications successives à Berlin en novembre 1915, Einstein formule les équations de champ qui décrivent la gravitation comme une courbure de l'espace-temps produite par la matière et l'énergie, théorie qu'il venait de confirmer en rendant compte de l'avance du périhélie de Mercure.",
+      "source": "Wikipédia, « Équations d'Einstein »",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89quations_d%27Einstein",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Renvoi après cassation : la partie qui ne comparaît pas devant la juridiction de renvoi reste tenue par ses conclusions antérieures",
+      "summary": "En application de l'article 634 du code de procédure civile, les parties qui ne formulent ni moyens nouveaux ni nouvelles prétentions — comme celles qui ne comparaissent pas — sont réputées s'en tenir à ce qu'elles avaient soumis à la juridiction dont la décision a été cassée, ce qui impose de vérifier, avant de faire défaut, que ces écritures suffisent encore à défendre sa position.",
+      "source": "Kohen avocats, 18 nov. 2026 · art. 634 CPC",
+      "url": "https://kohenavocats.fr/2026/11/18/renvoi-apres-cassation-absence-comparution-conclusions-anterieures/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Violences faites aux femmes : rassemblements partout en France ce mercredi soir, avant les grandes marches du samedi 28 novembre",
+      "summary": "À l'appel des collectifs Nous Toutes et Grève féministe, des dizaines de rassemblements sont prévus en fin de journée pour la Journée internationale pour l'élimination de la violence à l'égard des femmes, alors que le décompte associatif fait état de 146 féminicides depuis le début de l'année.",
+      "source": "Basta!, 25 nov. 2026",
+      "url": "https://basta.media/25-novembre-carte-des-mobilisations-contre-violences-faites-aux-femmes",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Présomption de protection équivalente",
+    "subtitle": "Droit européen des droits de l'homme · CEDH, GC, 30 juin 2005, Bosphorus c. Irlande, n° 45036/98",
+    "defShort": "Présomption selon laquelle un État qui se borne à exécuter les obligations découlant de son appartenance à une organisation internationale — au premier chef l'Union européenne — respecte la Convention, dès lors que cette organisation protège les droits fondamentaux de manière au moins équivalente ; elle tombe si la protection s'avère, dans le cas concret, « manifestement insuffisante ».",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Les États parties ne peuvent se soustraire à la Convention en transférant des compétences à une organisation internationale, mais la Cour de Strasbourg ne veut pas non plus contrôler pas à pas le droit de l'Union. La « présomption Bosphorus » est le compromis : lorsque l'État applique le droit de l'Union sans aucune marge d'appréciation, la Cour présume que la protection offerte par l'ordre juridique de l'Union, et notamment par la CJUE, est équivalente à la sienne, et s'abstient d'un contrôle complet."
+      },
+      {
+        "h": "Fondement et conditions",
+        "body": "Dégagée par l'arrêt de Grande Chambre Bosphorus c. Irlande (30 juin 2005), à propos de la saisie d'un avion en exécution d'un règlement communautaire, la présomption a été encadrée par l'arrêt Avotiņš c. Lettonie (GC, 23 mai 2016) : elle suppose, d'une part, l'absence de marge de manœuvre des autorités nationales et, d'autre part, le déploiement de l'intégralité des potentialités du mécanisme de contrôle prévu par le droit de l'Union, ce qui inclut, le cas échéant, le renvoi préjudiciel à la CJUE."
+      },
+      {
+        "h": "Cas où elle ne joue pas",
+        "body": "Dans Michaud c. France (6 déc. 2012), la Cour refuse la présomption parce que le Conseil d'État avait statué sur la conformité d'une directive aux droits fondamentaux sans saisir la CJUE : le mécanisme de contrôle n'avait pas été pleinement déployé. Dans M.S.S. c. Belgique et Grèce (GC, 21 janv. 2011), elle l'écarte au motif que le règlement Dublin laissait à la Belgique, par la clause de souveraineté, une faculté de ne pas renvoyer le demandeur d'asile vers la Grèce : là où l'État dispose d'un choix, il en répond intégralement."
+      },
+      {
+        "h": "Portée",
+        "body": "La présomption est simple : elle se renverse si, dans les circonstances de l'espèce, la protection des droits est manifestement insuffisante. Elle explique pourquoi, en matière d'asile, de mandat d'arrêt européen ou de reconnaissance mutuelle des jugements, le contentieux strasbourgeois se concentre sur les marges que le droit de l'Union laisse aux États. Elle reste conçue pour une Union non encore partie à la Convention : l'adhésion, toujours en négociation, la rendrait en principe sans objet."
+      }
+    ],
+    "seeAlso": "Voir aussi — arrêt Solange II (Cour constitutionnelle allemande, 1986) · contrôle « ultra vires » · clause de souveraineté (règlement Dublin) · renvoi préjudiciel (art. 267 TFUE) · adhésion de l'Union à la Convention (art. 6 § 2 TUE)"
+  },
+  "date": "2026-11-25",
+  "dateShort": "25 nov.",
+  "slot": "matin"
+}

@@ -1,125 +1,121 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Mort de Nahel : la cour d'appel de Versailles renvoie finalement le policier devant la cour d'assises des Hauts-de-Seine pour meurtre",
-    "dek": "Statuant sur renvoi après la cassation du 10 juin 2026, la chambre de l'instruction autrement composée écarte la requalification en violences volontaires ayant entraîné la mort sans intention de la donner, retenue en mars, et ordonne la mise en accusation de Florian M. pour meurtre — crime passible de trente ans de réclusion et jugé par un jury populaire, non par la cour criminelle départementale. La défense annonce un nouveau pourvoi ; les proches de l'adolescent saluent « une partie de la bataille gagnée ».",
-    "source": "CA Versailles, ch. de l'instruction, 24 nov. 2026 · franceinfo",
-    "url": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/mort-de-nahel-merzouk-en-2023-la-cour-d-appel-de-versailles-confirme-le-renvoi-du-policier-devant-les-assises-pour-meurtre_8295785.html"
+    "title": "Migrations « instrumentalisées » : la Grande Chambre de la CEDH admet que les États refoulent à leur frontière les migrants envoyés par la Biélorussie",
+    "dek": "Dans trois arrêts du 24 novembre 2026 (A.R. c. Pologne, H.M.M. c. Lettonie, C.O.C.G. c. Lituanie), rendus sur les renvois sommaires de 2021-2022 vers la Biélorussie, la Cour juge que l'interdiction des expulsions collectives ne fait pas obstacle, par principe, au refoulement de personnes poussées vers la frontière par un État qui instrumentalise la migration. Elle impose en revanche aux autorités nationales d'identifier les personnes particulièrement vulnérables ou exposées à des mauvais traitements, et constate à ce titre des manquements, notamment pour le renvoi de familles avec de jeunes enfants. Ces arrêts de Grande Chambre sont définitifs.",
+    "source": "CEDH, Grande Chambre, 24 nov. 2026, A.R. c. Pologne, H.M.M. c. Lettonie et C.O.C.G. c. Lituanie · Conseil de l'Europe",
+    "url": "https://www.coe.int/en/web/portal/-/european-court-issues-landmark-judgments-on-instrumentalisation-of-migration"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Relance et décentralisation du logement : l'Assemblée nationale procède cet après-midi au vote solennel sur le projet de loi, adopté par le Sénat en juillet",
-      "summary": "Après deux semaines de débats marqués par l'adoption d'un amendement remettant en cause, à l'article 6, le calendrier d'interdiction de location des passoires thermiques, les députés se prononcent à 16 h 30 sur un texte qui crée les « opérations d'intérêt local » dérogatoires aux règles d'urbanisme et vise deux millions de logements d'ici 2030, avant une commission mixte paritaire espérée d'ici la fin de l'année.",
-      "source": "Assemblée nationale, dossier législatif · ordre du jour du 24 nov. 2026",
-      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement",
+      "title": "Projet de loi logement : adopté par 362 voix contre 118, le texte sort de l'Assemblée sans l'interdiction progressive de louer les « passoires » énergétiques",
+      "summary": "Un amendement adopté en séance supprime le calendrier d'interdiction de mise en location des logements les plus énergivores, issu de la loi Climat et résilience, alors que le texte, qui vise 400 000 logements par an, doit désormais passer en commission mixte paritaire avant un vote définitif annoncé pour le 15 décembre.",
+      "source": "franceinfo, 24 nov. 2026",
+      "url": "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Surendettement : la recevabilité du dossier ne remet pas en cause une saisie-attribution antérieure dont l'effet attributif était déjà acquis (Cass. 2e civ., 19 nov. 2026, n° 24-10.115, B)",
-      "summary": "La deuxième chambre civile rejette le pourvoi du débiteur : la suspension et l'interdiction des procédures d'exécution attachées à la décision de recevabilité valent pour l'avenir, alors que la saisie-attribution pratiquée auparavant a, dès sa signification, fait sortir la créance saisie de son patrimoine au profit du créancier saisissant.",
-      "source": "Cass. 2e civ., 19 nov. 2026, n° 24-10.115, publié au Bulletin · Kohen avocats",
-      "url": "https://kohenavocats.fr/2026/11/24/garantie-visale-et-surendettement-impayes-loyer-subrogation-action-logement-clause-resolutoire-effacement/",
+      "title": "Bail commercial conclu sans les diagnostics et annexes obligatoires : pas de nullité de plein droit (Cass. 3e civ., 19 nov. 2026, n° 25-17.245, B)",
+      "summary": "Saisie par une pharmacie installée dans un centre commercial qui contestait le loyer de son bail renouvelé, la troisième chambre civile juge que l'absence du diagnostic de performance énergétique ou de l'inventaire des charges ne suffit pas, à elle seule, à entraîner la nullité du bail, le preneur devant se placer sur le terrain des sanctions propres à chaque obligation d'information.",
+      "source": "Cass. 3e civ., 19 nov. 2026, n° 25-17.245, publié au Bulletin · Kohen avocats",
+      "url": "https://kohenavocats.fr/2026/11/19/diagnostics-obligatoires-bail-commercial-dpe-inventaire-charges-manquants-nullite-cassation-19-novembre-2026/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "« Empêchement administratif individuel de manifester : quel régime ? » : pour Didier Truchet, l'usage des MICAS contre des manifestants relève du détournement de procédure",
-      "summary": "Le professeur émérite de Paris-Panthéon-Assas rappelle que les mesures des articles L. 228-1 et suivants du code de la sécurité intérieure sont réservées à la prévention du terrorisme et que, hors état d'urgence et depuis la censure de 2019 (n° 2019-780 DC), l'autorité administrative n'a aucun pouvoir d'empêcher une personne de rejoindre une manifestation déclarée.",
-      "source": "Le Club des juristes, Didier Truchet",
-      "url": "https://www.leclubdesjuristes.com/?p=18328",
+      "title": "Analyses du Conseil d'État du 1er au 15 novembre 2026 : abrogation des actes réglementaires illégaux et sanction disciplinaire non transmissible au cessionnaire",
+      "summary": "La fiche mensuelle mise en ligne le 24 novembre rappelle que l'autorité saisie d'une demande d'abrogation d'un acte réglementaire illégal est tenue d'y faire droit, sauf si l'illégalité a cessé, et précise que la sanction prononcée contre un exploitant d'établissement vétérinaire ne se transmet pas, par le seul effet de la cession, à la société qui le rachète.",
+      "source": "Conseil d'État, analyses de jurisprudence, 1er-15 nov. 2026",
+      "url": "https://www.conseil-etat.fr/decisions-de-justice/jurisprudence/analyses-de-jurisprudence/fiches-mensuelles-d-analyse-de-jurisprudence/analyses-du-conseil-d-etat-du-1er-au-15-novembre-2026",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "24 novembre 1832 : la Caroline du Sud adopte l'ordonnance de nullification et déclare inapplicables sur son sol les tarifs douaniers fédéraux",
-      "summary": "Réunie en convention, la Caroline du Sud proclame « nuls et non avenus » les tarifs de 1828 et 1832 en invoquant la doctrine de John C. Calhoun, selon laquelle un État peut neutraliser une loi fédérale qu'il juge inconstitutionnelle ; la crise, close en 1833 par un tarif de compromis et la menace d'une intervention armée d'Andrew Jackson, préfigure le débat sur la souveraineté des États qui mènera à la Sécession.",
-      "source": "Wikipédia, « Crise de la nullification »",
-      "url": "https://fr.wikipedia.org/wiki/Crise_de_la_nullification",
+      "title": "25 novembre 1915 : Albert Einstein présente à l'Académie de Prusse les équations définitives de la relativité générale",
+      "summary": "Au terme de quatre communications successives à Berlin en novembre 1915, Einstein formule les équations de champ qui décrivent la gravitation comme une courbure de l'espace-temps produite par la matière et l'énergie, théorie qu'il venait de confirmer en rendant compte de l'avance du périhélie de Mercure.",
+      "source": "Wikipédia, « Équations d'Einstein »",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89quations_d%27Einstein",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Surendettement des personnes âgées : recevabilité devant la commission, prise en compte des frais de dépendance et d'hébergement, préservation du logement",
-      "summary": "Guide à l'usage des praticiens qui accompagnent un débiteur âgé : constitution du dossier devant la commission de la Banque de France, intégration des frais d'EHPAD et de dépendance dans le calcul du reste à vivre, arbitrage entre maintien dans le logement et vente, et conditions d'accès au rétablissement personnel en l'absence de capacité de remboursement.",
-      "source": "Kohen avocats, 24 nov. 2026",
-      "url": "https://kohenavocats.fr/2026/11/24/dossier-de-surendettement-des-personnes-agees-recevabilite-frais-dependance-hebergement-logement-retablissement-personnel/",
+      "title": "Renvoi après cassation : la partie qui ne comparaît pas devant la juridiction de renvoi reste tenue par ses conclusions antérieures",
+      "summary": "En application de l'article 634 du code de procédure civile, les parties qui ne formulent ni moyens nouveaux ni nouvelles prétentions — comme celles qui ne comparaissent pas — sont réputées s'en tenir à ce qu'elles avaient soumis à la juridiction dont la décision a été cassée, ce qui impose de vérifier, avant de faire défaut, que ces écritures suffisent encore à défendre sa position.",
+      "source": "Kohen avocats, 18 nov. 2026 · art. 634 CPC",
+      "url": "https://kohenavocats.fr/2026/11/18/renvoi-apres-cassation-absence-comparution-conclusions-anterieures/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Pharmacie : Sanofi annonce le rachat de l'américain Insmed pour environ 41 milliards de dollars, la plus grosse acquisition de son histoire",
-      "summary": "Le groupe français offre 175 dollars par action en numéraire, soit une prime d'environ 46 % sur le cours du 18 novembre, veille des premières informations de presse, pour mettre la main sur le Brinsupri, traitement respiratoire appelé à dépasser le milliard de dollars de ventes dès 2026, au moment où approche l'expiration des brevets de son produit phare, le Dupixent.",
-      "source": "Insmed, communiqué (SEC, formulaire 8-K) · Fierce Pharma",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001104506/000114036126045364/ef20086426_ex99-1.htm",
+      "title": "Violences faites aux femmes : rassemblements partout en France ce mercredi soir, avant les grandes marches du samedi 28 novembre",
+      "summary": "À l'appel des collectifs Nous Toutes et Grève féministe, des dizaines de rassemblements sont prévus en fin de journée pour la Journée internationale pour l'élimination de la violence à l'égard des femmes, alors que le décompte associatif fait état de 146 féminicides depuis le début de l'année.",
+      "source": "Basta!, 25 nov. 2026",
+      "url": "https://basta.media/25-novembre-carte-des-mobilisations-contre-violences-faites-aux-femmes",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Effet de purge de la décision de mise en accusation",
-    "subtitle": "Procédure pénale · Articles 181 et 595 du code de procédure pénale",
-    "defShort": "Règle selon laquelle la décision renvoyant l'accusé devant la cour d'assises, une fois devenue définitive, « couvre » les vices de la procédure d'instruction : aucune nullité antérieure ne peut plus être soulevée devant la juridiction de jugement.",
+    "term": "Présomption de protection équivalente",
+    "subtitle": "Droit européen des droits de l'homme · CEDH, GC, 30 juin 2005, Bosphorus c. Irlande, n° 45036/98",
+    "defShort": "Présomption selon laquelle un État qui se borne à exécuter les obligations découlant de son appartenance à une organisation internationale — au premier chef l'Union européenne — respecte la Convention, dès lors que cette organisation protège les droits fondamentaux de manière au moins équivalente ; elle tombe si la protection s'avère, dans le cas concret, « manifestement insuffisante ».",
     "fiche": [
       {
         "h": "En bref",
-        "body": "L'instruction est le seul moment où les nullités de la procédure préparatoire peuvent être discutées. Lorsque l'ordonnance du juge d'instruction ou l'arrêt de la chambre de l'instruction portant mise en accusation devient définitif — faute de recours, ou après rejet du pourvoi —, il purge la procédure : la cour d'assises ne peut ni constater ni même examiner une irrégularité antérieure, aussi grave soit-elle."
+        "body": "Les États parties ne peuvent se soustraire à la Convention en transférant des compétences à une organisation internationale, mais la Cour de Strasbourg ne veut pas non plus contrôler pas à pas le droit de l'Union. La « présomption Bosphorus » est le compromis : lorsque l'État applique le droit de l'Union sans aucune marge d'appréciation, la Cour présume que la protection offerte par l'ordre juridique de l'Union, et notamment par la CJUE, est équivalente à la sienne, et s'abstient d'un contrôle complet."
       },
       {
-        "h": "Fondement",
-        "body": "L'article 181 du code de procédure pénale prévoit que l'ordonnance de mise en accusation devenue définitive couvre, s'il en existe, les vices de la procédure ; l'article 595 pose la même règle pour la décision de renvoi devant la cour d'assises et interdit aux parties de soulever devant elle les nullités de l'information. L'article 385 en est l'équivalent atténué devant le tribunal correctionnel, et l'article 574 ouvre le pourvoi contre l'arrêt de mise en accusation, ultime occasion de faire juger ces griefs."
+        "h": "Fondement et conditions",
+        "body": "Dégagée par l'arrêt de Grande Chambre Bosphorus c. Irlande (30 juin 2005), à propos de la saisie d'un avion en exécution d'un règlement communautaire, la présomption a été encadrée par l'arrêt Avotiņš c. Lettonie (GC, 23 mai 2016) : elle suppose, d'une part, l'absence de marge de manœuvre des autorités nationales et, d'autre part, le déploiement de l'intégralité des potentialités du mécanisme de contrôle prévu par le droit de l'Union, ce qui inclut, le cas échéant, le renvoi préjudiciel à la CJUE."
       },
       {
-        "h": "Cas visés et limites",
-        "body": "La purge vise les irrégularités de forme et de fond de l'information : actes d'enquête, auditions, perquisitions, mises en examen. Elle ne couvre ni l'incompétence d'ordre public de la juridiction de jugement, ni les vices affectant la décision de renvoi elle-même lorsqu'ils peuvent encore être critiqués par la voie du pourvoi, ni bien sûr les irrégularités postérieures, commises lors des débats. La qualification retenue lie la cour d'assises quant à sa saisine, mais pas son appréciation des faits, qu'elle juge souverainement."
+        "h": "Cas où elle ne joue pas",
+        "body": "Dans Michaud c. France (6 déc. 2012), la Cour refuse la présomption parce que le Conseil d'État avait statué sur la conformité d'une directive aux droits fondamentaux sans saisir la CJUE : le mécanisme de contrôle n'avait pas été pleinement déployé. Dans M.S.S. c. Belgique et Grèce (GC, 21 janv. 2011), elle l'écarte au motif que le règlement Dublin laissait à la Belgique, par la clause de souveraineté, une faculté de ne pas renvoyer le demandeur d'asile vers la Grèce : là où l'État dispose d'un choix, il en répond intégralement."
       },
       {
         "h": "Portée",
-        "body": "Le mécanisme explique l'enjeu des pourvois formés contre les arrêts de mise en accusation, comme celui qu'annonce la défense dans l'affaire Nahel : c'est la dernière fenêtre pour contester la régularité de l'instruction. Il assure la stabilité de la saisine d'une juridiction dont le jury populaire ne peut être exposé à un procès annulé pour une irrégularité ancienne, au prix d'une lourde charge de vigilance pour les avocats dès la phase d'instruction (art. 173-1 et 175 CPP)."
+        "body": "La présomption est simple : elle se renverse si, dans les circonstances de l'espèce, la protection des droits est manifestement insuffisante. Elle explique pourquoi, en matière d'asile, de mandat d'arrêt européen ou de reconnaissance mutuelle des jugements, le contentieux strasbourgeois se concentre sur les marges que le droit de l'Union laisse aux États. Elle reste conçue pour une Union non encore partie à la Convention : l'adhésion, toujours en négociation, la rendrait en principe sans objet."
       }
     ],
-    "seeAlso": "Voir aussi — forclusion des nullités (art. 173-1 CPP) · avis de fin d'information (art. 175 CPP) · pourvoi contre l'arrêt de mise en accusation (art. 574 CPP) · purge des nullités devant le tribunal correctionnel (art. 385 CPP)"
+    "seeAlso": "Voir aussi — arrêt Solange II (Cour constitutionnelle allemande, 1986) · contrôle « ultra vires » · clause de souveraineté (règlement Dublin) · renvoi préjudiciel (art. 267 TFUE) · adhésion de l'Union à la Convention (art. 6 § 2 TUE)"
   },
-  "date": "2026-11-24",
-  "dateShort": "24 nov.",
-  "slot": "midi",
+  "date": "2026-11-25",
+  "dateShort": "25 nov.",
+  "slot": "matin",
   "astro": {
-    "n": 85,
-    "title": "La rotation d'un trou noir garde la trace de sa croissance",
-    "subtitle": "Pourquoi un trou noir nourri toujours dans le même sens tourne vite, et un trou noir nourri au hasard tourne lentement",
+    "n": 86,
+    "title": "Plus un trou noir rayonne, moins il grossit vite",
+    "subtitle": "Pourquoi un trou noir très efficace pour produire de la lumière est aussi un trou noir qui prend son temps",
     "duration": "2 min",
     "sections": [
       {
-        "h": "Chaque apport modifie la rotation",
-        "body": "Un trou noir supermassif grossit de deux façons : en avalant le gaz de son disque d'accrétion (jour 75), ou en fusionnant avec un autre trou noir lorsque deux galaxies se rencontrent. Chaque apport modifie son spin (jour 84). Le gaz qui tourne dans le même sens que le trou noir lui apporte de la rotation et l'accélère ; le gaz qui tourne en sens inverse le freine, et une fusion transmet au trou noir final une partie de la rotation des deux trous noirs qui s'unissent comme de leur mouvement l'un autour de l'autre. Le spin d'aujourd'hui est donc la somme de tous ces apports successifs, un peu comme un solde de compte résume l'historique des opérations sans les détailler une à une."
+        "h": "Ce qui brille n'est pas avalé",
+        "body": "Le gaz qui spirale dans le disque d'accrétion (jour 75) s'échauffe et rayonne avant de franchir l'horizon. Cette lumière ne sort pas de nulle part : elle emporte une partie de la masse du gaz qui tombe, convertie en énergie. Le rendement (jour 83) mesure précisément cette part. Un rendement de dix pour cent signifie que, sur dix kilos de gaz arrivés près du trou noir, l'équivalent d'un kilo repart sous forme de lumière et neuf seulement s'ajoutent à sa masse. Plus le rendement est élevé, plus la part qui s'échappe est grande, et plus celle qui fait grossir le trou noir est réduite."
       },
       {
-        "h": "Deux histoires, deux résultats",
-        "body": "Si le gaz arrive longtemps du même côté, en un flux régulier et toujours orienté de la même manière, les apports s'additionnent : le trou noir finit par tourner près du maximum possible. Les astronomes parlent d'accrétion cohérente. Si au contraire il se nourrit par une multitude de petits épisodes venus de directions quelconques, les accélérations et les freinages se compensent en grande partie : le spin reste modeste. On parle alors d'accrétion chaotique. Les fusions donnent un résultat intermédiaire : deux trous noirs qui se rejoignent produisent en général un trou noir qui tourne assez vite, mais rarement au maximum."
+        "h": "Un plafond fixé par la lumière",
+        "body": "S'y ajoute la limite d'Eddington (jour 76) : au-delà d'un certain éclat, la pression de la lumière repousse le gaz qui arrive et l'empêche de tomber. Ce plafond porte sur la quantité de lumière émise, non sur la quantité de gaz avalé. Un trou noir au rendement élevé atteint donc ce plafond en avalant moins de matière qu'un trou noir peu efficace. Les deux effets vont dans le même sens : à pleine puissance, le trou noir le plus efficace est aussi celui qui grossit le plus lentement. On mesure cette vitesse par le temps de doublement, la durée nécessaire pour que sa masse double à ce régime maximal."
       },
       {
-        "h": "Lire le passé dans un seul chiffre",
-        "body": "Mesurer le spin, à partir de la lumière du disque, revient donc à interroger l'histoire du trou noir. Les spins élevés observés sur de nombreux trous noirs supermassifs plaident pour des périodes d'alimentation longues et bien orientées. Cette indication compte pour l'énigme des trous noirs trop précoces (jour 76) : un trou noir qui tourne vite rayonne davantage, et ce rayonnement repousse une partie du gaz qui tombe, ce qui peut ralentir sa croissance. La rotation est ainsi à la fois une trace du passé et un frein possible pour la suite."
+        "h": "L'énigme des trous noirs précoces se resserre",
+        "body": "Pour un rendement d'environ dix pour cent, ce temps de doublement est de l'ordre de quelques dizaines de millions d'années. Un trou noir qui tourne très vite (jour 84) peut dépasser trente pour cent de rendement : il double alors plusieurs fois plus lentement. Or les trous noirs supermassifs observés moins d'un milliard d'années après le Big Bang ont dû doubler des dizaines de fois en partant d'une graine (jour 76). Si leur spin était élevé, comme le suggèrent beaucoup de mesures, le temps disponible devient très court. C'est l'une des raisons pour lesquelles les astronomes envisagent des graines déjà lourdes, ou des phases de croissance plus rapides que ce plafond."
       }
     ],
     "keyTerms": [
       {
-        "term": "Accrétion cohérente",
-        "def": "Croissance d'un trou noir par un apport de gaz régulier et toujours orienté dans le même sens, qui accélère sa rotation jusqu'à la rapprocher du maximum."
-      },
-      {
-        "term": "Accrétion chaotique",
-        "def": "Croissance d'un trou noir par de nombreux petits apports venus de directions quelconques, dont les effets sur la rotation se compensent et laissent un spin modeste."
+        "term": "Temps de doublement (d'un trou noir)",
+        "def": "Durée nécessaire pour que la masse d'un trou noir double lorsqu'il grossit au maximum permis par la limite d'Eddington ; elle s'allonge quand son rendement augmente."
       }
     ],
-    "recap": "Le spin d'un trou noir résume l'orientation de tout ce qu'il a avalé : élevé s'il a été nourri longtemps dans le même sens, modeste si les apports sont venus au hasard.",
-    "next": "Demain — pourquoi la lumière d'un trou noir qui grossit peut freiner sa propre croissance."
+    "recap": "La lumière qu'un trou noir produit en grossissant lui coûte de la masse et plafonne ce qu'il peut avaler : plus il est efficace, plus sa croissance est lente.",
+    "next": "Demain — dépasser la limite d'Eddington : comment un trou noir peut parfois avaler plus vite que ce plafond."
   }
 }

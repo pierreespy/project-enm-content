@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-24",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-11-25",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-11-25",
+      "slot": "matin",
+      "file": "editions/2026-11-25-matin.json",
+      "essentiel": "Migrations « instrumentalisées » : la Grande Chambre de la CEDH admet que les États refoulent à leur frontière les migrants envoyés par la Biélorussie",
+      "term": "Présomption de protection équivalente",
+      "rubriques": [
+        "Projet de loi logement : adopté par 362 voix contre 118, le texte sort de l'Assemblée sans l'interdiction progressive de louer les « passoires » énergétiques",
+        "Bail commercial conclu sans les diagnostics et annexes obligatoires : pas de nullité de plein droit (Cass. 3e civ., 19 nov. 2026, n° 25-17.245, B)",
+        "Analyses du Conseil d'État du 1er au 15 novembre 2026 : abrogation des actes réglementaires illégaux et sanction disciplinaire non transmissible au cessionnaire",
+        "25 novembre 1915 : Albert Einstein présente à l'Académie de Prusse les équations définitives de la relativité générale",
+        "Renvoi après cassation : la partie qui ne comparaît pas devant la juridiction de renvoi reste tenue par ses conclusions antérieures",
+        "Violences faites aux femmes : rassemblements partout en France ce mercredi soir, avant les grandes marches du samedi 28 novembre"
+      ]
+    },
     {
       "date": "2026-11-24",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "10 novembre 1630 : la Journée des Dupes, Richelieu l'emporte sur Marie de Médicis",
         "Calculer les délais de prescription en matière pénale : point de départ, interruption, exemples chiffrés",
         "Pluies soutenues, vents forts et neige attendus en France à partir du 11 novembre"
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "slot": "midi",
-      "file": "editions/2026-11-09-midi.json",
-      "essentiel": "Cass. com., 23 septembre 2026 : l'article 1171 du code civil ne s'applique pas aux contrats entre professionnels",
-      "term": "Rescision pour lésion",
-      "rubriques": [
-        "Décret n° 2026-76 du 12 février 2026 relatif à la programmation pluriannuelle de l'énergie",
-        "Cass. 3e civ., 4 juin 2026, n° 24-16.993 : le congé pour motif légitime et sérieux ne peut neutraliser l'indécence du logement connue du bailleur",
-        "Dix ans de la réforme du droit des contrats : de l'ordonnance à la jurisprudence",
-        "11 novembre 1918 : l'armistice est signé à Rethondes, dans le wagon du maréchal Foch",
-        "Immobilier : la veille documentaire du Conseil national des barreaux",
-        "Météo : une succession de tempêtes possible sur la France à partir de la mi-novembre"
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "slot": "matin",
-      "file": "editions/2026-11-09-matin.json",
-      "essentiel": "Cour de cassation : la sélection des arrêts les plus marquants mis en ligne, dont un arrêt social du 14 octobre 2026 sur la bonne foi dans le contrat de travail",
-      "term": "Exception dilatoire",
-      "rubriques": [
-        "Procédures bâillons : le décret du 30 avril 2026 crée un titre XIV bis dans le code de procédure civile",
-        "Cass. 2e civ., 4 juin 2026, n° 23-14.835 : un arrêt de rejet commenté",
-        "Panorama de jurisprudence de la Cour de cassation : la Gazette du Palais fait le point",
-        "9 novembre 1953 : le Cambodge accède à l'indépendance, mettant fin au protectorat français",
-        "Partage judiciaire : le décret du 18 octobre 2026 simplifie la procédure",
-        "Météo : une semaine du 9 au 15 novembre plutôt humide et venteuse sur la majorité du pays"
       ]
     }
   ]

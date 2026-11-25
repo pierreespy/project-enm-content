@@ -1,0 +1,28 @@
+{
+  "n": 86,
+  "title": "Plus un trou noir rayonne, moins il grossit vite",
+  "subtitle": "Pourquoi un trou noir très efficace pour produire de la lumière est aussi un trou noir qui prend son temps",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Ce qui brille n'est pas avalé",
+      "body": "Le gaz qui spirale dans le disque d'accrétion (jour 75) s'échauffe et rayonne avant de franchir l'horizon. Cette lumière ne sort pas de nulle part : elle emporte une partie de la masse du gaz qui tombe, convertie en énergie. Le rendement (jour 83) mesure précisément cette part. Un rendement de dix pour cent signifie que, sur dix kilos de gaz arrivés près du trou noir, l'équivalent d'un kilo repart sous forme de lumière et neuf seulement s'ajoutent à sa masse. Plus le rendement est élevé, plus la part qui s'échappe est grande, et plus celle qui fait grossir le trou noir est réduite."
+    },
+    {
+      "h": "Un plafond fixé par la lumière",
+      "body": "S'y ajoute la limite d'Eddington (jour 76) : au-delà d'un certain éclat, la pression de la lumière repousse le gaz qui arrive et l'empêche de tomber. Ce plafond porte sur la quantité de lumière émise, non sur la quantité de gaz avalé. Un trou noir au rendement élevé atteint donc ce plafond en avalant moins de matière qu'un trou noir peu efficace. Les deux effets vont dans le même sens : à pleine puissance, le trou noir le plus efficace est aussi celui qui grossit le plus lentement. On mesure cette vitesse par le temps de doublement, la durée nécessaire pour que sa masse double à ce régime maximal."
+    },
+    {
+      "h": "L'énigme des trous noirs précoces se resserre",
+      "body": "Pour un rendement d'environ dix pour cent, ce temps de doublement est de l'ordre de quelques dizaines de millions d'années. Un trou noir qui tourne très vite (jour 84) peut dépasser trente pour cent de rendement : il double alors plusieurs fois plus lentement. Or les trous noirs supermassifs observés moins d'un milliard d'années après le Big Bang ont dû doubler des dizaines de fois en partant d'une graine (jour 76). Si leur spin était élevé, comme le suggèrent beaucoup de mesures, le temps disponible devient très court. C'est l'une des raisons pour lesquelles les astronomes envisagent des graines déjà lourdes, ou des phases de croissance plus rapides que ce plafond."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Temps de doublement (d'un trou noir)",
+      "def": "Durée nécessaire pour que la masse d'un trou noir double lorsqu'il grossit au maximum permis par la limite d'Eddington ; elle s'allonge quand son rendement augmente."
+    }
+  ],
+  "recap": "La lumière qu'un trou noir produit en grossissant lui coûte de la masse et plafonne ce qu'il peut avaler : plus il est efficace, plus sa croissance est lente.",
+  "next": "Demain — dépasser la limite d'Eddington : comment un trou noir peut parfois avaler plus vite que ce plafond."
+}

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24",
-  "count": 85,
+  "updated": "2026-11-25",
+  "count": 86,
   "lessons": [
     {
       "n": 1,
@@ -737,6 +737,14 @@
       "terms": [
         "Accrétion cohérente",
         "Accrétion chaotique"
+      ]
+    },
+    {
+      "n": 86,
+      "file": "astro/lessons/086-plus-il-rayonne-moins-il-grossit-vite.json",
+      "title": "Plus un trou noir rayonne, moins il grossit vite",
+      "terms": [
+        "Temps de doublement (d'un trou noir)"
       ]
     }
   ]
