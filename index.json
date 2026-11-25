@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-25",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-11-25",
+      "slot": "midi",
+      "file": "editions/2026-11-25-midi.json",
+      "essentiel": "Fausse rétractation de Ziad Takieddine : Nicolas Sarkozy et Carla Bruni renvoyés devant le tribunal correctionnel de Paris, notamment pour association de malfaiteurs",
+      "term": "Conversion de l'acte authentique imparfait",
+      "rubriques": [
+        "Statut de l'élu : le décret n° 2026-1078 du 23 novembre 2026 fixe les conditions d'attribution du label « employeur partenaire de la démocratie locale »",
+        "« End the Cage Age » : le Tribunal de l'Union juge que la Commission s'est illégalement abstenue de fixer un nouveau calendrier pour la sortie des cages (T-151/24)",
+        "Affaire Apollonia : Dalloz actualité commente l'« appréciation stricte de l'intérêt du notaire à l'acte » retenue par les arrêts du 4 novembre 2026",
+        "25 novembre 1120 : le naufrage de la Blanche-Nef au large de Barfleur emporte l'héritier d'Henri Ier Beauclerc et ouvre la crise de succession anglaise",
+        "Élections au CNB : après un incident technique sur la plateforme de vote, le scrutin a été prolongé jusqu'à ce mercredi midi, proclamation des résultats à 15 h",
+        "Quantum Act : la Commission européenne présente sa stratégie quantique, assortie d'un projet de fonds souverain qui pourrait mobiliser jusqu'à 50 milliards d'euros"
+      ]
+    },
     {
       "date": "2026-11-25",
       "slot": "matin",
