@@ -1,95 +1,95 @@
 {
   "essentiel": {
     "label": "L'essentiel du jour",
-    "title": "Diagnostic préimplantatoire des aneuploïdies : le Conseil d'État confirme l'illégalité de l'essai clinique DEVIT autorisé par l'ANSM en 2021",
-    "dek": "Par une décision du 25 novembre 2026, le Conseil d'État rejette le pourvoi dirigé contre l'arrêt de la cour administrative d'appel de Paris du 10 juillet 2025 et confirme l'annulation de l'autorisation donnée en mars 2021 par le directeur général de l'ANSM à l'essai DEVIT, qui testait le DPI-A chez des couples en FIV : un essai impliquant des diagnostics préimplantatoires hors des cas limitativement prévus par le code de la santé publique ne pouvait être autorisé par l'ANSM, seule l'Agence de la biomédecine pouvant, à titre exceptionnel et dans les cas fixés par la loi, autoriser un tel diagnostic. Le DPI-A reste donc interdit en France, au moment où une proposition de loi déposée le 13 octobre 2026 entend l'ouvrir dans certaines indications.",
-    "source": "CE, 25 nov. 2026, essai DEVIT · Kohen avocats",
-    "url": "https://kohenavocats.com/dpi-a-france-conseil-etat-illegalite-essai-clinique-couples-fiv-2026/"
+    "title": "Propos sur Pétain : Éric Zemmour définitivement condamné pour contestation de l'existence d'un crime contre l'humanité, la chambre criminelle rejetant son pourvoi",
+    "dek": "Par un arrêt du 24 novembre 2026, révélé ce jeudi, la chambre criminelle de la Cour de cassation rejette le pourvoi formé contre l'arrêt de la cour d'appel de Paris d'avril 2025, qui avait condamné Éric Zemmour à 10 000 euros d'amende pour avoir affirmé en 2019, sur CNews, que le maréchal Pétain « avait sauvé les juifs français ». Relaxé en première instance puis en appel, l'ancien candidat avait vu ces décisions cassées une première fois ; la condamnation prononcée sur renvoi devient désormais définitive, au terme de sept ans de procédure, et il devra verser 7 500 euros aux associations parties civiles au titre des frais de procédure.",
+    "source": "Cass. crim., 24 nov. 2026 · franceinfo, 26 nov. 2026",
+    "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite-apres-avoir-affirme-que-le-marechal-petain-avait-sauve-les-juifs-francais_8297988.html"
   },
   "rubriques": [
     {
       "chip": "Législation & réglementation",
-      "title": "Enfants confiés à l'ASE : le décret n° 2026-1080 du 24 novembre 2026 supprime la désignation par les chefs de cour du magistrat siégeant à la commission d'examen de leur situation",
-      "summary": "Publié au Journal officiel du 25 novembre et applicable dès ce jeudi, le texte allège la composition de la commission pluridisciplinaire chargée d'examiner la situation des enfants confiés depuis plus d'un an en cas de risque de délaissement parental ou de statut inadapté, sans toucher aux règles et à la périodicité de l'examen.",
-      "source": "Décret n° 2026-1080 du 24 nov. 2026, JORF n° 0275 du 25 nov. 2026",
-      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/25/0275",
+      "title": "Notariat : le décret n° 2026-1083 du 25 novembre 2026 simplifie et modernise le statut de la profession et ouvre le vote électronique aux élections professionnelles",
+      "summary": "Publié au Journal officiel de ce jeudi, le texte modifie notamment le décret du 19 décembre 1945 pour permettre le recours au vote électronique dans les élections des instances notariales, selon des modalités fixées par le Conseil supérieur du notariat et sous réserve de garantir la sincérité, l'intégrité et la confidentialité du scrutin.",
+      "source": "Décret n° 2026-1083 du 25 nov. 2026, JORF n° 0276 du 26 nov. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/26/0276",
       "ink": "#2a4a6b",
       "tint": "#eaf0f6"
     },
     {
       "chip": "Jurisprudence",
-      "title": "Victime contrainte de cesser son activité de sapeur-pompier volontaire : pas de perte de gains indemnisable, mais le juge doit examiner le besoin d'un logement adapté (Cass. 2e civ., 12 nov. 2026, n° 24-14.016, B)",
-      "summary": "La deuxième chambre civile juge que les sommes perdues du fait de l'arrêt d'un engagement de sapeur-pompier volontaire, qui ne relève pas d'une activité professionnelle, n'ouvrent pas droit à réparation au titre des pertes de gains, tout en reprochant aux juges du fond de ne pas avoir recherché si l'état de la victime rendait nécessaire l'acquisition d'un logement adapté.",
-      "source": "Cass. 2e civ., 12 nov. 2026, n° 24-14.016, publié au Bulletin",
-      "url": "https://mimoun-avocat.com/jurisprudence.html",
+      "title": "Harcèlement moral managérial : le salarié n'a pas à démontrer que les pratiques collectives de gestion le visaient personnellement (Cass. soc., 25 nov. 2026, n° 25-11.038, B)",
+      "summary": "Dans une affaire concernant un centre dentaire, la chambre sociale censure la cour d'appel qui avait écarté des pièces décrivant une souffrance collective au travail, et sanctionne par la nullité du licenciement l'employeur qui avait utilisé des informations médicales obtenues auprès du médecin traitant du salarié, au mépris de sa vie privée.",
+      "source": "Cass. soc., 25 nov. 2026, n° 25-11.038, publié au Bulletin",
+      "url": "https://tpeactu.fr/2026/11/26/harcelement-moral-managerial-salarie-personnellement-vise/",
       "ink": "#7a2230",
       "tint": "#f6ecec"
     },
     {
       "chip": "Doctrine & études",
-      "title": "« Financement par une SAS du rachat de ses propres titres : la responsabilité du président est engagée » : Lefebvre Dalloz commente un arrêt de la cour d'appel de Paris",
-      "summary": "Saisie par le liquidateur agissant dans l'intérêt collectif des créanciers, la cour retient que le nouveau président qui a payé le prix de cession des actions avec les fonds sociaux viole manifestement l'article L. 225-216 du code de commerce et commet une faute d'une particulière gravité, séparable de ses fonctions.",
-      "source": "Open Lefebvre Dalloz, droit des affaires, 25 nov. 2026",
-      "url": "https://open.lefebvre-dalloz.fr/actualites/droit-affaires/financement-sas-rachat-propres-titres-responsabilite-president-engagee_f66254d4c-7f37-4973-b0f0-ba83346cb988",
+      "title": "« L'obligation de vigilance de la banque limitée par l'obligation de non-ingérence » : Dalloz actualité commente l'arrêt du 18 novembre 2026 (n° 25-14.815)",
+      "summary": "Le commentaire revient sur la cassation d'un arrêt d'appel qui avait retenu la responsabilité d'une banque pour ne pas avoir alerté son client d'opérations anormales, et mesure la place étroite que le devoir de non-immixtion laisse encore au devoir de vigilance du banquier teneur de compte.",
+      "source": "Dalloz actualité, flash, nov. 2026",
+      "url": "https://www.dalloz-actualite.fr/flash/l-obligation-de-vigilance-de-banque-limitee-par-l-obligation-de-non-ingerence",
       "ink": "#2f5741",
       "tint": "#eaf2ed"
     },
     {
       "chip": "Culture générale",
-      "title": "26 novembre 1974 : Simone Veil monte à la tribune de l'Assemblée nationale pour défendre le projet de loi sur l'interruption volontaire de grossesse",
-      "summary": "Devant 481 députés et 9 députées, la ministre de la Santé ouvre trois jours d'un débat d'une rare violence, conclu dans la nuit du 28 au 29 novembre par l'adoption du texte par 284 voix contre 189, avant la promulgation de la loi du 17 janvier 1975.",
-      "source": "Vie-publique.fr, dossier « Loi Veil : 50 ans du droit à l'avortement »",
-      "url": "https://www.vie-publique.fr/dossier/296729-loi-veil-autorisant-livg-50-ans-du-droit-lavortement",
+      "title": "26 novembre 1922 : Howard Carter et Lord Carnarvon ouvrent une brèche dans la porte scellée de la tombe de Toutânkhamon, dans la Vallée des Rois",
+      "summary": "À la lueur d'une bougie, Carter aperçoit les « choses merveilleuses » de l'antichambre de KV62, seule sépulture royale du Nouvel Empire retrouvée presque intacte, dont le partage du mobilier opposera ensuite les fouilleurs au Service des antiquités égyptien et fondera la règle de la propriété nationale des découvertes.",
+      "source": "Wikipédia, « KV62 »",
+      "url": "https://fr.wikipedia.org/wiki/KV62",
       "ink": "#7d5a1c",
       "tint": "#f6f0e2"
     },
     {
       "chip": "Pratique & procédure",
-      "title": "Appel d'une ordonnance de non-lieu déclaré tardif : la partie civile peut former un nouvel appel si la notification de l'ordonnance était irrégulière (Cass. crim., 24 nov. 2026, n° 25-86.272, B)",
-      "summary": "La chambre criminelle admet qu'un premier appel écarté comme tardif ne fait pas obstacle à un nouvel appel lorsque le délai n'a en réalité jamais couru faute de notification régulière, ce qui impose aux conseils de vérifier les mentions et les modalités de notification avant de tenir le non-lieu pour acquis.",
-      "source": "Cass. crim., 24 nov. 2026, n° 25-86.272, publié au Bulletin · Kohen avocats",
-      "url": "https://kohenavocats.com/appel-ordonnance-non-lieu-tardif-refaire-appel-notification-irreguliere-cass-crim-24-novembre-2026/",
+      "title": "Paie de décembre : le Smic passe à 12,51 € brut de l'heure au 1er décembre 2026, soit 1 897,35 € mensuels pour 35 heures",
+      "summary": "La revalorisation de 1,6 %, qui anticipe l'augmentation automatique du 1er janvier 2027 et y ajoute un coup de pouce gouvernemental, impose dès la paie de décembre de vérifier les minima conventionnels rattrapés par le Smic, les allègements de cotisations calculés sur sa base et les montants des gratifications et indemnités indexées.",
+      "source": "Décret n° 2026-1082 du 25 nov. 2026 · Compta-Report",
+      "url": "https://www.compta-report.com/echeances/seuils-baremes/smic-1er-decembre-2026-hausse-1-6-pour-cent-12-51-euros/",
       "ink": "#2f5566",
       "tint": "#eaf2f4"
     },
     {
       "chip": "Actualité classique",
-      "title": "Budget européen 2028-2034 : les Vingt-Sept réunis ce jeudi à Bruxelles, Emmanuel Macron refusant « un euro » de moins pour la politique agricole commune",
-      "summary": "La nouvelle proposition d'António Costa, qui prévoit plus de 200 milliards d'euros d'économies et une taxe sur le secteur numérique, est critiquée à la fois par Paris et par Berlin, pour des raisons opposées, un accord n'étant guère espéré avant le Conseil européen des 17 et 18 décembre.",
-      "source": "AFP via La Libre Belgique, 25 nov. 2026",
-      "url": "https://www.lalibre.be/dernieres-depeches/2026/11/25/budget-de-lue-macron-hausse-le-ton-a-la-veille-dun-sommet-cle-7IKFT6FWSNAKXG7N65JY3LTHUM/",
+      "title": "Congrès des maires : candidat déclaré à la présidentielle, David Lisnard est réélu pour un troisième mandat à la tête de l'AMF avec 72 % des voix",
+      "summary": "Le maire de Cannes, qui préside l'association depuis 2021, voit dans ce score « la victoire d'une volonté de faire gagner les libertés locales », malgré les critiques d'élus dénonçant un « mélange des genres » avec sa candidature à l'Élysée.",
+      "source": "Public Sénat, 25 nov. 2026",
+      "url": "https://www.publicsenat.fr/actualites/politique/david-lisnard-largement-reelu-a-la-tete-de-lassociation-des-maires-de-france",
       "ink": "#5a3f66",
       "tint": "#f1ecf4"
     }
   ],
   "mot": {
     "label": "Le mot du jour",
-    "term": "Prohibition de l'assistance financière",
-    "subtitle": "Droit des sociétés · Article L. 225-216 du code de commerce",
-    "defShort": "Interdiction faite à une société par actions d'avancer des fonds, de consentir des prêts ou des sûretés en vue de la souscription ou de l'achat de ses propres actions par un tiers : la société ne peut financer elle-même sa propre acquisition.",
+    "term": "Délégation imparfaite",
+    "subtitle": "Droit civil · Régime des obligations · Articles 1336 à 1340 du Code civil",
+    "defShort": "Délégation par laquelle le délégataire accepte l'engagement nouveau du délégué sans décharger le délégant : au lieu de substituer un débiteur à l'autre, l'opération lui en donne deux, tenus chacun de son propre engagement, le paiement de l'un libérant l'autre à due concurrence.",
     "fiche": [
       {
         "h": "En bref",
-        "body": "Issue de la deuxième directive européenne sur le capital social (1976), la règle protège le capital et les créanciers : le prix des actions acquises doit venir du patrimoine de l'acquéreur, non de la caisse de la société cible. Elle vise l'acte de financement lui-même, quelle que soit sa forme — avance de trésorerie, prêt, garantie, paiement direct du prix au cédant."
+        "body": "La délégation est l'opération par laquelle une personne, le délégant, obtient d'une autre, le délégué, qu'elle s'oblige envers une troisième, le délégataire, qui l'accepte comme débiteur (art. 1336). Elle est « parfaite » lorsque le délégataire décharge expressément le délégant (art. 1337, al. 1er) : elle se rapproche alors de la novation par changement de débiteur. À défaut de cette décharge expresse, elle est « imparfaite » et constitue le droit commun : le délégataire conserve son débiteur initial et en acquiert un second. Elle joue ainsi, en pratique, le rôle d'une sûreté personnelle sans en porter le nom."
       },
       {
-        "h": "Fondement",
-        "body": "Article L. 225-216 du code de commerce, applicable aux SA et, par renvoi de l'article L. 227-1, aux SAS. Des exceptions sont prévues : opérations courantes des établissements de crédit et acquisitions par les salariés de la société ou de son groupe. L'interdiction ne vise que l'acquisition par un tiers : le rachat par la société de ses propres actions obéit au régime distinct des articles L. 225-206 et suivants."
+        "h": "Inopposabilité des exceptions",
+        "body": "C'est le cœur du mécanisme : l'engagement du délégué est nouveau et autonome. Sauf stipulation contraire, le délégué ne peut opposer au délégataire aucune exception tirée de ses rapports avec le délégant ni des rapports entre le délégant et le délégataire (art. 1336, al. 2). La doctrine distingue cependant la délégation « certaine », où le délégué s'engage à payer une somme déterminée, de la délégation « incertaine », où il promet de payer « ce que doit » le délégant ou « ce qu'il doit » lui-même : en se référant à une dette préexistante, il en accepte la mesure et les exceptions qui l'affectent."
       },
       {
-        "h": "Cas visés",
-        "body": "Le schéma typique est le LBO mal construit : la holding de reprise fait garantir l'emprunt d'acquisition par la cible, ou se fait rembourser le prix par une avance de celle-ci. La pratique contourne la règle par la remontée de dividendes, la fusion postérieure ou une distribution exceptionnelle, dont la licéité dépend de l'absence de lien direct avec l'acquisition. Le dirigeant qui organise le financement prohibé engage sa responsabilité, le cas échéant pour faute séparable de ses fonctions."
+        "h": "Sort des créances préexistantes",
+        "body": "Le délégant débiteur du délégataire reste tenu à ses côtés tant que le délégué n'a pas payé (art. 1338) ; dans la délégation parfaite, il n'est en principe libéré, sauf engagement exprès de garantir la solvabilité future du délégué (art. 1337, al. 2). Lorsque le délégant est créancier du délégué, sa créance n'est éteinte que par l'exécution de l'engagement envers le délégataire : jusque-là, il ne peut en exiger ou recevoir le paiement que pour la part excédant cet engagement, et une cession ou une saisie de cette créance ne produit effet que sous les mêmes limitations (art. 1339)."
       },
       {
-        "h": "Portée",
-        "body": "La sanction de l'acte lui-même est discutée : la jurisprudence retient la nullité absolue des sûretés et prêts consentis en violation du texte, d'ordre public, mais elle s'articule mal avec la validité de la cession, qui n'est pas affectée en tant que telle. En procédure collective, le grief devient un levier pour le liquidateur, qui recherche la responsabilité personnelle du dirigeant au profit de l'intérêt collectif des créanciers."
+        "h": "À ne pas confondre",
+        "body": "La délégation imparfaite se distingue de l'indication de paiement (art. 1340), simple mandat donné à un tiers de payer ou de recevoir, qui ne crée aucun engagement nouveau ; de la cession de dette (art. 1327), qui suppose le transfert de la dette elle-même et laisse au cessionnaire les exceptions inhérentes ; et du cautionnement, dont l'accessoirité permet à la caution d'opposer les exceptions du débiteur principal. Elle est fréquente dans la sous-traitance, les montages de financement et le règlement des ventes immobilières."
       }
     ],
-    "seeAlso": "Voir aussi — rachat par une société de ses propres actions (art. L. 225-206 s.) · faute séparable des fonctions · abus de biens sociaux (art. L. 242-6) · principe d'intangibilité du capital social"
+    "seeAlso": "Voir aussi — novation par changement de débiteur (art. 1329 s.) · indication de paiement (art. 1340) · cession de dette (art. 1327) · action directe du sous-traitant (loi n° 75-1334 du 31 déc. 1975)"
   },
   "date": "2026-11-26",
   "dateShort": "26 nov.",
-  "slot": "matin",
+  "slot": "midi",
   "astro": {
     "n": 87,
     "title": "Dépasser la limite d'Eddington",

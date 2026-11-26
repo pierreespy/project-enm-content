@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-26",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-11-26",
+      "slot": "midi",
+      "file": "editions/2026-11-26-midi.json",
+      "essentiel": "Propos sur Pétain : Éric Zemmour définitivement condamné pour contestation de l'existence d'un crime contre l'humanité, la chambre criminelle rejetant son pourvoi",
+      "term": "Délégation imparfaite",
+      "rubriques": [
+        "Notariat : le décret n° 2026-1083 du 25 novembre 2026 simplifie et modernise le statut de la profession et ouvre le vote électronique aux élections professionnelles",
+        "Harcèlement moral managérial : le salarié n'a pas à démontrer que les pratiques collectives de gestion le visaient personnellement (Cass. soc., 25 nov. 2026, n° 25-11.038, B)",
+        "« L'obligation de vigilance de la banque limitée par l'obligation de non-ingérence » : Dalloz actualité commente l'arrêt du 18 novembre 2026 (n° 25-14.815)",
+        "26 novembre 1922 : Howard Carter et Lord Carnarvon ouvrent une brèche dans la porte scellée de la tombe de Toutânkhamon, dans la Vallée des Rois",
+        "Paie de décembre : le Smic passe à 12,51 € brut de l'heure au 1er décembre 2026, soit 1 897,35 € mensuels pour 35 heures",
+        "Congrès des maires : candidat déclaré à la présidentielle, David Lisnard est réélu pour un troisième mandat à la tête de l'AMF avec 72 % des voix"
+      ]
+    },
     {
       "date": "2026-11-26",
       "slot": "matin",
