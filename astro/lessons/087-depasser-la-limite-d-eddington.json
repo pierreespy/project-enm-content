@@ -1,0 +1,28 @@
+{
+  "n": 87,
+  "title": "Dépasser la limite d'Eddington",
+  "subtitle": "Pourquoi le plafond de croissance d'un trou noir n'est pas absolu, et ce qu'il en coûte de le franchir",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Un plafond calculé pour une chute uniforme",
+      "body": "La limite d'Eddington (jour 76) repose sur une hypothèse simple : le gaz tombe de la même façon de tous les côtés, et la lumière émise repart, elle aussi, dans toutes les directions. Chaque parcelle de gaz qui arrive subit alors la poussée de toute la lumière qui sort. Or, autour d'un trou noir, le gaz ne tombe pas ainsi : il s'aplatit en disque d'accrétion (jour 75). Il arrive par le plan du disque, tandis que la lumière s'échappe surtout par le dessus et le dessous. La poussée et l'arrivée de matière ne se croisent plus de front, et le plafond perd une partie de sa force."
+    },
+    {
+      "h": "Quand la lumière est avalée avec le gaz",
+      "body": "Si le gaz afflue très abondamment, le disque s'épaissit et devient si dense que la lumière produite en son cœur met longtemps à en sortir. Pendant ce temps, le gaz qui la contient continue de spiraler vers le trou noir. Une partie de cette lumière franchit l'horizon des événements (jour 23) avec lui, sans jamais s'échapper. Le rendement (jour 83) chute donc : une part plus faible de la masse repart en lumière, une part plus grande s'ajoute au trou noir. On parle d'accrétion super-Eddington pour ce régime où un trou noir avale davantage que ne le permettrait le plafond calculé pour une chute uniforme."
+    },
+    {
+      "h": "Une issue pour les trous noirs précoces",
+      "body": "Ce régime ne fait pas briller le trou noir beaucoup plus fort : son éclat dépasse à peine la limite, et l'essentiel du surplus disparaît dans l'horizon. Mais sa masse augmente bien plus vite que dans le régime ordinaire, et son temps de doublement (jour 86) se raccourcit nettement. Des épisodes de ce type, même brefs, aideraient à expliquer les trous noirs géants observés moins d'un milliard d'années après le Big Bang (jour 76). Les simulations les rendent plausibles ; reste à établir combien de temps un trou noir peut s'y maintenir, et à quelle fréquence l'univers jeune lui fournissait assez de gaz."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Accrétion super-Eddington",
+      "def": "Régime où un trou noir avale du gaz plus vite que ne le permettrait la limite d'Eddington, parce qu'une partie de la lumière produite est entraînée dans l'horizon au lieu de repousser le gaz."
+    }
+  ],
+  "recap": "Le plafond d'Eddington suppose une chute uniforme ; dans un disque épais et dense, la lumière est en partie avalée avec le gaz, et le trou noir peut grossir bien plus vite.",
+  "next": "Demain — les « petits points rouges » vus par Webb : de jeunes trous noirs en pleine croissance, ou autre chose ?"
+}

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25",
-  "count": 86,
+  "updated": "2026-11-26",
+  "count": 87,
   "lessons": [
     {
       "n": 1,
@@ -745,6 +745,14 @@
       "title": "Plus un trou noir rayonne, moins il grossit vite",
       "terms": [
         "Temps de doublement (d'un trou noir)"
+      ]
+    },
+    {
+      "n": 87,
+      "file": "astro/lessons/087-depasser-la-limite-d-eddington.json",
+      "title": "Dépasser la limite d'Eddington",
+      "terms": [
+        "Accrétion super-Eddington"
       ]
     }
   ]
