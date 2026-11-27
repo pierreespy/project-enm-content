@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26",
-  "count": 87,
+  "updated": "2026-11-27",
+  "count": 88,
   "lessons": [
     {
       "n": 1,
@@ -753,6 +753,15 @@
       "title": "Dépasser la limite d'Eddington",
       "terms": [
         "Accrétion super-Eddington"
+      ]
+    },
+    {
+      "n": 88,
+      "file": "astro/lessons/088-les-petits-points-rouges-de-webb.json",
+      "title": "Les « petits points rouges » de Webb",
+      "terms": [
+        "Petit point rouge",
+        "Raie élargie"
       ]
     }
   ]

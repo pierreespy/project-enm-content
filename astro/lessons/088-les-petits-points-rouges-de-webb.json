@@ -1,0 +1,32 @@
+{
+  "n": 88,
+  "title": "Les « petits points rouges » de Webb",
+  "subtitle": "Des objets minuscules et très lointains que personne n'avait prévus, et deux façons de les lire",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Une population inattendue",
+      "body": "Dès ses premières images profondes, le télescope spatial James Webb (jour 73) a relevé des centaines de taches lumineuses très compactes, au décalage vers le rouge (jour 17) élevé : on les voit telles qu'elles étaient entre six cents millions et un milliard et demi d'années après le Big Bang. Elles apparaissent rouges dans l'infrarouge (jour 72), et si petites qu'elles ne dépassent guère un point sur l'image. Les astronomes les ont baptisées, faute de mieux, les « petits points rouges ». Elles sont nombreuses à cette époque, puis se raréfient : l'univers plus récent n'en montre presque plus."
+    },
+    {
+      "h": "Première lecture : des galaxies trop pleines",
+      "body": "Si leur lumière vient d'étoiles, il faut en loger une masse stellaire (jour 74) considérable dans un volume minuscule, beaucoup plus serré que dans toute galaxie connue. Une galaxie primitive (jour 74) aurait alors fabriqué ses étoiles bien trop vite et bien trop tôt au regard de ce que les modèles admettent. Cette lecture ne contredit aucune loi, mais elle oblige à supposer des conditions de formation que rien d'autre ne laisse attendre."
+    },
+    {
+      "h": "Seconde lecture : un trou noir dans un cocon",
+      "body": "Le spectre de nombreux points rouges montre des raies spectrales (jour 15) très élargies. Par l'effet Doppler (jour 16), une raie élargie trahit un gaz qui se déplace à plusieurs milliers de kilomètres par seconde, dans des sens opposés : signature habituelle du gaz qui tourne près d'un trou noir. Mais ces objets émettent très peu de rayons X (jour 70), alors qu'un disque d'accrétion (jour 75) en produit d'ordinaire beaucoup. Une hypothèse récente concilie les deux : un jeune trou noir en croissance rapide, enveloppé d'un gaz si dense qu'il absorbe (jour 71) ses rayons X et rougit sa lumière. Ce serait alors une étape précoce de la croissance des trous noirs, peut-être en régime super-Eddington (jour 87)."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Petit point rouge",
+      "def": "Objet très compact et très lointain, de couleur rouge dans les images infrarouges de Webb, abondant dans l'univers jeune et dont la nature — amas d'étoiles très dense ou trou noir enveloppé de gaz — reste débattue."
+    },
+    {
+      "term": "Raie élargie",
+      "def": "Raie spectrale étalée sur une plage de couleurs, parce que le gaz qui l'émet comprend des parties qui s'approchent et d'autres qui s'éloignent à grande vitesse."
+    }
+  ],
+  "recap": "Webb a découvert dans l'univers jeune une foule de petits objets rouges ; leurs raies élargies plaident pour des trous noirs en croissance cachés dans un gaz dense, sans que la question soit tranchée.",
+  "next": "Demain — comment mesurer la masse d'un trou noir qu'on ne peut pas voir, à partir de la seule largeur d'une raie."
+}

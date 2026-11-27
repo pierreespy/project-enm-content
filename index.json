@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-26",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-11-27",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-11-27",
+      "slot": "matin",
+      "file": "editions/2026-11-27-matin.json",
+      "essentiel": "Procès d'Émilie König : l'ancienne propagandiste française de l'État islamique demande pardon « à la nation » devant la cour d'assises spéciale de Paris",
+      "term": "Co-emploi",
+      "rubriques": [
+        "Occupation de locaux vacants par des résidents temporaires : le décret n° 2026-1084 du 19 novembre 2026 retouche le régime issu de la loi ELAN",
+        "Bien préempté et projet abandonné : la seule inaction de la commune n'ouvre pas à l'ancien propriétaire un droit de rachat (Cass. 3e civ., 26 nov. 2026, n° 25-10.938)",
+        "« Esclavage : abrogation symbolique du “code noir” » : le Club des juristes interroge la portée de la loi n° 2026-1015 du 2 novembre 2026",
+        "27 novembre 1895 : au Club suédo-norvégien de Paris, Alfred Nobel signe le testament qui fonde les prix portant son nom",
+        "Autorisation d'occupation du domaine public : le Conseil d'État confirme qu'elle peut être un acte unilatéral et non un contrat (CE, 18 nov. 2026, n° 502625)",
+        "Littérature : Lilia Hassaine reçoit le 39e prix Goncourt des lycéens pour « JE », un roman sur l'emprise"
+      ]
+    },
     {
       "date": "2026-11-26",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "12 novembre 1840 : naissance d'Auguste Rodin, rue de l'Arbalète à Paris",
         "Décret de naturalisation : vérifier sa publication au JO et connaître le délai de deux ans ouvert au retrait",
         "Tempête Charles : pluies orageuses et rafales jusqu'à 90 km/h attendues ce jeudi sur le Sud-Est"
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "slot": "midi",
-      "file": "editions/2026-11-11-midi.json",
-      "essentiel": "Ministère de la Justice : une direction des victimes et des usagers entre dans l'organigramme ce 11 novembre",
-      "term": "Action sociale ut singuli",
-      "rubriques": [
-        "Réduction générale dégressive unique : le décret n° 2026-1037 précise la prise en compte des minima de branche inférieurs au Smic",
-        "Cass. com., 4 nov. 2026, n° 25-14.332 : l'expertise de gestion ne suspend pas la prescription de l'action en responsabilité contre le dirigeant",
-        "Lanceurs d'alerte : la portée de la protection contre les mesures de représailles",
-        "11 novembre 1620 (calendrier julien) : les passagers du Mayflower signent le « Mayflower Compact »",
-        "Requête en nullité : l'expertise psychiatrique sans notification du droit de se taire et l'exploitation du téléphone saisi (Cass. crim., 10 nov. 2026)",
-        "A69 : l'autoroute Toulouse-Castres en service, avec un péage en flux libre à 20,40 € l'aller-retour"
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "slot": "matin",
-      "file": "editions/2026-11-11-matin.json",
-      "essentiel": "Mis en examen hors d'état de se défendre : la chambre criminelle abandonne le sursis à statuer sur le renvoi devant la juridiction de jugement",
-      "term": "Concours idéal d'infractions",
-      "rubriques": [
-        "Créances commerciales incontestées : le décret n° 2026-967 du 20 octobre 2026 fixe les modalités de la nouvelle procédure de recouvrement",
-        "Concours de qualifications : le cumul, devenu principe depuis l'arrêt du 15 décembre 2021, et ses exceptions",
-        "Résolution amiable des différends : vers une gouvernance unifiée et une modernisation du statut des conciliateurs de justice",
-        "11 novembre 1940 : les lycéens et étudiants de Paris défient l'occupant à l'Étoile",
-        "Classement sans suite des crimes graves : ce que change l'obligation de motivation imposée aux parquets",
-        "COP31 à Antalya : le segment des chefs d'État et de gouvernement s'ouvre les 11 et 12 novembre"
       ]
     }
   ]

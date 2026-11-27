@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Procès d'Émilie König : l'ancienne propagandiste française de l'État islamique demande pardon « à la nation » devant la cour d'assises spéciale de Paris",
+    "dek": "Ouvert jeudi 26 novembre, le procès de celle que le parquet national antiterroriste présente comme une « véritable égérie » de Daech, détenue en France depuis juillet 2022 après dix ans passés en Syrie, doit durer quatre jours : poursuivie pour association de malfaiteurs terroriste criminelle, elle encourt trente ans de réclusion, et les cinq magistrats professionnels de la cour devront apprécier sa dangerosité et la réalité de sa rupture avec le jihadisme, avant un verdict attendu lundi 30 novembre.",
+    "source": "Cour d'assises spéciale de Paris, ouverture du procès le 26 nov. 2026 · franceinfo",
+    "url": "https://www.franceinfo.fr/faits-divers/le-proces-d-emilie-konig-figure-francaise-de-la-propagande-de-daech-s-ouvre-a-paris_8301471.html"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Occupation de locaux vacants par des résidents temporaires : le décret n° 2026-1084 du 19 novembre 2026 retouche le régime issu de la loi ELAN",
+      "summary": "Publié au Journal officiel du 26 novembre, le texte modifie le décret n° 2019-497 du 22 mai 2019 pris pour l'application de l'article 29 de la loi du 23 novembre 2018 : conditions de délivrance et durée maximale de l'agrément des organismes, durée minimale du contrat de résidence temporaire, plafond de la redevance et règles de son évolution.",
+      "source": "Décret n° 2026-1084 du 19 nov. 2026, JORF n° 0276 du 26 nov. 2026",
+      "url": "https://kohenavocats.com/journal-officiel/26-novembre-2026/",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Bien préempté et projet abandonné : la seule inaction de la commune n'ouvre pas à l'ancien propriétaire un droit de rachat (Cass. 3e civ., 26 nov. 2026, n° 25-10.938)",
+      "summary": "Rejetant le pourvoi formé contre un arrêt de la cour d'appel de Colmar du 28 novembre 2024, la troisième chambre civile refuse de transposer au bien préempté le régime de rétrocession de l'expropriation, délai trentenaire compris, et s'inscrit dans la ligne, peu favorable aux anciens propriétaires, d'une décision du Conseil d'État du 25 mars 2026.",
+      "source": "Cass. 3e civ., 26 nov. 2026, n° 25-10.938 · Kohen avocats",
+      "url": "https://kohenavocats.fr/2026/11/27/retrocession-bien-preempte-ancien-proprietaire-projet-abandonne-arret-26-novembre-2026/",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "« Esclavage : abrogation symbolique du “code noir” » : le Club des juristes interroge la portée de la loi n° 2026-1015 du 2 novembre 2026",
+      "summary": "En abrogeant l'édit de 1685 et les textes qui en avaient étendu l'application, une loi que le rapport sénatorial qualifiait de « fossile » du droit positif dépourvu d'effet juridique pose la question du poids des lois mémorielles face aux revendications de réparations matérielles.",
+      "source": "Le Club des juristes, novembre 2026",
+      "url": "https://www.leclubdesjuristes.com/?p=18189",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "27 novembre 1895 : au Club suédo-norvégien de Paris, Alfred Nobel signe le testament qui fonde les prix portant son nom",
+      "summary": "L'inventeur de la dynamite y lègue l'essentiel de sa fortune à un fonds dont les intérêts récompenseront chaque année physique, chimie, médecine, littérature et paix ; contesté par sa famille et mal adapté aux droits suédois et français, l'acte ne sera exécuté qu'en 1900, et les premiers prix décernés en 1901.",
+      "source": "NobelPrize.org, « Alfred Nobel's will »",
+      "url": "https://www.nobelprize.org/alfred-nobel/alfred-nobels-will/",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Autorisation d'occupation du domaine public : le Conseil d'État confirme qu'elle peut être un acte unilatéral et non un contrat (CE, 18 nov. 2026, n° 502625)",
+      "summary": "La qualification commande la voie de droit : le titre unilatéral se conteste par le recours pour excès de pouvoir et dans les délais de droit commun, quand la convention d'occupation relève du recours en contestation de validité ouvert aux tiers, d'où l'intérêt de vérifier la nature de l'acte avant de choisir son recours.",
+      "source": "CE, 8e et 3e ch. réunies, 18 nov. 2026, n° 502625",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000055109670",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Littérature : Lilia Hassaine reçoit le 39e prix Goncourt des lycéens pour « JE », un roman sur l'emprise",
+      "summary": "Réunis à huis clos à Rennes ce jeudi, les douze délégués lycéens ont distingué le livre de l'ancienne chroniqueuse de « Quotidien », publié chez Gallimard, parmi cinq finalistes, succédant à Nathacha Appanah, lauréate 2025 avec « La Nuit au cœur ».",
+      "source": "Ministère de l'Éducation nationale, 26 nov. 2026",
+      "url": "https://www.education.gouv.fr/le-prix-goncourt-des-lyceens-2026-est-decerne-lilia-hassaine-pour-son-roman-je-506985",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Co-emploi",
+    "subtitle": "Droit social · Cass. soc., 25 nov. 2020, n° 18-13.769, FP-P+B+R+I",
+    "defShort": "Situation dans laquelle une société, le plus souvent la société mère d'un groupe, est tenue des obligations de l'employeur envers des salariés qu'elle n'a pas embauchés, parce qu'elle s'immisce de manière permanente dans la gestion de leur employeur au point de le priver de toute autonomie.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Le co-emploi est une construction prétorienne qui fait apparaître, derrière l'employeur juridique, un second débiteur des obligations sociales. Il ne se confond ni avec le prêt de main-d'œuvre ni avec l'unité économique et sociale : il ne crée pas une communauté de représentation du personnel, il rend une société étrangère au contrat de travail solidairement responsable des salaires, des indemnités de rupture et des obligations attachées au licenciement économique."
+      },
+      {
+        "h": "Fondement",
+        "body": "Deux voies y conduisent. La première est le lien de subordination : la société qui donne des ordres, contrôle et sanctionne le salarié devient son employeur, selon les critères classiques. La seconde, propre aux groupes, a longtemps reposé sur la « triple confusion d'intérêts, d'activités et de direction » (Cass. soc., 2 juill. 2014, Molex, n° 13-15.208). Depuis l'arrêt du 25 novembre 2020, il faut une immixtion permanente dans la gestion économique et sociale de l'employeur, conduisant à la perte totale de son autonomie d'action, au-delà de la coordination normale et de la domination économique inhérentes au groupe."
+      },
+      {
+        "h": "Cas visés",
+        "body": "Le contentieux naît presque toujours de la fermeture d'une filiale française en liquidation : les salariés licenciés cherchent dans la société mère, souvent étrangère, un débiteur solvable et un employeur dont les moyens du groupe permettront d'apprécier le motif économique et l'obligation de reclassement. La définition d'une politique de groupe, la gestion centralisée de la trésorerie, des dirigeants communs ou des remontées de dividendes ne suffisent pas : la filiale doit n'être plus qu'une coquille dont la mère tient elle-même la gestion sociale."
+      },
+      {
+        "h": "Portée",
+        "body": "Le resserrement des critères a fait du co-emploi une qualification d'exception. Les salariés se tournent désormais vers la responsabilité extracontractuelle de la société mère, sur le fondement de l'article 1240 du code civil, lorsque ses décisions fautives, prises dans son seul intérêt d'actionnaire, ont concouru à la déconfiture de la filiale et à la perte de leur emploi (Cass. soc., 24 mai 2018, n° 16-18.621) : la réparation est alors indemnitaire, et non plus attachée à la qualité d'employeur."
+      }
+    ],
+    "seeAlso": "Voir aussi — lien de subordination · unité économique et sociale · périmètre d'appréciation du motif économique (art. L. 1233-3 C. trav.) · responsabilité délictuelle de la société mère · prêt de main-d'œuvre illicite"
+  },
+  "date": "2026-11-27",
+  "dateShort": "27 nov.",
+  "slot": "matin"
+}
