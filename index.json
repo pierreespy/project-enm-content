@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-27",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-11-27",
+      "slot": "midi",
+      "file": "editions/2026-11-27-midi.json",
+      "essentiel": "Copie privée en Nouvelle-Calédonie : le Conseil constitutionnel censure le régime d'exonération de la redevance institué par la loi du pays du 11 août 2023",
+      "term": "Action interrogatoire",
+      "rubriques": [
+        "Diabète : un arrêté du 26 novembre 2026, publié au Journal officiel de ce vendredi, modifie les conditions d'inscription du capteur de glucose en continu Dexcom G7 sur la liste des produits remboursables",
+        "SOS Recours contre le barreau de Lyon : l'action en nullité d'une société pour illicéité de son objet n'est soumise à aucune prescription (Cass. com., 25 nov. 2026, n° 24-15.973, B)",
+        "« Leboncoin versus Google, ou les subtilités du for des codéfendeurs » : Maxime Barba commente l'arrêt de la cour d'appel de Paris du 14 octobre 2026",
+        "27 novembre 1942 : à Toulon, la flotte française se saborde pour échapper aux Allemands",
+        "Peine d'inéligibilité prononcée sans durée : la chambre criminelle casse sans renvoi, fixe elle-même la durée à dix ans et étend la cassation au coaccusé (Cass. crim., 25 nov. 2026, n° 25-87.202, B)",
+        "Économie : l'inflation retombe à 2,9 % sur un an en novembre, mais le PIB recule de 0,2 % au troisième trimestre, selon l'Insee"
+      ]
+    },
     {
       "date": "2026-11-27",
       "slot": "matin",
