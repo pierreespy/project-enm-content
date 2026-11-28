@@ -1,8 +1,23 @@
 {
   "updated": "2026-11-28",
-  "updatedSlot": "matin",
-  "count": 31,
+  "updatedSlot": "midi",
+  "count": 32,
   "editions": [
+    {
+      "date": "2026-11-28",
+      "slot": "midi",
+      "file": "editions/2026-11-28-midi.json",
+      "essentiel": "Comptes de campagne : le Conseil constitutionnel déclare inéligibles quatre candidats aux élections législatives, dont un pour trois ans",
+      "term": "Réduction proportionnelle de l'indemnité",
+      "rubriques": [
+        "Demandeurs d'emploi : le décret n° 2026-1090 du 24 novembre 2026 tire les conséquences de l'allongement du congé de paternité et allège les déclarations des bénéficiaires du RSA",
+        "Assuré assisté d'un courtier : le devoir de conseil pèse sur le courtier et non sur l'assureur, qui reste seulement tenu de l'information précontractuelle (Cass. 2e civ., 26 nov. 2026, n° 24-15.597, publié au Bulletin)",
+        "« On est en permanence dans l'état d'exception » : pour le chercheur Nicolas Klausser, les outils de l'urgence antiterroriste se sont installés dans le droit commun du renseignement et de la police administrative",
+        "28 novembre 1893 : la Nouvelle-Zélande devient le premier pays où les femmes votent à des élections législatives nationales",
+        "Sénatoriales 2026 : les comptes de campagne doivent être déposés avant le 4 décembre, sous peine de rejet par la CNCCFP, d'inéligibilité et de perte du remboursement",
+        "Rugby : le XV de France affronte l'Afrique du Sud dimanche à Twickenham en finale de la première édition du Championnat des nations"
+      ]
+    },
     {
       "date": "2026-11-28",
       "slot": "matin",
