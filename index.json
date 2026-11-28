@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-27",
-  "updatedSlot": "midi",
-  "count": 32,
+  "updated": "2026-11-28",
+  "updatedSlot": "matin",
+  "count": 31,
   "editions": [
+    {
+      "date": "2026-11-28",
+      "slot": "matin",
+      "file": "editions/2026-11-28-matin.json",
+      "essentiel": "Déraillement du TER Rouen-Caen : un jeune homme d'une vingtaine d'années mis en examen, notamment pour blessures involontaires et tentative de vol",
+      "term": "Faute caractérisée",
+      "rubriques": [
+        "Lutte contre les discriminations : le décret n° 2026-1092 du 25 novembre 2026 précise les modalités d'intervention du Défenseur des droits",
+        "Installation classée ayant cessé son activité avant 2003 : la remise en état s'apprécie au regard d'un usage futur comparable à celui de la dernière période d'exploitation (Cass. 3e civ., 26 nov. 2026, n° 25-11.574)",
+        "Convention judiciaire d'intérêt public : les 18 recommandations du Club des juristes confrontées à la jurisprudence de la chambre criminelle",
+        "28 novembre 1943 : à Téhéran, Roosevelt, Churchill et Staline se réunissent pour la première fois tous les trois",
+        "Honoraires d'avocat dans un dossier international : le juge ne peut appliquer la prescription française sans avoir d'abord déterminé la loi applicable selon le règlement Rome I (Cass. 2e civ., 26 nov. 2026, n° 24-19.633)",
+        "Météo : le froid s'installe, gelées marquées dans le Nord-Est et vigilance jaune « grand froid » dans plusieurs dizaines de départements"
+      ]
+    },
     {
       "date": "2026-11-27",
       "slot": "midi",
@@ -451,36 +466,6 @@
         "13 novembre 1907 : près de Lisieux, Paul Cornu s'élève à 1,50 m à bord du premier hélicoptère piloté",
         "Partie civile aux assises : obtenir réparation malgré l'acquittement pour assassinat (Cass. crim., 12 nov. 2026, n° 25-86.538)",
         "Crise fourragère : Annie Genevard demande aux chambres d'agriculture un recensement des besoins, territoire par territoire"
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "slot": "midi",
-      "file": "editions/2026-11-12-midi.json",
-      "essentiel": "Grève : l'employeur peut réorganiser l'activité pour en assurer la continuité sans que la mesure soit, par principe, une rétorsion",
-      "term": "Subrogation réelle",
-      "rubriques": [
-        "Bonus écologique : l'arrêté du 9 novembre 2026 ajoute de nouvelles voitures électriques à la liste des modèles éligibles à compter de ce 12 novembre",
-        "Maladie hors tableau : l'employeur peut contester le taux d'incapacité permanente prévisible de 25 % (Cass. 2e civ., 15 oct. 2026)",
-        "Protéger les lieux de culte et le patrimoine religieux : l'étude de législation comparée n° 364 du Sénat sur quinze pays",
-        "12 novembre 1920 : le traité de Rapallo règle la frontière entre l'Italie et le royaume des Serbes, Croates et Slovènes",
-        "Article 455 du CPC : que faire lorsque la cour d'appel ne répond pas à vos conclusions ?",
-        "COP31 à Antalya : à mi-parcours, adaptation et transition juste restent les dossiers les plus disputés"
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "slot": "matin",
-      "file": "editions/2026-11-12-matin.json",
-      "essentiel": "Digital Fairness Act : la Commission européenne propose un règlement contre les interfaces trompeuses et la conception addictive en ligne",
-      "term": "Opération complexe",
-      "rubriques": [
-        "Transport sanitaire : le décret n° 2026-1038 du 10 novembre 2026 crée une aide exceptionnelle par ambulance et par VSL",
-        "Cass. 1re civ., 14 oct. 2026, n° 25-15.106 : l'état antérieur de la victime ne réduit pas la réparation de son décès dès lors que la faute y a contribué",
-        "Faute inexcusable après le 1er novembre 2026 : que reste-t-il des arrêts d'Assemblée plénière du 20 janvier 2023 ?",
-        "12 novembre 1840 : naissance d'Auguste Rodin, rue de l'Arbalète à Paris",
-        "Décret de naturalisation : vérifier sa publication au JO et connaître le délai de deux ans ouvert au retrait",
-        "Tempête Charles : pluies orageuses et rafales jusqu'à 90 km/h attendues ce jeudi sur le Sud-Est"
       ]
     }
   ]

@@ -1,0 +1,28 @@
+{
+  "n": 89,
+  "title": "Peser un trou noir par la largeur d'une raie",
+  "subtitle": "Comment on mesure la masse d'un trou noir lointain sans rien voir de ce qui tourne autour de lui",
+  "duration": "2 min",
+  "sections": [
+    {
+      "h": "Deux ingrédients : une vitesse et une distance",
+      "body": "Pour peser un astre, on observe ce qui tourne autour de lui (jour 51) : plus la masse centrale est grande, plus un corps placé à une distance donnée doit aller vite pour rester en orbite. Il faut donc connaître deux choses, la vitesse du gaz qui circule près du trou noir et sa distance au centre. Pour un quasar (jour 75), situé à des milliards d'années-lumière, aucun télescope ne distingue ce gaz : toute la région tient en un point. Les deux mesures doivent donc venir de la lumière seule."
+    },
+    {
+      "h": "La vitesse est inscrite dans la raie",
+      "body": "La vitesse, c'est la raie élargie (jour 88) qui la livre. Les nuages de gaz qui tournent autour du trou noir s'approchent de nous d'un côté et s'éloignent de l'autre ; par l'effet Doppler (jour 16), chacun déplace un peu la couleur de la raie. Plus la raie est étalée, plus le gaz va vite. Dans les quasars, l'élargissement correspond couramment à plusieurs milliers de kilomètres par seconde."
+    },
+    {
+      "h": "La distance se lit dans un retard",
+      "body": "Reste la distance. L'éclat du disque d'accrétion varie (jour 81) ; ces nuages, éclairés par lui, voient leur raie s'allumer ou faiblir à leur tour, mais avec un retard, le temps que la lumière parcoure le chemin du disque jusqu'à eux. Un retard de vingt jours signifie que le gaz se trouve à environ vingt jours-lumière (jour 82) du centre. On appelle cartographie par réverbération cette méthode, qui mesure une taille par un écho. Avec la vitesse et la distance, la règle des orbites donne la masse : des millions, parfois des milliards de fois celle du Soleil. Le résultat reste approximatif, car on ignore la forme exacte du nuage et l'angle sous lequel on le voit ; les astronomes l'étalonnent sur les galaxies proches où la masse est connue par d'autres moyens."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Cartographie par réverbération",
+      "def": "Méthode qui mesure la distance entre un trou noir et le gaz qui l'entoure grâce au retard avec lequel ce gaz réagit aux variations d'éclat du disque d'accrétion."
+    }
+  ],
+  "recap": "La largeur d'une raie donne la vitesse du gaz, le retard de son écho donne sa distance ; ensemble, elles livrent la masse d'un trou noir qu'on ne peut pas voir.",
+  "next": "Demain — peser des milliers de trous noirs d'un coup : le raccourci qui permet de se passer de l'écho."
+}

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27",
-  "count": 88,
+  "updated": "2026-11-28",
+  "count": 89,
   "lessons": [
     {
       "n": 1,
@@ -762,6 +762,14 @@
       "terms": [
         "Petit point rouge",
         "Raie élargie"
+      ]
+    },
+    {
+      "n": 89,
+      "file": "astro/lessons/089-peser-un-trou-noir-par-la-largeur-d-une-raie.json",
+      "title": "Peser un trou noir par la largeur d'une raie",
+      "terms": [
+        "Cartographie par réverbération"
       ]
     }
   ]

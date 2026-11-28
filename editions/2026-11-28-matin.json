@@ -1,0 +1,93 @@
+{
+  "essentiel": {
+    "label": "L'essentiel du jour",
+    "title": "Déraillement du TER Rouen-Caen : un jeune homme d'une vingtaine d'années mis en examen, notamment pour blessures involontaires et tentative de vol",
+    "dek": "Plus de deux mois après le déraillement survenu le 11 septembre à Cléon, au sud de Rouen, qui avait fait 44 blessés parmi les 186 voyageurs et devant lequel les enquêteurs avaient d'abord relevé la présence d'un morceau de rail sur la voie, le parquet de Rouen a annoncé vendredi 27 novembre la mise en examen d'un jeune homme décrit comme « déficient intellectuel » ; son état de santé ayant été jugé incompatible avec une incarcération, il a été placé sous contrôle judiciaire strict, et l'information judiciaire devra établir le lien de causalité entre ses agissements et l'accident.",
+    "source": "Parquet de Rouen, communiqué du 27 nov. 2026 · Tendance Ouest",
+    "url": "https://www.tendanceouest.com/actualite-444586-deraillement-du-ter-rouen-caen-un-jeune-d-une-vingtaine-d-annees-deficient-intellectuel-mis-en-examen-pour-blessures-involontaires"
+  },
+  "rubriques": [
+    {
+      "chip": "Législation & réglementation",
+      "title": "Lutte contre les discriminations : le décret n° 2026-1092 du 25 novembre 2026 précise les modalités d'intervention du Défenseur des droits",
+      "summary": "Pris sur le rapport du ministère de la Justice et publié au Journal officiel du 27 novembre, ce texte réglementaire encadre la manière dont l'autorité constitutionnelle indépendante instruit les réclamations et intervient dans les litiges en matière de discrimination, l'un de ses cinq champs de compétence depuis la loi organique du 29 mars 2011.",
+      "source": "JORF n° 0277 du 27 nov. 2026 · Décret n° 2026-1092 du 25 nov. 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2026/11/27/0277",
+      "ink": "#2a4a6b",
+      "tint": "#eaf0f6"
+    },
+    {
+      "chip": "Jurisprudence",
+      "title": "Installation classée ayant cessé son activité avant 2003 : la remise en état s'apprécie au regard d'un usage futur comparable à celui de la dernière période d'exploitation (Cass. 3e civ., 26 nov. 2026, n° 25-11.574)",
+      "summary": "Pour les installations classées arrêtées avant la loi « risques » du 30 juillet 2003, qui a introduit la fixation de l'usage futur du site lors de la cessation d'activité, la troisième chambre civile juge que l'obligation de remise en état de l'exploitant se mesure à l'aune d'un usage comparable à celui de la dernière période d'exploitation.",
+      "source": "Cass. 3e civ., 26 nov. 2026, n° 25-11.574 · Actu-Environnement",
+      "url": "https://www.actu-environnement.com/ae/news/icpe-remise-etat-usage-futur-cassation-48861.php4",
+      "ink": "#7a2230",
+      "tint": "#f6ecec"
+    },
+    {
+      "chip": "Doctrine & études",
+      "title": "Convention judiciaire d'intérêt public : les 18 recommandations du Club des juristes confrontées à la jurisprudence de la chambre criminelle",
+      "summary": "L'analyse met en regard la refondation proposée par le Club des juristes — CJIP négociées par des parquets spécialisés, harmonisation des volets financier et environnemental, meilleure place des victimes — et la manière dont la chambre criminelle a jusqu'ici appréhendé cet outil de justice pénale négociée.",
+      "source": "Kohen Avocats, analyse, nov. 2026 · Club des juristes, rapport sur la CJIP (2026)",
+      "url": "https://kohenavocats.com/convention-judiciaire-interet-public-bilan-club-juristes-jurisprudence-chambre-criminelle-2026/",
+      "ink": "#2f5741",
+      "tint": "#eaf2ed"
+    },
+    {
+      "chip": "Culture générale",
+      "title": "28 novembre 1943 : à Téhéran, Roosevelt, Churchill et Staline se réunissent pour la première fois tous les trois",
+      "summary": "Ouverte dans l'enceinte de l'ambassade soviétique et close le 1er décembre, la conférence arrête le principe d'un débarquement en France au printemps 1944 — la future opération Overlord — et esquisse le partage des sphères d'influence de l'après-guerre, prélude à Yalta et à Potsdam.",
+      "source": "Conférence de Téhéran, 28 nov.-1er déc. 1943",
+      "url": "https://fr.wikipedia.org/wiki/Conf%C3%A9rence_de_T%C3%A9h%C3%A9ran",
+      "ink": "#7d5a1c",
+      "tint": "#f6f0e2"
+    },
+    {
+      "chip": "Pratique & procédure",
+      "title": "Honoraires d'avocat dans un dossier international : le juge ne peut appliquer la prescription française sans avoir d'abord déterminé la loi applicable selon le règlement Rome I (Cass. 2e civ., 26 nov. 2026, n° 24-19.633)",
+      "summary": "La deuxième chambre civile censure la décision qui avait appliqué la prescription française sans procéder à l'examen qu'impose le règlement Rome I, rappelant que la prescription relève de la loi qui régit le contrat (art. 12, § 1, d) et que cette loi doit être identifiée avant tout calcul du délai.",
+      "source": "Cass. 2e civ., 26 nov. 2026, n° 24-19.633 · Kohen Avocats",
+      "url": "https://kohenavocats.com/prescription-honoraires-avocat-dossier-international-loi-applicable/",
+      "ink": "#2f5566",
+      "tint": "#eaf2f4"
+    },
+    {
+      "chip": "Actualité classique",
+      "title": "Météo : le froid s'installe, gelées marquées dans le Nord-Est et vigilance jaune « grand froid » dans plusieurs dizaines de départements",
+      "summary": "Météo-France annonce des températures nettement inférieures aux normales de saison, avec des minimales comprises entre -2 °C et -5 °C dans les Hauts-de-France, le Grand Est et localement en Île-de-France, sous un ciel souvent dégagé.",
+      "source": "Météo-France · Sud Radio, 27 nov. 2026",
+      "url": "https://www.sudradio.fr/sud-radio/la-meteo-du-vendredi-27-novembre-2026-gelees-marquees-froid-persistant-et-soleil-genereux-sur-une-partie-de-la-france",
+      "ink": "#5a3f66",
+      "tint": "#f1ecf4"
+    }
+  ],
+  "mot": {
+    "label": "Le mot du jour",
+    "term": "Faute caractérisée",
+    "subtitle": "Droit pénal · Article 121-3, alinéa 4, du Code pénal (loi n° 2000-647 du 10 juillet 2000, dite « loi Fauchon »)",
+    "defShort": "Faute qualifiée qu'exige le Code pénal pour retenir la responsabilité d'une personne physique qui n'a causé qu'indirectement un homicide ou des blessures involontaires : une imprudence d'une gravité certaine, exposant autrui à un risque d'une particulière gravité que son auteur ne pouvait ignorer.",
+    "fiche": [
+      {
+        "h": "En bref",
+        "body": "Depuis la loi du 10 juillet 2000, le droit des délits non intentionnels distingue selon le lien de causalité. L'auteur direct du dommage répond de toute faute, même légère : la faute simple d'imprudence ou de négligence suffit. L'auteur indirect — celui qui a créé ou contribué à créer la situation ayant permis le dommage, ou qui n'a pas pris les mesures permettant de l'éviter — n'est punissable que s'il a commis une faute qualifiée : soit une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit une faute caractérisée."
+      },
+      {
+        "h": "Fondement",
+        "body": "La réforme répondait à la multiplication des poursuites contre les élus locaux et les décideurs publics pour des accidents survenus sur leur territoire, sur le fondement de fautes ténues. Elle rompt avec l'unité des fautes civile et pénale, posée depuis l'arrêt Brochard (Civ., 18 déc. 1912) : l'article 4-1 du Code de procédure pénale, issu de la même loi, permet désormais au juge civil de retenir une faute d'imprudence au sens de l'article 1241 du Code civil malgré une relaxe pénale faute de faute qualifiée."
+      },
+      {
+        "h": "Critères",
+        "body": "Contrairement à la violation manifestement délibérée, la faute caractérisée ne suppose la méconnaissance d'aucun texte : elle tient à l'intensité du manquement, qui doit être affirmé, net, et peut résulter d'une accumulation de négligences dont aucune, isolément, ne suffirait. Le risque créé doit être d'une particulière gravité, c'est-à-dire exposer à la mort ou à des blessures graves. Enfin, l'auteur ne pouvait l'ignorer : la connaissance s'apprécie in concreto, au regard de ses fonctions, de sa compétence et des informations dont il disposait. La frontière entre causalité directe et indirecte est elle-même décisive : la chambre criminelle tient pour directe la faute qui a été le facteur déterminant du dommage."
+      },
+      {
+        "h": "Portée",
+        "body": "L'exigence d'une faute qualifiée ne joue que pour les personnes physiques : la personne morale reste responsable pour une faute simple de son organe ou représentant, même en cas de causalité indirecte (Cass. crim., 24 oct. 2000). Le mécanisme pèse ainsi sur l'orientation des poursuites dans les accidents du travail, les catastrophes collectives ou les accidents de transport : la qualification de la causalité, puis de la faute, décide souvent de la culpabilité du décideur, là où l'auteur matériel répond de la moindre imprudence."
+      }
+    ],
+    "seeAlso": "Voir aussi — violation manifestement délibérée d'une obligation particulière de sécurité (art. 121-3, al. 4) · mise en danger délibérée de la personne d'autrui (art. 223-1 C. pén.) · dualité des fautes civile et pénale (art. 4-1 C. proc. pén.) · blessures involontaires (art. 222-19 et 222-20 C. pén.)"
+  },
+  "date": "2026-11-28",
+  "dateShort": "28 nov.",
+  "slot": "matin"
+}
